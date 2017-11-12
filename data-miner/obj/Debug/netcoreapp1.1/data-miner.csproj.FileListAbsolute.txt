@@ -1,0 +1,10 @@
+c:\Users\duyth\Desktop\do-an\data-miner\bin\Debug\netcoreapp1.1\data-miner.deps.json
+c:\Users\duyth\Desktop\do-an\data-miner\bin\Debug\netcoreapp1.1\data-miner.runtimeconfig.json
+c:\Users\duyth\Desktop\do-an\data-miner\bin\Debug\netcoreapp1.1\data-miner.runtimeconfig.dev.json
+c:\Users\duyth\Desktop\do-an\data-miner\bin\Debug\netcoreapp1.1\data-miner.dll
+c:\Users\duyth\Desktop\do-an\data-miner\bin\Debug\netcoreapp1.1\data-miner.pdb
+c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.csproj.CoreCompileInputs.cache
+c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.AssemblyInfo.cs
+c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.dll
+c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.pdb
+C:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.csprojResolveAssemblyReference.cache

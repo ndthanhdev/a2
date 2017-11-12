@@ -1,0 +1,10 @@
+C:\Users\duyth\Desktop\do-an\runtime\bin\Debug\netcoreapp1.1\runtime.deps.json
+C:\Users\duyth\Desktop\do-an\runtime\bin\Debug\netcoreapp1.1\runtime.runtimeconfig.json
+C:\Users\duyth\Desktop\do-an\runtime\bin\Debug\netcoreapp1.1\runtime.runtimeconfig.dev.json
+C:\Users\duyth\Desktop\do-an\runtime\bin\Debug\netcoreapp1.1\runtime.dll
+C:\Users\duyth\Desktop\do-an\runtime\obj\Debug\netcoreapp1.1\runtime.csprojResolveAssemblyReference.cache
+C:\Users\duyth\Desktop\do-an\runtime\obj\Debug\netcoreapp1.1\runtime.csproj.CoreCompileInputs.cache
+C:\Users\duyth\Desktop\do-an\runtime\obj\Debug\netcoreapp1.1\runtime.AssemblyInfo.cs
+C:\Users\duyth\Desktop\do-an\runtime\bin\Debug\netcoreapp1.1\runtime.pdb
+C:\Users\duyth\Desktop\do-an\runtime\obj\Debug\netcoreapp1.1\runtime.dll
+C:\Users\duyth\Desktop\do-an\runtime\obj\Debug\netcoreapp1.1\runtime.pdb
