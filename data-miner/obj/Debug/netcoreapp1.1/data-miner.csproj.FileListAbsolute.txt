@@ -8,3 +8,13 @@ c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.Assem
 c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.dll
 c:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.pdb
 C:\Users\duyth\Desktop\do-an\data-miner\obj\Debug\netcoreapp1.1\data-miner.csprojResolveAssemblyReference.cache
+C:\Users\duyth\Documents\GitHub\a2\data-miner\bin\Debug\netcoreapp1.1\data-miner.deps.json
+C:\Users\duyth\Documents\GitHub\a2\data-miner\bin\Debug\netcoreapp1.1\data-miner.runtimeconfig.json
+C:\Users\duyth\Documents\GitHub\a2\data-miner\bin\Debug\netcoreapp1.1\data-miner.runtimeconfig.dev.json
+C:\Users\duyth\Documents\GitHub\a2\data-miner\bin\Debug\netcoreapp1.1\data-miner.dll
+C:\Users\duyth\Documents\GitHub\a2\data-miner\bin\Debug\netcoreapp1.1\data-miner.pdb
+C:\Users\duyth\Documents\GitHub\a2\data-miner\obj\Debug\netcoreapp1.1\data-miner.csprojResolveAssemblyReference.cache
+C:\Users\duyth\Documents\GitHub\a2\data-miner\obj\Debug\netcoreapp1.1\data-miner.csproj.CoreCompileInputs.cache
+C:\Users\duyth\Documents\GitHub\a2\data-miner\obj\Debug\netcoreapp1.1\data-miner.AssemblyInfo.cs
+C:\Users\duyth\Documents\GitHub\a2\data-miner\obj\Debug\netcoreapp1.1\data-miner.dll
+C:\Users\duyth\Documents\GitHub\a2\data-miner\obj\Debug\netcoreapp1.1\data-miner.pdb

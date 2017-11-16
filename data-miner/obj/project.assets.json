@@ -7571,11 +7571,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\duyth\\Desktop\\do-an\\data-miner\\data-miner.csproj",
+      "projectUniqueName": "C:\\Users\\duyth\\Documents\\GitHub\\a2\\data-miner\\data-miner.csproj",
       "projectName": "data-miner",
-      "projectPath": "C:\\Users\\duyth\\Desktop\\do-an\\data-miner\\data-miner.csproj",
+      "projectPath": "C:\\Users\\duyth\\Documents\\GitHub\\a2\\data-miner\\data-miner.csproj",
       "packagesPath": "C:\\Users\\duyth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duyth\\Desktop\\do-an\\data-miner\\obj\\",
+      "outputPath": "C:\\Users\\duyth\\Documents\\GitHub\\a2\\data-miner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duyth\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -44,7 +44,7 @@ namespace data_miner
         {
             List<Task> tasks = new List<Task>();
             int i = 0;
-            var add = Task.Run(async () =>
+            var add = Task.Run(() =>
             {
                 while (i < qas.Count)
                 {
@@ -57,7 +57,6 @@ namespace data_miner
                             i++;
                         }
                     }
-                    await Task.Yield();
                 }
             });
 
@@ -77,6 +76,7 @@ namespace data_miner
             });
 
             await Task.WhenAll(add, remove);
+
         }
 
         static IEnumerable<QA> getQuestionOnPage(int page)
