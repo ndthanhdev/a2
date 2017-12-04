@@ -82,6 +82,14 @@ def tokenize(sent):
     '''
     TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
     return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
+def tokenize(sent):
+    '''Return the tokens of a sentence including punctuation.
+
+    >>> tokenize('Bob dropped the apple. Where is the apple?')
+    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
+    '''
+    TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
+    return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
 
 
 def parse_stories(lines, only_supporting=False):
@@ -150,11 +158,16 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 
 
 RNN = recurrent.LSTM
-EMBED_HIDDEN_SIZE = 50
-SENT_HIDDEN_SIZE = 100
-QUERY_HIDDEN_SIZE = 100
+# EMBED_HIDDEN_SIZE = 50
+# SENT_HIDDEN_SIZE = 100
+# QUERY_HIDDEN_SIZE = 100
+# BATCH_SIZE = 32
+# EPOCHS = 40
+EMBED_HIDDEN_SIZE = 100
+SENT_HIDDEN_SIZE = 200
+QUERY_HIDDEN_SIZE = 200
 BATCH_SIZE = 32
-EPOCHS = 40
+EPOCHS = 80
 print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                            EMBED_HIDDEN_SIZE,
                                                            SENT_HIDDEN_SIZE,
