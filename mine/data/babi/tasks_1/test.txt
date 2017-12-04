@@ -1,0 +1,10 @@
+﻿1 Võ Thị Sáu là nữ anh hùng, sinh năm 1933.
+2 Võ Thị Sáu ở huyện Đất Đỏ, tỉnh Bà Rịa.
+3 Võ Thị Sáu ở đâu?	Đất Đỏ, tỉnh Bà Rịa	2
+4 Võ Thị Sáu sinh năm nào?	1933	1
+5 Sinh ra và lớn lên trên miền quê giàu truyền thống yêu nước, lại chứng kiến cảnh thực dân Pháp giết chóc đồng bào, chị Sáu đã không ngần ngại cùng các anh trai tham gia cách mạng.
+6 14 tuổi, Võ Thị Sáu theo anh gia nhập Việt Minh, trốn lên chiến khu chống Pháp.
+7 Võ Thị Sáu theo anh gia nhập Việt Minh năm bao nhiêu tuổi?	14	6
+1 John đi ra vườn.
+2 Mary đi ra hành lang.
+3 John ở đâu?	vườn	1
