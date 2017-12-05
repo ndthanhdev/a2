@@ -1,0 +1,2992 @@
+1 Mary không còn trong phòng ngủ. 
+2 Daniel chuyển tới hành lang. 
+3 là Mary trong phòng ngủ? 	 không có	 1 
+4 Sandra chuyển đến phòng ngủ. 
+5 Sandra là trong phòng tắm. 
+6 là Daniel trong phòng tắm? 	 không có	 2 
+7 Daniel không phải là ở hành lang. 
+8 Daniel là trong văn phòng. 
+9 là Sandra trong văn phòng? 	 không	 5 
+10 Sandra đã đi vào phòng ngủ. 
+11 John đi vào nhà bếp. 
+12 là Sandra trong văn phòng? 	 không có	 10 
+13 Sandra không phải là trong phòng ngủ. 
+14 Mary không còn trong phòng tắm. 
+15 là Sandra trong phòng ngủ? 	 không có	 13 
+1 John đi vào bếp. 
+2 Mary là ở hành lang. 
+3 là John ở hành lang? 	 không có	 1 
+4 Mary trở về văn phòng.
+5 Daniel không còn trong vườn. 
+6 là Daniel trong vườn? 	 không	 5 
+7 Daniel đi đến hành lang. 
+8 Mary là trong nhà bếp. 
+9 là Daniel ở hành lang? 	 Có	 7 
+10 Daniel đi đến phòng ngủ. 
+11 Sandra không phải là trong phòng ngủ. 
+12 là Daniel trong phòng ngủ? 	 Có	 10 
+13 John đi đến phòng ngủ. 
+14 Sandra là trong vườn. 
+15 là Sandra trong vườn? 	 Có	 14 
+1 Sandra đi vào bếp. 
+2 John đã đi đến hành lang. 
+3 là John trong phòng tắm? 	 không có	 2 
+4 John là trong phòng ngủ. 
+5 Mary không phải là trong vườn. 
+6 là John trong phòng ngủ? 	 Có	 4 
+7 Sandra trở lại hành lang.
+8 John đi vào phòng tắm. 
+9 là John trong nhà bếp? 	 không	 8 
+10 John chuyển đến khu vườn. 
+11 Sandra trở lại nhà bếp. 
+12 là John ở hành lang? 	 không có	 10 
+13 Daniel đi đến văn phòng. 
+14 Daniel chuyển đến khu vườn. 
+15 là Sandra trong nhà bếp? 	 Có	 11 
+1 Sandra không có trong văn phòng. 
+2 Mary là ở hành lang. 
+3 là Sandra trong văn phòng? 	 không có	 1 
+4 Sandra đã đi vào phòng tắm. 
+5 John trở lại nhà bếp. 
+6 là Sandra trong phòng tắm? 	 Có	 4 
+7 John đi đến khu vườn. 
+8 Daniel không phải là trong phòng ngủ. 
+9 là Mary trong văn phòng? 	 không có	 2 
+10 Daniel không có trong văn phòng.
+11 Daniel không còn trong phòng tắm. 
+12 là Daniel trong phòng tắm? 	 không có	 11 
+13 Sandra không phải là trong phòng tắm. 
+14 Đức Maria là trong văn phòng. 
+15 là Daniel trong phòng tắm? 	 không có	 11 
+1 Mary là ở hành lang. 
+2 John là trong phòng tắm. 
+3 là John trong vườn? 	 không có	 2 
+4 Mary đi vào nhà bếp. 
+5 John là trong vườn. 
+6 là Mary trong phòng tắm? 	 không	 4 
+7 Mary đi đến hành lang. 
+8 John đi đến phòng tắm. 
+9 là John trong phòng tắm? 	 Có	 8 
+10 Daniel chuyển tới phòng tắm. 
+11 Mary không còn ở hành lang. 
+12 là Daniel trong phòng ngủ? 	 không có	 10 
+13 Mary là ở hành lang. 
+14 John là trong vườn.
+15 là Mary ở hành lang? 	 Có	 13 
+1 Mary không còn trong nhà bếp. 
+2 John chuyển đến nhà bếp. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 Daniel đi vào bếp. 
+5 Mary đi đến văn phòng. 
+6 là Daniel trong nhà bếp? 	 Có	 4 
+7 John đi vào phòng ngủ. 
+8 Mary không còn trong văn phòng. 
+9 là Daniel ở hành lang? 	 không	 4 
+10 Mary không còn trong vườn. 
+11 Mary chuyển đến khu vườn. 
+12 là Mary trong vườn? 	 Có	 11 
+13 John không còn trong phòng ngủ. 
+14 Daniel chuyển tới văn phòng. 
+15 là Daniel trong văn phòng? 	 Có	 14 
+1 Sandra đã đến khu vườn. 
+2 Sandra không còn trong vườn.
+3 là Sandra trong vườn? 	 không có	 2 
+4 Sandra là trong vườn. 
+5 Sandra đi đến hành lang. 
+6 là Sandra ở hành lang? 	 Có	 5 
+7 John không còn trong vườn. 
+8 John đi đến khu vườn. 
+9 là John ở hành lang? 	 không	 8 
+10 John là trong nhà bếp. 
+11 John không phải là trong nhà bếp. 
+12 là John trong nhà bếp? 	 không có	 11 
+13 John đi đến nhà bếp. 
+14 Mary không còn ở hành lang. 
+15 là John trong nhà bếp? 	 Có	 13 
+1 Daniel là trong phòng ngủ. 
+2 Sandra không nằm trong hành lang. 
+3 là Sandra ở hành lang? 	 không có	 2 
+4 Daniel chuyển tới hành lang. 
+5 Mary đi vào phòng ngủ. 
+6 là Mary ở hành lang? 	 không	 5
+7 Sandra đã đi đến vườn. 
+8 Daniel đi vào bếp. 
+9 là Mary trong nhà bếp? 	 không	 5 
+10 Daniel không phải là trong nhà bếp. 
+11 Daniel trở lại phòng ngủ. 
+12 là Mary trong nhà bếp? 	 không	 5 
+13 John là trong văn phòng. 
+14 Sandra đi đến hành lang. 
+15 là John trong phòng tắm? 	 không có	 13 
+1 Mary đi vào bếp. 
+2 Mary trở về khu vườn. 
+3 là Mary trong văn phòng? 	 không có	 2 
+4 Sandra không còn trong phòng ngủ. 
+5 Daniel đi vào nhà bếp. 
+6 là Daniel trong nhà bếp? 	 Có	 5 
+7 Sandra không có trong văn phòng. 
+8 Daniel đã đi vào phòng tắm. 
+9 là Mary trong vườn? 	 Có	 2
+10 Sandra đi đến văn phòng. 
+11 John đã đi đến hành lang. 
+12 là Daniel trong phòng tắm? 	 Có	 8 
+13 Sandra đi đến hành lang. 
+14 John đi đến phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 14 
+1 John đi vào nhà bếp. 
+2 Sandra trở về phòng ngủ. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Daniel chuyển đến khu vườn. 
+5 Sandra đi đến nhà bếp. 
+6 là Sandra trong nhà bếp? 	 Có	 5 
+7 Sandra không còn trong nhà bếp. 
+8 Daniel là trong phòng tắm. 
+9 là Daniel trong văn phòng? 	 không	 8 
+10 Daniel đi vào bếp. 
+11 Sandra không phải là trong phòng tắm. 
+12 là Daniel trong vườn? 	 không có	 10
+13 Daniel chuyển tới phòng tắm. 
+14 Sandra đi đến hành lang. 
+15 là Sandra trong phòng tắm? 	 không có	 14 
+1 John chuyển đến nhà bếp. 
+2 John không còn trong nhà bếp. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 Mary đi đến văn phòng. 
+5 Sandra không nằm trong hành lang. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Daniel đi đến hành lang. 
+8 Mary chuyển đến khu vườn. 
+9 là Mary trong vườn? 	 Có	 8 
+10 John không phải là trong văn phòng. 
+11 Sandra đi vào phòng ngủ. 
+12 là Daniel ở hành lang? 	 Có	 7 
+13 John không còn trong phòng ngủ. 
+14 Đức Maria là trong văn phòng. 
+15 là Sandra trong phòng ngủ? 	 Có	 11
+1 John không phải là ở hành lang. 
+2 John là trong phòng tắm. 
+3 là John trong phòng tắm? 	 Có	 2 
+4 John là trong văn phòng. 
+5 Mary đã đến văn phòng. 
+6 là John trong văn phòng? 	 Có	 4 
+7 Daniel là trong phòng tắm. 
+8 Daniel đã đi vào phòng ngủ. 
+9 là Daniel ở hành lang? 	 không	 8 
+10 Sandra là trong vườn. 
+11 Sandra đi đến văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 11 
+13 Sandra không còn trong văn phòng. 
+14 Mary đã đi đến vườn. 
+15 là Sandra trong văn phòng? 	 không có	 13 
+1 Sandra đã đi đến hành lang. 
+2 Daniel là trong nhà bếp. 
+3 là Sandra ở hành lang? 	 có	 1 
+4 John đi đến phòng tắm.
+5 John chuyển đến nhà bếp. 
+6 là Sandra ở hành lang? 	 có	 1 
+7 Daniel đã đi đến vườn. 
+8 Daniel đã đi đến hành lang. 
+9 là Daniel ở hành lang? 	 Có	 8 
+10 Mary là trong phòng ngủ. 
+11 Sandra đi đến nhà bếp. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 John là trong vườn. 
+14 Daniel không còn ở hành lang. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Daniel là trong phòng ngủ. 
+2 Daniel chuyển tới hành lang. 
+3 là Daniel ở hành lang? 	 Có	 2 
+4 Daniel trở lại phòng ngủ. 
+5 John đi vào phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 Có	 4 
+7 John đã đi đến hành lang.
+9 là Daniel trong phòng tắm? 	 Có	 8 
+10 Sandra trở về văn phòng. 
+11 Daniel hành quân tới vườn. 
+12 là Sandra trong nhà bếp? 	 không có	 10 
+13 Mary chuyển đến phòng ngủ. 
+14 Mary đã đến khu vườn. 
+15 là Sandra trong văn phòng? 	 Có	 10 
+1 Sandra chuyển đến văn phòng. 
+2 John không phải là trong phòng tắm. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Sandra chuyển đến phòng tắm. 
+5 Mary trở về phòng ngủ. 
+6 là John trong phòng tắm? 	 không có	 2 
+7 Sandra đã đến khu vườn. 
+8 Sandra đi đến văn phòng. 
+9 là Sandra trong văn phòng? 	 Có	 8 
+10 Sandra là trong nhà bếp. 
+11 Sandra đã đi vào phòng tắm.
+12 là Sandra trong vườn? 	 không có	 11 
+13 Daniel không phải là trong nhà bếp. 
+14 Mary không phải là trong phòng ngủ. 
+15 là Mary trong phòng ngủ? 	 không có	 14 
+1 Daniel trở lại khu vườn. 
+2 Daniel trở lại nhà bếp. 
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 Mary trở về văn phòng. 
+5 Sandra không còn trong phòng tắm. 
+6 là Sandra trong phòng tắm? 	 không	 5 
+7 Mary là ở hành lang. 
+8 John chuyển đến nhà bếp. 
+9 là Sandra trong phòng tắm? 	 không	 5 
+10 Mary là trong nhà bếp. 
+11 John là trong văn phòng. 
+12 là Sandra trong phòng tắm? 	 không	 5 
+13 Sandra là trong nhà bếp. 
+14 John trở lại hành lang.
+15 là Mary trong nhà bếp? 	 Có	 10 
+1 Mary là trong phòng tắm. 
+2 Sandra đi đến hành lang. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 John đi đến văn phòng. 
+5 Mary là trong nhà bếp. 
+6 Is Mary in the bathroom? 	no	5
+7 John is no longer in the office.
+8 Daniel is in the bedroom.
+9 là John trong văn phòng? 	 không	 7 
+10 Sandra đi đến phòng ngủ. 
+11 Daniel đã đến khu vườn. 
+12 là Mary trong vườn? 	 không	 5 
+13 Sandra là trong văn phòng. 
+14 Daniel chuyển tới nhà bếp. 
+15 là Sandra trong vườn? 	 không có	 13 
+1 Sandra đi đến hành lang. 
+2 John không còn trong phòng ngủ. 
+3 là John trong phòng ngủ? 	 không có	 2 
+4 Mary đi vào phòng ngủ. 
+5 John không còn trong phòng tắm.
+6 là John trong phòng tắm? 	 không	 5 
+7 Sandra là trong phòng ngủ. 
+8 Daniel đi đến phòng tắm. 
+9 là Mary trong vườn? 	 không	 4 
+10 Mary đi đến nhà bếp. 
+11 John đi vào phòng ngủ. 
+12 là Sandra trong phòng ngủ? 	 Có	 7 
+13 John trở về văn phòng. 
+14 Daniel không phải là trong phòng tắm. 
+15 là Daniel trong phòng tắm? 	 không có	 14 
+1 Sandra đã đến khu vườn. 
+2 John đi đến nhà bếp. 
+3 là John trong phòng ngủ? 	 không có	 2 
+4 Sandra đi đến phòng tắm. 
+5 John đã đến văn phòng. 
+6 là John trong văn phòng? 	 Có	 5 
+7 John chuyển đến hành lang. 
+8 John là trong văn phòng.
+9 là John trong văn phòng? 	 Có	 8 
+10 Mary chuyển đến hành lang. 
+11 Mary đi vào phòng ngủ. 
+12 là Mary trong phòng ngủ? 	 Có	 11 
+13 Daniel là trong phòng tắm. 
+14 Daniel đi đến hành lang. 
+15 là Mary trong văn phòng? 	 không có	 11 
+1 Mary là trong văn phòng. 
+2 John đi đến văn phòng. 
+3 là John trong văn phòng? 	 Có	 2 
+4 John không còn trong văn phòng. 
+5 Sandra trở về khu vườn. 
+6 là Mary ở hành lang? 	 không có	 1 
+7 Mary là trong nhà bếp. 
+8 Sandra là trong văn phòng. 
+9 là John trong văn phòng? 	 không	 4 
+10 Mary đi đến phòng tắm. 
+11 Daniel đã đi đến văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 8
+13 John đi vào phòng ngủ. 
+14 John không phải là trong phòng ngủ. 
+15 là Daniel trong văn phòng? 	 Có	 11 
+1 Mary trở về phòng ngủ. 
+2 Sandra đã đến khu vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 John không phải là ở hành lang. 
+5 Daniel không còn trong phòng ngủ. 
+6 là Sandra trong vườn? 	 Có	 2 
+7 Sandra đi đến nhà bếp. 
+8 John chuyển đến văn phòng. 
+9 là Sandra trong nhà bếp? 	 Có	 7 
+10 John trở về phòng ngủ. 
+11 John trở lại nhà bếp. 
+12 là Sandra trong phòng ngủ? 	 không	 7 
+13 Mary đi đến văn phòng. 
+14 Sandra không còn trong nhà bếp. 
+15 là John ở hành lang? 	 không có	 11
+1 Mary chuyển đến phòng tắm. 
+2 Mary chuyển đến nhà bếp. 
+3 là Mary trong văn phòng? 	 không có	 2 
+4 John đi đến hành lang. 
+5 Mary quay trở lại vào phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5 
+7 Daniel là trong văn phòng. 
+8 Mary là trong vườn. 
+9 là Mary trong vườn? 	 Có	 8 
+10 John trở lại nhà bếp. 
+11 Sandra không nằm trong hành lang. 
+12 là John trong phòng ngủ? 	 không có	 10 
+13 Mary đi đến phòng ngủ. 
+14 Sandra đi vào phòng tắm. 
+15 là Mary trong nhà bếp? 	 không có	 13 
+1 Mary chuyển đến nhà bếp. 
+2 John không phải là trong phòng tắm. 
+3 là John trong phòng tắm? 	 không có	 2 
+4 Sandra không phải là trong phòng tắm.
+5 Sandra là trong phòng tắm. 
+6 là Sandra trong phòng tắm? 	 Có	 5 
+7 John đi vào phòng tắm. 
+8 John đi đến hành lang. 
+9 là John ở hành lang? 	 Có	 8 
+10 Sandra không phải là trong phòng tắm. 
+11 Đức Maria là trong phòng tắm. 
+12 là Sandra trong phòng tắm? 	 không có	 10 
+13 John không phải là ở hành lang. 
+14 Daniel không phải là trong phòng tắm. 
+15 là John ở hành lang? 	 không có	 13 
+1 Mary không còn trong nhà bếp. 
+2 Mary không phải là trong vườn. 
+3 là Mary trong vườn? 	 không có	 2 
+4 Daniel là trong văn phòng. 
+5 John không phải là trong phòng ngủ. 
+6 là John trong phòng ngủ? 	 không	 5 
+7 Sandra chuyển đến nhà bếp.
+8 Mary không còn trong phòng ngủ. 
+9 là Mary trong phòng ngủ? 	 không	 8 
+10 Sandra đi đến hành lang. 
+11 Daniel trở lại vào phòng tắm. 
+12 là Mary trong phòng ngủ? 	 không	 8 
+13 Daniel trở lại phòng ngủ. 
+14 John là trong vườn. 
+15 là John trong nhà bếp? 	 không có	 14 
+1 John là trong vườn. 
+2 Mary là trong nhà bếp. 
+3 là John trong vườn? 	 có	 1 
+4 Daniel không còn trong phòng ngủ. 
+5 John là trong văn phòng. 
+6 là John trong văn phòng? 	 Có	 5 
+7 Sandra là ở hành lang. 
+8 John không còn trong văn phòng. 
+9 là John trong văn phòng? 	 không	 8 
+10 John không còn trong vườn. 
+11 Sandra đi vào nhà bếp.
+12 là Sandra trong phòng tắm? 	 không có	 11 
+13 Mary chuyển đến phòng tắm. 
+14 Sandra là ở hành lang. 
+15 là John trong vườn? 	 không có	 10 
+1 John chuyển đến phòng tắm. 
+2 Mary chuyển đến nhà bếp. 
+3 là Mary trong phòng tắm? 	 không có	 2 
+4 Mary không phải là trong nhà bếp. 
+5 Mary đi đến hành lang. 
+6 là Mary ở hành lang? 	 Có	 5 
+7 Daniel không phải là trong phòng ngủ. 
+8 Mary đi vào bếp. 
+9 là Mary ở hành lang? 	 không	 8 
+10 Sandra đi đến văn phòng. 
+11 Daniel trở lại nhà bếp. 
+12 là Mary ở hành lang? 	 không	 8 
+13 Mary đi vào phòng ngủ. 
+14 Daniel đã đến khu vườn.
+15 là Sandra trong văn phòng? 	 Có	 10 
+1 John đã đi đến hành lang. 
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 Mary đi vào nhà bếp. 
+5 Mary đi đến phòng ngủ. 
+6 là John trong phòng ngủ? 	 không có	 1 
+7 John đã đến khu vườn. 
+8 Daniel là trong vườn. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 Sandra đi vào phòng tắm. 
+11 John không phải là trong vườn. 
+12 là Mary trong nhà bếp? 	 không	 5 
+13 John là ở hành lang. 
+14 Daniel là ở hành lang. 
+15 là Daniel trong phòng tắm? 	 không có	 14 
+1 Mary không còn trong phòng ngủ. 
+2 Sandra đi đến hành lang. 
+3 là Mary trong phòng ngủ? 	
+4 Mary đi vào nhà bếp. 
+5 Mary đi đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 John đi vào phòng ngủ. 
+8 Sandra là trong văn phòng. 
+9 là Sandra trong văn phòng? 	 Có	 8 
+10 Mary chuyển đến phòng tắm. 
+11 John không phải là trong phòng ngủ. 
+12 là Mary trong nhà bếp? 	 không có	 10 
+13 Sandra chuyển đến khu vườn. 
+14 Đức Maria là trong nhà bếp. 
+15 là Mary trong phòng ngủ? 	 không có	 14 
+1 Mary đi vào phòng ngủ. 
+2 Mary là trong vườn. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 John là trong phòng tắm. 
+5 Daniel là trong phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 không có	 2 
+7 Mary chuyển đến phòng tắm.
+8 Mary chuyển đến hành lang. 
+9 là John trong phòng tắm? 	 Có	 4 
+10 Sandra là trong phòng ngủ. 
+11 Daniel là ở hành lang. 
+12 là Mary ở hành lang? 	 Có	 8 
+13 John là trong phòng ngủ. 
+14 Mary không phải là ở hành lang. 
+15 là Mary ở hành lang? 	 không có	 14 
+1 Mary chuyển đến khu vườn. 
+2 John không phải là trong nhà bếp. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 Sandra đã đi vào phòng ngủ. 
+5 John đi vào nhà bếp. 
+6 là John trong văn phòng? 	 không	 5 
+7 John trở về phòng ngủ. 
+8 Mary trở về phòng ngủ. 
+9 là John ở hành lang? 	 không	 7 
+10 John là trong văn phòng. 
+11 Sandra đã đi đến vườn.
+12 là John trong văn phòng? 	 Có	 10 
+13 Mary là trong phòng tắm. 
+14 Daniel chuyển tới phòng tắm. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Daniel không phải là trong vườn. 
+2 Sandra là ở hành lang. 
+3 là Daniel trong vườn? 	 không có	 1 
+4 Sandra không còn ở hành lang. 
+5 Mary là trong phòng ngủ. 
+6 là Sandra ở hành lang? 	 không	 4 
+7 Mary đi đến văn phòng. 
+8 John không còn trong văn phòng. 
+9 là Sandra ở hành lang? 	 không	 4 
+10 John đi đến nhà bếp. 
+11 Daniel đi đến văn phòng. 
+12 là Daniel trong phòng ngủ? 	 không có	 11 
+13 Daniel đi đến nhà bếp. 
+14 Sandra không phải là trong phòng ngủ.
+15 là John trong phòng ngủ? 	 không có	 10 
+1 Mary đi đến phòng ngủ. 
+2 Mary chuyển đến hành lang. 
+3 là Mary trong phòng tắm? 	 không có	 2 
+4 John là trong phòng tắm. 
+5 Sandra đi đến văn phòng. 
+6 là John trong phòng ngủ? 	 không	 4 
+7 John là ở hành lang. 
+8 John trở lại vào phòng tắm. 
+9 là John trong phòng ngủ? 	 không	 8 
+10 Daniel trở lại phòng ngủ. 
+11 Daniel đi đến nhà bếp. 
+12 là John trong phòng tắm? 	 Có	 8 
+13 Sandra là trong phòng tắm. 
+14 Đức Maria là trong vườn. 
+15 là Mary trong vườn? 	 Có	 14 
+1 John là trong phòng tắm. 
+2 Mary đi đến phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2
+4 Daniel không có trong văn phòng. 
+5 John không phải là trong phòng tắm. 
+6 là Daniel trong văn phòng? 	 không	 4 
+7 Daniel đi đến văn phòng. 
+8 Mary không còn trong phòng ngủ. 
+9 là Mary trong phòng ngủ? 	 không	 8 
+10 Mary trở về văn phòng. 
+11 John không phải là trong nhà bếp. 
+12 là John trong nhà bếp? 	 không có	 11 
+13 Mary đi vào phòng ngủ. 
+14 Daniel không còn trong văn phòng. 
+15 là Daniel trong văn phòng? 	 không có	 14 
+1 Sandra đi đến phòng tắm. 
+2 Sandra không phải là trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Sandra trở vào phòng tắm. 
+5 John là trong vườn. 
+6 là Sandra trong phòng tắm? 	 Có	 4
+7 Daniel không còn trong nhà bếp. 
+8 Daniel đi vào nhà bếp. 
+9 là John trong văn phòng? 	 không	 5 
+10 Sandra chuyển đến khu vườn. 
+11 Sandra không có trong vườn. 
+12 là Daniel trong nhà bếp? 	 Có	 8 
+13 Mary là ở hành lang. 
+14 Daniel không phải là trong nhà bếp. 
+15 là Mary ở hành lang? 	 Có	 13 
+1 Daniel là ở hành lang. 
+2 Mary đi vào phòng tắm. 
+3 là Daniel ở hành lang? 	 có	 1 
+4 John không còn trong văn phòng. 
+5 Sandra là trong phòng tắm. 
+6 là John trong văn phòng? 	 không	 4 
+7 Mary đã đến văn phòng. 
+8 Sandra không phải là trong phòng tắm. 
+9 là Mary trong văn phòng? 	 Có	 7
+10 Sandra chuyển đến phòng tắm. 
+11 Daniel không phải là ở hành lang. 
+12 là Sandra trong nhà bếp? 	 không có	 10 
+13 Mary chuyển đến phòng tắm. 
+14 Mary không còn trong phòng tắm. 
+15 là Daniel ở hành lang? 	 không có	 11 
+1 John đã đi vào phòng ngủ. 
+2 Sandra trở lại hành lang. 
+3 là Sandra ở hành lang? 	 Có	 2 
+4 Sandra là trong phòng tắm. 
+5 Mary đi đến nhà bếp. 
+6 là John trong văn phòng? 	 không có	 1 
+7 John đi đến khu vườn. 
+8 Mary không phải là trong nhà bếp. 
+9 là Sandra trong nhà bếp? 	 không	 4 
+10 John là trong nhà bếp. 
+11 Sandra chuyển đến hành lang. 
+12 là Sandra ở hành lang? 	 Có	 11
+13 John chuyển đến phòng ngủ. 
+14 Mary chuyển đến văn phòng. 
+15 là Sandra ở hành lang? 	 Có	 11 
+1 Daniel trở lại văn phòng. 
+2 Mary là trong vườn. 
+3 là Daniel trong nhà bếp? 	 không có	 1 
+4 Sandra không còn trong phòng tắm. 
+5 John chuyển đến hành lang. 
+6 là Daniel trong văn phòng? 	 có	 1 
+7 Daniel không có trong văn phòng. 
+8 John đi vào phòng tắm. 
+9 là Daniel trong văn phòng? 	 không	 7 
+10 John không phải là trong phòng tắm. 
+11 John đã đến khu vườn. 
+12 là John trong vườn? 	 Có	 11 
+13 Sandra đi vào bếp. 
+14 Daniel trở lại vào phòng tắm. 
+15 là John trong vườn? 	 Có	 11
+1 Daniel là trong văn phòng. 
+2 Sandra đi đến văn phòng. 
+3 là Sandra trong nhà bếp? 	 không có	 2 
+4 John chuyển đến hành lang. 
+5 Mary trở về văn phòng. 
+6 là Mary trong phòng ngủ? 	 không	 5 
+7 John đi vào bếp. 
+8 Mary đã đến khu vườn. 
+9 là John trong nhà bếp? 	 Có	 7 
+10 Sandra không còn trong văn phòng. 
+11 Sandra không có trong vườn. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 John đi đến phòng tắm. 
+14 Đức Maria là ở hành lang. 
+15 là Mary ở hành lang? 	 Có	 14 
+1 Mary không còn ở hành lang. 
+2 John trở về khu vườn. 
+3 là John trong nhà bếp? 	 không có	 2
+4 John đi đến phòng tắm. 
+5 Daniel không còn ở hành lang. 
+6 là John trong phòng ngủ? 	 không	 4 
+7 Daniel không còn trong nhà bếp. 
+8 Sandra là trong phòng tắm. 
+9 là Daniel trong nhà bếp? 	 không	 7 
+10 Sandra không phải là trong phòng tắm. 
+11 Đức Maria là trong vườn. 
+12 là Mary trong văn phòng? 	 không có	 11 
+13 John là trong phòng ngủ. 
+14 John là trong vườn. 
+15 là Sandra trong phòng tắm? 	 không có	 10 
+1 Mary là trong phòng tắm. 
+2 Daniel đi đến hành lang. 
+3 là Mary trong văn phòng? 	 không có	 1 
+4 John không còn trong vườn. 
+5 Mary chuyển đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 John không phải là trong phòng ngủ.
+8 Daniel trở lại nhà bếp. 
+9 là Mary trong văn phòng? 	 Có	 5 
+10 Daniel không còn trong nhà bếp. 
+11 Sandra là trong nhà bếp. 
+12 là John trong phòng ngủ? 	 không	 7 
+13 Mary không có trong văn phòng. 
+14 Sandra là ở hành lang. 
+15 là Daniel trong nhà bếp? 	 không có	 10 
+1 Sandra trở về phòng ngủ. 
+2 Sandra là ở hành lang. 
+3 là Sandra ở hành lang? 	 Có	 2 
+4 Sandra là trong văn phòng. 
+5 John không phải là ở hành lang. 
+6 là Sandra trong văn phòng? 	 Có	 4 
+7 Sandra chuyển đến khu vườn. 
+8 Sandra là trong nhà bếp. 
+9 là Sandra trong phòng ngủ? 	 không	 8 
+10 John chuyển đến hành lang. 
+11 Mary đã đến văn phòng.
+12 là John ở hành lang? 	 Có	 10 
+13 Sandra chuyển đến khu vườn. 
+14 Đức Maria là trong vườn. 
+15 là Mary trong vườn? 	 Có	 14 
+1 Mary không phải là trong vườn. 
+2 Sandra là ở hành lang. 
+3 là Mary trong vườn? 	 không có	 1 
+4 Daniel không phải là trong phòng tắm. 
+5 Mary đi đến hành lang. 
+6 là Sandra ở hành lang? 	 Có	 2 
+7 Sandra không còn ở hành lang. 
+8 Daniel là ở hành lang. 
+9 là Daniel trong nhà bếp? 	 không	 8 
+10 John trở về phòng ngủ. 
+11 Mary đã đi đến vườn. 
+12 là Mary trong vườn? 	 Có	 11 
+13 Sandra đi vào bếp. 
+14 Daniel là trong vườn. 
+15 là Sandra trong phòng ngủ? 	
+1 Mary trở về hành lang. 
+2 Sandra là trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 Có	 2 
+4 John chuyển đến nhà bếp. 
+5 Daniel trở lại hành lang. 
+6 là Sandra ở hành lang? 	 không có	 2 
+7 Mary chuyển đến nhà bếp. 
+8 John đi vào phòng tắm. 
+9 là Mary trong phòng ngủ? 	 không	 7 
+10 Daniel là trong văn phòng. 
+11 Daniel là trong phòng ngủ. 
+12 là John ở hành lang? 	 không	 8 
+13 Mary trở về văn phòng. 
+14 Đức Maria là trong vườn. 
+15 là Daniel trong vườn? 	 không có	 11 
+1 Daniel là ở hành lang. 
+2 John đi đến phòng ngủ. 
+3 là Daniel trong vườn? 	 không có	 1 
+4 Daniel là trong nhà bếp.
+5 John chuyển đến phòng tắm. 
+6 là Daniel trong văn phòng? 	 không	 4 
+7 Mary không phải là trong phòng tắm. 
+8 Mary không còn trong phòng ngủ. 
+9 là Daniel trong nhà bếp? 	 Có	 4 
+10 Mary quay trở lại vào phòng tắm. 
+11 Daniel là trong vườn. 
+12 là John trong phòng tắm? 	 Có	 5 
+13 Mary là trong nhà bếp. 
+14 Sandra không phải là trong phòng tắm. 
+15 là Mary trong vườn? 	 không có	 13 
+1 Mary chuyển đến phòng tắm. 
+2 Sandra trở lại hành lang. 
+3 là Sandra trong nhà bếp? 	 không có	 2 
+4 Sandra không còn ở hành lang. 
+5 Mary là trong phòng ngủ. 
+6 là Sandra ở hành lang? 	 không	 4 
+7 John là trong phòng ngủ. 
+8 Mary chuyển đến khu vườn.
+9 là John trong phòng tắm? 	 không	 7 
+10 John không còn trong phòng ngủ. 
+11 John không phải là trong vườn. 
+12 là John trong vườn? 	 không có	 11 
+13 Daniel không phải là trong vườn. 
+14 John là trong văn phòng. 
+15 là John ở hành lang? 	 không có	 14 
+1 Mary chuyển đến phòng ngủ. 
+2 John là trong vườn. 
+3 là Mary ở hành lang? 	 không có	 1 
+4 Daniel là trong văn phòng. 
+5 John đi vào phòng ngủ. 
+6 là Mary trong vườn? 	 không có	 1 
+7 Daniel là trong vườn. 
+8 Mary không còn trong phòng ngủ. 
+9 là John trong phòng ngủ? 	 Có	 5 
+10 Daniel đã đi đến văn phòng. 
+11 John không còn trong phòng ngủ. 
+12 là Daniel trong phòng ngủ? 	 không	
+13 John không còn trong nhà bếp. 
+14 John không còn trong văn phòng. 
+15 là John trong văn phòng? 	 không có	 14 
+1 Mary đã đến khu vườn. 
+2 Mary chuyển đến phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2 
+4 Daniel là trong nhà bếp. 
+5 Sandra trở về phòng ngủ. 
+6 là Mary trong văn phòng? 	 không có	 2 
+7 Sandra là trong phòng tắm. 
+8 John là ở hành lang. 
+9 là Sandra trong phòng tắm? 	 Có	 7 
+10 John chuyển đến nhà bếp. 
+11 Daniel không còn trong nhà bếp. 
+12 là Sandra trong phòng tắm? 	 Có	 7 
+13 Mary đi đến hành lang. 
+14 John không còn trong nhà bếp. 
+15 là John trong nhà bếp? 	 không có	 14
+1 Mary không còn trong vườn. 
+2 Mary là trong vườn. 
+3 là Mary trong vườn? 	 Có	 2 
+4 John đi đến khu vườn. 
+5 Sandra trở về phòng ngủ. 
+6 là Mary trong văn phòng? 	 không có	 2 
+7 Sandra là trong văn phòng. 
+8 John không còn trong vườn. 
+9 là Sandra trong văn phòng? 	 Có	 7 
+10 John đi đến văn phòng. 
+11 Mary chuyển đến phòng ngủ. 
+12 là John trong văn phòng? 	 Có	 10 
+13 Daniel là trong phòng tắm. 
+14 Đức Maria là trong nhà bếp. 
+15 là Daniel trong phòng tắm? 	 Có	 13 
+1 Sandra chuyển đến nhà bếp. 
+2 Daniel là trong phòng ngủ. 
+3 là Sandra trong nhà bếp? 	 có	 1 
+4 Sandra là trong phòng tắm.
+5 Mary là trong vườn. 
+6 là Mary trong nhà bếp? 	 không	 5 
+7 Sandra đi đến phòng ngủ. 
+8 Sandra hành quân tới vườn. 
+9 là Sandra ở hành lang? 	 không	 8 
+10 Mary là ở hành lang. 
+11 John đi đến nhà bếp. 
+12 là John trong nhà bếp? 	 Có	 11 
+13 John đã đi vào phòng ngủ. 
+14 Daniel không còn trong phòng ngủ. 
+15 là Sandra trong vườn? 	 Có	 8 
+1 Sandra đi vào phòng ngủ. 
+2 Mary là trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 không có	 1 
+4 Sandra đi vào bếp. 
+5 Sandra là ở hành lang. 
+6 là Sandra ở hành lang? 	 Có	 5 
+7 John không còn trong văn phòng.
+8 Sandra không còn ở hành lang. 
+9 là John trong văn phòng? 	 không	 7 
+10 John không phải là ở hành lang. 
+11 Daniel không còn trong phòng tắm. 
+12 là Sandra ở hành lang? 	 không	 8 
+13 Mary không còn trong phòng tắm. 
+14 Daniel đi vào phòng ngủ. 
+15 là Sandra ở hành lang? 	 không	 8 
+1 Mary là trong phòng ngủ. 
+2 Daniel là trong nhà bếp. 
+3 là Mary ở hành lang? 	 không có	 1 
+4 John đã đi đến vườn. 
+5 John đi vào phòng ngủ. 
+6 là John trong vườn? 	 không	 5 
+7 Sandra đi đến văn phòng. 
+8 John chuyển đến hành lang. 
+9 là John ở hành lang? 	 Có	 8 
+10 Daniel không còn trong nhà bếp.
+11 Daniel không phải là trong phòng ngủ. 
+12 là Daniel trong phòng ngủ? 	 không có	 11 
+13 John không phải là ở hành lang. 
+14 Mary không phải là trong phòng ngủ. 
+15 là Daniel trong phòng ngủ? 	 không có	 11 
+1 Daniel là trong nhà bếp. 
+2 Mary chuyển đến phòng ngủ. 
+3 là Daniel trong nhà bếp? 	 có	 1 
+4 Sandra trở vào phòng tắm. 
+5 John đi đến văn phòng. 
+6 là John ở hành lang? 	 không	 5 
+7 Daniel không phải là trong nhà bếp. 
+8 Mary là ở hành lang. 
+9 là John trong văn phòng? 	 Có	 5 
+10 Sandra không còn trong phòng tắm. 
+11 Sandra là ở hành lang. 
+12 là Sandra trong nhà bếp? 	 không có	 11 
+13 Mary không còn ở hành lang.
+14 Daniel không phải là trong phòng ngủ. 
+15 là Daniel trong phòng ngủ? 	 không có	 14 
+1 Mary trở về hành lang. 
+2 Sandra là trong phòng ngủ. 
+3 là Mary ở hành lang? 	 có	 1 
+4 Sandra không còn trong phòng ngủ. 
+5 Mary đi đến khu vườn. 
+6 là Sandra trong phòng ngủ? 	 không	 4 
+7 John đi vào nhà bếp. 
+8 John không phải là trong nhà bếp. 
+9 là John trong nhà bếp? 	 không	 8 
+10 Daniel không còn trong phòng tắm. 
+11 Daniel đã đi đến hành lang. 
+12 là Daniel ở hành lang? 	 Có	 11 
+13 John không còn trong vườn. 
+14 Daniel đi đến văn phòng. 
+15 là Daniel trong phòng tắm? 	 không có	 14 
+1 Sandra đi đến hành lang.
+2 Daniel đi vào phòng tắm. 
+3 là Sandra ở hành lang? 	 có	 1 
+4 John đi đến văn phòng. 
+5 Mary đi đến văn phòng. 
+6 là John trong văn phòng? 	 Có	 4 
+7 Mary đi vào phòng ngủ. 
+8 Mary chuyển đến hành lang. 
+9 là Mary ở hành lang? 	 Có	 8 
+10 Sandra đi vào phòng ngủ. 
+11 Daniel là trong nhà bếp. 
+12 là Mary trong phòng tắm? 	 không	 8 
+13 Sandra hành quân tới vườn. 
+14 Daniel không còn trong nhà bếp. 
+15 là Sandra trong vườn? 	 Có	 13 
+1 John chuyển đến hành lang. 
+2 Sandra là trong phòng tắm. 
+3 là John ở hành lang? 	 có	 1 
+4 Daniel không còn ở hành lang.
+5 Sandra đã đến văn phòng. 
+6 là John trong phòng ngủ? 	 không có	 1 
+7 Daniel trở lại phòng ngủ. 
+8 John không còn ở hành lang. 
+9 là John ở hành lang? 	 không	 8 
+10 Daniel là trong nhà bếp. 
+11 Đức Maria là trong phòng tắm. 
+12 là Mary trong phòng tắm? 	 Có	 11 
+13 Mary đi đến hành lang. 
+14 Mary không phải là ở hành lang. 
+15 là Mary ở hành lang? 	 không có	 14 
+1 John không phải là trong vườn. 
+2 Mary đã đến văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 Daniel chuyển tới phòng ngủ. 
+5 John đã đi đến hành lang. 
+6 là John ở hành lang? 	 Có	 5 
+7 Mary không có trong văn phòng. 
+8 Sandra không nằm trong hành lang.
+9 là Sandra ở hành lang? 	 không	 8 
+10 Mary chuyển đến khu vườn. 
+11 John chuyển đến phòng ngủ. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Sandra không còn trong phòng ngủ. 
+14 Sandra không phải là trong phòng tắm. 
+15 là Mary trong vườn? 	 Có	 10 
+1 John đi vào phòng tắm. 
+2 Daniel trở lại nhà bếp. 
+3 là John trong phòng tắm? 	 có	 1 
+4 Daniel chuyển tới phòng ngủ. 
+5 Mary chuyển đến hành lang. 
+6 là Mary ở hành lang? 	 Có	 5 
+7 John đã đi đến vườn. 
+8 Daniel không còn trong phòng ngủ. 
+9 là John trong phòng tắm? 	 không	 7 
+10 Sandra chuyển đến khu vườn. 
+11 Sandra là trong phòng tắm.
+12 là Daniel trong phòng ngủ? 	 không	 8 
+13 Mary không còn ở hành lang. 
+14 Mary trở về hành lang. 
+15 là Sandra trong nhà bếp? 	 không có	 11 
+1 Daniel không còn trong phòng tắm. 
+2 Sandra đã đến văn phòng. 
+3 là Sandra trong vườn? 	 không có	 2 
+4 Mary trở lại nhà bếp. 
+5 Sandra đi đến phòng ngủ. 
+6 là Mary trong nhà bếp? 	 Có	 4 
+7 Daniel không phải là trong phòng ngủ. 
+8 John không còn trong văn phòng. 
+9 là Sandra trong phòng ngủ? 	 Có	 5 
+10 John đi đến khu vườn. 
+11 Mary trở về hành lang. 
+12 là John trong văn phòng? 	 không có	 10 
+13 Mary là trong nhà bếp. 
+14 John không phải là trong vườn.
+15 là Mary trong nhà bếp? 	 Có	 13 
+1 Mary đi vào phòng ngủ. 
+2 Mary trở về văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 John là trong vườn. 
+5 Sandra đã đi đến vườn. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 John không phải là trong vườn. 
+8 Sandra là trong văn phòng. 
+9 là Mary trong văn phòng? 	 Có	 2 
+10 John đi đến văn phòng. 
+11 Sandra là trong nhà bếp. 
+12 là John trong văn phòng? 	 Có	 10 
+13 Daniel trở lại khu vườn. 
+14 John đi vào phòng tắm. 
+15 là Daniel trong nhà bếp? 	 không có	 13 
+1 Mary là trong văn phòng. 
+2 John là trong vườn. 
+3 là John trong phòng ngủ? 	 không có	 2
+4 Mary đi vào nhà bếp. 
+5 Sandra không còn trong nhà bếp. 
+6 là Mary trong nhà bếp? 	 Có	 4 
+7 Sandra đi đến hành lang. 
+8 Daniel đã đi đến hành lang. 
+9 là Sandra trong phòng tắm? 	 không	 7 
+10 John không còn trong vườn. 
+11 Mary chuyển đến phòng tắm. 
+12 là Daniel ở hành lang? 	 Có	 8 
+13 John là trong phòng tắm. 
+14 Mary không phải là trong phòng tắm. 
+15 là Daniel ở hành lang? 	 Có	 8 
+1 Daniel không phải là ở hành lang. 
+2 Sandra đi đến văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2 
+4 Mary là ở hành lang. 
+5 Mary đi đến nhà bếp. 
+6 là Mary trong phòng tắm? 	 không	 5
+7 Mary là ở hành lang. 
+8 Daniel đã đến văn phòng. 
+9 là Mary trong văn phòng? 	 không	 7 
+10 John trở lại hành lang. 
+11 Mary không phải là ở hành lang. 
+12 là Daniel trong văn phòng? 	 Có	 8 
+13 John đã đến văn phòng. 
+14 Daniel là trong vườn. 
+15 là Mary ở hành lang? 	 không có	 11 
+1 Sandra không có trong văn phòng. 
+2 Mary không phải là ở hành lang. 
+3 là Sandra trong văn phòng? 	 không có	 1 
+4 Sandra trở về phòng ngủ. 
+5 Daniel đã đi đến hành lang. 
+6 là Sandra ở hành lang? 	 không	 4 
+7 Mary là trong vườn. 
+8 John là trong phòng ngủ. 
+9 là Mary trong phòng ngủ? 	 không	 7 
+10 John đi vào phòng tắm.
+11 John đi vào phòng ngủ. 
+12 là Daniel ở hành lang? 	 Có	 5 
+13 Mary không còn trong vườn. 
+14 Đức Maria là trong vườn. 
+15 là John trong phòng ngủ? 	 Có	 11 
+1 Daniel trở lại nhà bếp. 
+2 John trở lại nhà bếp. 
+3 là John trong văn phòng? 	 không có	 2 
+4 Daniel chuyển tới phòng tắm. 
+5 Daniel đã đến văn phòng. 
+6 là Daniel trong phòng tắm? 	 không	 5 
+7 John không còn trong nhà bếp. 
+8 Mary không có trong văn phòng. 
+9 là John trong nhà bếp? 	 không	 7 
+10 John không phải là trong phòng tắm. 
+11 Sandra là trong văn phòng. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 John trở lại vào phòng tắm.
+14 Daniel trở lại vào phòng tắm. 
+15 là John ở hành lang? 	 không có	 13 
+1 Daniel là trong phòng tắm. 
+2 Daniel là trong nhà bếp. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Mary trở về văn phòng. 
+5 Daniel không phải là trong nhà bếp. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 Daniel chuyển tới phòng ngủ. 
+8 John đi đến văn phòng. 
+9 là Daniel trong vườn? 	 không	 7 
+10 John không còn trong văn phòng. 
+11 Mary đã đến khu vườn. 
+12 là Daniel trong phòng ngủ? 	 Có	 7 
+13 Sandra đi vào phòng tắm. 
+14 Sandra là trong văn phòng. 
+15 là Mary trong vườn? 	 Có	 11 
+1 Daniel chuyển tới nhà bếp.
+2 Sandra là ở hành lang. 
+3 là Sandra trong phòng ngủ? 	 không có	 2 
+4 John không phải là trong vườn. 
+5 Mary là trong nhà bếp. 
+6 là John trong vườn? 	 không	 4 
+7 Daniel trở lại khu vườn. 
+8 Mary không còn trong nhà bếp. 
+9 là Daniel trong phòng ngủ? 	 không	 7 
+10 Sandra đi đến văn phòng. 
+11 John không phải là trong phòng ngủ. 
+12 là Mary trong nhà bếp? 	 không	 8 
+13 Daniel trở lại nhà bếp. 
+14 John là trong phòng ngủ. 
+15 là Mary trong nhà bếp? 	 không	 8 
+1 Daniel chuyển đến khu vườn. 
+2 John không phải là trong nhà bếp. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 John không còn trong vườn. 
+5 Sandra là ở hành lang.
+6 là John trong vườn? 	 không	 4 
+7 Sandra đã đi vào phòng tắm. 
+8 John không còn trong phòng ngủ. 
+9 là Sandra trong phòng tắm? 	 Có	 7 
+10 Daniel đã đi đến hành lang. 
+11 John chuyển đến nhà bếp. 
+12 là John trong nhà bếp? 	 Có	 11 
+13 John đi đến phòng tắm. 
+14 John là trong phòng ngủ. 
+15 là John trong nhà bếp? 	 không có	 14 
+1 Mary không phải là trong phòng tắm. 
+2 Mary đi đến hành lang. 
+3 là Mary trong vườn? 	 không có	 2 
+4 John đi vào phòng ngủ. 
+5 Mary không còn ở hành lang. 
+6 là John ở hành lang? 	 không	 4 
+7 Mary là trong phòng ngủ. 
+8 John không phải là trong phòng ngủ. 
+9 là Mary trong văn phòng? 	
+10 Daniel là trong phòng ngủ. 
+11 Daniel đã đi đến văn phòng. 
+12 là Daniel ở hành lang? 	 không có	 11 
+13 Mary chuyển đến hành lang. 
+14 Mary đi vào phòng ngủ. 
+15 là Mary ở hành lang? 	 không có	 14 
+1 Sandra trở lại hành lang. 
+2 Mary không phải là ở hành lang. 
+3 là Sandra trong vườn? 	 không có	 1 
+4 Mary không phải là trong nhà bếp. 
+5 Sandra không còn ở hành lang. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 John không phải là trong văn phòng. 
+8 Daniel hành quân tới vườn. 
+9 là Daniel trong vườn? 	 Có	 8 
+10 Daniel đi đến văn phòng. 
+11 Sandra là trong phòng tắm. 
+12 là Daniel trong văn phòng? 	 Có	 10
+13 Daniel là trong vườn. 
+14 Mary không còn trong phòng ngủ. 
+15 là Daniel trong phòng ngủ? 	 không có	 13 
+1 John đi vào bếp. 
+2 John là ở hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 John chuyển đến khu vườn. 
+5 John trở lại hành lang. 
+6 là John ở hành lang? 	 Có	 5 
+7 John là trong vườn. 
+8 John không còn trong vườn. 
+9 là John trong vườn? 	 không	 8 
+10 John chuyển đến nhà bếp. 
+11 Mary đi vào phòng tắm. 
+12 là John trong nhà bếp? 	 Có	 10 
+13 Daniel là trong vườn. 
+14 Mary đi đến văn phòng. 
+15 là Mary trong nhà bếp? 	 không có	 14 
+1 Daniel đã đi vào phòng tắm.
+2 Mary không phải là ở hành lang. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Daniel đi vào nhà bếp. 
+5 Daniel là trong văn phòng. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 John là trong vườn. 
+8 Sandra trở về văn phòng. 
+9 là Daniel trong phòng tắm? 	 không	 5 
+10 Mary chuyển đến nhà bếp. 
+11 Daniel đã đi đến hành lang. 
+12 là Mary ở hành lang? 	 không có	 10 
+13 Sandra trở lại nhà bếp. 
+14 Daniel không còn ở hành lang. 
+15 là Sandra trong vườn? 	 không có	 13 
+1 John là trong nhà bếp. 
+2 Sandra đã đi đến hành lang. 
+3 là John trong văn phòng? 	 không có	 1 
+4 Sandra đã đi vào phòng ngủ. 
+5 Mary không còn trong nhà bếp.
+6 là Sandra trong phòng ngủ? 	 Có	 4 
+7 Mary là trong nhà bếp. 
+8 Mary là trong phòng tắm. 
+9 là Mary trong phòng tắm? 	 Có	 8 
+10 Daniel không phải là trong vườn. 
+11 Đức Maria là trong nhà bếp. 
+12 là Mary trong nhà bếp? 	 Có	 11 
+13 Daniel trở lại vào phòng tắm. 
+14 Sandra là ở hành lang. 
+15 là Mary trong văn phòng? 	 không có	 11 
+1 Sandra đi vào nhà bếp. 
+2 John không còn trong vườn. 
+3 là Sandra trong phòng ngủ? 	 không có	 1 
+4 John chuyển đến nhà bếp. 
+5 John đi vào phòng tắm. 
+6 là John trong nhà bếp? 	 không	 5 
+7 Daniel là trong nhà bếp. 
+8 Daniel là trong phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 Có	 8
+10 Daniel không còn trong phòng ngủ. 
+11 John là trong vườn. 
+12 là John trong phòng ngủ? 	 không có	 11 
+13 John đi đến nhà bếp. 
+14 Sandra không còn trong nhà bếp. 
+15 là John trong phòng ngủ? 	 không có	 13 
+1 John trở về phòng ngủ. 
+2 John là trong vườn. 
+3 là John trong vườn? 	 Có	 2 
+4 John trở lại hành lang. 
+5 Sandra đã đi vào phòng tắm. 
+6 là John ở hành lang? 	 Có	 4 
+7 Mary không phải là trong phòng tắm. 
+8 John đi đến phòng ngủ. 
+9 là John trong phòng ngủ? 	 Có	 8 
+10 Mary là trong văn phòng. 
+11 Sandra trở lại hành lang. 
+12 là Mary trong phòng ngủ? 	 không có	 10
+13 Sandra chuyển đến phòng ngủ. 
+14 Sandra đã đi vào phòng tắm. 
+15 là Sandra trong phòng tắm? 	 Có	 14 
+1 Sandra là trong phòng tắm. 
+2 Daniel không còn ở hành lang. 
+3 là Sandra trong nhà bếp? 	 không có	 1 
+4 Mary là ở hành lang. 
+5 Daniel là trong nhà bếp. 
+6 là Daniel trong nhà bếp? 	 Có	 5 
+7 Sandra là ở hành lang. 
+8 Daniel không phải là trong nhà bếp. 
+9 là Daniel trong nhà bếp? 	 không	 8 
+10 Daniel chuyển tới nhà bếp. 
+11 John không phải là trong văn phòng. 
+12 là Daniel trong phòng tắm? 	 không có	 10 
+13 Sandra trở về phòng ngủ. 
+14 John không phải là trong vườn. 
+15 là John trong vườn? 	 không	
+2 Daniel trở lại hành lang. 
+3 là Daniel trong văn phòng? 	 không có	 2 
+4 Mary đi vào phòng tắm. 
+5 John đi vào nhà bếp. 
+6 là Daniel trong nhà bếp? 	 không có	 2 
+7 Mary là trong nhà bếp. 
+8 John đi đến hành lang. 
+9 là John ở hành lang? 	 Có	 8 
+10 John không còn ở hành lang. 
+11 Sandra là trong phòng ngủ. 
+12 là Mary trong văn phòng? 	 không	 7 
+13 Mary đi vào phòng tắm. 
+14 John không còn trong vườn. 
+15 là Mary ở hành lang? 	 không có	 13 
+1 Daniel là trong văn phòng. 
+2 Mary là trong phòng ngủ. 
+3 là Daniel trong phòng tắm? 	 không có	 1 
+4 Sandra không còn trong phòng tắm.
+5 Sandra đi đến hành lang. 
+6 là Daniel trong nhà bếp? 	 không có	 1 
+7 Sandra đi vào phòng tắm. 
+8 Sandra trở lại hành lang. 
+9 là Sandra trong nhà bếp? 	 không	 8 
+10 Mary không còn trong phòng ngủ. 
+11 John là trong vườn. 
+12 là Sandra ở hành lang? 	 Có	 8 
+13 Mary đi đến phòng ngủ. 
+14 John chuyển đến hành lang. 
+15 là John trong văn phòng? 	 không có	 14 
+1 Daniel không phải là trong phòng ngủ. 
+2 Sandra đã đi đến hành lang. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Sandra đi vào phòng ngủ. 
+5 Mary là trong phòng tắm. 
+6 là Sandra trong phòng ngủ? 	 Có	 4 
+7 Sandra không phải là trong phòng ngủ.
+8 Sandra là trong nhà bếp. 
+9 là Mary trong phòng tắm? 	 Có	 5 
+10 John chuyển đến khu vườn. 
+11 John không phải là trong vườn. 
+12 là Sandra trong vườn? 	 không	 8 
+13 Daniel là trong văn phòng. 
+14 Mary không phải là trong phòng tắm. 
+15 là Sandra trong vườn? 	 không	 8 
+1 Daniel trở lại hành lang. 
+2 Daniel đã đến khu vườn. 
+3 là Daniel trong vườn? 	 Có	 2 
+4 Sandra là trong văn phòng. 
+5 John không còn trong phòng tắm. 
+6 là Sandra ở hành lang? 	 không	 4 
+7 Mary đi vào bếp. 
+8 Daniel đi vào phòng ngủ. 
+9 là Daniel ở hành lang? 	 không	 8 
+10 Daniel chuyển tới văn phòng.
+11 John không còn trong vườn. 
+12 là Mary trong nhà bếp? 	 Có	 7 
+13 John là trong nhà bếp. 
+14 John chuyển đến hành lang. 
+15 là John trong phòng tắm? 	 không có	 14 
+1 Sandra không có trong vườn. 
+2 Daniel trở lại nhà bếp. 
+3 là Sandra trong vườn? 	 không có	 1 
+4 Daniel không phải là trong nhà bếp. 
+5 John đi vào phòng ngủ. 
+6 là John ở hành lang? 	 không	 5 
+7 Mary đi vào phòng ngủ. 
+8 Sandra là trong vườn. 
+9 là Daniel trong nhà bếp? 	 không	 4 
+10 Mary không còn trong phòng ngủ. 
+11 Daniel chuyển tới hành lang. 
+12 là Mary trong phòng ngủ? 	 không có	 10 
+13 Mary là trong văn phòng. 
+14 Sandra là trong nhà bếp.
+15 là Sandra trong nhà bếp? 	 Có	 14 
+1 John đi vào phòng ngủ. 
+2 Sandra là trong vườn. 
+3 là John trong phòng ngủ? 	 có	 1 
+4 Sandra chuyển đến phòng ngủ. 
+5 Sandra là trong nhà bếp. 
+6 là Sandra trong nhà bếp? 	 Có	 5 
+7 Daniel không còn trong nhà bếp. 
+8 Mary trở về văn phòng. 
+9 là Sandra ở hành lang? 	 không	 5 
+10 Mary đi vào nhà bếp. 
+11 Sandra đi đến phòng ngủ. 
+12 là Sandra ở hành lang? 	 không có	 11 
+13 Sandra không còn trong phòng ngủ. 
+14 Sandra đi đến văn phòng. 
+15 là Sandra trong nhà bếp? 	 không có	 14 
+1 John không còn trong văn phòng. 
+2 Sandra là trong nhà bếp.
+3 là John trong văn phòng? 	 không có	 1 
+4 Sandra trở vào phòng tắm. 
+5 Mary chuyển đến khu vườn. 
+6 là Sandra trong phòng tắm? 	 Có	 4 
+7 Mary không còn trong vườn. 
+8 Daniel trở lại nhà bếp. 
+9 là Sandra trong phòng tắm? 	 Có	 4 
+10 Mary trở về khu vườn. 
+11 Sandra trở về khu vườn. 
+12 là Mary trong vườn? 	 Có	 10 
+13 John là trong nhà bếp. 
+14 Sandra là trong phòng tắm. 
+15 là Sandra ở hành lang? 	 không có	 14 
+1 Sandra đi đến phòng tắm. 
+2 Mary đã đến khu vườn. 
+3 là Sandra trong phòng tắm? 	 có	 1 
+4 Daniel đã đi đến hành lang. 
+5 John là trong văn phòng.
+6 là Sandra trong phòng tắm? 	 có	 1 
+7 Sandra đi đến phòng ngủ. 
+8 Daniel không phải là ở hành lang. 
+9 là Mary trong vườn? 	 Có	 2 
+10 Mary chuyển đến phòng ngủ. 
+11 Sandra là trong văn phòng. 
+12 là Daniel ở hành lang? 	 không	 8 
+13 John không phải là trong văn phòng. 
+14 John trở về văn phòng. 
+15 là John trong phòng ngủ? 	 không có	 14 
+1 Daniel không còn trong phòng tắm. 
+2 Mary trở về văn phòng. 
+3 là Daniel trong phòng tắm? 	 không có	 1 
+4 Mary không còn trong văn phòng. 
+5 Mary đi đến hành lang. 
+6 là Mary ở hành lang? 	 Có	 5 
+7 Mary không còn ở hành lang. 
+8 Sandra đi đến hành lang.
+9 là Mary ở hành lang? 	 không	 7 
+10 Daniel đã đi vào phòng tắm. 
+11 Daniel đã đi đến vườn. 
+12 là Daniel trong vườn? 	 Có	 11 
+13 Mary là trong phòng ngủ. 
+14 Sandra là trong vườn. 
+15 là Daniel trong văn phòng? 	 không có	 11 
+1 John đi vào phòng tắm. 
+2 Daniel không còn trong nhà bếp. 
+3 là John trong phòng tắm? 	 có	 1 
+4 John không còn trong phòng tắm. 
+5 Sandra không còn trong phòng ngủ. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Sandra trở về phòng ngủ. 
+8 John chuyển đến hành lang. 
+9 là Daniel trong nhà bếp? 	 không có	 2 
+10 Sandra đã đi vào phòng tắm. 
+11 Daniel đã đi đến vườn.
+12 là Sandra trong phòng tắm? 	 Có	 10 
+13 Mary không có trong văn phòng. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là John trong phòng ngủ? 	 không	 8 
+1 Sandra đi đến văn phòng. 
+2 Sandra không còn trong văn phòng. 
+3 là Sandra trong văn phòng? 	 không có	 2 
+4 Sandra chuyển đến khu vườn. 
+5 Sandra không có trong vườn. 
+6 là Sandra trong vườn? 	 không	 5 
+7 Mary là trong văn phòng. 
+8 Mary đi đến hành lang. 
+9 là Sandra trong vườn? 	 không	 5 
+10 Mary đã đi đến vườn. 
+11 Đức Maria là trong văn phòng. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Daniel không phải là ở hành lang. 
+14 Mary không còn trong văn phòng.
+15 là Daniel ở hành lang? 	 không có	 13 
+1 Daniel đã đi đến văn phòng. 
+2 Daniel trở lại khu vườn. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Daniel là trong phòng ngủ. 
+5 Sandra trở vào phòng tắm. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Sandra không phải là trong phòng tắm. 
+8 John là trong phòng tắm. 
+9 là Sandra trong phòng tắm? 	 không	 7 
+10 Sandra đã đi đến vườn. 
+11 Sandra không còn trong vườn. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 Sandra là trong phòng tắm. 
+14 Daniel đi đến phòng tắm. 
+15 là Sandra trong vườn? 	 không có	 13 
+1 Mary trở về hành lang. 
+2 John đi đến hành lang.
+3 là John ở hành lang? 	 Có	 2 
+4 John là trong phòng tắm. 
+5 Sandra chuyển đến phòng ngủ. 
+6 là John trong phòng ngủ? 	 không	 4 
+7 John chuyển đến khu vườn. 
+8 John là trong phòng ngủ. 
+9 là John trong vườn? 	 không	 8 
+10 Mary đi vào phòng tắm. 
+11 Mary đã đi đến vườn. 
+12 là Mary trong vườn? 	 Có	 11 
+13 Sandra không phải là trong phòng ngủ. 
+14 Mary không còn trong vườn. 
+15 là Mary trong vườn? 	 không có	 14 
+1 John là trong phòng ngủ. 
+2 Mary đi đến khu vườn. 
+3 là Mary trong vườn? 	 Có	 2 
+4 Sandra trở về văn phòng. 
+5 Mary đi vào phòng tắm. 
+6 là Sandra trong văn phòng? 	 Có	 4
+7 John không còn trong phòng ngủ. 
+8 Sandra hành quân tới vườn. 
+9 là Mary trong phòng ngủ? 	 không	 5 
+10 John là trong phòng tắm. 
+11 Sandra đi đến hành lang. 
+12 là Sandra trong nhà bếp? 	 không có	 11 
+13 Mary đi đến hành lang. 
+14 Sandra không còn ở hành lang. 
+15 là Sandra ở hành lang? 	 không có	 14 
+1 Mary là trong vườn. 
+2 Mary là trong phòng tắm. 
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 John đi đến hành lang. 
+5 Sandra không còn trong văn phòng. 
+6 là Mary trong phòng ngủ? 	 không có	 2 
+7 Mary chuyển đến nhà bếp. 
+8 Mary đi đến hành lang. 
+9 là John ở hành lang? 	 Có	 4
+10 John trở lại vào phòng tắm. 
+11 Mary không còn ở hành lang. 
+12 là Mary ở hành lang? 	 không có	 11 
+13 John đi vào phòng ngủ. 
+14 Mary không còn trong phòng tắm. 
+15 Is John in the bathroom? 	no	13
+1 Sandra là trong nhà bếp. 
+2 Daniel không phải là trong vườn. 
+3 là Sandra trong phòng tắm? 	 không có	 1 
+4 John trở lại hành lang. 
+5 Daniel không phải là trong phòng ngủ. 
+6 là John trong vườn? 	 không	 4 
+7 Sandra đi đến phòng ngủ. 
+8 Sandra không còn trong phòng ngủ. 
+9 là Sandra trong phòng ngủ? 	 không	 8 
+10 John là trong văn phòng. 
+11 John đã đi đến vườn. 
+12 là Sandra trong phòng ngủ? 	 không	 8 
+13 Daniel đi đến nhà bếp.
+14 John không phải là trong vườn. 
+15 là John trong vườn? 	 không có	 14 
+1 Daniel là trong văn phòng. 
+2 Daniel hành quân tới vườn. 
+3 là Daniel trong vườn? 	 Có	 2 
+4 John là trong văn phòng. 
+5 Daniel trở lại phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 Có	 5 
+7 Mary không còn trong phòng tắm. 
+8 Mary không còn trong vườn. 
+9 là Mary trong vườn? 	 không	 8 
+10 Mary không còn ở hành lang. 
+11 Sandra đã đi vào phòng tắm. 
+12 là Mary ở hành lang? 	 không có	 10 
+13 Daniel không còn trong phòng ngủ. 
+14 Daniel đi đến văn phòng. 
+15 là Sandra trong phòng tắm? 	 Có	 11 
+1 Daniel chuyển tới phòng tắm.
+2 Mary là trong phòng tắm. 
+3 là Daniel trong vườn? 	 không có	 1 
+4 Sandra không còn ở hành lang. 
+5 Sandra đi đến phòng tắm. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 Daniel chuyển tới phòng ngủ. 
+8 Daniel là trong nhà bếp. 
+9 là Sandra trong nhà bếp? 	 không	 5 
+10 Mary là trong vườn. 
+11 Mary đi vào phòng ngủ. 
+12 là Daniel trong văn phòng? 	 không	 8 
+13 Mary là trong văn phòng. 
+14 Sandra chuyển đến nhà bếp. 
+15 là Sandra trong nhà bếp? 	 Có	 14 
+1 Mary trở về hành lang. 
+2 Daniel không còn trong nhà bếp. 
+3 là Mary ở hành lang? 	 có	 1 
+4 John không còn trong vườn.
+5 Daniel đi đến văn phòng. 
+6 là John trong vườn? 	 không	 4 
+7 John chuyển đến hành lang. 
+8 Sandra chuyển đến nhà bếp. 
+9 là John trong phòng tắm? 	 không	 7 
+10 John đi vào nhà bếp. 
+11 Sandra là trong phòng tắm. 
+12 là John trong phòng ngủ? 	 không có	 10 
+13 Daniel không còn trong văn phòng. 
+14 John đi vào phòng tắm. 
+15 là Sandra trong phòng tắm? 	 Có	 11 
+1 Sandra đã đi vào phòng ngủ. 
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 John không còn trong phòng tắm. 
+5 John là trong phòng ngủ. 
+6 là Sandra trong vườn? 	 không có	 2 
+7 Daniel đã đến khu vườn.
+8 John đi đến hành lang. 
+9 là Daniel trong văn phòng? 	 không	 7 
+10 Mary là trong vườn. 
+11 Daniel không còn trong vườn. 
+12 là Daniel trong vườn? 	 không có	 11 
+13 Mary không phải là trong vườn. 
+14 Daniel đi đến hành lang. 
+15 là Mary trong vườn? 	 không có	 13 
+1 Sandra không phải là trong phòng ngủ. 
+2 Sandra không phải là trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Mary không còn trong phòng ngủ. 
+5 Sandra chuyển đến phòng tắm. 
+6 là Sandra trong văn phòng? 	 không	 5 
+7 Mary là trong vườn. 
+8 John không phải là trong nhà bếp. 
+9 là Sandra trong nhà bếp? 	 không	 5 
+10 Daniel là trong phòng ngủ.
+11 Sandra không phải là trong phòng tắm. 
+12 là Mary trong vườn? 	 Có	 7 
+13 John đi vào phòng ngủ. 
+14 Đức Maria là trong nhà bếp. 
+15 là Mary trong phòng tắm? 	 không có	 14 
+1 Daniel là trong nhà bếp. 
+2 Sandra không phải là trong phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 không có	 2 
+4 Daniel không phải là trong nhà bếp. 
+5 Mary chuyển đến nhà bếp. 
+6 là Daniel trong nhà bếp? 	 không	 4 
+7 Daniel là trong vườn. 
+8 John đã đi đến hành lang. 
+9 là Sandra trong phòng ngủ? 	 không có	 2 
+10 John đã đến văn phòng. 
+11 Sandra đi đến hành lang. 
+12 là John ở hành lang? 	 không có	 10 
+13 Mary không phải là trong nhà bếp. 
+14 Mary đi vào phòng tắm.
+15 là Sandra ở hành lang? 	 Có	 11 
+1 John không phải là trong phòng ngủ. 
+2 Sandra là trong phòng ngủ. 
+3 là John trong phòng ngủ? 	 không có	 1 
+4 Mary đi vào phòng ngủ. 
+5 Sandra là trong văn phòng. 
+6 là John trong phòng ngủ? 	 không có	 1 
+7 Sandra đã đi đến hành lang. 
+8 Sandra đã đi vào phòng ngủ. 
+9 là Mary trong phòng ngủ? 	 Có	 4 
+10 John chuyển đến văn phòng. 
+11 John không phải là trong văn phòng. 
+12 là Sandra trong nhà bếp? 	 không	 8 
+13 John là trong phòng tắm. 
+14 Daniel là trong phòng tắm. 
+15 là Sandra trong văn phòng? 	 không	 8 
+1 Mary trở về hành lang. 
+2 Daniel là trong phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 Có	 2
+4 Daniel không phải là trong phòng ngủ. 
+5 John là trong phòng ngủ. 
+6 là Mary trong vườn? 	 không có	 1 
+7 John là trong phòng tắm. 
+8 Mary đi vào phòng tắm. 
+9 là John trong phòng tắm? 	 Có	 7 
+10 Mary là trong vườn. 
+11 John đi đến hành lang. 
+12 là John ở hành lang? 	 Có	 11 
+13 Sandra hành quân tới vườn. 
+14 John trở về khu vườn. 
+15 là Mary ở hành lang? 	 không có	 10 
+1 Sandra là trong vườn. 
+2 Sandra trở lại nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 Mary chuyển đến nhà bếp. 
+5 Sandra là trong phòng tắm. 
+6 là Sandra trong phòng tắm? 	 Có	 5 
+7 Mary là trong phòng tắm.
+8 Mary chuyển đến khu vườn. 
+9 là Sandra trong vườn? 	 không	 5 
+10 Daniel không phải là trong phòng tắm. 
+11 Mary trở về văn phòng. 
+12 là Mary trong nhà bếp? 	 không có	 11 
+13 Mary không còn trong văn phòng. 
+14 John không còn trong văn phòng. 
+15 là Mary trong văn phòng? 	 không có	 13 
+1 Daniel đã đi đến vườn. 
+2 Mary chuyển đến phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 không có	 1 
+4 Mary là trong vườn. 
+5 Daniel chuyển tới phòng tắm. 
+6 là Mary trong vườn? 	 Có	 4 
+7 Sandra chuyển đến phòng tắm. 
+8 Sandra đi vào phòng ngủ. 
+9 là Mary trong vườn? 	 Có	 4 
+10 John trở lại vào phòng tắm.
+12 là Daniel trong phòng ngủ? 	 không	 5 
+13 Sandra là trong vườn. 
+14 Đức Maria là ở hành lang. 
+15 là Sandra trong phòng tắm? 	 không có	 13 
+1 Daniel chuyển tới phòng tắm. 
+2 Mary chuyển đến phòng tắm. 
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 Mary không còn trong phòng tắm. 
+5 Sandra đi vào nhà bếp. 
+6 là Mary trong phòng tắm? 	 không	 4 
+7 Mary trở lại nhà bếp. 
+8 Mary không phải là trong nhà bếp. 
+9 là Mary trong nhà bếp? 	 không	 8 
+10 Sandra đi đến phòng ngủ. 
+11 John không còn trong nhà bếp. 
+12 là John trong nhà bếp? 	 không có	 11 
+13 Sandra trở về văn phòng. 
+14 John không còn ở hành lang.
+15 là Mary trong nhà bếp? 	 không	 8 
+1 Daniel không phải là trong vườn. 
+2 John đi vào phòng tắm. 
+3 là John trong phòng tắm? 	 Có	 2 
+4 Mary đi vào phòng ngủ. 
+5 Sandra không có trong nhà bếp. 
+6 là Daniel trong vườn? 	 không có	 1 
+7 Sandra không còn trong vườn. 
+8 Mary trở về hành lang. 
+9 là John trong phòng tắm? 	 Có	 2 
+10 Sandra không phải là trong phòng tắm. 
+11 Sandra là trong văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 11 
+13 Daniel đã đi đến hành lang. 
+14 Mary đi vào phòng tắm. 
+15 là Mary ở hành lang? 	 không có	 14 
+1 Daniel trở lại phòng ngủ. 
+2 Sandra là trong văn phòng.
+3 là Sandra trong văn phòng? 	 Có	 2 
+4 Sandra là trong phòng ngủ. 
+5 Sandra là trong nhà bếp. 
+6 là Sandra trong vườn? 	 không	 5 
+7 John đi vào bếp. 
+8 Daniel đi vào nhà bếp. 
+9 là Daniel trong nhà bếp? 	 Có	 8 
+10 Daniel đi vào phòng ngủ. 
+11 Sandra là ở hành lang. 
+12 là Daniel trong phòng ngủ? 	 Có	 10 
+13 John là trong văn phòng. 
+14 Daniel không còn trong phòng ngủ. 
+15 là Daniel trong phòng ngủ? 	 không có	 14 
+1 Daniel là trong phòng tắm. 
+2 Daniel là trong vườn. 
+3 là Daniel trong vườn? 	 Có	 2 
+4 John chuyển đến văn phòng. 
+5 Mary đi vào bếp. 
+6 là John trong phòng tắm? 	
+7 Daniel trở lại nhà bếp. 
+8 Sandra đi đến hành lang. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Sandra không còn ở hành lang. 
+11 John không phải là trong văn phòng. 
+12 là Sandra ở hành lang? 	 không có	 10 
+13 Sandra đi vào bếp. 
+14 Sandra trở vào phòng tắm. 
+15 là Sandra trong phòng tắm? 	 Có	 14 
+1 Sandra trở vào phòng tắm. 
+2 Mary đi đến khu vườn. 
+3 là Sandra trong vườn? 	 không có	 1 
+4 Daniel đi đến hành lang. 
+5 Mary là trong văn phòng. 
+6 là Sandra trong phòng tắm? 	 có	 1 
+7 Daniel là trong vườn. 
+8 John đi đến văn phòng. 
+9 là Daniel trong vườn? 	 Có	 7
+10 Daniel chuyển tới văn phòng. 
+11 John đi đến phòng tắm. 
+12 là Daniel trong văn phòng? 	 Có	 10 
+13 Daniel đi đến phòng ngủ. 
+14 Mary chuyển đến hành lang. 
+15 là Daniel trong phòng ngủ? 	 Có	 13 
+1 Daniel là ở hành lang. 
+2 Sandra không còn trong phòng ngủ. 
+3 là Daniel ở hành lang? 	 có	 1 
+4 Sandra đi đến văn phòng. 
+5 Sandra là ở hành lang. 
+6 là Sandra ở hành lang? 	 Có	 5 
+7 Sandra đi đến phòng tắm. 
+8 Daniel không còn ở hành lang. 
+9 là Sandra trong phòng tắm? 	 Có	 7 
+10 John đi đến nhà bếp. 
+11 Sandra trở về văn phòng. 
+12 là Sandra trong vườn? 	 không có	 11
+13 Sandra đi đến hành lang. 
+14 John trở lại vào phòng tắm. 
+15 là Sandra trong nhà bếp? 	 không có	 13 
+1 John là trong phòng ngủ. 
+2 Mary đã đến văn phòng. 
+3 là John ở hành lang? 	 không có	 1 
+4 John đã đến văn phòng. 
+5 Daniel đi vào bếp. 
+6 là Mary trong văn phòng? 	 Có	 2 
+7 John đi vào nhà bếp. 
+8 John không còn trong nhà bếp. 
+9 là John trong nhà bếp? 	 không	 8 
+10 Sandra đi vào bếp. 
+11 John đi vào nhà bếp. 
+12 là Sandra trong vườn? 	 không có	 10 
+13 Daniel chuyển tới hành lang. 
+14 Daniel chuyển tới nhà bếp. 
+15 là Sandra trong nhà bếp? 	 Có	 10
+1 Daniel là ở hành lang. 
+2 Daniel trở lại vào phòng tắm. 
+3 là Daniel trong văn phòng? 	 không có	 2 
+4 Daniel đã đi đến hành lang. 
+5 Daniel không phải là ở hành lang. 
+6 là Daniel ở hành lang? 	 không	 5 
+7 Daniel đã đi đến vườn. 
+8 Mary đi đến nhà bếp. 
+9 là Daniel trong vườn? 	 Có	 7 
+10 Sandra hành quân tới vườn. 
+11 Daniel là trong phòng ngủ. 
+12 là Daniel trong phòng ngủ? 	 Có	 11 
+13 Sandra chuyển đến hành lang. 
+14 Sandra chuyển đến phòng ngủ. 
+15 là Daniel trong phòng tắm? 	 không có	 11 
+1 Sandra trở về phòng ngủ. 
+2 Sandra không phải là trong phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 không có	 2
+4 Sandra đã đến văn phòng. 
+5 Sandra đã đi vào phòng tắm. 
+6 là Sandra trong phòng tắm? 	 Có	 5 
+7 John không phải là trong nhà bếp. 
+8 Sandra đã đến văn phòng. 
+9 là Sandra ở hành lang? 	 không	 8 
+10 John trở về văn phòng. 
+11 John đã đi đến hành lang. 
+12 là Sandra trong vườn? 	 không	 8 
+13 Daniel là trong văn phòng. 
+14 Daniel không còn trong văn phòng. 
+15 là Daniel trong văn phòng? 	 không có	 14 
+1 John đi vào bếp. 
+2 John không phải là trong nhà bếp. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 John không phải là trong văn phòng. 
+5 John là ở hành lang. 
+6 là John trong nhà bếp? 	 không	 5 
+7 John đã đến khu vườn.
+8 Mary là trong phòng ngủ. 
+9 là Mary ở hành lang? 	 không	 8 
+10 Mary đi đến văn phòng. 
+11 Daniel là trong vườn. 
+12 là John ở hành lang? 	 không	 7 
+13 Sandra đi đến phòng tắm. 
+14 Daniel không phải là trong vườn. 
+15 là Daniel trong vườn? 	 không có	 14 
+1 Daniel không phải là ở hành lang. 
+2 Daniel đi đến hành lang. 
+3 là Daniel ở hành lang? 	 Có	 2 
+4 Mary không phải là trong phòng tắm. 
+5 Daniel là trong văn phòng. 
+6 là Daniel trong vườn? 	 không	 5 
+7 Sandra trở lại hành lang. 
+8 Mary không còn trong văn phòng. 
+9 là Sandra ở hành lang? 	 Có	 7 
+10 John đã đi vào phòng ngủ.
+12 là Daniel trong vườn? 	 Có	 11 
+13 Daniel chuyển tới văn phòng. 
+14 John đi đến phòng tắm. 
+15 là John ở hành lang? 	 không có	 14 
+1 Mary đi đến văn phòng. 
+2 Mary quay trở lại vào phòng tắm. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Daniel là trong vườn. 
+5 John đi vào phòng tắm. 
+6 là Mary trong vườn? 	 không có	 2 
+7 Mary là trong vườn. 
+8 Daniel chuyển tới phòng ngủ. 
+9 là Mary ở hành lang? 	 không	 7 
+10 Daniel không còn trong phòng ngủ. 
+11 Mary đã đến văn phòng. 
+12 là Daniel trong phòng ngủ? 	 không có	 10 
+13 Sandra chuyển đến khu vườn. 
+14 Mary không có trong văn phòng.
+15 là Mary trong văn phòng? 	 không có	 14 
+1 John trở về phòng ngủ. 
+2 Mary đi vào phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2 
+4 Sandra không phải là trong phòng tắm. 
+5 Daniel chuyển tới phòng tắm. 
+6 là Sandra trong phòng tắm? 	 không	 4 
+7 Sandra đi đến hành lang. 
+8 Sandra không còn ở hành lang. 
+9 là Sandra ở hành lang? 	 không	 8 
+10 John trở lại hành lang. 
+11 Daniel là ở hành lang. 
+12 là Daniel trong văn phòng? 	 không có	 11 
+13 Sandra đi đến phòng tắm. 
+14 John chuyển đến phòng tắm. 
+15 là Daniel ở hành lang? 	 Có	 11 
+1 Mary không phải là trong phòng ngủ. 
+2 Daniel không phải là trong nhà bếp.
+3 là Mary trong phòng ngủ? 	 không có	 1 
+4 Sandra đã đến văn phòng. 
+5 Daniel không phải là trong phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 không có	 1 
+7 Sandra chuyển đến khu vườn. 
+8 Daniel không phải là trong vườn. 
+9 là Daniel trong vườn? 	 không	 8 
+10 Daniel đã đi đến hành lang. 
+11 Mary không phải là trong vườn. 
+12 là Daniel trong phòng tắm? 	 không có	 10 
+13 Daniel không còn ở hành lang. 
+14 Sandra đã đi vào phòng ngủ. 
+15 là Sandra trong nhà bếp? 	 không có	 14 
+1 Mary đi vào phòng tắm. 
+2 Sandra trở về văn phòng. 
+3 là Mary trong phòng tắm? 	 có	 1 
+4 Mary không phải là trong phòng tắm. 
+5 Daniel đã đi vào phòng tắm.
+6 là Mary trong phòng tắm? 	 không	 4 
+7 Mary không phải là ở hành lang. 
+8 Sandra không có trong văn phòng. 
+9 là Mary ở hành lang? 	 không	 7 
+10 Daniel không còn trong phòng tắm. 
+11 Đức Maria là trong vườn. 
+12 là Daniel trong phòng tắm? 	 không có	 10 
+13 John là trong nhà bếp. 
+14 Daniel đi đến hành lang. 
+15 là Daniel ở hành lang? 	 Có	 14 
+1 Sandra là trong vườn. 
+2 Daniel không phải là trong vườn. 
+3 là Daniel trong vườn? 	 không có	 2 
+4 Daniel không còn trong phòng tắm. 
+5 Daniel là ở hành lang. 
+6 là Daniel ở hành lang? 	 Có	 5 
+7 John là trong văn phòng. 
+8 John không phải là trong văn phòng. 
+9 là John trong văn phòng? 	
+10 Sandra đi đến phòng ngủ. 
+11 Đức Maria là trong phòng ngủ. 
+12 là Daniel ở hành lang? 	 Có	 5 
+13 Mary là trong vườn. 
+14 Sandra trở lại hành lang. 
+15 là Sandra trong vườn? 	 không có	 14 
+1 Daniel là trong nhà bếp. 
+2 Mary là trong văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 John không còn trong vườn. 
+5 Daniel đã đến khu vườn. 
+6 là Mary trong văn phòng? 	 Có	 2 
+7 John đi vào phòng tắm. 
+8 Mary là trong phòng tắm. 
+9 là Mary trong nhà bếp? 	 không	 8 
+10 John là trong phòng ngủ. 
+11 Sandra trở về khu vườn. 
+12 là John trong phòng ngủ? 	 Có	 10 
+13 John không còn trong phòng ngủ.
+14 John không còn trong nhà bếp. 
+15 là John trong nhà bếp? 	 không có	 14 
+1 Sandra đi đến phòng tắm. 
+2 Sandra đã đến khu vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 Mary trở về hành lang. 
+5 Mary trở về văn phòng. 
+6 là Sandra trong vườn? 	 Có	 2 
+7 Mary trở về khu vườn. 
+8 John đã đến khu vườn. 
+9 là Mary trong vườn? 	 Có	 7 
+10 Mary là trong phòng ngủ. 
+11 Sandra chuyển đến văn phòng. 
+12 là Sandra trong phòng tắm? 	 không có	 11 
+13 Sandra là ở hành lang. 
+14 John không còn trong vườn. 
+15 là John trong vườn? 	 không có	 14 
+1 John là ở hành lang.
+2 John đi vào nhà bếp. 
+3 là John trong nhà bếp? 	 Có	 2 
+4 Daniel là trong nhà bếp. 
+5 John là ở hành lang. 
+6 là Daniel trong vườn? 	 không	 4 
+7 John đi vào phòng tắm. 
+8 Daniel trở lại phòng ngủ. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 Mary đi đến phòng tắm. 
+11 Daniel không phải là trong phòng ngủ. 
+12 là John ở hành lang? 	 không	 7 
+13 Mary đi vào phòng ngủ. 
+14 Daniel không còn ở hành lang. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Sandra là trong văn phòng. 
+2 Sandra đi đến hành lang. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Mary trở về phòng ngủ.
+5 John không phải là trong phòng ngủ. 
+6 là Sandra ở hành lang? 	 Có	 2 
+7 Daniel không còn trong phòng ngủ. 
+8 Daniel không còn trong phòng tắm. 
+9 là John trong phòng ngủ? 	 không	 5 
+10 John là trong phòng ngủ. 
+11 Mary không phải là trong phòng ngủ. 
+12 là John trong phòng ngủ? 	 Có	 10 
+13 Daniel đã đi vào phòng tắm. 
+14 Sandra đi vào phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 10 
+1 Mary là trong vườn. 
+2 Mary không còn trong vườn. 
+3 là Mary trong vườn? 	 không có	 2 
+4 Daniel đã đi đến vườn. 
+5 Daniel đi đến hành lang. 
+6 là Mary trong vườn? 	 không có	 2 
+7 John đi đến hành lang.
+8 Mary là trong vườn. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 John đi vào nhà bếp. 
+11 Mary chuyển đến phòng tắm. 
+12 là Mary trong nhà bếp? 	 không có	 11 
+13 John là trong phòng tắm. 
+14 Mary đi đến văn phòng. 
+15 là Mary trong văn phòng? 	 Có	 14 
+1 Daniel đi vào phòng ngủ. 
+2 John chuyển đến phòng tắm. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 Daniel không phải là trong phòng ngủ. 
+5 John là trong nhà bếp. 
+6 là John trong vườn? 	 không	 5 
+7 John là trong phòng tắm. 
+8 John là trong phòng ngủ. 
+9 là John trong phòng tắm? 	 không	 8 
+10 John không còn trong phòng ngủ. 
+11 Mary trở về văn phòng.
+12 là John trong phòng ngủ? 	 không có	 10 
+13 Mary đi vào bếp. 
+14 Sandra đã đi đến vườn. 
+15 là Mary trong nhà bếp? 	 Có	 13 
+1 John là trong văn phòng. 
+2 John không phải là trong văn phòng. 
+3 là John trong văn phòng? 	 không có	 2 
+4 Sandra là trong phòng ngủ. 
+5 Daniel là trong phòng ngủ. 
+6 là John trong văn phòng? 	 không có	 2 
+7 Mary chuyển đến khu vườn. 
+8 Mary không phải là trong vườn. 
+9 là Daniel trong nhà bếp? 	 không	 5 
+10 Daniel là trong nhà bếp. 
+11 Daniel không còn trong nhà bếp. 
+12 là Daniel trong nhà bếp? 	 không có	 11 
+13 Sandra không còn trong phòng ngủ. 
+14 Daniel đi vào bếp. 
+15 là Mary trong vườn? 	
+1 Sandra là trong phòng tắm. 
+2 John không phải là trong phòng tắm. 
+3 là Sandra ở hành lang? 	 không có	 1 
+4 John trở lại nhà bếp. 
+5 John là trong vườn. 
+6 là Sandra trong phòng tắm? 	 có	 1 
+7 Sandra đã đến khu vườn. 
+8 John chuyển đến hành lang. 
+9 là John trong phòng tắm? 	 không	 8 
+10 Sandra không còn trong vườn. 
+11 Mary không phải là trong phòng ngủ. 
+12 là John ở hành lang? 	 Có	 8 
+13 John không phải là ở hành lang. 
+14 John chuyển đến văn phòng. 
+15 là John trong văn phòng? 	 Có	 14 
+1 Mary không có trong văn phòng. 
+2 Daniel đi vào nhà bếp. 
+3 là Mary trong văn phòng? 	 không có	 1 
+4 John đã đến khu vườn.
+5 Sandra là trong văn phòng. 
+6 là John trong vườn? 	 Có	 4 
+7 John là trong phòng ngủ. 
+8 John không còn trong phòng ngủ. 
+9 là John trong phòng ngủ? 	 không	 8 
+10 Mary không còn trong nhà bếp. 
+11 Sandra đã đi đến hành lang. 
+12 là John trong phòng ngủ? 	 không	 8 
+13 John đi đến văn phòng. 
+14 John là trong nhà bếp. 
+15 là Mary trong nhà bếp? 	 không có	 10 
+1 John không phải là trong nhà bếp. 
+2 John chuyển đến văn phòng. 
+3 là John trong văn phòng? 	 Có	 2 
+4 Mary chuyển đến phòng ngủ. 
+5 Daniel chuyển tới phòng tắm. 
+6 là John trong phòng tắm? 	 không có	 2 
+7 Daniel là trong phòng ngủ. 
+8 Mary không phải là trong phòng ngủ.
+9 là Mary trong phòng ngủ? 	 không	 8 
+10 Daniel là ở hành lang. 
+11 Sandra không còn trong nhà bếp. 
+12 là Daniel trong phòng tắm? 	 không có	 10 
+13 Sandra đã đi đến hành lang. 
+14 Sandra trở về văn phòng. 
+15 là Daniel trong vườn? 	 không có	 10 
+1 Sandra là trong phòng ngủ. 
+2 Mary đi vào nhà bếp. 
+3 là Sandra trong phòng ngủ? 	 có	 1 
+4 Mary trở về phòng ngủ. 
+5 Mary không còn trong phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 không	 5 
+7 Mary không có trong văn phòng. 
+8 Mary chuyển đến phòng ngủ. 
+9 là Mary trong phòng tắm? 	 không	 8 
+10 Daniel chuyển tới phòng tắm. 
+11 John là trong nhà bếp.
+12 là Mary trong phòng tắm? 	 không	 8 
+13 Daniel là trong phòng ngủ. 
+14 Sandra trở về văn phòng. 
+15 là Daniel ở hành lang? 	 không có	 13 
+1 Mary không còn ở hành lang. 
+2 Daniel là trong phòng ngủ. 
+3 là Mary ở hành lang? 	 không có	 1 
+4 John đi đến phòng ngủ. 
+5 Mary đi đến hành lang. 
+6 là John trong nhà bếp? 	 không	 4 
+7 Daniel đi đến phòng tắm. 
+8 Mary không phải là ở hành lang. 
+9 là Daniel trong phòng tắm? 	 Có	 7 
+10 Daniel là ở hành lang. 
+11 Daniel không phải là ở hành lang. 
+12 là Daniel ở hành lang? 	 không có	 11 
+13 Mary chuyển đến phòng tắm. 
+14 Sandra chuyển đến văn phòng.
+15 là Daniel ở hành lang? 	 không có	 11 
+1 Mary là ở hành lang. 
+2 Daniel không còn trong phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Sandra đi đến hành lang. 
+5 Sandra đi đến phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 không có	 2 
+7 Daniel trở lại phòng ngủ. 
+8 John chuyển đến văn phòng. 
+9 là Sandra trong phòng ngủ? 	 Có	 5 
+10 Sandra không phải là trong phòng ngủ. 
+11 Mary không còn ở hành lang. 
+12 là John trong văn phòng? 	 Có	 8 
+13 John đi đến khu vườn. 
+14 Daniel không còn trong phòng ngủ. 
+15 là Mary ở hành lang? 	 không có	 11 
+1 Mary đi đến văn phòng. 
+2 Mary là trong vườn.
+3 là Mary trong vườn? 	 Có	 2 
+4 Mary đi đến hành lang. 
+5 John là trong nhà bếp. 
+6 là John trong phòng tắm? 	 không	 5 
+7 Mary là trong phòng ngủ. 
+8 Sandra đã đến khu vườn. 
+9 là Mary trong phòng ngủ? 	 Có	 7 
+10 Sandra là trong phòng ngủ. 
+11 John là trong văn phòng. 
+12 là John trong văn phòng? 	 Có	 11 
+13 Mary đã đến văn phòng. 
+14 Sandra đã đến khu vườn. 
+15 là Sandra trong phòng ngủ? 	 không có	 14 
+1 Mary đã đến khu vườn. 
+2 Daniel đi đến phòng ngủ. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 Sandra không nằm trong hành lang. 
+5 Mary là trong nhà bếp. 
+6 là Sandra ở hành lang? 	 không	
+7 Mary đã đi đến vườn. 
+8 Sandra không còn trong phòng ngủ. 
+9 là Sandra trong phòng ngủ? 	 không	 8 
+10 Daniel là ở hành lang. 
+11 Daniel không còn ở hành lang. 
+12 là Daniel ở hành lang? 	 không có	 11 
+13 Sandra đã đến văn phòng. 
+14 Daniel không còn trong vườn. 
+15 là Daniel trong vườn? 	 không có	 14 
+1 Sandra không còn trong phòng tắm. 
+2 John là trong phòng ngủ. 
+3 là John trong phòng ngủ? 	 Có	 2 
+4 Mary chuyển đến phòng tắm. 
+5 Mary là trong văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Sandra đi đến phòng ngủ. 
+8 John chuyển đến văn phòng. 
+9 là Mary trong văn phòng? 	 Có	 5
+10 Sandra là trong văn phòng. 
+11 Sandra trở về phòng ngủ. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 Daniel là ở hành lang. 
+14 Mary đi đến nhà bếp. 
+15 là Sandra trong phòng ngủ? 	 Có	 11 
+1 Sandra là trong nhà bếp. 
+2 John đi vào bếp. 
+3 là John trong nhà bếp? 	 Có	 2 
+4 Sandra chuyển đến khu vườn. 
+5 Daniel trở lại phòng ngủ. 
+6 là Sandra trong vườn? 	 Có	 4 
+7 Mary trở về hành lang. 
+8 Daniel đã đi đến hành lang. 
+9 là Daniel trong vườn? 	 không	 8 
+10 Mary là trong văn phòng. 
+11 Daniel là trong vườn. 
+12 là Mary trong văn phòng? 	 Có	 10 
+13 Mary chuyển đến phòng ngủ.
+14 Mary không phải là trong phòng ngủ. 
+15 là Mary trong phòng ngủ? 	 không có	 14 
+1 Daniel đi vào phòng ngủ. 
+2 Daniel là trong văn phòng. 
+3 là Daniel ở hành lang? 	 không có	 2 
+4 Daniel là ở hành lang. 
+5 Mary chuyển đến hành lang. 
+6 là Mary trong văn phòng? 	 không	 5 
+7 Mary không phải là ở hành lang. 
+8 Sandra là trong vườn. 
+9 là Daniel ở hành lang? 	 Có	 4 
+10 Daniel trở lại phòng ngủ. 
+11 John là trong phòng ngủ. 
+12 là Sandra trong vườn? 	 Có	 8 
+13 Mary là trong nhà bếp. 
+14 Mary đi vào phòng tắm. 
+15 là Daniel trong phòng ngủ? 	 Có	 10 
+1 Mary đi đến phòng ngủ. 
+2 Mary đi vào phòng tắm.
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 Mary là trong phòng ngủ. 
+5 Mary trở về văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Sandra đi đến văn phòng. 
+8 John đi vào phòng ngủ. 
+9 là Mary trong văn phòng? 	 Có	 5 
+10 John không phải là trong phòng ngủ. 
+11 John là trong nhà bếp. 
+12 là John trong văn phòng? 	 không có	 11 
+13 Sandra là trong nhà bếp. 
+14 Mary đi vào phòng ngủ. 
+15 là John ở hành lang? 	 không có	 11 
+1 John là trong phòng ngủ. 
+2 John chuyển đến văn phòng. 
+3 là John trong phòng ngủ? 	 không có	 2 
+4 Sandra đi vào phòng tắm. 
+5 John đã đi đến hành lang. 
+6 là Sandra trong phòng tắm? 	 Có	 4
+7 Sandra đi vào nhà bếp. 
+8 John đã đi vào phòng ngủ. 
+9 là John trong vườn? 	 không	 8 
+10 Mary đã đi đến vườn. 
+11 Sandra là trong văn phòng. 
+12 là John trong phòng ngủ? 	 Có	 8 
+13 John chuyển đến hành lang. 
+14 Sandra không có trong văn phòng. 
+15 là Sandra trong văn phòng? 	 không có	 14 
+1 Mary không còn trong vườn. 
+2 John là trong vườn. 
+3 là John trong vườn? 	 Có	 2 
+4 John chuyển đến văn phòng. 
+5 Daniel không còn trong nhà bếp. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 Mary là ở hành lang. 
+8 Sandra không còn trong phòng tắm. 
+9 là John trong nhà bếp? 	 không	 4 
+10 John không phải là trong văn phòng.
+11 John không còn trong vườn. 
+12 là Mary trong vườn? 	 không	 7 
+13 Daniel đi vào phòng tắm. 
+14 Đức Maria là trong nhà bếp. 
+15 là Mary trong phòng tắm? 	 không có	 14 
+1 Sandra không còn ở hành lang. 
+2 Sandra trở về phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 Có	 2 
+4 Sandra chuyển đến nhà bếp. 
+5 John đã đến văn phòng. 
+6 là Sandra trong nhà bếp? 	 Có	 4 
+7 Daniel hành quân tới vườn. 
+8 Mary trở về phòng ngủ. 
+9 là Sandra ở hành lang? 	 không	 4 
+10 Daniel là trong phòng tắm. 
+11 Daniel chuyển đến khu vườn. 
+12 là Daniel trong phòng ngủ? 	 không có	 11 
+13 Mary đi vào nhà bếp.
+14 Sandra không còn trong nhà bếp. 
+15 là Mary trong nhà bếp? 	 Có	 13 
+1 Sandra trở về khu vườn. 
+2 Mary không còn trong phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 không có	 1 
+4 Daniel chuyển tới văn phòng. 
+5 Sandra đi vào bếp. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Sandra đã đi đến vườn. 
+8 Daniel đi đến hành lang. 
+9 là Daniel trong văn phòng? 	 không	 8 
+10 Daniel không phải là ở hành lang. 
+11 Daniel không còn trong phòng tắm. 
+12 là Daniel trong phòng tắm? 	 không có	 11 
+13 Mary trở lại nhà bếp. 
+14 John là trong phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 14 
+1 Daniel đi vào phòng ngủ.
+2 Daniel đi đến nhà bếp. 
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 Daniel đã đi đến văn phòng. 
+5 Mary đi đến khu vườn. 
+6 là Mary trong phòng tắm? 	 không	 5 
+7 Daniel không còn trong văn phòng. 
+8 Sandra đi vào nhà bếp. 
+9 là Daniel trong văn phòng? 	 không	 7 
+10 Sandra là ở hành lang. 
+11 Mary đi đến hành lang. 
+12 là Mary trong văn phòng? 	 không có	 11 
+13 Sandra đã đi đến vườn. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là Sandra trong vườn? 	 Có	 13 
+1 John trở về phòng ngủ. 
+2 Daniel là trong vườn. 
+3 là John trong nhà bếp? 	 không có	 1 
+4 John trở lại nhà bếp.
+6 là Sandra ở hành lang? 	 không	 5 
+7 John đã đến khu vườn. 
+8 John là trong văn phòng. 
+9 là John trong văn phòng? 	 Có	 8 
+10 Sandra đi vào phòng tắm. 
+11 Mary đi đến nhà bếp. 
+12 là Mary ở hành lang? 	 không có	 11 
+13 Daniel không còn trong vườn. 
+14 Sandra chuyển đến văn phòng. 
+15 là Daniel trong vườn? 	 không có	 13 
+1 John chuyển đến khu vườn. 
+2 Mary đi đến văn phòng. 
+3 là John ở hành lang? 	 không có	 1 
+4 John không phải là trong vườn. 
+5 Mary đã đến khu vườn. 
+6 là Mary trong vườn? 	 Có	 5 
+7 Sandra không còn trong vườn. 
+8 John không còn ở hành lang.
+9 là Sandra trong vườn? 	 không	 7 
+10 Mary là trong phòng ngủ. 
+11 Daniel là trong phòng ngủ. 
+12 là Mary trong phòng tắm? 	 không có	 10 
+13 Sandra không còn trong văn phòng. 
+14 Mary chuyển đến nhà bếp. 
+15 là Mary trong văn phòng? 	 không có	 14 
+1 Mary đi vào phòng ngủ. 
+2 Daniel không có trong văn phòng. 
+3 là Mary trong phòng ngủ? 	 có	 1 
+4 John không còn trong văn phòng. 
+5 Sandra trở về khu vườn. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 John đã đi đến vườn. 
+8 Sandra là ở hành lang. 
+9 là Sandra ở hành lang? 	 Có	 8 
+10 Mary là trong nhà bếp. 
+11 Sandra trở vào phòng tắm.
+12 là Sandra trong phòng tắm? 	 Có	 11 
+13 Mary đi đến hành lang. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là Sandra trong vườn? 	 không có	 11 
+1 Daniel đi đến văn phòng. 
+2 Mary là ở hành lang. 
+3 là Daniel trong phòng ngủ? 	 không có	 1 
+4 Mary đã đến văn phòng. 
+5 John là trong phòng ngủ. 
+6 là Mary trong văn phòng? 	 Có	 4 
+7 Mary đi đến hành lang. 
+8 John là ở hành lang. 
+9 là Mary ở hành lang? 	 Có	 7 
+10 John đi đến văn phòng. 
+11 Mary đi vào phòng ngủ. 
+12 là John trong văn phòng? 	 Có	 10 
+13 Mary trở lại nhà bếp. 
+14 Mary không phải là trong nhà bếp. 
+15 là Mary trong nhà bếp? 	
+1 Sandra trở về phòng ngủ. 
+2 John trở lại vào phòng tắm. 
+3 là John trong phòng ngủ? 	 không có	 2 
+4 Mary là trong nhà bếp. 
+5 John chuyển đến nhà bếp. 
+6 là Sandra trong phòng ngủ? 	 có	 1 
+7 John không phải là trong nhà bếp. 
+8 Mary trở về hành lang. 
+9 là John trong nhà bếp? 	 không	 7 
+10 Daniel không còn trong phòng tắm. 
+11 John không phải là trong phòng tắm. 
+12 là John trong phòng tắm? 	 không có	 11 
+13 Daniel đi đến hành lang. 
+14 Sandra không còn trong phòng ngủ. 
+15 là Mary ở hành lang? 	 Có	 8 
+1 John là trong văn phòng. 
+2 John trở về phòng ngủ. 
+3 là John trong văn phòng? 	 không có	 2
+4 Daniel trở lại văn phòng. 
+5 Sandra là trong văn phòng. 
+6 là Daniel trong văn phòng? 	 Có	 4 
+7 Mary không phải là trong phòng tắm. 
+8 Sandra trở về khu vườn. 
+9 là Sandra ở hành lang? 	 không	 8 
+10 Mary là trong phòng tắm. 
+11 Daniel là trong phòng ngủ. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Daniel đã đến khu vườn. 
+14 Sandra trở lại hành lang. 
+15 là Sandra trong văn phòng? 	 không có	 14 
+1 Mary chuyển đến nhà bếp. 
+2 Mary đi vào phòng tắm. 
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 John là trong phòng tắm. 
+5 John không phải là trong phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 2 
+7 Sandra đi đến phòng tắm.
+8 Sandra trở lại nhà bếp. 
+9 là John trong phòng tắm? 	 không	 5 
+10 Mary không còn trong phòng tắm. 
+11 Sandra đã đi vào phòng ngủ. 
+12 là John trong phòng tắm? 	 không	 5 
+13 Daniel không còn trong nhà bếp. 
+14 Sandra không còn trong phòng ngủ. 
+15 là Daniel trong nhà bếp? 	 không có	 13 
+1 Mary trở lại nhà bếp. 
+2 Sandra không có trong vườn. 
+3 là Mary trong phòng tắm? 	 không có	 1 
+4 John trở về văn phòng. 
+5 Sandra không còn trong phòng ngủ. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Mary trở về khu vườn. 
+8 Sandra không có trong vườn. 
+9 là Sandra trong vườn? 	 không	 8 
+10 Mary không phải là trong vườn.
+11 Mary đi đến hành lang. 
+12 là Sandra trong vườn? 	 không	 8 
+13 Mary trở về phòng ngủ. 
+14 Daniel đã đi vào phòng ngủ. 
+15 là Mary trong phòng ngủ? 	 Có	 13 
+1 Daniel chuyển tới nhà bếp. 
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 Mary đã đến văn phòng. 
+5 Mary chuyển đến phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5 
+7 Daniel đi đến phòng ngủ. 
+8 Sandra chuyển đến phòng ngủ. 
+9 là Mary trong văn phòng? 	 không	 5 
+10 Sandra không phải là trong phòng ngủ. 
+11 Mary không phải là trong phòng tắm. 
+12 là Mary trong phòng tắm? 	 không có	 11 
+13 Mary không còn trong văn phòng.
+14 Sandra không còn trong nhà bếp. 
+15 là Mary trong văn phòng? 	 không có	 13 
+1 John đi vào nhà bếp. 
+2 Sandra không phải là trong phòng tắm. 
+3 là John trong phòng ngủ? 	 không có	 1 
+4 Mary là trong phòng ngủ. 
+5 Mary không phải là trong phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 không	 5 
+7 Mary không còn trong vườn. 
+8 John đã đi đến hành lang. 
+9 là Mary trong vườn? 	 không	 7 
+10 Sandra là trong phòng ngủ. 
+11 Đức Maria là trong nhà bếp. 
+12 là Sandra trong phòng ngủ? 	 Có	 10 
+13 Sandra trở lại nhà bếp. 
+14 Daniel đã đến khu vườn. 
+15 là Sandra trong nhà bếp? 	 Có	 13 
+1 Sandra chuyển đến khu vườn. 
+2 Sandra là trong văn phòng.
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Daniel trở lại hành lang. 
+5 John không còn trong phòng tắm. 
+6 là Sandra trong nhà bếp? 	 không có	 2 
+7 Daniel chuyển tới nhà bếp. 
+8 Sandra trở về phòng ngủ. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Mary không phải là trong phòng tắm. 
+11 Sandra đi vào phòng tắm. 
+12 là John trong phòng tắm? 	 không	 5 
+13 Mary chuyển đến nhà bếp. 
+14 John là ở hành lang. 
+15 là Sandra trong nhà bếp? 	 không có	 11 
+1 Sandra chuyển đến văn phòng. 
+2 Mary là trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 không có	 1 
+4 Sandra là trong phòng tắm. 
+5 Mary là trong văn phòng.
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Daniel là trong phòng tắm. 
+8 John là ở hành lang. 
+9 là Sandra trong phòng tắm? 	 Có	 4 
+10 Daniel không phải là trong phòng tắm. 
+11 Sandra là trong phòng ngủ. 
+12 là John ở hành lang? 	 Có	 8 
+13 Mary không còn trong văn phòng. 
+14 John đã đi vào phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 14 
+1 Sandra đi vào bếp. 
+2 John là trong phòng ngủ. 
+3 là John trong phòng tắm? 	 không có	 2 
+4 Mary không phải là ở hành lang. 
+5 Mary là trong phòng tắm. 
+6 là John trong vườn? 	 không có	 2 
+7 Mary trở về phòng ngủ. 
+8 Mary là trong văn phòng. 
+9 là Mary trong nhà bếp? 	 không	 8
+10 Mary không còn trong văn phòng. 
+11 Sandra đi đến hành lang. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Daniel trở lại vào phòng tắm. 
+14 Mary không phải là trong nhà bếp. 
+15 là Daniel trong phòng tắm? 	 Có	 13 
+1 Sandra chuyển đến văn phòng. 
+2 Sandra đi vào phòng tắm. 
+3 là Sandra trong phòng tắm? 	 Có	 2 
+4 John không phải là trong phòng ngủ. 
+5 Mary đã đến khu vườn. 
+6 là Sandra trong phòng ngủ? 	 không có	 2 
+7 Sandra đã đi vào phòng ngủ. 
+8 Mary chuyển đến hành lang. 
+9 là Sandra trong văn phòng? 	 không	 7 
+10 Sandra không phải là trong phòng ngủ. 
+11 Daniel không còn trong văn phòng. 
+12 là Mary ở hành lang? 	 Có	 8
+13 Đức Maria là trong văn phòng. 
+14 Mary đi đến khu vườn. 
+15 là Sandra trong phòng ngủ? 	 không có	 10 
+1 Mary không còn trong phòng tắm. 
+2 Daniel là trong phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 Có	 2 
+4 Sandra trở lại nhà bếp. 
+5 Daniel đi vào nhà bếp. 
+6 là Sandra trong nhà bếp? 	 Có	 4 
+7 Mary không còn trong nhà bếp. 
+8 Sandra chuyển đến phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 không	 5 
+10 Sandra trở vào phòng tắm. 
+11 Sandra là trong vườn. 
+12 là Mary trong nhà bếp? 	 không	 7 
+13 Sandra là trong phòng ngủ. 
+14 Mary không còn trong vườn. 
+15 là Sandra ở hành lang? 	 không có	 13
+1 Mary đi vào phòng ngủ. 
+2 Daniel đi đến hành lang. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Daniel đã đến khu vườn. 
+5 Daniel đi đến phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 Có	 5 
+7 Mary chuyển đến phòng tắm. 
+8 Mary chuyển đến khu vườn. 
+9 là Daniel trong phòng ngủ? 	 Có	 5 
+10 Sandra là ở hành lang. 
+11 Daniel là trong nhà bếp. 
+12 là Mary ở hành lang? 	 không	 8 
+13 John chuyển đến phòng ngủ. 
+14 John đi đến hành lang. 
+15 là John trong nhà bếp? 	 không có	 14 
+1 Sandra không còn ở hành lang. 
+2 Mary đi vào bếp. 
+3 là Sandra ở hành lang? 	 không có	 1
+4 John trở lại nhà bếp. 
+5 Daniel đi vào phòng ngủ. 
+6 là Sandra ở hành lang? 	 không có	 1 
+7 Sandra là trong phòng tắm. 
+8 Daniel là trong vườn. 
+9 là John trong nhà bếp? 	 Có	 4 
+10 Mary đi vào phòng ngủ. 
+11 Daniel là trong văn phòng. 
+12 là Daniel trong văn phòng? 	 Có	 11 
+13 John trở về phòng ngủ. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là Daniel trong văn phòng? 	 Có	 11 
+1 John là trong vườn. 
+2 Sandra là trong vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 Sandra là ở hành lang. 
+5 John chuyển đến phòng ngủ. 
+6 là Sandra trong phòng tắm? 	 không	 4 
+7 Sandra không nằm trong hành lang.
+8 Sandra trở về khu vườn. 
+9 là Sandra trong văn phòng? 	 không	 8 
+10 Daniel đi vào bếp. 
+11 John không phải là trong phòng ngủ. 
+12 là Sandra trong phòng ngủ? 	 không	 8 
+13 Sandra đi đến nhà bếp. 
+14 Sandra đi đến phòng tắm. 
+15 là John trong phòng ngủ? 	 không có	 11 
+1 Sandra không có trong vườn. 
+2 Mary chuyển đến phòng ngủ. 
+3 là Sandra trong vườn? 	 không có	 1 
+4 Mary chuyển đến phòng tắm. 
+5 John không phải là trong văn phòng. 
+6 là Sandra trong vườn? 	 không có	 1 
+7 John là trong vườn. 
+8 John đi đến nhà bếp. 
+9 là Mary trong phòng tắm? 	 Có	 4 
+10 Daniel trở lại hành lang.
+11 Daniel đi đến phòng tắm. 
+12 là John trong nhà bếp? 	 Có	 8 
+13 Daniel trở lại nhà bếp. 
+14 Mary không còn trong phòng tắm. 
+15 là Daniel trong nhà bếp? 	 Có	 13 
+1 Sandra không còn trong văn phòng. 
+2 Sandra là ở hành lang. 
+3 là Sandra ở hành lang? 	 Có	 2 
+4 Sandra đi đến nhà bếp. 
+5 Sandra không có trong nhà bếp. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 Sandra không còn trong phòng ngủ. 
+8 Mary không phải là ở hành lang. 
+9 là Sandra trong phòng ngủ? 	 không	 7 
+10 John không còn trong nhà bếp. 
+11 Daniel chuyển tới phòng tắm. 
+12 là Sandra trong phòng ngủ? 	 không	
+14 Daniel trở lại hành lang. 
+15 là John trong nhà bếp? 	 không có	 10 
+1 Sandra không còn trong văn phòng. 
+2 Daniel không còn ở hành lang. 
+3 là Sandra trong văn phòng? 	 không có	 1 
+4 Daniel đi đến văn phòng. 
+5 Mary không còn trong nhà bếp. 
+6 là Daniel trong văn phòng? 	 Có	 4 
+7 Daniel không còn trong văn phòng. 
+8 Daniel đã đến khu vườn. 
+9 là Daniel trong vườn? 	 Có	 8 
+10 Mary trở lại nhà bếp. 
+11 Sandra trở về văn phòng. 
+12 là Daniel trong phòng ngủ? 	 không	 8 
+13 Daniel không còn trong vườn. 
+14 John không còn trong nhà bếp. 
+15 là Sandra trong văn phòng? 	 Có	 11
+1 Daniel là trong phòng tắm. 
+2 Sandra là trong vườn. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 John là trong phòng tắm. 
+5 Sandra là trong nhà bếp. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Mary đã đến văn phòng. 
+8 Sandra đã đi đến vườn. 
+9 là John trong phòng tắm? 	 Có	 4 
+10 Daniel là trong phòng ngủ. 
+11 Đức Maria là ở hành lang. 
+12 là Daniel trong phòng ngủ? 	 Có	 10 
+13 Sandra không có trong vườn. 
+14 John đi đến văn phòng. 
+15 là Mary ở hành lang? 	 Có	 11 
+1 Sandra là trong văn phòng. 
+2 Sandra trở về khu vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 Mary là ở hành lang.
+5 John đã đi đến vườn. 
+6 là Sandra trong phòng tắm? 	 không có	 2 
+7 Sandra chuyển đến phòng tắm. 
+8 John là trong phòng tắm. 
+9 là Sandra trong phòng tắm? 	 Có	 7 
+10 Daniel hành quân tới vườn. 
+11 Daniel không còn trong vườn. 
+12 là Sandra ở hành lang? 	 không	 7 
+13 Daniel đi vào nhà bếp. 
+14 John đã đi đến hành lang. 
+15 là Daniel trong nhà bếp? 	 Có	 13 
+1 Sandra không có trong vườn. 
+2 Daniel đi vào bếp. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Daniel trở lại khu vườn. 
+5 Mary đi đến hành lang. 
+6 là Mary trong phòng tắm? 	 không	 5 
+7 John đã đi đến vườn.
+8 John đi đến phòng ngủ. 
+9 là Daniel trong văn phòng? 	 không	 4 
+10 Daniel chuyển tới phòng tắm. 
+11 Daniel trở lại phòng ngủ. 
+12 là Mary trong nhà bếp? 	 không	 5 
+13 Daniel không còn trong phòng ngủ. 
+14 Mary không phải là ở hành lang. 
+15 là John trong vườn? 	 không	 8 
+1 Sandra là trong văn phòng. 
+2 Daniel không phải là ở hành lang. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Sandra trở về khu vườn. 
+5 Sandra chuyển đến văn phòng. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 John chuyển đến phòng tắm. 
+8 Daniel đi vào nhà bếp. 
+9 là John trong phòng tắm? 	 Có	 7 
+10 Mary không còn trong nhà bếp.
+11 John không còn trong phòng tắm. 
+12 là Sandra trong văn phòng? 	 Có	 5 
+13 Mary đi vào bếp. 
+14 John không còn ở hành lang. 
+15 là Mary trong phòng tắm? 	 không có	 13 
+1 Mary đi đến văn phòng. 
+2 Mary không có trong văn phòng. 
+3 là Mary trong văn phòng? 	 không có	 2 
+4 Sandra không có trong nhà bếp. 
+5 Sandra không phải là trong phòng tắm. 
+6 là Mary trong văn phòng? 	 không có	 2 
+7 Sandra là trong phòng ngủ. 
+8 Daniel là trong văn phòng. 
+9 là Sandra trong phòng ngủ? 	 Có	 7 
+10 John không phải là trong văn phòng. 
+11 Mary trở lại nhà bếp. 
+12 là Mary trong nhà bếp? 	 Có	 11 
+13 John trở lại nhà bếp.
+14 John đi đến khu vườn. 
+15 là John trong phòng ngủ? 	 không có	 14 
+1 Mary chuyển đến nhà bếp. 
+2 Sandra không còn trong phòng tắm. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Mary không còn trong nhà bếp. 
+5 Sandra đi vào phòng ngủ. 
+6 là Mary trong nhà bếp? 	 không	 4 
+7 Sandra đã đến khu vườn. 
+8 Daniel trở lại phòng ngủ. 
+9 là Mary trong nhà bếp? 	 không	 4 
+10 Daniel không còn trong phòng ngủ. 
+11 Daniel là trong phòng ngủ. 
+12 là Daniel trong vườn? 	 không có	 11 
+13 John không còn trong văn phòng. 
+14 Mary không có trong văn phòng. 
+15 là John trong văn phòng? 	 không có	 13 
+1 John chuyển đến nhà bếp.
+2 Mary không còn trong vườn. 
+3 là John ở hành lang? 	 không có	 1 
+4 John không còn trong nhà bếp. 
+5 Mary không có trong văn phòng. 
+6 là John trong nhà bếp? 	 không	 4 
+7 John đi đến nhà bếp. 
+8 John là trong phòng ngủ. 
+9 là John trong phòng ngủ? 	 Có	 8 
+10 Sandra không nằm trong hành lang. 
+11 John đi đến hành lang. 
+12 là John ở hành lang? 	 Có	 11 
+13 John là trong nhà bếp. 
+14 Sandra không có trong văn phòng. 
+15 là Sandra trong văn phòng? 	 không có	 14 
+1 John đã đi vào phòng ngủ. 
+2 John không còn trong phòng ngủ. 
+3 là John trong phòng ngủ? 	 không có	 2 
+4 Daniel đã đi đến văn phòng.
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Mary chuyển đến khu vườn. 
+8 Daniel đi đến phòng tắm. 
+9 là Daniel trong phòng tắm? 	 Có	 8 
+10 Sandra là ở hành lang. 
+11 John chuyển đến khu vườn. 
+12 là Mary trong vườn? 	 Có	 7 
+13 Mary chuyển đến phòng ngủ. 
+14 Mary trở về khu vườn. 
+15 là Sandra ở hành lang? 	 Có	 10 
+1 Mary chuyển đến hành lang. 
+2 Mary không còn ở hành lang. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Daniel đã đến khu vườn. 
+5 Mary là ở hành lang. 
+6 là Mary ở hành lang? 	 Có	 5 
+7 Sandra không còn trong phòng ngủ. 
+8 Mary là trong phòng ngủ. 
+9 là Mary trong phòng ngủ? 	
+10 John là trong vườn. 
+11 Sandra đi đến nhà bếp. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 Daniel không còn trong vườn. 
+14 Daniel là trong vườn. 
+15 là John trong vườn? 	 Có	 10 
+1 Daniel chuyển tới hành lang. 
+2 Daniel là trong vườn. 
+3 là Daniel trong vườn? 	 Có	 2 
+4 Mary không còn trong vườn. 
+5 Mary chuyển đến hành lang. 
+6 là Daniel trong vườn? 	 Có	 2 
+7 John chuyển đến phòng ngủ. 
+8 Sandra đi vào nhà bếp. 
+9 là Mary ở hành lang? 	 Có	 5 
+10 Daniel chuyển tới nhà bếp. 
+11 John trở lại nhà bếp. 
+12 là John trong vườn? 	 không	
+14 Đức Maria là trong vườn. 
+15 là Sandra trong văn phòng? 	 không	 8 
+1 Daniel không còn trong văn phòng. 
+2 John đã đến khu vườn. 
+3 là John trong vườn? 	 Có	 2 
+4 Mary là trong nhà bếp. 
+5 Mary trở về khu vườn. 
+6 là Mary ở hành lang? 	 không	 5 
+7 Sandra đi vào bếp. 
+8 Mary là ở hành lang. 
+9 là John trong vườn? 	 Có	 2 
+10 John đi đến hành lang. 
+11 John không còn ở hành lang. 
+12 là John ở hành lang? 	 không có	 11 
+13 Daniel không phải là trong phòng tắm. 
+14 Daniel là trong nhà bếp. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Sandra là trong vườn. 
+2 Daniel trở lại nhà bếp.
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Daniel đi đến phòng ngủ. 
+5 Daniel đi đến văn phòng. 
+6 là Sandra trong phòng tắm? 	 không có	 1 
+7 Daniel đi đến hành lang. 
+8 Daniel không còn ở hành lang. 
+9 là Daniel ở hành lang? 	 không	 8 
+10 Daniel trở lại hành lang. 
+11 John không phải là ở hành lang. 
+12 là Daniel ở hành lang? 	 Có	 10 
+13 John đi đến văn phòng. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là John trong phòng ngủ? 	 không có	 13 
+1 Sandra đi đến phòng ngủ. 
+2 Daniel là trong phòng tắm. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 John là ở hành lang. 
+5 John là trong phòng tắm.
+6 là Sandra trong phòng ngủ? 	 có	 1 
+7 Mary chuyển đến hành lang. 
+8 Daniel trở lại khu vườn. 
+9 là Daniel trong vườn? 	 Có	 8 
+10 Daniel là ở hành lang. 
+11 Daniel không còn ở hành lang. 
+12 là Daniel ở hành lang? 	 không có	 11 
+13 John chuyển đến phòng ngủ. 
+14 John đi đến phòng tắm. 
+15 là Daniel ở hành lang? 	 không có	 11 
+1 John trở lại hành lang. 
+2 John chuyển đến văn phòng. 
+3 là John trong văn phòng? 	 Có	 2 
+4 Mary là trong phòng tắm. 
+5 Daniel là trong vườn. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 Daniel không phải là trong vườn. 
+8 Mary không phải là trong phòng tắm. 
+9 là Daniel trong vườn? 	 không	 7
+10 John là trong phòng tắm. 
+11 Mary đã đi đến vườn. 
+12 là Daniel trong vườn? 	 không	 7 
+13 Sandra chuyển đến văn phòng. 
+14 Sandra là trong vườn. 
+15 là Sandra trong vườn? 	 Có	 14 
+1 John đi đến phòng tắm. 
+2 Sandra là trong phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 Có	 2 
+4 Mary không phải là ở hành lang. 
+5 Daniel không còn trong văn phòng. 
+6 là Daniel trong văn phòng? 	 không	 5 
+7 Daniel là ở hành lang. 
+8 Mary đi đến nhà bếp. 
+9 là Daniel trong vườn? 	 không	 7 
+10 Sandra đi đến hành lang. 
+11 Mary không còn trong nhà bếp. 
+12 là Daniel trong phòng ngủ? 	 không	 7
+13 Sandra hành quân tới vườn. 
+14 Daniel không còn ở hành lang. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Mary không phải là trong phòng tắm. 
+2 John không phải là trong vườn. 
+3 là John trong vườn? 	 không có	 2 
+4 Sandra không còn ở hành lang. 
+5 Mary không phải là ở hành lang. 
+6 là Mary ở hành lang? 	 không	 5 
+7 John chuyển đến khu vườn. 
+8 Mary không còn trong vườn. 
+9 là Mary trong vườn? 	 không	 8 
+10 Mary không phải là trong phòng ngủ. 
+11 Đức Maria là trong phòng ngủ. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Daniel chuyển tới nhà bếp. 
+14 Daniel trở lại vào phòng tắm. 
+15 là Mary trong vườn? 	 không có	 11
+1 John chuyển đến phòng tắm. 
+2 Mary là trong phòng tắm. 
+3 là John trong phòng tắm? 	 có	 1 
+4 Daniel không phải là ở hành lang. 
+5 John đi đến hành lang. 
+6 là Mary trong vườn? 	 không có	 2 
+7 Sandra không còn trong nhà bếp. 
+8 Sandra đi vào phòng tắm. 
+9 là Mary ở hành lang? 	 không có	 2 
+10 Daniel không phải là trong nhà bếp. 
+11 Daniel là trong nhà bếp. 
+12 là Daniel trong phòng ngủ? 	 không có	 11 
+13 Mary trở về văn phòng. 
+14 Daniel đi đến hành lang. 
+15 là Daniel trong văn phòng? 	 không có	 14 
+1 Mary không phải là ở hành lang. 
+2 Mary không còn trong vườn. 
+3 là Mary trong vườn? 	 không có	 2
+4 John là ở hành lang. 
+5 Mary là trong phòng ngủ. 
+6 là Mary trong phòng tắm? 	 không	 5 
+7 Daniel là trong phòng tắm. 
+8 Sandra không có trong nhà bếp. 
+9 là John ở hành lang? 	 Có	 4 
+10 Mary là ở hành lang. 
+11 Daniel trở lại hành lang. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Mary là trong phòng ngủ. 
+14 Mary không phải là trong phòng ngủ. 
+15 là Mary trong phòng ngủ? 	 không có	 14 
+1 Mary không phải là trong phòng ngủ. 
+2 Mary không còn ở hành lang. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Daniel đi vào bếp. 
+5 Daniel đã đến khu vườn. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 Daniel là trong phòng tắm.
+8 Sandra chuyển đến nhà bếp. 
+9 là Daniel trong nhà bếp? 	 không	 7 
+10 John là trong vườn. 
+11 Mary đã đi đến vườn. 
+12 là Mary trong vườn? 	 Có	 11 
+13 Sandra đã đến khu vườn. 
+14 John đi vào bếp. 
+15 là John ở hành lang? 	 không có	 14 
+1 Daniel là trong phòng tắm. 
+2 Sandra không còn trong vườn. 
+3 là Sandra trong vườn? 	 không có	 2 
+4 John là trong phòng ngủ. 
+5 John không phải là trong phòng ngủ. 
+6 là Sandra trong vườn? 	 không có	 2 
+7 Daniel không còn trong phòng tắm. 
+8 Sandra đi vào bếp. 
+9 là John trong phòng ngủ? 	 không	 5 
+10 John là trong vườn. 
+11 Sandra đi đến văn phòng.
+12 là Sandra trong phòng ngủ? 	 không có	 11 
+13 Daniel không còn trong phòng ngủ. 
+14 John không còn trong vườn. 
+15 là Sandra trong văn phòng? 	 Có	 11 
+1 John đã đến khu vườn. 
+2 Sandra đi đến hành lang. 
+3 là John trong vườn? 	 có	 1 
+4 John không phải là trong vườn. 
+5 Daniel đi vào phòng tắm. 
+6 là John trong vườn? 	 không	 4 
+7 Sandra không còn ở hành lang. 
+8 Mary trở lại nhà bếp. 
+9 là Mary trong vườn? 	 không	 8 
+10 Sandra chuyển đến khu vườn. 
+11 Daniel chuyển tới hành lang. 
+12 là Mary ở hành lang? 	 không	 8 
+13 John không còn ở hành lang. 
+14 Daniel không phải là ở hành lang.
+15 là Sandra trong nhà bếp? 	 không có	 10 
+1 John đã đi đến vườn. 
+2 Daniel trở lại vào phòng tắm. 
+3 là Daniel trong phòng tắm? 	 Có	 2 
+4 Mary không có trong văn phòng. 
+5 Sandra không còn ở hành lang. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 John là ở hành lang. 
+8 Daniel đi vào nhà bếp. 
+9 là Daniel ở hành lang? 	 không	 8 
+10 John không phải là ở hành lang. 
+11 John không còn trong phòng ngủ. 
+12 là John trong phòng ngủ? 	 không có	 11 
+13 John là trong nhà bếp. 
+14 Đức Maria là trong vườn. 
+15 là John trong vườn? 	 không có	 13 
+1 Daniel đã đến văn phòng. 
+2 Mary đi đến phòng tắm.
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 Sandra chuyển đến khu vườn. 
+5 Daniel đã đi đến vườn. 
+6 là Daniel trong phòng ngủ? 	 không	 5 
+7 Mary không còn trong phòng tắm. 
+8 Mary đi đến văn phòng. 
+9 là Mary trong văn phòng? 	 Có	 8 
+10 Daniel không còn trong vườn. 
+11 John đi vào phòng tắm. 
+12 là Daniel trong vườn? 	 không có	 10 
+13 Sandra không còn trong vườn. 
+14 Sandra đi vào nhà bếp. 
+15 là Daniel trong vườn? 	 không có	 10 
+1 Daniel là trong phòng ngủ. 
+2 Daniel đã đi đến hành lang. 
+3 là Daniel trong vườn? 	 không có	 2 
+4 Sandra chuyển đến phòng ngủ. 
+5 Mary là trong vườn.
+6 là Mary trong vườn? 	 Có	 5 
+7 John trở lại hành lang. 
+8 Daniel là trong vườn. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 John không phải là ở hành lang. 
+11 Đức Maria là trong văn phòng. 
+12 là Daniel ở hành lang? 	 không	 8 
+13 Mary chuyển đến phòng tắm. 
+14 Mary đi vào phòng ngủ. 
+15 là Daniel trong nhà bếp? 	 không	 8 
+1 John không còn trong phòng tắm. 
+2 Daniel là trong văn phòng. 
+3 là Daniel ở hành lang? 	 không có	 2 
+4 John đã đến khu vườn. 
+5 John đi đến phòng ngủ. 
+6 là Daniel trong phòng tắm? 	 không có	 2 
+7 Mary là trong phòng ngủ. 
+8 Sandra là trong nhà bếp. 
+9 là Daniel trong phòng ngủ? 	 không	
+10 Daniel đã đi vào phòng tắm. 
+11 Mary đi đến văn phòng. 
+12 là Daniel trong nhà bếp? 	 không có	 10 
+13 Mary là ở hành lang. 
+14 John không còn trong phòng ngủ. 
+15 là Sandra trong phòng tắm? 	 không	 8 
+1 Daniel trở lại hành lang. 
+2 Sandra chuyển đến phòng ngủ. 
+3 là Daniel trong phòng tắm? 	 không có	 1 
+4 Sandra không còn trong phòng ngủ. 
+5 Sandra hành quân tới vườn. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Daniel đã đi đến văn phòng. 
+8 John trở lại hành lang. 
+9 là Sandra trong văn phòng? 	 không	 5 
+10 Sandra không còn trong vườn. 
+11 Sandra là trong vườn. 
+12 là Sandra trong vườn? 	 Có	 11
+13 Đức Maria là trong văn phòng. 
+14 Daniel không có trong văn phòng. 
+15 là Mary trong văn phòng? 	 Có	 13 
+1 Sandra không còn trong phòng ngủ. 
+2 Daniel đi đến phòng tắm. 
+3 là Daniel trong văn phòng? 	 không có	 2 
+4 Sandra chuyển đến hành lang. 
+5 Sandra không nằm trong hành lang. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Sandra không còn trong vườn. 
+8 Daniel đi đến hành lang. 
+9 là Sandra trong vườn? 	 không	 7 
+10 Mary trở về văn phòng. 
+11 Daniel đã đi vào phòng ngủ. 
+12 là Daniel trong vườn? 	 không có	 11 
+13 Sandra là trong phòng tắm. 
+14 Daniel đã đi đến vườn. 
+15 là Daniel ở hành lang? 	 không có	 14
+1 Daniel là trong phòng tắm. 
+2 Daniel không còn trong phòng tắm. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Daniel không phải là ở hành lang. 
+5 Daniel là trong phòng tắm. 
+6 là Daniel trong vườn? 	 không	 5 
+7 Mary chuyển đến phòng ngủ. 
+8 Daniel không phải là trong phòng tắm. 
+9 là Mary trong văn phòng? 	 không	 7 
+10 John đi đến khu vườn. 
+11 Mary không phải là trong phòng ngủ. 
+12 là John ở hành lang? 	 không có	 10 
+13 Sandra đã đến khu vườn. 
+14 Sandra là trong phòng tắm. 
+15 là John trong phòng ngủ? 	 không có	 10 
+1 Sandra trở lại nhà bếp. 
+2 Sandra không còn trong nhà bếp. 
+3 là Sandra trong nhà bếp? 	 không có	 2
+4 Daniel là trong nhà bếp. 
+5 Mary chuyển đến khu vườn. 
+6 là Mary ở hành lang? 	 không	 5 
+7 Sandra là trong văn phòng. 
+8 John là ở hành lang. 
+9 là Sandra trong nhà bếp? 	 không	 7 
+10 Mary là trong phòng tắm. 
+11 Mary không phải là trong phòng tắm. 
+12 là Mary trong phòng tắm? 	 không có	 11 
+13 Mary đi vào phòng ngủ. 
+14 John là trong văn phòng. 
+15 là Mary trong nhà bếp? 	 không có	 13 
+1 Mary là trong vườn. 
+2 Daniel đã đến văn phòng. 
+3 là Daniel trong văn phòng? 	 Có	 2 
+4 Daniel không có trong văn phòng. 
+5 Sandra không còn ở hành lang. 
+6 là Daniel trong văn phòng? 	 không	 4 
+7 Daniel là trong văn phòng.
+8 John không còn trong vườn. 
+9 là Daniel trong văn phòng? 	 Có	 7 
+10 Daniel là ở hành lang. 
+11 Mary đi vào nhà bếp. 
+12 là Sandra ở hành lang? 	 không	 5 
+13 Sandra chuyển đến phòng tắm. 
+14 Sandra là trong văn phòng. 
+15 là Sandra trong nhà bếp? 	 không có	 14 
+1 Mary là trong phòng ngủ. 
+2 Daniel đi vào phòng tắm. 
+3 là Daniel trong phòng tắm? 	 Có	 2 
+4 John trở về văn phòng. 
+5 Daniel là trong phòng ngủ. 
+6 là John trong văn phòng? 	 Có	 4 
+7 Mary đi đến phòng tắm. 
+8 Mary trở về khu vườn. 
+9 là Mary trong văn phòng? 	 không	 8 
+10 Sandra không phải là trong phòng tắm.
+11 Mary không còn trong vườn. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Sandra không còn trong vườn. 
+14 Daniel chuyển tới văn phòng. 
+15 là Daniel trong vườn? 	 không có	 14 
+1 Sandra chuyển đến phòng ngủ. 
+2 Sandra là trong văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2 
+4 John không phải là trong vườn. 
+5 Daniel không còn trong phòng tắm. 
+6 là Sandra trong văn phòng? 	 Có	 2 
+7 John là trong nhà bếp. 
+8 Sandra chuyển đến khu vườn. 
+9 là Sandra trong vườn? 	 Có	 8 
+10 Sandra đi vào phòng tắm. 
+11 John đi đến hành lang. 
+12 là John trong phòng ngủ? 	 không có	 11 
+13 Mary không phải là trong phòng tắm.
+14 John chuyển đến phòng tắm. 
+15 là Mary trong phòng tắm? 	 không có	 13 
+1 Sandra đi vào phòng tắm. 
+2 Daniel là ở hành lang. 
+3 là Daniel ở hành lang? 	 Có	 2 
+4 Sandra đi vào bếp. 
+5 John là trong văn phòng. 
+6 là Sandra trong phòng ngủ? 	 không	 4 
+7 Mary không có trong văn phòng. 
+8 John đã đi đến vườn. 
+9 là John trong nhà bếp? 	 không	 8 
+10 Mary đi vào phòng tắm. 
+11 Daniel chuyển tới văn phòng. 
+12 là John trong vườn? 	 Có	 8 
+13 John trở lại vào phòng tắm. 
+14 John là ở hành lang. 
+15 là Daniel ở hành lang? 	 không có	 11 
+1 Daniel không còn trong văn phòng. 
+2 Daniel là trong nhà bếp.
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 Mary quay trở lại vào phòng tắm. 
+5 Daniel không còn trong nhà bếp. 
+6 là Daniel trong nhà bếp? 	 không	 5 
+7 Daniel đi đến hành lang. 
+8 John là trong nhà bếp. 
+9 là Mary trong phòng tắm? 	 Có	 4 
+10 Mary là trong phòng ngủ. 
+11 Daniel là trong phòng tắm. 
+12 là Daniel trong phòng tắm? 	 Có	 11 
+13 Sandra đã đến văn phòng. 
+14 Daniel không phải là trong phòng tắm. 
+15 là John trong văn phòng? 	 không	 8 
+1 Sandra là ở hành lang. 
+2 Daniel không còn trong phòng ngủ. 
+3 là Sandra trong nhà bếp? 	 không có	 1 
+4 Daniel đi đến phòng tắm. 
+5 John là ở hành lang.
+6 là Sandra trong vườn? 	 không có	 1 
+7 Daniel không còn trong phòng tắm. 
+8 John trở về khu vườn. 
+9 là Daniel trong phòng tắm? 	 không	 7 
+10 Mary không còn trong văn phòng. 
+11 John là trong phòng ngủ. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Sandra trở về phòng ngủ. 
+14 Daniel đi đến nhà bếp. 
+15 là Daniel trong văn phòng? 	 không có	 14 
+1 Sandra đã đi đến vườn. 
+2 Mary là ở hành lang. 
+3 là Mary ở hành lang? 	 Có	 2 
+4 Daniel là trong vườn. 
+5 Daniel không còn trong vườn. 
+6 là Mary ở hành lang? 	 Có	 2 
+7 Mary đi đến phòng ngủ. 
+8 John không còn trong vườn.
+9 là Daniel trong vườn? 	 không	 5 
+10 Mary trở về khu vườn. 
+11 John đi đến hành lang. 
+12 là Daniel trong vườn? 	 không	 5 
+13 Sandra đi đến phòng ngủ. 
+14 Đức Maria là ở hành lang. 
+15 là John trong văn phòng? 	 không có	 11 
+1 Sandra đi đến văn phòng. 
+2 Sandra không có trong văn phòng. 
+3 là Sandra trong văn phòng? 	 không có	 2 
+4 Daniel không còn trong phòng tắm. 
+5 Sandra không phải là trong phòng ngủ. 
+6 là Daniel trong phòng tắm? 	 không	 4 
+7 Mary chuyển đến nhà bếp. 
+8 Mary đi đến hành lang. 
+9 là Mary ở hành lang? 	 Có	 8 
+10 Mary không còn ở hành lang. 
+11 Daniel trở lại vào phòng tắm.
+12 là Mary ở hành lang? 	 không có	 10 
+13 John trở về phòng ngủ. 
+14 John trở lại vào phòng tắm. 
+15 là Mary ở hành lang? 	 không có	 10 
+1 John đi đến hành lang. 
+2 Sandra không có trong nhà bếp. 
+3 là John trong văn phòng? 	 không có	 1 
+4 Daniel là trong phòng ngủ. 
+5 Sandra không có trong văn phòng. 
+6 là Daniel trong phòng ngủ? 	 Có	 4 
+7 John không phải là ở hành lang. 
+8 Sandra không còn trong phòng ngủ. 
+9 là Sandra trong phòng ngủ? 	 không	 8 
+10 Sandra không nằm trong hành lang. 
+11 Sandra chuyển đến văn phòng. 
+12 là Sandra trong vườn? 	 không có	 11 
+13 John là trong phòng tắm. 
+14 Daniel đi đến phòng tắm.
+15 là Sandra trong văn phòng? 	 Có	 11 
+1 Sandra không còn trong nhà bếp. 
+2 Mary đi đến văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 Mary là trong vườn. 
+5 Daniel đã đi đến vườn. 
+6 là Sandra trong nhà bếp? 	 không có	 1 
+7 Mary không còn trong vườn. 
+8 John chuyển đến hành lang. 
+9 là Mary trong vườn? 	 không	 7 
+10 Daniel đi đến nhà bếp. 
+11 Mary chuyển đến phòng ngủ. 
+12 là Daniel trong nhà bếp? 	 Có	 10 
+13 John là trong văn phòng. 
+14 Đức Maria là trong phòng tắm. 
+15 là Mary trong phòng tắm? 	 Có	 14

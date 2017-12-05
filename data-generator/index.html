@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="./FileSaver.min.js"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, multilanguagePage: true }, 'google_translate_element');
+        }
+        var fileName;
+        function readSingleFile(e) {
+            var file = e.target.files[0];
+            if (!file) {
+                return;
+            }
+            fileName = file.name;
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                var contents = e.target.result;
+                displayContents(contents);
+            };
+            reader.readAsText(file);
+        }
+
+        function preProcess(contents) {
+            return contents.replace(/\t/g, '>');
+        }
+
+        function displayContents(contents) {
+            var element = document.getElementById('file-content');
+            element.textContent = preProcess(contents);
+        }
+
+        function postProcess(contents) {
+            return contents.replace(/>/g, '\t');
+        }
+
+        function download(filename, text) {
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+            element.setAttribute('download', filename);
+
+            element.style.display = 'none';
+            document.body.appendChild(element);
+
+            element.click();
+
+            document.body.removeChild(element);
+        }
+
+        function save(contents) {
+            contents = postProcess(contents);
+            download(fileName, contents);
+        }
+    </script>
+</head>
+
+<body>
+    <div id="google_translate_element"></div>
+    <input type="file" id="file-input" change="readSingleFile($event)" />
+    <button onclick="save(document.getElementById('file-content').innerText)">Export</button>
+    <pre id="file-content"></pre>
+</body>
+<script>
+    document.getElementById('file-input')
+        .addEventListener('change', readSingleFile, false);
+</script>
+
+</html>

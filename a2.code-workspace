@@ -5,7 +5,12 @@
 		},
 		{
 			"path": "data-generator"
+		},
+		{
+			"path": "FaceBook_QA"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.enabled": false
+	}
 }

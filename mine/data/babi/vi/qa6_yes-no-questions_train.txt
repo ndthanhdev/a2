@@ -1,0 +1,3061 @@
+1 Mary chuyển đến phòng tắm. 
+2 Sandra đi đến phòng ngủ. 
+3 là Sandra ở hành lang? 	 không có	 2 
+4 Mary trở về phòng ngủ. 
+5 Daniel trở lại hành lang. 
+6 là Daniel trong phòng tắm? 	 không	 5 
+7 Sandra đi vào nhà bếp. 
+8 Daniel trở lại vào phòng tắm. 
+9 là Daniel trong văn phòng? 	 không	 8 
+10 Daniel nhặt bóng đá ở đó. 
+11 Daniel đã đi vào phòng ngủ. 
+12 là Daniel trong phòng ngủ? 	 Có	 11 
+13 John đã đến văn phòng. 
+14 Sandra đã đi đến vườn. 
+15 là Daniel trong phòng ngủ? 	 Có	 11 
+1 Sandra có bóng đá ở đó. 
+2 Mary đi vào phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2
+4 Daniel có quả táo đó. 
+5 Sandra đi đến hành lang. 
+6 là Sandra trong văn phòng? 	 không	 5 
+7 Sandra chuyển đến khu vườn. 
+8 Mary đi vào bếp. 
+9 là Sandra trong phòng tắm? 	 không	 7 
+10 Sandra trở về phòng ngủ. 
+11 Daniel đặt xuống quả táo. 
+12 là Sandra trong phòng tắm? 	 không có	 10 
+13 Sandra đặt xuống bóng đá. 
+14 Sandra đi đến văn phòng. 
+15 là Mary trong nhà bếp? 	 Có	 8 
+1 Sandra trở lại hành lang. 
+2 Sandra chuyển đến văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2 
+4 Mary chuyển đến hành lang. 
+5 Daniel hành quân tới vườn. 
+6 là Mary ở hành lang? 	 Có	 4
+7 Mary đi đến văn phòng. 
+8 Mary trở về hành lang. 
+9 là Mary ở hành lang? 	 Có	 8 
+10 John nắm lấy quả táo đó. 
+11 Mary chuyển đến khu vườn. 
+12 là Mary ở hành lang? 	 không có	 11 
+13 Daniel trở lại hành lang. 
+14 John đi đến phòng tắm. 
+15 là Mary trong vườn? 	 Có	 11 
+1 Sandra chuyển đến văn phòng. 
+2 John trở về khu vườn. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Sandra đã đi đến hành lang. 
+5 Sandra đi vào nhà bếp. 
+6 là Sandra trong phòng tắm? 	 không	 5 
+7 Mary đi đến văn phòng. 
+8 Sandra đã táo đó. 
+9 là Sandra trong nhà bếp? 	 Có	 5
+10 Mary đi đến hành lang. 
+11 Mary đi đến phòng ngủ. 
+12 là Mary trong phòng ngủ? 	 Có	 11 
+13 Mary đi đến khu vườn. 
+14 Mary đi vào nhà bếp. 
+15 là Mary trong nhà bếp? 	 Có	 14 
+1 Daniel có quả táo đó. 
+2 John nhặt bóng đá ở đó. 
+3 Daniel trái táo. 
+4 Daniel chuyển tới nhà bếp. 
+5 là Daniel trong phòng ngủ? 	 không	 4 
+6 Sandra trở vào phòng tắm. 
+7 Sandra nắm lấy quả táo đó. 
+8 là Sandra trong phòng tắm? 	 Có	 6 
+9 John bỏ bóng đá. 
+10 John có bóng đá ở đó. 
+11 là Sandra trong phòng ngủ? 	 không	 6 
+12 Sandra đặt xuống quả táo.
+13 Sandra nắm lấy quả táo đó. 
+14 Daniel đi đến hành lang. 
+15 Sandra trái táo. 
+16 là Daniel trong văn phòng? 	 không có	 14 
+17 John bỏ bóng đá. 
+18 Sandra nhặt quả táo đó. 
+19 là Daniel trong nhà bếp? 	 không có	 14 
+1 Sandra hành quân tới vườn. 
+2 Sandra trở về phòng ngủ. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Daniel mất quả táo đó. 
+5 Sandra đã đến văn phòng. 
+6 là Sandra trong văn phòng? 	 Có	 5 
+7 John đã đi đến hành lang. 
+8 Sandra chuyển đến nhà bếp. 
+9 là John trong văn phòng? 	 không	 7 
+10 Daniel đi đến phòng tắm. 
+11 Daniel trở lại phòng ngủ.
+12 là Sandra trong văn phòng? 	 không	 8 
+13 Daniel đi vào bếp. 
+14 Sandra đã đi vào phòng ngủ. 
+15 là Sandra ở hành lang? 	 không có	 14 
+1 John đi vào phòng tắm. 
+2 Sandra mất bóng đá ở đó. 
+3 là John trong phòng tắm? 	 có	 1 
+4 Mary đi đến nhà bếp. 
+5 John đi đến phòng ngủ. 
+6 là John trong phòng ngủ? 	 Có	 5 
+7 John mất quả táo đó. 
+8 John trái táo. 
+9 là Mary ở hành lang? 	 không	 4 
+10 Daniel nắm lấy sữa ở đó. 
+11 Sandra bỏ bóng đá. 
+12 là John trong phòng ngủ? 	 Có	 5 
+13 Mary nhặt bóng đá ở đó. 
+14 John có quả táo đó.
+15 Mary bỏ bóng đá. 
+16 Daniel trở lại nhà bếp. 
+17 là Daniel trong phòng tắm? 	 không có	 16 
+1 Sandra đã đi đến vườn. 
+2 Sandra nắm lấy sữa ở đó. 
+3 là Sandra ở hành lang? 	 không có	 1 
+4 Mary chuyển đến văn phòng. 
+5 Mary đã đi đến vườn. 
+6 là Mary trong nhà bếp? 	 không	 5 
+7 Daniel trở lại văn phòng. 
+8 Mary đi đến phòng ngủ. 
+9 là Mary trong phòng tắm? 	 không	 8 
+10 Sandra trở lại hành lang. 
+11 Sandra đi đến văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 11 
+13 Sandra hành quân tới vườn. 
+14 Mary đi đến hành lang. 
+15 là Mary trong phòng tắm? 	 không có	 14
+1 Sandra nắm lấy bóng đá ở đó. 
+2 Sandra trở lại hành lang. 
+3 là Sandra trong vườn? 	 không có	 2 
+4 Mary đi đến nhà bếp. 
+5 Mary chuyển đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 John chuyển đến nhà bếp. 
+8 Sandra đặt xuống bóng đá ở đó. 
+9 là John trong phòng tắm? 	 không	 7 
+10 Mary mất quả táo đó. 
+11 John đi đến hành lang. 
+12 là John trong vườn? 	 không có	 11 
+13 Daniel chuyển tới hành lang. 
+14 Mary đi vào bếp. 
+15 là John trong vườn? 	 không có	 11 
+1 Daniel đi đến phòng ngủ. 
+2 John chuyển đến phòng ngủ. 
+3 là Daniel ở hành lang? 	 không có	 1
+4 Daniel mất quả táo đó. 
+5 Mary chuyển đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Sandra đi đến văn phòng. 
+8 Daniel đã đi vào phòng tắm. 
+9 là Daniel trong phòng tắm? 	 Có	 8 
+10 Daniel đặt xuống quả táo. 
+11 Sandra đi đến nhà bếp. 
+12 là Mary ở hành lang? 	 không	 5 
+13 Daniel nắm lấy quả táo đó. 
+14 Daniel mất sữa đó. 
+15 là Daniel trong nhà bếp? 	 không	 8 
+1 Mary quay trở lại vào phòng tắm. 
+2 Daniel đã đi đến văn phòng. 
+3 là Mary trong phòng tắm? 	 có	 1 
+4 Mary có sữa đó. 
+5 Sandra đi vào phòng tắm. 
+6 là Sandra trong phòng tắm? 	 Có	 5
+7 Mary trở về phòng ngủ. 
+8 Mary nhặt quả táo đó. 
+9 là Sandra trong phòng tắm? 	 Có	 5 
+10 Sandra chuyển đến hành lang. 
+11 Mary bỏ đi táo. 
+12 là Mary trong phòng ngủ? 	 Có	 7 
+13 Daniel đi đến nhà bếp. 
+14 Mary mất quả táo đó. 
+15 là Daniel trong phòng tắm? 	 không có	 13 
+1 Daniel đi đến hành lang. 
+2 Mary trở lại nhà bếp. 
+3 là Mary trong nhà bếp? 	 Có	 2 
+4 John chuyển đến hành lang. 
+5 John nhặt quả táo đó. 
+6 là Daniel trong nhà bếp? 	 không có	 1 
+7 Daniel chuyển tới phòng tắm. 
+8 John đã đi đến vườn. 
+9 là Mary trong nhà bếp? 	 Có	 2
+10 Mary chuyển đến hành lang. 
+11 John giảm táo. 
+12 là John trong phòng ngủ? 	 không	 8 
+13 Sandra nắm lấy quả táo đó. 
+14 Sandra trái táo. 
+15 là John trong vườn? 	 Có	 8 
+1 John đi đến hành lang. 
+2 Sandra mất bóng đá ở đó. 
+3 là John trong phòng tắm? 	 không có	 1 
+4 John đi đến phòng tắm. 
+5 John đi đến văn phòng. 
+6 là John trong vườn? 	 không	 5 
+7 Daniel đi đến hành lang. 
+8 Sandra bỏ bóng đá ở đó. 
+9 là John trong vườn? 	 không	 5 
+10 Daniel chuyển tới văn phòng. 
+11 John nhặt quả táo đó. 
+12 là Daniel trong nhà bếp? 	 không có	 10
+13 John chuyển đến phòng tắm. 
+14 Mary đi đến phòng tắm. 
+15 là Mary trong phòng tắm? 	 Có	 14 
+1 Sandra trở vào phòng tắm. 
+2 Sandra mất quả táo đó. 
+3 là Sandra trong phòng tắm? 	 có	 1 
+4 Sandra nhặt bóng đá ở đó. 
+5 John đi đến phòng tắm. 
+6 là John trong phòng tắm? 	 Có	 5 
+7 Mary trở về phòng ngủ. 
+8 John chuyển đến nhà bếp. 
+9 là Mary trong nhà bếp? 	 không	 7 
+10 John đi đến văn phòng. 
+11 Sandra mất sữa đó. 
+12 là Mary trong phòng ngủ? 	 Có	 7 
+13 Sandra rời khỏi bóng đá. 
+14 Sandra trái táo đó. 
+15 là John trong vườn? 	 không có	 10
+1 John trở lại hành lang. 
+2 Daniel đi đến hành lang. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Daniel nhặt sữa đó. 
+5 Daniel rời khỏi sữa. 
+6 là John ở hành lang? 	 có	 1 
+7 Daniel đã đi vào phòng ngủ. 
+8 Daniel trở lại hành lang. 
+9 là Daniel ở hành lang? 	 Có	 8 
+10 Daniel nhặt sữa đó. 
+11 John nhặt bóng đá ở đó. 
+12 là Daniel ở hành lang? 	 Có	 8 
+13 Mary quay trở lại vào phòng tắm. 
+14 Daniel chuyển tới phòng ngủ. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Mary có bóng đá ở đó. 
+2 Daniel đi vào phòng ngủ. 
+3 là Daniel ở hành lang? 	 không có	 2
+4 Sandra có sữa đó. 
+5 Sandra đặt xuống sữa. 
+6 là Daniel trong vườn? 	 không có	 2 
+7 Sandra đi đến văn phòng. 
+8 Daniel trở lại nhà bếp. 
+9 là Sandra trong phòng ngủ? 	 không	 7 
+10 Daniel chuyển tới phòng tắm. 
+11 Mary rời khỏi bóng đá. 
+12 là Daniel trong văn phòng? 	 không có	 10 
+13 Mary trở lại nhà bếp. 
+14 John đi đến nhà bếp. 
+15 là Daniel trong phòng ngủ? 	 không có	 10 
+1 Sandra trở về văn phòng. 
+2 Mary đi đến phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2 
+4 Sandra có bóng đá ở đó. 
+5 Sandra đặt xuống bóng đá. 
+6 là Sandra trong văn phòng? 	 có	 1
+7 John trở về văn phòng. 
+8 Mary nắm lấy sữa ở đó. 
+9 là Mary trong phòng ngủ? 	 Có	 2 
+10 Sandra nhặt bóng đá ở đó. 
+11 John đã đi vào phòng ngủ. 
+12 là John trong phòng ngủ? 	 Có	 11 
+13 Sandra đi vào nhà bếp. 
+14 Daniel trở lại vào phòng tắm. 
+15 là Sandra trong văn phòng? 	 không có	 13 
+1 Sandra đi vào nhà bếp. 
+2 Sandra đi vào phòng tắm. 
+3 là Sandra trong phòng tắm? 	 Có	 2 
+4 Daniel trở lại phòng ngủ. 
+5 Mary đi đến khu vườn. 
+6 là Sandra trong phòng tắm? 	 Có	 2 
+7 Mary trở về văn phòng. 
+8 Daniel trở lại vào phòng tắm. 
+9 là Daniel ở hành lang? 	 không	 8
+10 John trở về phòng ngủ. 
+11 Mary trở về khu vườn. 
+12 là Daniel trong phòng tắm? 	 Có	 8 
+13 Daniel đã đi vào phòng ngủ. 
+14 Mary chuyển đến phòng tắm. 
+15 là Daniel trong văn phòng? 	 không có	 13 
+1 John đã đến khu vườn. 
+2 Sandra đã đến khu vườn. 
+3 là John trong phòng ngủ? 	 không có	 1 
+4 Mary chuyển đến phòng ngủ. 
+5 Mary đi vào bếp. 
+6 là John trong vườn? 	 có	 1 
+7 John đi đến văn phòng. 
+8 John nắm lấy sữa ở đó. 
+9 là Sandra trong phòng ngủ? 	 không có	 2 
+10 Daniel đi đến hành lang. 
+11 Sandra có bóng đá ở đó. 
+12 là Daniel trong nhà bếp? 	 không có	 10
+13 Sandra đi đến phòng ngủ. 
+14 Sandra đặt xuống bóng đá. 
+15 là Daniel ở hành lang? 	 Có	 10 
+1 Daniel nắm lấy quả táo đó. 
+2 Daniel đã đi vào phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 Có	 2 
+4 John chuyển đến khu vườn. 
+5 Sandra đi đến văn phòng. 
+6 là John trong phòng tắm? 	 không	 4 
+7 Daniel đặt xuống quả táo. 
+8 Mary đi vào phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 Có	 2 
+10 Mary nắm lấy quả táo đó. 
+11 Sandra trở về khu vườn. 
+12 là Mary trong phòng ngủ? 	 Có	 8 
+13 Mary đi vào nhà bếp. 
+14 Daniel đã đi đến văn phòng. 
+15 là Mary trong vườn? 	 không có	 13
+1 Mary đi vào phòng ngủ. 
+2 Daniel mất bóng đá ở đó. 
+3 là Mary trong văn phòng? 	 không có	 1 
+4 Daniel đã đi vào phòng tắm. 
+5 Daniel trở lại nhà bếp. 
+6 là Daniel ở hành lang? 	 không	 5 
+7 Mary đã đến khu vườn. 
+8 Mary trở về hành lang. 
+9 là Mary ở hành lang? 	 Có	 8 
+10 Mary đi đến văn phòng. 
+11 Mary đi vào phòng ngủ. 
+12 là Mary trong phòng ngủ? 	 Có	 11 
+13 Daniel loại bỏ bóng đá. 
+14 John đi đến phòng ngủ. 
+15 là Mary trong nhà bếp? 	 không có	 11 
+1 Sandra có bóng đá ở đó. 
+2 Daniel mất quả táo đó. 
+3 Mary đã đến văn phòng.
+4 Daniel trở lại vào phòng tắm. 
+5 là Mary trong nhà bếp? 	 không	 3 
+6 Sandra đi đến văn phòng. 
+7 Mary nắm lấy sữa ở đó. 
+8 là Mary trong nhà bếp? 	 không	 3 
+9 Daniel đi đến nhà bếp. 
+10 John đã đi vào phòng ngủ. 
+11 là Daniel trong nhà bếp? 	 Có	 9 
+12 Mary giảm sữa. 
+13 Sandra có sữa đó. 
+14 là Daniel trong văn phòng? 	 không	 9 
+15 John chuyển đến hành lang. 
+16 Sandra chuyển đến nhà bếp. 
+17 là John trong nhà bếp? 	 không có	 15 
+1 John đã đi đến hành lang. 
+2 Sandra nhặt quả táo đó. 
+3 là John ở hành lang? 	 có	 1 
+4 Daniel chuyển đến khu vườn.
+6 là Mary trong phòng ngủ? 	 Có	 5 
+7 Mary chuyển đến phòng tắm. 
+8 Sandra trái táo. 
+9 là Daniel trong phòng ngủ? 	 không	 4 
+10 Mary nắm lấy sữa ở đó. 
+11 Daniel chuyển tới văn phòng. 
+12 là Mary trong phòng ngủ? 	 không	 7 
+13 John mất bóng đá ở đó. 
+14 John chuyển đến phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 14 
+1 Daniel đi vào phòng tắm. 
+2 John có quả táo đó. 
+3 là Daniel ở hành lang? 	 không có	 1 
+4 John đặt xuống quả táo. 
+5 Mary đi vào bếp. 
+6 là Daniel trong phòng tắm? 	 có	 1 
+7 John nắm lấy quả táo đó. 
+8 Daniel đi đến hành lang. 
+9 là Mary trong nhà bếp? 	
+10 Daniel đã đến khu vườn. 
+11 Daniel đi vào bếp. 
+12 là Mary trong nhà bếp? 	 Có	 5 
+13 Mary chuyển đến khu vườn. 
+14 Sandra đã đi vào phòng ngủ. 
+15 là Daniel trong văn phòng? 	 không có	 11 
+1 John chuyển đến văn phòng. 
+2 Maria có bóng đá ở đó. 
+3 là John trong phòng tắm? 	 không có	 1 
+4 Sandra đã đi vào phòng ngủ. 
+5 Mary bỏ bóng đá. 
+6 là Sandra trong phòng ngủ? 	 Có	 4 
+7 Sandra nhặt bóng đá ở đó. 
+8 John đi đến phòng tắm. 
+9 là Sandra trong phòng ngủ? 	 Có	 4 
+10 Sandra rời khỏi bóng đá. 
+11 Sandra chuyển đến hành lang. 
+12 là Sandra trong phòng tắm? 	 không có	 11
+13 John mất quả táo đó. 
+14 John chuyển đến nhà bếp. 
+15 là John trong phòng ngủ? 	 không có	 14 
+1 Mary đi vào nhà bếp. 
+2 Mary đã đến văn phòng. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Daniel đã đi đến hành lang. 
+5 Daniel mất bóng đá ở đó. 
+6 là Mary trong văn phòng? 	 Có	 2 
+7 Sandra đã đến văn phòng. 
+8 Daniel bỏ bóng đá. 
+9 là Sandra trong phòng tắm? 	 không	 7 
+10 Sandra đi vào phòng tắm. 
+11 Daniel trở lại nhà bếp. 
+12 là Sandra trong vườn? 	 không có	 10 
+13 Sandra đi đến văn phòng. 
+14 Sandra trở lại nhà bếp. 
+15 là Sandra trong nhà bếp? 	 Có	 14
+1 John mất quả táo đó. 
+2 Sandra chuyển đến phòng ngủ. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 Mary đi đến văn phòng. 
+5 John bỏ đi táo. 
+6 là Sandra trong phòng ngủ? 	 Có	 2 
+7 John nhặt quả táo đó. 
+8 John đi đến văn phòng. 
+9 là Mary trong phòng ngủ? 	 không	 4 
+10 Daniel đi đến nhà bếp. 
+11 Sandra trở lại hành lang. 
+12 là Daniel trong nhà bếp? 	 Có	 10 
+13 Daniel đi vào phòng ngủ. 
+14 John trở lại nhà bếp. 
+15 là Daniel trong phòng ngủ? 	 Có	 13 
+1 Sandra đi vào phòng ngủ. 
+2 Daniel đi đến hành lang. 
+3 là Sandra trong phòng ngủ? 	 có	 1
+4 Sandra nhặt quả táo đó. 
+5 Mary đi vào phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5 
+7 Sandra mất bóng đá ở đó. 
+8 John đi vào bếp. 
+9 là Mary trong phòng tắm? 	 Có	 5 
+10 Mary có sữa đó. 
+11 Mary bỏ sữa. 
+12 là John trong văn phòng? 	 không	 8 
+13 Mary đã lấy sữa ở đó. 
+14 Sandra bỏ bóng đá. 
+15 là John trong phòng tắm? 	 không	 8 
+1 John đã đi đến vườn. 
+2 Daniel có quả táo đó. 
+3 là John trong nhà bếp? 	 không có	 1 
+4 John nhặt bóng đá ở đó. 
+5 John chuyển đến văn phòng. 
+6 là John trong văn phòng? 	 Có	 5 
+7 John chuyển đến khu vườn.
+8 Daniel hành quân tới vườn. 
+9 là John trong vườn? 	 Có	 7 
+10 Daniel giảm táo đó. 
+11 Daniel đã đi vào phòng tắm. 
+12 là John trong vườn? 	 Có	 7 
+13 John có quả táo đó. 
+14 John bỏ bóng đá. 
+15 là Daniel trong phòng tắm? 	 Có	 11 
+1 Mary đi vào nhà bếp. 
+2 Daniel đi vào phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 Có	 2 
+4 Daniel nắm lấy quả táo đó. 
+5 John chuyển đến phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 Có	 2 
+7 Sandra đi vào phòng ngủ. 
+8 Daniel đi đến hành lang. 
+9 là Daniel trong nhà bếp? 	 không	 8 
+10 Daniel trở lại phòng ngủ.
+11 Mary đã đến văn phòng. 
+12 là John trong phòng ngủ? 	 Có	 5 
+13 John đã đến khu vườn. 
+14 Sandra chuyển đến hành lang. 
+15 là Mary trong phòng ngủ? 	 không có	 11 
+1 Mary chuyển đến văn phòng. 
+2 Daniel đã đi đến vườn. 
+3 là Mary trong văn phòng? 	 có	 1 
+4 Daniel nhặt bóng đá ở đó. 
+5 Sandra đi vào nhà bếp. 
+6 là Sandra trong nhà bếp? 	 Có	 5 
+7 Daniel rời khỏi bóng đá. 
+8 Mary trở về phòng ngủ. 
+9 là Mary trong văn phòng? 	 không	 8 
+10 John đi đến văn phòng. 
+11 Mary đi vào phòng tắm. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Mary chuyển đến phòng ngủ.
+14 John đi đến nhà bếp. 
+15 là Mary trong nhà bếp? 	 không có	 13 
+1 Sandra đã đến văn phòng. 
+2 Daniel chuyển tới hành lang. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Mary mất quả táo đó. 
+5 Sandra đã đến khu vườn. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 John đi đến phòng tắm. 
+8 Daniel trở lại văn phòng. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 John chuyển đến hành lang. 
+11 Sandra đi vào phòng ngủ. 
+12 là Sandra trong phòng ngủ? 	 Có	 11 
+13 Mary đi vào phòng tắm. 
+14 Mary trái táo. 
+15 là John ở hành lang? 	 Có	 10 
+1 John có bóng đá ở đó.
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 John đi vào phòng tắm. 
+5 John trở về khu vườn. 
+6 là John trong văn phòng? 	 không	 5 
+7 John chuyển đến phòng tắm. 
+8 John trở về khu vườn. 
+9 là John trong vườn? 	 Có	 8 
+10 John bỏ bóng đá ở đó. 
+11 John mất bóng đá ở đó. 
+12 là John trong vườn? 	 Có	 8 
+13 John bỏ bóng đá. 
+14 John đi đến phòng ngủ. 
+15 là John trong phòng tắm? 	 không có	 14 
+1 Daniel đi đến hành lang. 
+2 Mary chuyển đến khu vườn. 
+3 là Mary trong vườn? 	 Có	 2 
+4 Sandra đi vào phòng ngủ.
+5 Sandra đi đến hành lang. 
+6 là Mary trong vườn? 	 Có	 2 
+7 John đi đến nhà bếp. 
+8 Sandra đi đến nhà bếp. 
+9 là Sandra trong nhà bếp? 	 Có	 8 
+10 John nắm lấy sữa ở đó. 
+11 Sandra nhặt bóng đá ở đó. 
+12 là Sandra trong nhà bếp? 	 Có	 8 
+13 Sandra bỏ bóng đá. 
+14 Mary trở về hành lang. 
+15 là Sandra trong nhà bếp? 	 Có	 8 
+1 Sandra chuyển đến hành lang. 
+2 Sandra đã táo đó. 
+3 là Sandra trong phòng ngủ? 	 không có	 1 
+4 Mary có sữa đó. 
+5 Mary đặt xuống sữa. 
+6 là Sandra trong phòng tắm? 	 không có	 1 
+7 Mary đi đến văn phòng.
+8 Sandra giảm táo. 
+9 là Mary trong vườn? 	 không	 7 
+10 Daniel trở lại nhà bếp. 
+11 John chuyển đến phòng ngủ. 
+12 là Daniel trong nhà bếp? 	 Có	 10 
+13 Daniel trở lại vào phòng tắm. 
+14 Sandra chuyển đến văn phòng. 
+15 là Sandra trong văn phòng? 	 Có	 14 
+1 Mary đi đến hành lang. 
+2 Mary đi đến khu vườn. 
+3 là Mary ở hành lang? 	 không có	 2 
+4 Mary chuyển đến nhà bếp. 
+5 John trở lại vào phòng tắm. 
+6 là Mary trong phòng ngủ? 	 không	 4 
+7 John đi đến phòng ngủ. 
+8 Sandra có bóng đá ở đó. 
+9 là Mary trong văn phòng? 	 không	 4 
+10 Sandra đặt xuống bóng đá.
+11 Mary đã đến khu vườn. 
+12 là John trong vườn? 	 không	 7 
+13 Mary có quả táo đó. 
+14 Mary nhặt sữa đó. 
+15 là Mary trong vườn? 	 Có	 11 
+1 Mary chuyển đến nhà bếp. 
+2 John đi đến hành lang. 
+3 là Mary trong phòng tắm? 	 không có	 1 
+4 John đã đi vào phòng ngủ. 
+5 John chuyển đến nhà bếp. 
+6 là John trong nhà bếp? 	 Có	 5 
+7 Mary quay trở lại vào phòng tắm. 
+8 Mary trở về hành lang. 
+9 là John trong phòng tắm? 	 không	 5 
+10 John đi đến văn phòng. 
+11 Daniel đi vào bếp. 
+12 là Daniel trong vườn? 	 không có	 11 
+13 Sandra chuyển đến văn phòng.
+14 Sandra đi vào bếp. 
+15 là Sandra trong nhà bếp? 	 Có	 14 
+1 John chuyển đến khu vườn. 
+2 Daniel chuyển tới nhà bếp. 
+3 là Daniel trong vườn? 	 không có	 2 
+4 Sandra đi vào phòng tắm. 
+5 Sandra trở về phòng ngủ. 
+6 là Sandra trong phòng ngủ? 	 Có	 5 
+7 Sandra chuyển đến hành lang. 
+8 Daniel nhặt bóng đá ở đó. 
+9 là Daniel ở hành lang? 	 không có	 2 
+10 John đi đến phòng ngủ. 
+11 John đi vào nhà bếp. 
+12 là Sandra trong nhà bếp? 	 không	 7 
+13 John đi vào phòng ngủ. 
+14 Mary đi đến khu vườn. 
+15 là Mary ở hành lang? 	 không có	 14 
+1 John đi đến văn phòng.
+2 John đi đến phòng ngủ. 
+3 là John trong văn phòng? 	 không có	 2 
+4 Mary đi vào phòng ngủ. 
+5 Daniel đã đi đến văn phòng. 
+6 là John trong nhà bếp? 	 không có	 2 
+7 Mary đã đến khu vườn. 
+8 John đi đến văn phòng. 
+9 là Mary trong vườn? 	 Có	 7 
+10 Daniel đi đến nhà bếp. 
+11 Daniel chuyển đến khu vườn. 
+12 là Daniel trong vườn? 	 Có	 11 
+13 John đi vào phòng tắm. 
+14 Daniel đi vào nhà bếp. 
+15 là Daniel ở hành lang? 	 không có	 14 
+1 Mary chuyển đến nhà bếp. 
+2 Sandra chuyển đến văn phòng. 
+3 là Mary trong nhà bếp? 	 có	 1 
+4 John đi đến văn phòng. 
+5 Daniel đã đi vào phòng ngủ.
+6 là Mary ở hành lang? 	 không có	 1 
+7 John đi đến nhà bếp. 
+8 Mary chuyển đến văn phòng. 
+9 là John trong phòng tắm? 	 không	 7 
+10 Daniel có quả táo đó. 
+11 Mary trở lại nhà bếp. 
+12 là Mary trong vườn? 	 không có	 11 
+13 John mất sữa đó. 
+14 John bỏ sữa. 
+15 là Mary trong nhà bếp? 	 Có	 11 
+1 Mary đi vào phòng tắm. 
+2 John trở lại nhà bếp. 
+3 là John ở hành lang? 	 không có	 2 
+4 John đi đến khu vườn. 
+5 Daniel có sữa đó. 
+6 là John trong vườn? 	 Có	 4 
+7 John trở lại hành lang. 
+8 Daniel đi vào phòng ngủ. 
+9 là John ở hành lang? 	
+10 Mary đi đến hành lang. 
+11 Sandra đã đi vào phòng ngủ. 
+12 là John ở hành lang? 	 Có	 7 
+13 Mary trở về phòng ngủ. 
+14 John đi vào phòng tắm. 
+15 là Mary trong phòng ngủ? 	 Có	 13 
+1 Sandra chuyển đến phòng ngủ. 
+2 Daniel chuyển tới văn phòng. 
+3 là Daniel trong văn phòng? 	 Có	 2 
+4 John đi đến văn phòng. 
+5 Mary đi đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 John chuyển đến khu vườn. 
+8 Sandra mất quả táo đó. 
+9 là Mary trong phòng tắm? 	 không	 5 
+10 Mary đi vào phòng ngủ. 
+11 Sandra bỏ đi táo. 
+12 là John trong phòng tắm? 	 không	 7 
+13 Mary đi đến văn phòng.
+14 John trở lại hành lang. 
+15 là Mary trong phòng ngủ? 	 không có	 13 
+1 Sandra có sữa đó. 
+2 John trở lại nhà bếp. 
+3 là John trong nhà bếp? 	 Có	 2 
+4 Mary có quả táo đó. 
+5 Sandra đi đến phòng ngủ. 
+6 là John trong phòng ngủ? 	 không có	 2 
+7 Sandra nắm lấy bóng đá ở đó. 
+8 Sandra bỏ bóng đá. 
+9 là John trong nhà bếp? 	 Có	 2 
+10 John trở lại vào phòng tắm. 
+11 Daniel đã đi đến hành lang. 
+12 là Sandra trong nhà bếp? 	 không	 5 
+13 John đi đến khu vườn. 
+14 Daniel đi đến nhà bếp. 
+15 là Daniel trong nhà bếp? 	 Có	 14 
+1 John chuyển đến nhà bếp.
+2 Daniel trở lại văn phòng. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Daniel đi vào phòng tắm. 
+5 Daniel mất quả táo đó. 
+6 là John trong văn phòng? 	 không có	 1 
+7 Sandra đã đi đến hành lang. 
+8 Daniel bỏ đi táo. 
+9 là Sandra trong nhà bếp? 	 không	 7 
+10 John trở lại hành lang. 
+11 John đi vào bếp. 
+12 là John trong phòng tắm? 	 không có	 11 
+13 Mary đi vào phòng ngủ. 
+14 Daniel nắm lấy quả táo đó. 
+15 là John ở hành lang? 	 không có	 11 
+1 John nắm lấy sữa ở đó. 
+2 Daniel trở lại nhà bếp. 
+3 là Daniel ở hành lang? 	 không có	 2 
+4 Sandra nắm lấy quả táo đó.
+5 John bỏ sữa. 
+6 là Daniel trong phòng tắm? 	 không có	 2 
+7 Sandra đặt xuống quả táo. 
+8 John nắm lấy sữa ở đó. 
+9 là Daniel trong nhà bếp? 	 Có	 2 
+10 Daniel đã đi đến hành lang. 
+11 Sandra trở về khu vườn. 
+12 là Sandra ở hành lang? 	 không có	 11 
+13 Sandra đi vào phòng ngủ. 
+14 Mary đi đến hành lang. 
+15 là Mary ở hành lang? 	 Có	 14 
+1 Daniel đã đi đến vườn. 
+2 Mary chuyển đến phòng ngủ. 
+3 là Mary trong nhà bếp? 	 không có	 2 
+4 Sandra đi đến hành lang. 
+5 Sandra đã đến văn phòng. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Mary nhặt quả táo đó.
+8 Mary nhặt bóng đá ở đó. 
+9 là Sandra trong văn phòng? 	 Có	 5 
+10 Mary bỏ bóng đá. 
+11 Sandra đi đến nhà bếp. 
+12 là Sandra trong phòng tắm? 	 không có	 11 
+13 Mary trái táo. 
+14 Sandra chuyển đến hành lang. 
+15 là Sandra ở hành lang? 	 Có	 14 
+1 Mary trở về hành lang. 
+2 John nắm lấy quả táo đó. 
+3 là Mary ở hành lang? 	 có	 1 
+4 John đặt xuống quả táo. 
+5 John mất quả táo đó. 
+6 là Mary ở hành lang? 	 có	 1 
+7 John đặt xuống quả táo đó. 
+8 Mary chuyển đến nhà bếp. 
+9 là Mary trong nhà bếp? 	 Có	 8 
+10 Mary đi vào phòng tắm.
+11 Sandra trở về khu vườn. 
+12 là Sandra trong vườn? 	 Có	 11 
+13 Daniel đã đi vào phòng ngủ. 
+14 Mary đã lấy sữa ở đó. 
+15 là Sandra trong phòng ngủ? 	 không có	 11 
+1 John có quả táo đó. 
+2 Mary nắm lấy sữa ở đó. 
+3 Sandra đã đi đến hành lang. 
+4 John chuyển đến hành lang. 
+5 là Sandra ở hành lang? 	 Có	 3 
+6 Daniel nhặt bóng đá ở đó. 
+7 Daniel đặt xuống bóng đá ở đó. 
+8 là Sandra ở hành lang? 	 Có	 3 
+9 Sandra đi vào nhà bếp. 
+10 John chuyển đến phòng tắm. 
+11 là John trong nhà bếp? 	 không có	 10 
+12 John nắm lấy bóng đá ở đó. 
+13 Mary đi đến hành lang.
+14 là John trong nhà bếp? 	 không có	 10 
+15 Mary đi đến phòng ngủ. 
+16 John rời khỏi bóng đá. 
+17 là Mary trong phòng tắm? 	 không có	 15 
+1 Mary đã đến khu vườn. 
+2 Daniel chuyển tới phòng tắm. 
+3 là Mary trong phòng tắm? 	 không có	 1 
+4 Daniel đã đến văn phòng. 
+5 Daniel đã đến khu vườn. 
+6 là Daniel trong vườn? 	 Có	 5 
+7 Sandra trở lại nhà bếp. 
+8 Sandra chuyển đến phòng tắm. 
+9 là Daniel trong nhà bếp? 	 không	 5 
+10 Mary đi đến phòng tắm. 
+11 Sandra đã đi vào phòng ngủ. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Sandra đi đến nhà bếp. 
+14 Daniel trở lại vào phòng tắm.
+15 là Sandra trong nhà bếp? 	 Có	 13 
+1 Sandra đi vào phòng tắm. 
+2 John mất bóng đá ở đó. 
+3 là Sandra trong phòng tắm? 	 có	 1 
+4 Mary đi vào bếp. 
+5 John đặt xuống bóng đá. 
+6 là Sandra trong vườn? 	 không có	 1 
+7 Daniel đã đi vào phòng ngủ. 
+8 John nhặt bóng đá ở đó. 
+9 là Daniel trong phòng ngủ? 	 Có	 7 
+10 Sandra trở lại nhà bếp. 
+11 Mary trở về văn phòng. 
+12 là Sandra trong nhà bếp? 	 Có	 10 
+13 Daniel đi vào bếp. 
+14 Sandra đã đi đến vườn. 
+15 là Mary trong nhà bếp? 	 không có	 11 
+1 John đã đến khu vườn. 
+2 Mary đi vào phòng tắm.
+3 là Mary trong vườn? 	 không có	 2 
+4 Sandra đã đi đến hành lang. 
+5 Daniel đi đến hành lang. 
+6 là Sandra trong phòng tắm? 	 không	 4 
+7 John đi đến văn phòng. 
+8 Sandra chuyển đến phòng ngủ. 
+9 là Sandra trong vườn? 	 không	 8 
+10 Mary đi vào nhà bếp. 
+11 Mary đi vào phòng ngủ. 
+12 là John trong phòng tắm? 	 không	 7 
+13 John có quả táo đó. 
+14 Mary đi vào bếp. 
+15 là Sandra trong phòng ngủ? 	 Có	 8 
+1 Daniel chuyển tới hành lang. 
+2 Sandra đã táo đó. 
+3 là Daniel trong phòng tắm? 	 không có	 1 
+4 Sandra trái táo. 
+5 Mary đi vào phòng tắm. 
+6 là Daniel trong vườn? 	
+7 Mary mất bóng đá ở đó. 
+8 Mary bỏ bóng đá. 
+9 là Mary trong phòng tắm? 	 Có	 5 
+10 Daniel nắm lấy quả táo đó. 
+11 Mary nhặt bóng đá ở đó. 
+12 là Mary trong phòng tắm? 	 Có	 5 
+13 Mary rời khỏi bóng đá. 
+14 John trở về phòng ngủ. 
+15 là John trong phòng ngủ? 	 Có	 14 
+1 Daniel chuyển tới phòng tắm. 
+2 Daniel nhặt bóng đá ở đó. 
+3 là Daniel trong phòng tắm? 	 có	 1 
+4 Mary đi vào nhà bếp. 
+5 John nhặt sữa đó. 
+6 là Daniel trong vườn? 	 không có	 1 
+7 Mary đi đến phòng ngủ. 
+8 Sandra đi đến văn phòng. 
+9 là Mary trong phòng ngủ? 	 Có	 7
+10 Daniel rời khỏi bóng đá. 
+11 Sandra hành quân tới vườn. 
+12 là Sandra trong vườn? 	 Có	 11 
+13 Daniel mất bóng đá ở đó. 
+14 John bỏ sữa. 
+15 là Sandra trong vườn? 	 Có	 11 
+1 Daniel đi vào nhà bếp. 
+2 Daniel nắm lấy bóng đá ở đó. 
+3 là Daniel ở hành lang? 	 không có	 1 
+4 John đi vào phòng tắm. 
+5 Daniel rời khỏi bóng đá. 
+6 là John trong văn phòng? 	 không	 4 
+7 Mary trở về văn phòng. 
+8 Daniel nhặt bóng đá ở đó. 
+9 là Mary trong văn phòng? 	 Có	 7 
+10 Mary đi đến phòng ngủ. 
+11 Mary chuyển đến văn phòng. 
+12 là Mary trong văn phòng? 	 Có	 11
+13 Sandra trở về khu vườn. 
+14 Daniel trở lại vào phòng tắm. 
+15 là Sandra trong vườn? 	 Có	 13 
+1 Mary đi đến phòng tắm. 
+2 John chuyển đến hành lang. 
+3 là Mary trong phòng tắm? 	 có	 1 
+4 Sandra nhặt quả táo đó. 
+5 Daniel đã đến khu vườn. 
+6 là John ở hành lang? 	 Có	 2 
+7 John đã đi vào phòng ngủ. 
+8 John đi đến phòng tắm. 
+9 là John trong nhà bếp? 	 không	 8 
+10 Mary đi đến văn phòng. 
+11 Daniel đi đến văn phòng. 
+12 là Daniel trong văn phòng? 	 Có	 11 
+13 Daniel nắm lấy sữa ở đó. 
+14 John chuyển đến nhà bếp. 
+15 là Mary ở hành lang? 	 không có	 10
+1 Mary nắm lấy sữa ở đó. 
+2 Sandra nhặt quả táo đó. 
+3 John đi vào bếp. 
+4 Sandra đặt xuống quả táo đó. 
+5 là John trong văn phòng? 	 không	 3 
+6 Sandra mất quả táo đó. 
+7 Daniel đã đi đến hành lang. 
+8 là John trong văn phòng? 	 không	 3 
+9 Mary đi vào phòng ngủ. 
+10 Sandra đi vào phòng ngủ. 
+11 là Daniel trong nhà bếp? 	 không	 7 
+12 John chuyển đến phòng ngủ. 
+13 Mary giảm sữa. 
+14 là Sandra trong phòng ngủ? 	 Có	 10 
+15 Sandra nắm lấy sữa ở đó. 
+16 Daniel trở lại khu vườn. 
+17 là Sandra trong phòng ngủ? 	 Có	 10 
+1 Daniel đi vào phòng ngủ.
+2 Mary đi đến hành lang. 
+3 là Daniel trong phòng ngủ? 	 có	 1 
+4 Daniel đã đi đến hành lang. 
+5 Mary đi vào bếp. 
+6 là Daniel ở hành lang? 	 Có	 4 
+7 John nhặt bóng đá ở đó. 
+8 Sandra chuyển đến phòng tắm. 
+9 là Sandra trong phòng tắm? 	 Có	 8 
+10 Sandra chuyển đến văn phòng. 
+11 John bỏ bóng đá. 
+12 là Sandra trong văn phòng? 	 Có	 10 
+13 John đi vào phòng ngủ. 
+14 Sandra đi đến phòng ngủ. 
+15 là John trong vườn? 	 không có	 13 
+1 John đi vào nhà bếp. 
+2 Mary trở về khu vườn. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Daniel đã đi đến văn phòng.
+5 Sandra đi đến hành lang. 
+6 là Daniel trong văn phòng? 	 Có	 4 
+7 Mary đã đến văn phòng. 
+8 Sandra trở về khu vườn. 
+9 là Sandra trong vườn? 	 Có	 8 
+10 Sandra đi vào phòng tắm. 
+11 Sandra đã táo đó. 
+12 là Sandra trong phòng tắm? 	 Có	 10 
+13 Sandra đặt xuống quả táo. 
+14 Sandra nắm lấy quả táo đó. 
+15 là Sandra trong phòng tắm? 	 Có	 10 
+1 Sandra đã đến văn phòng. 
+2 Mary nắm lấy sữa ở đó. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Mary đã đến khu vườn. 
+5 Sandra đã đi vào phòng tắm. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 John đã đi vào phòng ngủ.
+8 Mary nhặt bóng đá ở đó. 
+9 là Mary trong vườn? 	 Có	 4 
+10 Sandra trở về khu vườn. 
+11 John đi đến văn phòng. 
+12 là John trong văn phòng? 	 Có	 11 
+13 Mary bỏ bóng đá. 
+14 Mary nhặt bóng đá ở đó. 
+15 là Sandra trong phòng ngủ? 	 không có	 10 
+1 Daniel nhặt quả táo đó. 
+2 Daniel bỏ đi táo. 
+3 John có quả táo đó. 
+4 Mary đi vào phòng tắm. 
+5 là Mary trong phòng tắm? 	 Có	 4 
+6 Mary đi đến khu vườn. 
+7 Daniel đi đến phòng tắm. 
+8 là Daniel ở hành lang? 	 không	 7 
+9 John đi đến nhà bếp. 
+10 Daniel đã đi vào phòng ngủ.
+11 là Mary trong vườn? 	 Có	 6 
+12 John mất sữa đó. 
+13 John bỏ sữa. 
+14 là John trong phòng tắm? 	 không	 9 
+15 John có sữa đó. 
+16 John giảm táo đó. 
+17 là Daniel trong phòng ngủ? 	 Có	 10 
+1 Daniel mất sữa đó. 
+2 Sandra trở về phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 Có	 2 
+4 Mary đi vào phòng ngủ. 
+5 John chuyển đến hành lang. 
+6 là Mary trong vườn? 	 không	 4 
+7 Daniel chuyển tới phòng ngủ. 
+8 Daniel trở lại nhà bếp. 
+9 là Mary trong phòng ngủ? 	 Có	 4 
+10 John đi vào phòng ngủ. 
+11 Daniel nhặt bóng đá ở đó.
+12 là John ở hành lang? 	 không có	 10 
+13 Mary đã đến văn phòng. 
+14 Daniel đặt xuống sữa ở đó. 
+15 là John trong phòng ngủ? 	 Có	 10 
+1 Daniel nhặt bóng đá ở đó. 
+2 Daniel loại bỏ bóng đá. 
+3 Mary nắm lấy bóng đá ở đó. 
+4 Sandra chuyển đến khu vườn. 
+5 là Sandra trong vườn? 	 Có	 4 
+6 Daniel đi vào bếp. 
+7 Daniel đã đi vào phòng tắm. 
+8 là Daniel trong vườn? 	 không	 7 
+9 Daniel đã đi đến vườn. 
+10 Daniel đi đến nhà bếp. 
+11 là Daniel trong nhà bếp? 	 Có	 10 
+12 Mary rời khỏi bóng đá. 
+13 Daniel đi đến hành lang. 
+14 là Daniel trong văn phòng? 	 không có	 13
+15 Mary chuyển đến phòng tắm. 
+16 Daniel mất sữa đó. 
+17 là Daniel trong văn phòng? 	 không có	 13 
+1 John đi vào bếp. 
+2 Sandra đã đến khu vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 Sandra đi vào bếp. 
+5 Sandra đi đến văn phòng. 
+6 là John trong nhà bếp? 	 có	 1 
+7 Daniel đi vào phòng ngủ. 
+8 Daniel đi đến nhà bếp. 
+9 là Sandra trong văn phòng? 	 Có	 5 
+10 John trở về phòng ngủ. 
+11 Sandra đi vào phòng tắm. 
+12 là Sandra trong nhà bếp? 	 không có	 11 
+13 Mary đi đến phòng tắm. 
+14 Sandra nhặt sữa đó. 
+15 là Mary trong nhà bếp? 	 không có	 13
+1 John nhặt bóng đá ở đó. 
+2 John bỏ bóng đá. 
+3 Mary có quả táo đó. 
+4 Mary trái táo. 
+5 John nắm lấy bóng đá ở đó. 
+6 Daniel nhặt sữa đó. 
+7 John có quả táo đó. 
+8 John bỏ bóng đá ở đó. 
+9 Sandra mất bóng đá ở đó. 
+10 Sandra bỏ bóng đá ở đó. 
+11 Sandra có bóng đá ở đó. 
+12 Daniel giảm sữa. 
+13 Daniel nhặt sữa đó. 
+14 John trái táo. 
+15 John mất quả táo đó. 
+16 Sandra rời khỏi bóng đá. 
+17 Mary đi đến hành lang. 
+18 John trở về văn phòng. 
+19 là John trong văn phòng? 	 Có	 18
+20 Mary đi vào nhà bếp. 
+21 John trái táo đó. 
+22 là Mary trong phòng tắm? 	 không có	 20 
+23 John trở lại nhà bếp. 
+24 Daniel loại bỏ sữa. 
+25 là Mary trong nhà bếp? 	 Có	 20 
+26 Daniel có sữa đó. 
+27 Sandra chuyển đến khu vườn. 
+28 là John trong nhà bếp? 	 Có	 23 
+29 Daniel mất quả táo đó. 
+30 Sandra trở lại nhà bếp. 
+31 là Sandra trong phòng ngủ? 	 không có	 30 
+1 Mary đi đến hành lang. 
+2 Mary nắm lấy quả táo đó. 
+3 là Mary trong văn phòng? 	 không có	 1 
+4 Daniel trở lại hành lang. 
+5 Mary quay trở lại vào phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5
+7 John đi đến phòng ngủ. 
+8 Sandra đã đến văn phòng. 
+9 là Daniel trong phòng ngủ? 	 không	 4 
+10 Mary đi vào phòng ngủ. 
+11 John chuyển đến phòng tắm. 
+12 là John ở hành lang? 	 không có	 11 
+13 Sandra nắm lấy bóng đá ở đó. 
+14 John chuyển đến khu vườn. 
+15 là John trong vườn? 	 Có	 14 
+1 Mary chuyển đến khu vườn. 
+2 Sandra chuyển đến khu vườn. 
+3 là Sandra trong vườn? 	 Có	 2 
+4 John chuyển đến hành lang. 
+5 John đã đến văn phòng. 
+6 là Mary trong nhà bếp? 	 không có	 1 
+7 Sandra mất bóng đá ở đó. 
+8 John chuyển đến phòng tắm. 
+9 là Sandra trong vườn? 	 Có	 2
+10 Sandra nhặt quả táo đó. 
+11 Sandra đi đến văn phòng. 
+12 là Sandra trong phòng ngủ? 	 không có	 11 
+13 John đi đến khu vườn. 
+14 Sandra giảm táo đó. 
+15 là Sandra trong phòng tắm? 	 không có	 11 
+1 John mất bóng đá ở đó. 
+2 Daniel đi đến hành lang. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Mary đã đi đến vườn. 
+5 John rời khỏi bóng đá. 
+6 là Daniel trong vườn? 	 không có	 2 
+7 Mary đi đến văn phòng. 
+8 Daniel đã đến khu vườn. 
+9 là Mary trong văn phòng? 	 Có	 7 
+10 Mary có quả táo đó. 
+11 Sandra chuyển đến khu vườn. 
+12 là Daniel trong vườn? 	 Có	 8
+13 John nắm lấy sữa ở đó. 
+14 John bỏ sữa. 
+15 là Daniel trong văn phòng? 	 không	 8 
+1 Mary đi đến phòng ngủ. 
+2 Sandra mất quả táo đó. 
+3 là Mary trong phòng ngủ? 	 có	 1 
+4 Mary chuyển đến khu vườn. 
+5 Mary chuyển đến phòng tắm. 
+6 là Mary trong văn phòng? 	 không	 5 
+7 Sandra có bóng đá ở đó. 
+8 Sandra đi vào bếp. 
+9 là Sandra trong phòng tắm? 	 không	 8 
+10 John đi đến hành lang. 
+11 Daniel chuyển tới nhà bếp. 
+12 là John trong vườn? 	 không có	 10 
+13 Mary trở về phòng ngủ. 
+14 Sandra trở lại hành lang. 
+15 là John trong phòng ngủ? 	 không có	 10
+1 Sandra trở vào phòng tắm. 
+2 Mary đi đến văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 Sandra trở lại hành lang. 
+5 Sandra có bóng đá ở đó. 
+6 là Sandra ở hành lang? 	 Có	 4 
+7 Mary nắm lấy sữa ở đó. 
+8 Mary đi vào nhà bếp. 
+9 là Sandra trong văn phòng? 	 không	 4 
+10 Sandra đi vào nhà bếp. 
+11 Sandra rời khỏi bóng đá. 
+12 là Mary trong vườn? 	 không	 8 
+13 Sandra mất bóng đá ở đó. 
+14 Sandra đi đến hành lang. 
+15 là Sandra ở hành lang? 	 Có	 14 
+1 Mary nhặt bóng đá ở đó. 
+2 Sandra đi đến văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2
+4 Daniel đi vào phòng ngủ. 
+5 Mary rời khỏi bóng đá. 
+6 là Daniel trong nhà bếp? 	 không	 4 
+7 Mary mất bóng đá ở đó. 
+8 Daniel đã đến văn phòng. 
+9 là Daniel trong nhà bếp? 	 không	 8 
+10 Sandra nhặt sữa đó. 
+11 Mary trở về phòng ngủ. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Mary đi vào phòng tắm. 
+14 John trở lại hành lang. 
+15 là Mary trong phòng tắm? 	 Có	 13 
+1 Sandra trở lại hành lang. 
+2 Daniel đi đến nhà bếp. 
+3 là Daniel trong văn phòng? 	 không có	 2 
+4 Daniel nắm lấy quả táo đó. 
+5 Daniel trở lại vào phòng tắm. 
+6 là Daniel trong phòng tắm? 	 Có	 5
+7 Daniel đặt xuống quả táo. 
+8 Daniel nhặt quả táo đó. 
+9 là Daniel trong vườn? 	 không	 5 
+10 Sandra đi đến phòng tắm. 
+11 Daniel giảm táo. 
+12 là Daniel ở hành lang? 	 không	 5 
+13 Sandra đã đi đến hành lang. 
+14 Daniel nhặt quả táo đó. 
+15 là Sandra trong phòng ngủ? 	 không có	 13 
+1 Sandra đi vào bếp. 
+2 Daniel trở lại nhà bếp. 
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 Sandra trở về văn phòng. 
+5 Mary có sữa đó. 
+6 là Daniel trong nhà bếp? 	 Có	 2 
+7 Mary rời sữa đó. 
+8 John đi vào phòng tắm. 
+9 là Daniel ở hành lang? 	 không có	 2
+10 Sandra nhặt bóng đá ở đó. 
+11 John nhặt quả táo đó. 
+12 là John trong phòng tắm? 	 Có	 8 
+13 Daniel đi đến văn phòng. 
+14 Sandra đặt xuống bóng đá. 
+15 là Daniel ở hành lang? 	 không có	 13 
+1 Sandra chuyển đến hành lang. 
+2 Sandra đi đến văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2 
+4 Daniel nắm lấy bóng đá ở đó. 
+5 Sandra đi vào phòng ngủ. 
+6 là Sandra trong phòng ngủ? 	 Có	 5 
+7 Daniel trở lại văn phòng. 
+8 Daniel loại bỏ bóng đá ở đó. 
+9 là Sandra ở hành lang? 	 không	 5 
+10 Sandra chuyển đến phòng tắm. 
+11 John trở lại vào phòng tắm. 
+12 là John trong phòng ngủ? 	 không	
+13 Mary đi vào phòng tắm. 
+14 Mary đi vào phòng ngủ. 
+15 là Sandra trong phòng tắm? 	 Có	 10 
+1 Sandra đi đến văn phòng. 
+2 Mary nhặt bóng đá ở đó. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 Sandra trở lại nhà bếp. 
+5 Sandra hành quân tới vườn. 
+6 là Sandra ở hành lang? 	 không	 5 
+7 Sandra đi đến văn phòng. 
+8 John trở lại hành lang. 
+9 là John ở hành lang? 	 Có	 8 
+10 Daniel đi vào phòng ngủ. 
+11 Mary bỏ bóng đá. 
+12 là Sandra trong văn phòng? 	 Có	 7 
+13 Daniel đã đến văn phòng. 
+14 Mary nắm lấy bóng đá ở đó. 
+15 là Daniel ở hành lang? 	 không có	 13
+1 Sandra đi đến văn phòng. 
+2 John chuyển đến hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 Sandra trở lại nhà bếp. 
+5 John đã đi đến vườn. 
+6 là John trong phòng tắm? 	 không	 5 
+7 John đã đến văn phòng. 
+8 Sandra đã đến văn phòng. 
+9 là Sandra trong phòng ngủ? 	 không	 8 
+10 John đã đi đến hành lang. 
+11 Mary trở lại nhà bếp. 
+12 là John ở hành lang? 	 Có	 10 
+13 John đi đến phòng tắm. 
+14 Sandra chuyển đến phòng ngủ. 
+15 là Sandra trong phòng tắm? 	 không có	 14 
+1 Sandra đi đến văn phòng. 
+2 Daniel nhặt sữa đó. 
+3 là Sandra trong văn phòng? 	 có	 1
+4 John đi vào phòng ngủ. 
+5 Daniel đặt xuống sữa. 
+6 là John trong nhà bếp? 	 không	 4 
+7 John nhặt sữa đó. 
+8 Mary trở lại nhà bếp. 
+9 là John trong phòng ngủ? 	 Có	 4 
+10 John có bóng đá ở đó. 
+11 John rời khỏi bóng đá. 
+12 là Mary trong nhà bếp? 	 Có	 8 
+13 Mary chuyển đến phòng ngủ. 
+14 John nhặt quả táo đó. 
+15 là Mary trong phòng ngủ? 	 Có	 13 
+1 Sandra đi vào nhà bếp. 
+2 John chuyển đến văn phòng. 
+3 là Sandra trong nhà bếp? 	 có	 1 
+4 Daniel trở lại nhà bếp. 
+5 Sandra đi đến hành lang. 
+6 là Sandra ở hành lang? 	 Có	 5
+7 Mary nắm lấy quả táo đó. 
+8 Daniel nhặt sữa đó. 
+9 là John trong văn phòng? 	 Có	 2 
+10 Mary trái táo. 
+11 Sandra đi vào phòng tắm. 
+12 là Sandra trong phòng tắm? 	 Có	 11 
+13 Daniel chuyển tới phòng ngủ. 
+14 John chuyển đến hành lang. 
+15 là Sandra trong phòng tắm? 	 Có	 11 
+1 Mary đã lấy sữa ở đó. 
+2 Mary bỏ sữa. 
+3 Sandra chuyển đến phòng ngủ. 
+4 Mary đi đến phòng tắm. 
+5 là Mary ở hành lang? 	 không	 4 
+6 John đã đến khu vườn. 
+7 John đi vào nhà bếp. 
+8 là Mary trong văn phòng? 	 không	 4 
+9 Sandra chuyển đến nhà bếp. 
+10 John đi đến phòng ngủ.
+11 là Mary ở hành lang? 	 không	 4 
+12 Mary nắm lấy bóng đá ở đó. 
+13 Mary rời khỏi bóng đá. 
+14 là John trong phòng ngủ? 	 Có	 10 
+15 John chuyển đến phòng tắm. 
+16 John có bóng đá ở đó. 
+17 là John trong nhà bếp? 	 không có	 15 
+1 Daniel trở lại hành lang. 
+2 John có quả táo đó. 
+3 là Daniel ở hành lang? 	 có	 1 
+4 John giảm táo. 
+5 Mary có quả táo đó. 
+6 là Daniel ở hành lang? 	 có	 1 
+7 Daniel chuyển tới phòng ngủ. 
+8 Sandra đi đến hành lang. 
+9 là Daniel ở hành lang? 	 không	 7 
+10 Mary chuyển đến phòng tắm. 
+11 Daniel chuyển tới phòng tắm.
+12 là Daniel trong phòng tắm? 	 Có	 11 
+13 John đã đến văn phòng. 
+14 Mary giảm táo. 
+15 là John trong văn phòng? 	 Có	 13 
+1 Mary nhặt quả táo đó. 
+2 Mary giảm táo. 
+3 Daniel đã đi vào phòng tắm. 
+4 Daniel hành quân tới vườn. 
+5 là Daniel trong vườn? 	 Có	 4 
+6 Daniel nhặt bóng đá ở đó. 
+7 Daniel loại bỏ bóng đá. 
+8 là Daniel trong phòng ngủ? 	 không	 4 
+9 John chuyển đến phòng ngủ. 
+10 Sandra trở về phòng ngủ. 
+11 là Daniel trong văn phòng? 	 không	 4 
+12 Daniel trở lại phòng ngủ. 
+13 Daniel đi đến nhà bếp. 
+14 là Daniel trong nhà bếp? 	 Có	 13
+15 Sandra có sữa đó. 
+16 Sandra đi đến nhà bếp. 
+17 là Daniel trong vườn? 	 không có	 13 
+1 Daniel mất quả táo đó. 
+2 Daniel giảm táo đó. 
+3 Mary chuyển đến phòng tắm. 
+4 Daniel trở lại văn phòng. 
+5 là Daniel trong nhà bếp? 	 không	 4 
+6 Sandra chuyển đến phòng tắm. 
+7 Daniel mất bóng đá ở đó. 
+8 là Mary trong nhà bếp? 	 không	 3 
+9 Daniel đặt xuống bóng đá. 
+10 Mary chuyển đến nhà bếp. 
+11 là Sandra trong phòng tắm? 	 Có	 6 
+12 Sandra đi đến hành lang. 
+13 John đi đến văn phòng. 
+14 là Mary trong nhà bếp? 	 Có	 10 
+15 Mary trở về khu vườn.
+16 John đi đến hành lang. 
+17 là Mary trong phòng ngủ? 	 không có	 15 
+1 Daniel đã đến khu vườn. 
+2 Sandra trở lại hành lang. 
+3 là Sandra trong phòng ngủ? 	 không có	 2 
+4 John nắm lấy bóng đá ở đó. 
+5 Sandra đã đến văn phòng. 
+6 là Sandra trong vườn? 	 không	 5 
+7 Sandra đã đi vào phòng ngủ. 
+8 Sandra đi đến văn phòng. 
+9 là Sandra trong văn phòng? 	 Có	 8 
+10 John rời khỏi bóng đá ở đó. 
+11 John đã đi đến hành lang. 
+12 là John trong phòng tắm? 	 không có	 11 
+13 John mất quả táo đó. 
+14 Mary đã lấy sữa ở đó. 
+15 là Sandra trong văn phòng? 	 Có	 8 
+1 Daniel chuyển tới văn phòng.
+2 Daniel đi vào bếp. 
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 John đi vào phòng tắm. 
+5 John trở về văn phòng. 
+6 là John trong nhà bếp? 	 không	 5 
+7 Daniel chuyển tới phòng tắm. 
+8 Daniel đi vào phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 Có	 8 
+10 Mary trở về văn phòng. 
+11 John đã đến khu vườn. 
+12 là Daniel trong phòng ngủ? 	 Có	 8 
+13 John đi đến nhà bếp. 
+14 John trở về văn phòng. 
+15 là John trong nhà bếp? 	 không có	 14 
+1 John đi vào phòng ngủ. 
+2 Maria có bóng đá ở đó. 
+3 là John trong phòng ngủ? 	 có	 1 
+4 Mary đặt xuống bóng đá.
+5 John mất sữa đó. 
+6 là John ở hành lang? 	 không có	 1 
+7 Sandra đã đến khu vườn. 
+8 John rời khỏi sữa. 
+9 là Sandra trong vườn? 	 Có	 7 
+10 Sandra nhặt bóng đá ở đó. 
+11 Mary nhặt quả táo đó. 
+12 là Sandra trong vườn? 	 Có	 7 
+13 Mary trái táo. 
+14 John mất sữa đó. 
+15 Sandra đã đi vào phòng tắm. 
+16 Daniel trở lại phòng ngủ. 
+17 là Daniel trong vườn? 	 không có	 16 
+1 Daniel có quả táo đó. 
+2 John trở lại hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 Daniel đi đến hành lang. 
+5 John chuyển đến văn phòng. 
+6 là John trong văn phòng? 	 Có	
+7 Daniel giảm táo đó. 
+8 Mary đi vào phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 không	 4 
+10 Sandra trở về phòng ngủ. 
+11 Mary đã lấy sữa ở đó. 
+12 là Sandra ở hành lang? 	 không có	 10 
+13 Daniel đi đến phòng tắm. 
+14 Daniel mất bóng đá ở đó. 
+15 là Daniel trong phòng ngủ? 	 không có	 13 
+1 Daniel đã đi đến văn phòng. 
+2 Mary mất quả táo đó. 
+3 là Daniel trong văn phòng? 	 có	 1 
+4 Mary đi đến nhà bếp. 
+5 John có bóng đá ở đó. 
+6 là Mary trong vườn? 	 không	 4 
+7 Mary đặt xuống quả táo. 
+8 Mary nắm lấy quả táo đó. 
+9 là Mary trong vườn? 	 không	 4 
+10 Mary giảm táo.
+11 Mary trở về văn phòng. 
+12 là Mary trong vườn? 	 không có	 11 
+13 Daniel chuyển tới hành lang. 
+14 John đi vào phòng tắm. 
+15 là Daniel ở hành lang? 	 Có	 13 
+1 John đã đến khu vườn. 
+2 Daniel đi đến hành lang. 
+3 là John trong phòng tắm? 	 không có	 1 
+4 Mary đi vào phòng ngủ. 
+5 John chuyển đến văn phòng. 
+6 là John trong văn phòng? 	 Có	 5 
+7 Mary chuyển đến khu vườn. 
+8 Daniel trở lại phòng ngủ. 
+9 là Mary ở hành lang? 	 không	 7 
+10 Daniel chuyển đến khu vườn. 
+11 Sandra mất bóng đá ở đó. 
+12 là Daniel trong vườn? 	 Có	 10 
+13 John nhặt sữa đó.
+14 John đặt xuống sữa. 
+15 là Daniel ở hành lang? 	 không có	 10 
+1 John mất bóng đá ở đó. 
+2 John trở lại hành lang. 
+3 là John trong nhà bếp? 	 không có	 2 
+4 Mary chuyển đến phòng tắm. 
+5 John chuyển đến phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 không	 4 
+7 Mary trở lại nhà bếp. 
+8 Daniel đã đi đến vườn. 
+9 là John trong phòng ngủ? 	 Có	 5 
+10 Sandra đi đến văn phòng. 
+11 John bỏ bóng đá. 
+12 là John trong nhà bếp? 	 không	 5 
+13 Mary chuyển đến khu vườn. 
+14 Mary chuyển đến phòng ngủ. 
+15 là Sandra trong văn phòng? 	 Có	 10 
+1 Mary nắm lấy bóng đá ở đó. 
+2 Mary đã đến văn phòng.
+3 là Mary trong phòng ngủ? 	 không có	 2 
+4 John trở lại hành lang. 
+5 John đi vào phòng ngủ. 
+6 là Mary trong văn phòng? 	 Có	 2 
+7 Mary mất quả táo đó. 
+8 Mary trái táo. 
+9 là John trong phòng ngủ? 	 Có	 5 
+10 Mary có quả táo đó. 
+11 Daniel chuyển tới hành lang. 
+12 là Daniel trong văn phòng? 	 không có	 11 
+13 Mary đặt xuống quả táo. 
+14 Sandra trở về phòng ngủ. 
+15 là Daniel trong văn phòng? 	 không có	 11 
+1 Mary đi đến hành lang. 
+2 John đã đến khu vườn. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 John trở về phòng ngủ. 
+5 Daniel đi đến văn phòng. 
+6 là Mary trong văn phòng? 	 không có	 1
+7 Sandra đi vào bếp. 
+8 Sandra đã đến văn phòng. 
+9 là Sandra ở hành lang? 	 không	 8 
+10 John đã đi đến vườn. 
+11 John đã đến văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 8 
+13 Mary chuyển đến nhà bếp. 
+14 Daniel chuyển tới hành lang. 
+15 là Mary trong phòng tắm? 	 không có	 13 
+1 John đã đến khu vườn. 
+2 John chuyển đến phòng ngủ. 
+3 là John trong phòng ngủ? 	 Có	 2 
+4 Mary đã đến văn phòng. 
+5 Daniel nhặt quả táo đó. 
+6 là John trong phòng ngủ? 	 Có	 2 
+7 John trở về khu vườn. 
+8 Mary trở lại nhà bếp. 
+9 là John trong nhà bếp? 	 không	 7
+10 John đi vào nhà bếp. 
+11 Mary trở về văn phòng. 
+12 là John trong nhà bếp? 	 Có	 10 
+13 Daniel đi đến phòng tắm. 
+14 John nắm lấy bóng đá ở đó. 
+15 là Mary trong vườn? 	 không có	 11 
+1 Sandra đi vào nhà bếp. 
+2 Sandra trở vào phòng tắm. 
+3 là Sandra trong phòng ngủ? 	 không có	 2 
+4 Daniel đi đến hành lang. 
+5 Mary đi đến văn phòng. 
+6 là Sandra trong phòng tắm? 	 Có	 2 
+7 Mary chuyển đến khu vườn. 
+8 John mất bóng đá ở đó. 
+9 là Mary trong phòng tắm? 	 không	 7 
+10 Mary đi vào phòng tắm. 
+11 John chuyển đến nhà bếp. 
+12 là Mary trong nhà bếp? 	 không có	 10
+13 Mary đi đến hành lang. 
+14 Sandra đi đến phòng ngủ. 
+15 là Mary ở hành lang? 	 Có	 13 
+1 Daniel nhặt bóng đá ở đó. 
+2 Mary đi vào phòng ngủ. 
+3 là Mary trong vườn? 	 không có	 2 
+4 Sandra chuyển đến văn phòng. 
+5 Mary đi đến phòng tắm. 
+6 là Mary ở hành lang? 	 không	 5 
+7 Sandra đi vào bếp. 
+8 Mary chuyển đến phòng ngủ. 
+9 là Mary trong phòng ngủ? 	 Có	 8 
+10 Daniel đặt xuống bóng đá. 
+11 Sandra chuyển đến phòng ngủ. 
+12 là Sandra ở hành lang? 	 không có	 11 
+13 Daniel đi vào phòng tắm. 
+14 Daniel trở lại phòng ngủ. 
+15 là Daniel ở hành lang? 	 không có	 14
+1 Mary đi đến văn phòng. 
+2 John đi vào phòng ngủ. 
+3 là Mary ở hành lang? 	 không có	 1 
+4 Mary đi vào phòng ngủ. 
+5 Mary đi vào phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5 
+7 John chuyển đến hành lang. 
+8 Mary nhặt sữa đó. 
+9 là Mary trong nhà bếp? 	 không	 5 
+10 John có quả táo đó. 
+11 John đi đến phòng ngủ. 
+12 là John trong văn phòng? 	 không có	 11 
+13 Mary giảm sữa. 
+14 Mary đi đến văn phòng. 
+15 là John trong vườn? 	 không có	 11 
+1 Daniel có bóng đá ở đó. 
+2 Mary mất quả táo đó. 
+3 John đi đến hành lang. 
+4 Daniel trở lại vào phòng tắm.
+5 là John trong phòng ngủ? 	 không	 3 
+6 Mary trái táo. 
+7 Mary mất quả táo đó. 
+8 là Daniel trong phòng tắm? 	 Có	 4 
+9 Daniel đặt xuống bóng đá. 
+10 Daniel mất bóng đá ở đó. 
+11 là Daniel trong vườn? 	 không	 4 
+12 Daniel đi vào phòng ngủ. 
+13 Mary bỏ đi táo. 
+14 là Daniel ở hành lang? 	 không có	 12 
+15 John đi đến văn phòng. 
+16 Mary nhặt quả táo đó. 
+17 là John ở hành lang? 	 không có	 15 
+1 Daniel có bóng đá ở đó. 
+2 Sandra đã đi đến hành lang. 
+3 là Sandra ở hành lang? 	 Có	 2 
+4 John chuyển đến hành lang. 
+5 Daniel đi vào phòng tắm.
+6 là Sandra trong vườn? 	 không có	 2 
+7 Sandra nhặt quả táo đó. 
+8 John đi đến phòng ngủ. 
+9 là John trong phòng tắm? 	 không	 8 
+10 Sandra chuyển đến phòng tắm. 
+11 Sandra trái táo. 
+12 là John trong văn phòng? 	 không	 8 
+13 Daniel có quả táo đó. 
+14 Sandra trở về phòng ngủ. 
+15 là Sandra trong phòng ngủ? 	 Có	 14 
+1 Daniel chuyển tới phòng tắm. 
+2 John nhặt quả táo đó. 
+3 là Daniel trong vườn? 	 không có	 1 
+4 Mary trở về phòng ngủ. 
+5 Sandra đi đến nhà bếp. 
+6 là Daniel trong phòng tắm? 	 có	 1 
+7 Sandra chuyển đến hành lang. 
+8 John đã đi đến hành lang.
+9 là Sandra ở hành lang? 	 Có	 7 
+10 John đi đến văn phòng. 
+11 John giảm táo. 
+12 là Sandra trong vườn? 	 không	 7 
+13 Mary nhặt sữa đó. 
+14 John nhặt quả táo đó. 
+15 là John trong nhà bếp? 	 không có	 10 
+1 John chuyển đến nhà bếp. 
+2 Mary đi đến hành lang. 
+3 là John trong vườn? 	 không có	 1 
+4 John chuyển đến văn phòng. 
+5 Daniel chuyển tới phòng ngủ. 
+6 là John ở hành lang? 	 không	 4 
+7 Mary đã đi đến vườn. 
+8 Daniel chuyển tới nhà bếp. 
+9 là Mary trong vườn? 	 Có	 7 
+10 Daniel mất quả táo đó. 
+11 John đi vào phòng tắm. 
+12 là Mary trong phòng ngủ? 	 không	 7
+13 John có sữa đó. 
+14 Sandra đi đến hành lang. 
+15 là Daniel trong nhà bếp? 	 Có	 8 
+1 Mary trở lại nhà bếp. 
+2 John đi vào phòng tắm. 
+3 là Mary trong nhà bếp? 	 có	 1 
+4 Mary có sữa đó. 
+5 Mary rời khỏi sữa. 
+6 là Mary trong văn phòng? 	 không có	 1 
+7 Mary đã lấy sữa ở đó. 
+8 Mary đi đến hành lang. 
+9 là John trong vườn? 	 không có	 2 
+10 John mất quả táo đó. 
+11 John đặt xuống quả táo. 
+12 là Mary ở hành lang? 	 Có	 8 
+13 Mary mất bóng đá ở đó. 
+14 Sandra chuyển đến hành lang. 
+15 là Mary trong văn phòng? 	 không	 8 
+1 Daniel đã đi vào phòng ngủ.
+2 Sandra đã táo đó. 
+3 là Daniel trong nhà bếp? 	 không có	 1 
+4 Daniel có bóng đá ở đó. 
+5 John đi đến phòng tắm. 
+6 là John trong nhà bếp? 	 không	 5 
+7 Sandra đã đi vào phòng tắm. 
+8 Daniel đặt xuống bóng đá. 
+9 là Sandra trong văn phòng? 	 không	 7 
+10 Mary đi đến văn phòng. 
+11 Sandra trái táo đó. 
+12 là Sandra trong phòng ngủ? 	 không	 7 
+13 Daniel nhặt bóng đá ở đó. 
+14 Mary đi đến hành lang. 
+15 là Mary ở hành lang? 	 Có	 14 
+1 Mary đã đến văn phòng. 
+2 Daniel trở lại văn phòng. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Mary đi đến hành lang.
+5 Mary chuyển đến khu vườn. 
+6 là Mary trong phòng ngủ? 	 không	 5 
+7 Daniel nhặt bóng đá ở đó. 
+8 Mary đi đến phòng tắm. 
+9 là Mary trong phòng tắm? 	 Có	 8 
+10 Daniel chuyển tới nhà bếp. 
+11 Sandra đi đến nhà bếp. 
+12 là Mary trong nhà bếp? 	 không	 8 
+13 Sandra trở lại hành lang. 
+14 Daniel loại bỏ bóng đá ở đó. 
+15 là Mary trong phòng tắm? 	 Có	 8 
+1 Daniel mất sữa đó. 
+2 Sandra đi đến phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 Có	 2 
+4 Daniel loại bỏ sữa. 
+5 Mary đi vào phòng tắm. 
+6 là Mary trong phòng tắm? 	 Có	 5 
+7 Mary đã đến văn phòng.
+8 Sandra đi đến văn phòng. 
+9 là Sandra trong văn phòng? 	 Có	 8 
+10 Daniel đi đến phòng ngủ. 
+11 Mary đã lấy sữa ở đó. 
+12 là Sandra trong nhà bếp? 	 không	 8 
+13 Mary đi đến hành lang. 
+14 Daniel chuyển tới phòng tắm. 
+15 là Sandra trong nhà bếp? 	 không	 8 
+1 Mary đã lấy sữa ở đó. 
+2 Mary giảm sữa. 
+3 John chuyển đến hành lang. 
+4 John chuyển đến phòng tắm. 
+5 là John trong phòng tắm? 	 Có	 4 
+6 Daniel trở lại hành lang. 
+7 Daniel mất sữa đó. 
+8 là John trong phòng tắm? 	 Có	 4 
+9 Mary đi vào phòng tắm. 
+10 Daniel loại bỏ sữa. 
+11 là Mary trong phòng ngủ? 	
+12 Mary chuyển đến nhà bếp. 
+13 Daniel đã đi đến vườn. 
+14 là Mary trong phòng tắm? 	 không có	 12 
+15 Sandra trở lại hành lang. 
+16 Sandra nắm lấy sữa ở đó. 
+17 là Mary trong phòng ngủ? 	 không có	 12 
+1 Daniel nắm lấy quả táo đó. 
+2 Sandra đi vào phòng ngủ. 
+3 là Sandra trong phòng ngủ? 	 Có	 2 
+4 Daniel giảm táo đó. 
+5 Mary đi vào phòng tắm. 
+6 là Mary trong nhà bếp? 	 không	 5 
+7 Sandra đi đến văn phòng. 
+8 Daniel đã đến khu vườn. 
+9 là Daniel trong vườn? 	 Có	 8 
+10 John đi đến văn phòng. 
+11 Mary trở về văn phòng. 
+12 là Mary trong văn phòng? 	 Có	 11
+13 Daniel trở lại nhà bếp. 
+14 Daniel có sữa đó. 
+15 là Daniel trong phòng tắm? 	 không có	 13 
+1 Daniel nhặt quả táo đó. 
+2 John trở về văn phòng. 
+3 là John ở hành lang? 	 không có	 2 
+4 Daniel trái táo. 
+5 John nắm lấy sữa ở đó. 
+6 là John ở hành lang? 	 không có	 2 
+7 John đã đi đến hành lang. 
+8 Mary đi đến nhà bếp. 
+9 là John ở hành lang? 	 Có	 7 
+10 Daniel nắm lấy quả táo đó. 
+11 Daniel loại bỏ quả táo đó. 
+12 là John ở hành lang? 	 Có	 7 
+13 Mary có quả táo đó. 
+14 Mary đặt xuống quả táo. 
+15 là Mary trong phòng tắm? 	 không	 8
+1 Mary đi vào phòng ngủ. 
+2 Daniel đã đến khu vườn. 
+3 là Daniel trong phòng tắm? 	 không có	 2 
+4 Daniel đi đến nhà bếp. 
+5 Daniel có bóng đá ở đó. 
+6 là Daniel trong văn phòng? 	 không	 4 
+7 Sandra đi đến phòng ngủ. 
+8 Mary trở về khu vườn. 
+9 là Daniel trong văn phòng? 	 không	 4 
+10 Daniel trở lại văn phòng. 
+11 Sandra trở về văn phòng. 
+12 là Sandra trong văn phòng? 	 Có	 11 
+13 Sandra đi vào phòng ngủ. 
+14 Daniel nhặt sữa đó. 
+15 là Sandra trong phòng ngủ? 	 Có	 13 
+1 Sandra đi vào phòng tắm. 
+2 Sandra có bóng đá ở đó. 
+3 là Sandra trong phòng tắm? 	 Có	
+4 Sandra bỏ bóng đá ở đó. 
+5 Sandra đi đến phòng ngủ. 
+6 là Sandra trong phòng ngủ? 	 Có	 5 
+7 John trở về khu vườn. 
+8 Mary đi vào phòng tắm. 
+9 là John trong nhà bếp? 	 không	 7 
+10 Mary đi đến hành lang. 
+11 John đi đến hành lang. 
+12 là Mary trong phòng ngủ? 	 không có	 10 
+13 John đi vào phòng ngủ. 
+14 John đi đến hành lang. 
+15 là John ở hành lang? 	 Có	 14 
+1 Sandra trở về khu vườn. 
+2 Mary trở về hành lang. 
+3 là Mary trong phòng ngủ? 	 không có	 2 
+4 Sandra đi đến phòng tắm. 
+5 Mary đi vào phòng ngủ. 
+6 là Sandra trong phòng tắm? 	 Có	 4
+7 Mary đi đến nhà bếp. 
+8 Mary đi đến văn phòng. 
+9 là Mary trong vườn? 	 không	 8 
+10 Sandra mất quả táo đó. 
+11 Sandra trái táo đó. 
+12 là Mary trong phòng tắm? 	 không	 8 
+13 Sandra mất quả táo đó. 
+14 Sandra bỏ đi táo. 
+15 là Mary trong phòng tắm? 	 không	 8 
+1 John mất bóng đá ở đó. 
+2 John đã đi đến hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 John nhặt quả táo đó. 
+5 Sandra đi đến phòng tắm. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 John rời khỏi bóng đá. 
+8 Sandra đã đi đến hành lang. 
+9 là Sandra ở hành lang? 	 Có	 8 
+10 Sandra mất bóng đá ở đó.
+11 John giảm táo. 
+12 là Sandra trong vườn? 	 không	 8 
+13 John đã đi vào phòng ngủ. 
+14 Sandra đặt xuống bóng đá. 
+15 là Sandra ở hành lang? 	 Có	 8 
+1 Sandra nắm lấy bóng đá ở đó. 
+2 Daniel đi đến phòng tắm. 
+3 là Daniel trong phòng tắm? 	 Có	 2 
+4 Mary đã đến khu vườn. 
+5 Daniel đã đi đến văn phòng. 
+6 là Daniel trong văn phòng? 	 Có	 5 
+7 Daniel trở lại nhà bếp. 
+8 Daniel trở lại vào phòng tắm. 
+9 là Daniel trong phòng tắm? 	 Có	 8 
+10 John chuyển đến khu vườn. 
+11 John trở lại nhà bếp. 
+12 là Daniel trong phòng tắm? 	 Có	 8 
+13 Sandra đã đến khu vườn.
+14 John đi vào phòng tắm. 
+15 là Sandra trong vườn? 	 Có	 13 
+1 Mary nắm lấy bóng đá ở đó. 
+2 Daniel đã đến khu vườn. 
+3 là Daniel ở hành lang? 	 không có	 2 
+4 John chuyển đến khu vườn. 
+5 Daniel đi đến phòng tắm. 
+6 là John trong vườn? 	 Có	 4 
+7 Mary bỏ bóng đá. 
+8 Mary nhặt bóng đá ở đó. 
+9 là John trong vườn? 	 Có	 4 
+10 Daniel đã đến văn phòng. 
+11 Daniel nhặt quả táo đó. 
+12 là Daniel trong phòng ngủ? 	 không có	 10 
+13 John đi đến hành lang. 
+14 Daniel giảm táo. 
+15 là Daniel trong văn phòng? 	 Có	 10 
+1 Sandra nhặt bóng đá ở đó.
+2 Mary đã đi đến vườn. 
+3 là Mary trong phòng tắm? 	 không có	 2 
+4 Mary trở lại nhà bếp. 
+5 Sandra chuyển đến văn phòng. 
+6 là Mary ở hành lang? 	 không	 4 
+7 Sandra chuyển đến nhà bếp. 
+8 Sandra đặt xuống bóng đá. 
+9 là Sandra trong nhà bếp? 	 Có	 7 
+10 Sandra nắm lấy bóng đá ở đó. 
+11 Daniel đã đi vào phòng ngủ. 
+12 là Sandra trong nhà bếp? 	 Có	 7 
+13 Daniel đã đi đến hành lang. 
+14 Mary đi đến hành lang. 
+15 là Daniel trong văn phòng? 	 không có	 13 
+1 John mất quả táo đó. 
+2 Daniel đã đến văn phòng. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Mary đã lấy sữa ở đó.
+6 là Daniel trong văn phòng? 	 Có	 2 
+7 Daniel đi đến hành lang. 
+8 Mary đi đến hành lang. 
+9 là Daniel trong phòng ngủ? 	 không	 7 
+10 John nhặt quả táo đó. 
+11 Mary đặt xuống sữa. 
+12 là Mary ở hành lang? 	 Có	 8 
+13 John trái táo. 
+14 Mary nhặt quả táo đó. 
+15 là Mary trong phòng ngủ? 	 không	 8 
+1 John đã đi vào phòng ngủ. 
+2 Mary mất quả táo đó. 
+3 là John trong phòng ngủ? 	 có	 1 
+4 Mary đi đến hành lang. 
+5 Daniel có sữa đó. 
+6 là John trong vườn? 	 không có	 1 
+7 Daniel đi đến hành lang. 
+8 Daniel đặt xuống sữa. 
+9 là Mary ở hành lang? 	 Có	 4
+10 John đi đến hành lang. 
+11 John nhặt sữa đó. 
+12 là Daniel ở hành lang? 	 Có	 7 
+13 Sandra mất bóng đá ở đó. 
+14 Sandra đi đến phòng ngủ. 
+15 là John trong phòng ngủ? 	 không có	 10 
+1 Sandra đi đến phòng tắm. 
+2 Mary chuyển đến khu vườn. 
+3 là Sandra trong phòng tắm? 	 có	 1 
+4 John trở lại nhà bếp. 
+5 Sandra đi đến phòng ngủ. 
+6 là Mary ở hành lang? 	 không có	 2 
+7 John đã đến văn phòng. 
+8 John mất quả táo đó. 
+9 là Mary trong văn phòng? 	 không có	 2 
+10 Sandra chuyển đến nhà bếp. 
+11 Daniel trở lại văn phòng. 
+12 là Sandra trong nhà bếp? 	 Có	 10
+13 John bỏ đi táo. 
+14 John trở lại hành lang. 
+15 là Sandra trong phòng tắm? 	 không có	 10 
+1 Daniel đi đến hành lang. 
+2 Mary đi đến hành lang. 
+3 là Mary trong phòng tắm? 	 không có	 2 
+4 Daniel nhặt bóng đá ở đó. 
+5 Daniel đi đến phòng ngủ. 
+6 là Daniel trong phòng ngủ? 	 Có	 5 
+7 Daniel trở lại vào phòng tắm. 
+8 Sandra mất quả táo đó. 
+9 là Daniel trong phòng tắm? 	 Có	 7 
+10 John đi vào phòng tắm. 
+11 Mary đã lấy sữa ở đó. 
+12 là Daniel trong phòng tắm? 	 Có	 7 
+13 Sandra bỏ đi táo. 
+14 Mary bỏ sữa. 
+15 là John trong phòng tắm? 	 Có	 10
+1 Daniel mất quả táo đó. 
+2 Sandra chuyển đến khu vườn. 
+3 là Sandra ở hành lang? 	 không có	 2 
+4 Sandra nắm lấy bóng đá ở đó. 
+5 Mary chuyển đến khu vườn. 
+6 là Mary trong vườn? 	 Có	 5 
+7 John đã đi đến vườn. 
+8 Daniel bỏ đi táo. 
+9 là John trong vườn? 	 Có	 7 
+10 Daniel chuyển đến khu vườn. 
+11 Sandra rời khỏi bóng đá. 
+12 là Mary trong văn phòng? 	 không	 5 
+13 Mary đi vào bếp. 
+14 Mary đã đi đến vườn. 
+15 là Daniel trong phòng tắm? 	 không có	 10 
+1 Sandra đã đến khu vườn. 
+2 Daniel đi đến hành lang. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Mary đi đến hành lang.
+5 Sandra chuyển đến văn phòng. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 Daniel đi đến nhà bếp. 
+8 Sandra trở về phòng ngủ. 
+9 là Mary ở hành lang? 	 Có	 4 
+10 Mary chuyển đến nhà bếp. 
+11 Sandra đi vào phòng tắm. 
+12 là Sandra trong nhà bếp? 	 không có	 11 
+13 Daniel có sữa đó. 
+14 John trở lại hành lang. 
+15 là John ở hành lang? 	 Có	 14 
+1 Mary đi vào phòng ngủ. 
+2 Daniel đi vào phòng ngủ. 
+3 là Daniel trong phòng ngủ? 	 Có	 2 
+4 Sandra hành quân tới vườn. 
+5 Daniel trở lại văn phòng. 
+6 là Daniel trong văn phòng? 	 Có	 5 
+7 Daniel đã đến khu vườn.
+8 Daniel đã đi vào phòng tắm. 
+9 là Daniel trong văn phòng? 	 không	 8 
+10 John đi đến văn phòng. 
+11 Sandra trở về phòng ngủ. 
+12 là John trong nhà bếp? 	 không có	 10 
+13 Daniel trở lại khu vườn. 
+14 Mary đi đến văn phòng. 
+15 là Daniel trong phòng ngủ? 	 không có	 13 
+1 John trở lại vào phòng tắm. 
+2 John có quả táo đó. 
+3 là John trong phòng tắm? 	 có	 1 
+4 John đã đi đến hành lang. 
+5 Sandra mất bóng đá ở đó. 
+6 là John ở hành lang? 	 Có	 4 
+7 John đi vào nhà bếp. 
+8 Mary có sữa đó. 
+9 là John trong phòng ngủ? 	 không	 7 
+10 Sandra chuyển đến hành lang.
+11 John đi đến phòng ngủ. 
+12 là John ở hành lang? 	 không có	 11 
+13 John trái táo. 
+14 Sandra bỏ bóng đá. 
+15 là John trong phòng ngủ? 	 Có	 11 
+1 Daniel trở lại hành lang. 
+2 Sandra chuyển đến hành lang. 
+3 là Daniel trong nhà bếp? 	 không có	 1 
+4 Daniel chuyển tới nhà bếp. 
+5 Daniel đã đi đến hành lang. 
+6 là Daniel trong vườn? 	 không	 5 
+7 John chuyển đến nhà bếp. 
+8 Sandra đi vào phòng ngủ. 
+9 là Daniel ở hành lang? 	 Có	 5 
+10 Daniel chuyển đến khu vườn. 
+11 Daniel nhặt sữa đó. 
+12 là Sandra trong phòng ngủ? 	 Có	 8 
+13 Daniel rời sữa đó.
+14 John trở về phòng ngủ. 
+15 là Sandra trong phòng tắm? 	 không	 8 
+1 Daniel đi vào bếp. 
+2 Daniel đi vào phòng tắm. 
+3 là Daniel trong phòng tắm? 	 Có	 2 
+4 Mary đi đến hành lang. 
+5 Mary chuyển đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Mary đã đi đến vườn. 
+8 John đi vào phòng ngủ. 
+9 là Mary ở hành lang? 	 không	 7 
+10 John đi đến nhà bếp. 
+11 Sandra chuyển đến phòng ngủ. 
+12 là John trong văn phòng? 	 không có	 10 
+13 Mary trở về văn phòng. 
+14 John trở về văn phòng. 
+15 là Sandra trong phòng ngủ? 	 Có	 11 
+1 John có bóng đá ở đó.
+2 Mary đi vào phòng tắm. 
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 John đi đến nhà bếp. 
+5 Mary trở về văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Mary nắm lấy quả táo đó. 
+8 Sandra đi đến phòng tắm. 
+9 là Mary trong vườn? 	 không	 5 
+10 John đi vào phòng tắm. 
+11 Daniel trở lại văn phòng. 
+12 là Daniel trong phòng tắm? 	 không có	 11 
+13 Mary trở về phòng ngủ. 
+14 John bỏ bóng đá. 
+15 là John trong phòng tắm? 	 Có	 10 
+1 Mary trở về khu vườn. 
+2 Sandra trở lại nhà bếp. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 Sandra nhặt quả táo đó.
+5 Sandra đặt xuống quả táo. 
+6 là Sandra trong nhà bếp? 	 Có	 2 
+7 Sandra nhặt quả táo đó. 
+8 Sandra mất sữa đó. 
+9 là Sandra trong văn phòng? 	 không có	 2 
+10 Mary trở lại nhà bếp. 
+11 John đã đến khu vườn. 
+12 là John trong phòng tắm? 	 không có	 11 
+13 John đã đi đến hành lang. 
+14 Mary trở về hành lang. 
+15 là Mary ở hành lang? 	 Có	 14 
+1 Mary đã đến văn phòng. 
+2 Mary đi vào phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2 
+4 John trở về khu vườn. 
+5 Sandra chuyển đến khu vườn. 
+6 là Mary trong phòng ngủ? 	 Có	 2 
+7 Sandra đi vào nhà bếp.
+8 Mary nắm lấy bóng đá ở đó. 
+9 là Sandra trong phòng tắm? 	 không	 7 
+10 Mary đi vào phòng tắm. 
+11 Mary đã đến khu vườn. 
+12 là Mary ở hành lang? 	 không có	 11 
+13 Daniel chuyển tới phòng tắm. 
+14 Daniel chuyển tới văn phòng. 
+15 là Mary trong văn phòng? 	 không có	 11 
+1 Sandra mất bóng đá ở đó. 
+2 Sandra bỏ bóng đá. 
+3 Daniel có bóng đá ở đó. 
+4 Mary nắm lấy quả táo đó. 
+5 Daniel đi đến hành lang. 
+6 Mary trái táo đó. 
+7 là Daniel trong vườn? 	 không	 5 
+8 Daniel bỏ bóng đá. 
+9 John đi đến phòng tắm. 
+10 là John trong phòng ngủ? 	 không	 9
+11 Mary nhặt quả táo đó. 
+12 Daniel đi đến phòng tắm. 
+13 là John trong phòng ngủ? 	 không	 9 
+14 John đi vào bếp. 
+15 John đi đến phòng ngủ. 
+16 là Daniel trong phòng tắm? 	 Có	 12 
+17 John đi đến nhà bếp. 
+18 Sandra trở lại hành lang. 
+19 là Sandra trong vườn? 	 không có	 18 
+1 Mary chuyển đến phòng tắm. 
+2 John đi đến hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 Daniel chuyển tới phòng ngủ. 
+5 Mary nắm lấy bóng đá ở đó. 
+6 là Daniel trong nhà bếp? 	 không	 4 
+7 Sandra đã đi đến vườn. 
+8 Mary bỏ bóng đá ở đó. 
+9 là Sandra trong vườn? 	 Có	 7
+10 Mary nhặt bóng đá ở đó. 
+11 Mary bỏ bóng đá. 
+12 là Sandra trong vườn? 	 Có	 7 
+13 Mary có bóng đá ở đó. 
+14 Sandra đi vào phòng tắm. 
+15 là Sandra trong phòng tắm? 	 Có	 14 
+1 Sandra trở về văn phòng. 
+2 Mary đi vào phòng ngủ. 
+3 là Mary trong phòng ngủ? 	 Có	 2 
+4 Mary mất quả táo đó. 
+5 Daniel đã đi vào phòng ngủ. 
+6 là Sandra trong nhà bếp? 	 không có	 1 
+7 John chuyển đến phòng ngủ. 
+8 Daniel đi đến hành lang. 
+9 là Daniel ở hành lang? 	 Có	 8 
+10 Daniel trở lại vào phòng tắm. 
+11 Mary chuyển đến phòng tắm. 
+12 là Daniel trong phòng tắm? 	 Có	 10
+13 Daniel trở lại phòng ngủ. 
+14 Mary trở về khu vườn. 
+15 là Daniel trong văn phòng? 	 không có	 13 
+1 Sandra mất quả táo đó. 
+2 Sandra chuyển đến phòng ngủ. 
+3 là Sandra ở hành lang? 	 không có	 2 
+4 Daniel trở lại vào phòng tắm. 
+5 John nắm lấy bóng đá ở đó. 
+6 là Daniel trong phòng tắm? 	 Có	 4 
+7 John bỏ bóng đá. 
+8 Daniel đi đến nhà bếp. 
+9 là Daniel ở hành lang? 	 không	 8 
+10 John mất bóng đá ở đó. 
+11 Sandra trái táo. 
+12 là Daniel trong nhà bếp? 	 Có	 8 
+13 John có quả táo đó. 
+14 Mary đi đến hành lang. 
+15 là Mary trong văn phòng? 	 không có	 14
+1 Daniel đi đến phòng tắm. 
+2 John đi đến hành lang. 
+3 là Daniel ở hành lang? 	 không có	 1 
+4 John mất quả táo đó. 
+5 Sandra đã đến khu vườn. 
+6 là Sandra trong nhà bếp? 	 không	 5 
+7 Daniel đi vào nhà bếp. 
+8 John đặt xuống quả táo. 
+9 là Sandra ở hành lang? 	 không	 5 
+10 Daniel trở lại hành lang. 
+11 Daniel nắm lấy quả táo đó. 
+12 là Sandra ở hành lang? 	 không	 5 
+13 Daniel đi đến nhà bếp. 
+14 Daniel đi đến phòng tắm. 
+15 là Daniel trong phòng tắm? 	 Có	 14 
+1 Mary mất bóng đá ở đó. 
+2 Mary bỏ bóng đá. 
+3 Daniel đã đến văn phòng.
+4 John chuyển đến khu vườn. 
+5 là Daniel trong văn phòng? 	 Có	 3 
+6 Daniel đi đến hành lang. 
+7 Mary mất bóng đá ở đó. 
+8 là Daniel ở hành lang? 	 Có	 6 
+9 Daniel chuyển tới phòng tắm. 
+10 Daniel mất quả táo đó. 
+11 là John trong phòng tắm? 	 không	 4 
+12 Daniel đã đi vào phòng ngủ. 
+13 Sandra chuyển đến phòng tắm. 
+14 là Sandra trong phòng tắm? 	 Có	 13 
+15 Mary đặt xuống bóng đá. 
+16 Mary đi đến khu vườn. 
+17 là Mary trong vườn? 	 Có	 16 
+1 Mary đi đến văn phòng. 
+2 Mary chuyển đến hành lang. 
+3 là Mary trong nhà bếp? 	 không có	 2 
+4 Mary đi vào bếp.
+5 Daniel nhặt bóng đá ở đó. 
+6 là Mary trong nhà bếp? 	 Có	 4 
+7 John đi đến nhà bếp. 
+8 Daniel chuyển đến khu vườn. 
+9 là Mary trong nhà bếp? 	 Có	 4 
+10 Sandra đi đến phòng tắm. 
+11 Sandra đã đi đến hành lang. 
+12 là John trong văn phòng? 	 không	 7 
+13 John đi đến văn phòng. 
+14 Daniel bỏ bóng đá ở đó. 
+15 là John trong văn phòng? 	 Có	 13 
+1 Daniel trở lại phòng ngủ. 
+2 Sandra chuyển đến hành lang. 
+3 là Sandra ở hành lang? 	 Có	 2 
+4 Mary trở về văn phòng. 
+5 John chuyển đến phòng ngủ. 
+6 là Sandra trong văn phòng? 	 không có	 2 
+7 Sandra đã đi vào phòng ngủ.
+8 Mary đi vào nhà bếp. 
+9 là Sandra trong vườn? 	 không	 7 
+10 Mary mất bóng đá ở đó. 
+11 Mary bỏ bóng đá. 
+12 là John trong phòng ngủ? 	 Có	 5 
+13 Sandra đã đến văn phòng. 
+14 Mary đã đi đến vườn. 
+15 là Mary trong vườn? 	 Có	 14 
+1 John đã đi vào phòng ngủ. 
+2 Daniel đi đến phòng tắm. 
+3 là John trong phòng tắm? 	 không có	 1 
+4 Mary đi vào phòng ngủ. 
+5 Mary đi vào nhà bếp. 
+6 là John ở hành lang? 	 không có	 1 
+7 John đi đến phòng tắm. 
+8 John trở lại nhà bếp. 
+9 là Mary trong nhà bếp? 	 Có	 5 
+10 Daniel nắm lấy bóng đá ở đó.
+11 Sandra đi vào nhà bếp. 
+12 là John trong phòng ngủ? 	 không	 8 
+13 Sandra đi đến văn phòng. 
+14 John đi đến văn phòng. 
+15 là John trong văn phòng? 	 Có	 14 
+1 Daniel đã đi vào phòng tắm. 
+2 Mary đi vào phòng tắm. 
+3 là Mary trong nhà bếp? 	 không có	 2 
+4 Mary đi đến nhà bếp. 
+5 Mary đã đi đến vườn. 
+6 là Mary trong phòng tắm? 	 không	 5 
+7 Mary có bóng đá ở đó. 
+8 John chuyển đến phòng tắm. 
+9 là Mary trong phòng tắm? 	 không	 5 
+10 John trở về phòng ngủ. 
+11 Mary bỏ bóng đá. 
+12 là John trong phòng ngủ? 	 Có	 10 
+13 Mary đi vào bếp. 
+14 Sandra chuyển đến phòng ngủ.
+15 là John trong phòng ngủ? 	 Có	 10 
+1 Sandra chuyển đến khu vườn. 
+2 Sandra nhặt quả táo đó. 
+3 là Sandra trong vườn? 	 có	 1 
+4 John có bóng đá ở đó. 
+5 John bỏ bóng đá. 
+6 là Sandra trong phòng tắm? 	 không có	 1 
+7 Mary đi vào phòng ngủ. 
+8 John đã đi đến hành lang. 
+9 là Mary trong văn phòng? 	 không	 7 
+10 Daniel chuyển tới phòng tắm. 
+11 Daniel đã đến khu vườn. 
+12 là Mary trong phòng ngủ? 	 Có	 7 
+13 John đã đến khu vườn. 
+14 Sandra trái táo. 
+15 là Daniel trong phòng ngủ? 	 không có	 11 
+1 John trở về phòng ngủ. 
+2 John mất bóng đá ở đó.
+3 là John trong phòng ngủ? 	 có	 1 
+4 Sandra mất quả táo đó. 
+5 Mary đã đến văn phòng. 
+6 là John trong văn phòng? 	 không có	 1 
+7 Sandra giảm táo. 
+8 Mary đi vào bếp. 
+9 là Mary trong văn phòng? 	 không	 8 
+10 Daniel chuyển đến khu vườn. 
+11 Daniel chuyển tới văn phòng. 
+12 là Mary trong nhà bếp? 	 Có	 8 
+13 Sandra đã đi vào phòng ngủ. 
+14 Mary nhặt quả táo đó. 
+15 là Sandra trong nhà bếp? 	 không có	 13 
+1 Mary đi đến văn phòng. 
+2 John chuyển đến phòng ngủ. 
+3 là John trong phòng ngủ? 	 Có	 2 
+4 Mary đi vào phòng ngủ. 
+5 Mary trở về hành lang. 
+6 là John trong phòng ngủ? 	 Có	
+7 Mary chuyển đến nhà bếp. 
+8 John chuyển đến khu vườn. 
+9 là Mary trong vườn? 	 không	 7 
+10 Daniel đã đi vào phòng ngủ. 
+11 Daniel mất sữa đó. 
+12 là Mary trong nhà bếp? 	 Có	 7 
+13 Daniel đi đến văn phòng. 
+14 Mary nắm lấy quả táo đó. 
+15 là Daniel ở hành lang? 	 không có	 13 
+1 Daniel hành quân tới vườn. 
+2 Daniel chuyển tới nhà bếp. 
+3 là Daniel trong nhà bếp? 	 Có	 2 
+4 John đi vào bếp. 
+5 Mary đi đến phòng tắm. 
+6 là Daniel ở hành lang? 	 không có	 2 
+7 John đi đến hành lang. 
+8 Daniel đã đi vào phòng ngủ. 
+9 là John trong vườn? 	 không	
+11 Sandra đã đi vào phòng ngủ. 
+12 là Sandra trong phòng ngủ? 	 Có	 11 
+13 Daniel mất quả táo đó. 
+14 Mary mất bóng đá ở đó. 
+15 là Daniel trong phòng ngủ? 	 Có	 8 
+1 Daniel nhặt quả táo đó. 
+2 Daniel đi đến hành lang. 
+3 là Daniel trong vườn? 	 không có	 2 
+4 Sandra đi đến phòng ngủ. 
+5 Mary nhặt sữa đó. 
+6 là Sandra trong nhà bếp? 	 không	 4 
+7 Daniel mất bóng đá ở đó. 
+8 Mary giảm sữa. 
+9 là Sandra ở hành lang? 	 không	 4 
+10 John chuyển đến văn phòng. 
+11 Sandra đi vào bếp. 
+12 là Sandra trong nhà bếp? 	 Có	 11 
+13 Daniel trở lại phòng ngủ.
+14 Daniel loại bỏ bóng đá. 
+15 là John trong văn phòng? 	 Có	 10 
+1 John có bóng đá ở đó. 
+2 John chuyển đến hành lang. 
+3 là John trong vườn? 	 không có	 2 
+4 Daniel trở lại hành lang. 
+5 John đi vào nhà bếp. 
+6 là John trong nhà bếp? 	 Có	 5 
+7 Mary chuyển đến phòng ngủ. 
+8 Sandra đã đi đến hành lang. 
+9 là John trong phòng ngủ? 	 không	 5 
+10 Mary đi đến hành lang. 
+11 Mary đi vào phòng tắm. 
+12 là Mary ở hành lang? 	 không có	 11 
+13 John rời khỏi bóng đá. 
+14 John có bóng đá ở đó. 
+15 là Mary trong phòng tắm? 	 Có	 11 
+1 Daniel nhặt quả táo đó. 
+2 Sandra nhặt sữa đó.
+3 Sandra đi vào nhà bếp. 
+4 Daniel trái táo. 
+5 là Sandra trong phòng ngủ? 	 không	 3 
+6 Mary chuyển đến nhà bếp. 
+7 John đi đến hành lang. 
+8 là John ở hành lang? 	 Có	 7 
+9 Sandra chuyển đến phòng tắm. 
+10 Daniel có quả táo đó. 
+11 là Mary trong nhà bếp? 	 Có	 6 
+12 Daniel giảm táo. 
+13 John đã đến khu vườn. 
+14 là John trong phòng ngủ? 	 không có	 13 
+15 Daniel mất quả táo đó. 
+16 John mất bóng đá ở đó. 
+17 là John trong phòng ngủ? 	 không có	 13 
+1 Mary quay trở lại vào phòng tắm. 
+2 Sandra trở lại nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 John đã đi đến vườn.
+5 Daniel trở lại vào phòng tắm. 
+6 là John trong nhà bếp? 	 không	 4 
+7 John chuyển đến phòng tắm. 
+8 Sandra đi đến phòng ngủ. 
+9 là Sandra trong văn phòng? 	 không	 8 
+10 Mary đi đến văn phòng. 
+11 Sandra đi đến hành lang. 
+12 là Mary trong văn phòng? 	 Có	 10 
+13 Sandra chuyển đến khu vườn. 
+14 Sandra đã đến văn phòng. 
+15 là Mary ở hành lang? 	 không có	 10 
+1 Daniel trở lại vào phòng tắm. 
+2 Mary chuyển đến hành lang. 
+3 là Daniel trong nhà bếp? 	 không có	 1 
+4 Sandra đi đến phòng ngủ. 
+5 Mary nhặt bóng đá ở đó. 
+6 là Mary ở hành lang? 	 Có	 2 
+7 Daniel nắm lấy quả táo đó.
+8 Mary bỏ bóng đá. 
+9 là Sandra trong phòng ngủ? 	 Có	 4 
+10 John đi vào nhà bếp. 
+11 Daniel trái táo. 
+12 là John ở hành lang? 	 không có	 10 
+13 Daniel mất quả táo đó. 
+14 Mary trở lại nhà bếp. 
+15 là John trong vườn? 	 không có	 10 
+1 Daniel đã đi đến hành lang. 
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong phòng tắm? 	 không có	 2 
+4 John chuyển đến hành lang. 
+5 Sandra nhặt sữa đó. 
+6 là John trong nhà bếp? 	 không	 4 
+7 John có quả táo đó. 
+8 Sandra đã đi vào phòng ngủ. 
+9 là John trong văn phòng? 	 không	 4 
+10 Mary đi vào bếp. 
+11 Sandra trở về khu vườn.
+12 là Sandra trong nhà bếp? 	 không có	 11 
+13 John đã đi đến vườn. 
+14 Sandra đã đi đến hành lang. 
+15 là Sandra ở hành lang? 	 Có	 14 
+1 Mary trở về văn phòng. 
+2 Sandra trở lại hành lang. 
+3 là Mary trong vườn? 	 không có	 1 
+4 Sandra chuyển đến phòng tắm. 
+5 Mary đi vào phòng ngủ. 
+6 là Mary trong phòng tắm? 	 không	 5 
+7 Daniel chuyển tới nhà bếp. 
+8 John nắm lấy sữa ở đó. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Daniel chuyển tới hành lang. 
+11 John đã đến khu vườn. 
+12 là Daniel ở hành lang? 	 Có	 10 
+13 Mary nhặt quả táo đó. 
+14 Sandra đi đến văn phòng.
+15 là Sandra trong phòng ngủ? 	 không có	 14 
+1 Daniel trở lại khu vườn. 
+2 John chuyển đến phòng ngủ. 
+3 là Daniel trong vườn? 	 có	 1 
+4 Daniel đi vào bếp. 
+5 Daniel đi đến văn phòng. 
+6 là Daniel trong văn phòng? 	 Có	 5 
+7 Daniel đi vào nhà bếp. 
+8 Mary đi đến văn phòng. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Mary nhặt bóng đá ở đó. 
+11 Sandra đã đi vào phòng ngủ. 
+12 là Daniel trong nhà bếp? 	 Có	 7 
+13 Mary rời khỏi bóng đá. 
+14 John đã đến khu vườn. 
+15 là Sandra trong phòng ngủ? 	 Có	 11 
+1 John đã đến văn phòng. 
+2 Sandra trở về phòng ngủ.
+3 là John trong văn phòng? 	 có	 1 
+4 John mất sữa đó. 
+5 Mary đi đến khu vườn. 
+6 là Mary trong phòng ngủ? 	 không	 5 
+7 Daniel đã đến văn phòng. 
+8 John rời khỏi sữa. 
+9 là Sandra trong nhà bếp? 	 không có	 2 
+10 John nhặt sữa đó. 
+11 John bỏ sữa đó. 
+12 là Daniel trong nhà bếp? 	 không	 7 
+13 Daniel nắm lấy sữa ở đó. 
+14 John trở về khu vườn. 
+15 là John trong vườn? 	 Có	 14 
+1 Daniel đi vào nhà bếp. 
+2 Mary nắm lấy bóng đá ở đó. 
+3 là Daniel trong phòng ngủ? 	 không có	 1 
+4 Mary đã lấy sữa ở đó. 
+5 John đi đến nhà bếp. 
+6 là John trong nhà bếp? 	
+7 Daniel hành quân tới vườn. 
+8 Mary bỏ bóng đá. 
+9 là Daniel trong vườn? 	 Có	 7 
+10 Daniel nắm lấy bóng đá ở đó. 
+11 Daniel rời khỏi bóng đá ở đó. 
+12 là John trong vườn? 	 không	 5 
+13 Mary mất bóng đá ở đó. 
+14 John trở lại hành lang. 
+15 là John ở hành lang? 	 Có	 14 
+1 Mary đi vào bếp. 
+2 Daniel có quả táo đó. 
+3 là Mary trong nhà bếp? 	 có	 1 
+4 Daniel bỏ đi táo. 
+5 John chuyển đến văn phòng. 
+6 là Mary trong văn phòng? 	 không có	 1 
+7 Sandra chuyển đến phòng ngủ. 
+8 Sandra đi vào nhà bếp. 
+9 là Sandra trong nhà bếp? 	 Có	 8
+10 Sandra đi vào phòng ngủ. 
+11 John trở về khu vườn. 
+12 là Sandra trong phòng ngủ? 	 Có	 10 
+13 Mary chuyển đến khu vườn. 
+14 Daniel mất quả táo đó. 
+15 là Mary trong vườn? 	 Có	 13 
+1 Daniel đi đến phòng ngủ. 
+2 Sandra mất sữa đó. 
+3 là Daniel ở hành lang? 	 không có	 1 
+4 Daniel đi đến nhà bếp. 
+5 Daniel đi đến hành lang. 
+6 là Daniel trong vườn? 	 không	 5 
+7 Sandra đi vào bếp. 
+8 John đã đi đến vườn. 
+9 là Sandra trong nhà bếp? 	 Có	 7 
+10 John chuyển đến nhà bếp. 
+11 Sandra đặt xuống sữa ở đó. 
+12 là John ở hành lang? 	 không có	 10
+13 Sandra nắm lấy sữa ở đó. 
+14 Sandra chuyển đến hành lang. 
+15 là John trong nhà bếp? 	 Có	 10 
+1 Mary nhặt sữa đó. 
+2 Mary bỏ sữa. 
+3 Sandra mất bóng đá ở đó. 
+4 John chuyển đến văn phòng. 
+5 là John trong văn phòng? 	 Có	 4 
+6 Daniel đi vào bếp. 
+7 Mary nắm lấy sữa ở đó. 
+8 là Daniel trong văn phòng? 	 không	 6 
+9 Mary rời khỏi sữa. 
+10 Mary trở về phòng ngủ. 
+11 là Mary trong phòng ngủ? 	 Có	 10 
+12 John nắm lấy sữa ở đó. 
+13 Mary chuyển đến hành lang. 
+14 là Mary trong vườn? 	 không có	 13 
+15 Daniel hành quân tới vườn. 
+16 John bỏ sữa đó.
+17 là Mary trong nhà bếp? 	 không có	 13 
+1 Mary nắm lấy sữa ở đó. 
+2 Sandra trở về phòng ngủ. 
+3 là Sandra trong nhà bếp? 	 không có	 2 
+4 Daniel trở lại khu vườn. 
+5 John có bóng đá ở đó. 
+6 là Sandra trong phòng ngủ? 	 Có	 2 
+7 Daniel trở lại nhà bếp. 
+8 John đã đến văn phòng. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Mary đặt xuống sữa. 
+11 Daniel đi đến văn phòng. 
+12 là John trong văn phòng? 	 Có	 8 
+13 John đi vào nhà bếp. 
+14 John đặt xuống bóng đá. 
+15 là Daniel trong văn phòng? 	 Có	 11 
+1 Sandra nhặt sữa đó. 
+2 Mary đi đến nhà bếp.
+3 là Mary trong nhà bếp? 	 Có	 2 
+4 Sandra mất bóng đá ở đó. 
+5 John đi đến văn phòng. 
+6 là Mary ở hành lang? 	 không có	 2 
+7 Sandra bỏ bóng đá ở đó. 
+8 Sandra đặt xuống sữa ở đó. 
+9 là Mary trong vườn? 	 không có	 2 
+10 Sandra có sữa đó. 
+11 Sandra đặt xuống sữa. 
+12 là John trong văn phòng? 	 Có	 5 
+13 Sandra có sữa đó. 
+14 Sandra rời khỏi sữa. 
+15 Sandra trở lại hành lang. 
+16 Sandra đi vào nhà bếp. 
+17 là Sandra trong phòng ngủ? 	 không có	 16 
+1 Mary đã đi đến vườn. 
+2 Daniel đã đến khu vườn. 
+3 là Mary trong vườn? 	 có	 1 
+4 Mary đi đến văn phòng.
+5 Sandra đi đến hành lang. 
+6 là Mary trong phòng ngủ? 	 không	 4 
+7 John đi đến hành lang. 
+8 Mary đi đến nhà bếp. 
+9 là John ở hành lang? 	 Có	 7 
+10 Sandra trở về văn phòng. 
+11 Mary đi đến phòng tắm. 
+12 là Sandra trong văn phòng? 	 Có	 10 
+13 Sandra mất bóng đá ở đó. 
+14 Daniel đi đến văn phòng. 
+15 là Mary trong phòng ngủ? 	 không có	 11 
+1 John đi vào phòng ngủ. 
+2 Mary đi vào phòng tắm. 
+3 là Mary trong phòng tắm? 	 Có	 2 
+4 John có quả táo đó. 
+5 Daniel đi vào nhà bếp. 
+6 là Mary trong vườn? 	 không có	 2 
+7 Mary chuyển đến hành lang.
+8 Mary có bóng đá ở đó. 
+9 là Daniel trong nhà bếp? 	 Có	 5 
+10 Mary bỏ bóng đá. 
+11 John đặt xuống quả táo. 
+12 là Mary trong văn phòng? 	 không	 7 
+13 Mary chuyển đến văn phòng. 
+14 Daniel đi vào phòng tắm. 
+15 là Mary trong văn phòng? 	 Có	 13 
+1 John trở lại nhà bếp. 
+2 Mary trở về hành lang. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Mary chuyển đến văn phòng. 
+5 Daniel đi vào nhà bếp. 
+6 là Mary trong văn phòng? 	 Có	 4 
+7 John nắm lấy quả táo đó. 
+8 Daniel trở lại khu vườn. 
+9 là Mary trong văn phòng? 	 Có	 4 
+10 Mary trở về hành lang. 
+11 Daniel mất sữa đó.
+12 là Mary ở hành lang? 	 Có	 10 
+13 Mary đi vào phòng ngủ. 
+14 Daniel chuyển tới phòng ngủ. 
+15 là Daniel trong phòng ngủ? 	 Có	 14 
+1 Daniel hành quân tới vườn. 
+2 John có bóng đá ở đó. 
+3 là Daniel trong văn phòng? 	 không có	 1 
+4 Sandra chuyển đến khu vườn. 
+5 John trở về khu vườn. 
+6 là Sandra ở hành lang? 	 không	 4 
+7 Daniel đã đi vào phòng tắm. 
+8 Sandra đi vào phòng tắm. 
+9 là Sandra trong phòng tắm? 	 Có	 8 
+10 Mary đi đến hành lang. 
+11 Mary nắm lấy quả táo đó. 
+12 là Sandra trong phòng tắm? 	 Có	 8 
+13 Mary chuyển đến nhà bếp. 
+14 Mary đi đến hành lang.
+15 là Mary trong vườn? 	 không có	 14 
+1 Sandra đi đến hành lang. 
+2 John đi đến nhà bếp. 
+3 là John trong nhà bếp? 	 Có	 2 
+4 Sandra nhặt quả táo đó. 
+5 Mary nhặt sữa đó. 
+6 là Sandra trong văn phòng? 	 không có	 1 
+7 Sandra đi vào nhà bếp. 
+8 Daniel trở lại hành lang. 
+9 là John trong nhà bếp? 	 Có	 2 
+10 Mary đi vào phòng tắm. 
+11 Sandra đi đến hành lang. 
+12 là Sandra trong phòng ngủ? 	 không có	 11 
+13 Mary rời khỏi sữa. 
+14 Sandra trái táo. 
+15 là Daniel ở hành lang? 	 Có	 8 
+1 John mất bóng đá ở đó. 
+2 Sandra có sữa đó. 
+3 Sandra đặt xuống sữa.
+4 Daniel chuyển tới phòng tắm. 
+5 là Daniel trong phòng ngủ? 	 không	 4 
+6 Mary chuyển đến phòng tắm. 
+7 Sandra hành quân tới vườn. 
+8 là Daniel trong vườn? 	 không	 4 
+9 John bỏ bóng đá. 
+10 Daniel đã đi đến hành lang. 
+11 là Daniel trong vườn? 	 không có	 10 
+12 Daniel đã đến văn phòng. 
+13 Sandra trở vào phòng tắm. 
+14 là Sandra trong văn phòng? 	 không có	 13 
+15 John có bóng đá ở đó. 
+16 Mary đi đến hành lang. 
+17 là Daniel ở hành lang? 	 không có	 12 
+1 Daniel chuyển tới văn phòng. 
+2 Mary quay trở lại vào phòng tắm. 
+3 là Daniel trong vườn? 	 không có	 1 
+4 Mary đi đến hành lang.
+5 John đi vào phòng tắm. 
+6 là John trong phòng tắm? 	 Có	 5 
+7 Daniel đi vào nhà bếp. 
+8 Sandra đã đi đến vườn. 
+9 là Daniel trong nhà bếp? 	 Có	 7 
+10 Sandra trở lại nhà bếp. 
+11 John đã đến văn phòng. 
+12 là John trong văn phòng? 	 Có	 11 
+13 Mary trở về phòng ngủ. 
+14 Sandra đã đi đến vườn. 
+15 là John trong phòng tắm? 	 không có	 11 
+1 Sandra mất bóng đá ở đó. 
+2 Sandra mất quả táo đó. 
+3 Mary đi đến hành lang. 
+4 Mary đi đến nhà bếp. 
+5 là Mary trong văn phòng? 	 không	 4 
+6 John chuyển đến văn phòng. 
+7 Sandra đi vào phòng tắm. 
+8 là John trong văn phòng? 	
+9 Daniel chuyển tới nhà bếp. 
+10 John có sữa đó. 
+11 là Sandra trong nhà bếp? 	 không	 7 
+12 Daniel đi đến phòng tắm. 
+13 Sandra đặt xuống bóng đá. 
+14 là Daniel trong phòng tắm? 	 Có	 12 
+15 Sandra đi đến văn phòng. 
+16 John bỏ sữa đó. 
+17 là Sandra trong văn phòng? 	 Có	 15 
+1 Daniel hành quân tới vườn. 
+2 Sandra chuyển đến phòng ngủ. 
+3 là Daniel trong vườn? 	 có	 1 
+4 Sandra đi vào bếp. 
+5 Mary chuyển đến khu vườn. 
+6 là Sandra trong nhà bếp? 	 Có	 4 
+7 Sandra đã đến văn phòng. 
+8 Daniel đi vào phòng ngủ. 
+9 là Sandra trong văn phòng? 	 Có	 7
+10 Daniel chuyển tới nhà bếp. 
+11 Sandra đã táo đó. 
+12 là Daniel trong văn phòng? 	 không có	 10 
+13 John đã đến khu vườn. 
+14 Daniel đi vào phòng tắm. 
+15 là Daniel trong phòng tắm? 	 Có	 14 
+1 Daniel đi đến nhà bếp. 
+2 Daniel chuyển tới hành lang. 
+3 là Daniel ở hành lang? 	 Có	 2 
+4 Daniel đi đến nhà bếp. 
+5 Mary trở lại nhà bếp. 
+6 là Mary trong văn phòng? 	 không	 5 
+7 Daniel mất sữa đó. 
+8 Daniel đi đến văn phòng. 
+9 là Mary trong văn phòng? 	 không	 5 
+10 John đi vào bếp. 
+11 Daniel đi đến hành lang. 
+12 là Daniel ở hành lang? 	 Có	 11
+13 Daniel đi đến văn phòng. 
+14 Daniel đi đến phòng tắm. 
+15 là Daniel trong phòng tắm? 	 Có	 14 
+1 Sandra trở lại hành lang. 
+2 Daniel có bóng đá ở đó. 
+3 là Sandra trong phòng tắm? 	 không có	 1 
+4 Sandra chuyển đến khu vườn. 
+5 Sandra đã đi vào phòng tắm. 
+6 là Sandra trong phòng ngủ? 	 không	 5 
+7 Sandra nắm lấy sữa ở đó. 
+8 Mary đi vào phòng tắm. 
+9 là Mary trong phòng tắm? 	 Có	 8 
+10 Sandra bỏ sữa. 
+11 Daniel rời khỏi bóng đá ở đó. 
+12 là Mary trong phòng ngủ? 	 không	 8 
+13 John đi vào phòng tắm. 
+14 John nhặt bóng đá ở đó. 
+15 là Mary trong phòng ngủ? 	 không	 8
+1 Daniel đã đi vào phòng tắm. 
+2 Sandra có sữa đó. 
+3 là Daniel trong phòng tắm? 	 có	 1 
+4 Daniel đi vào nhà bếp. 
+5 Mary nắm lấy quả táo đó. 
+6 là Daniel trong phòng ngủ? 	 không	 4 
+7 John đi vào phòng ngủ. 
+8 Daniel đã đi đến vườn. 
+9 là Daniel trong vườn? 	 Có	 8 
+10 Sandra chuyển đến hành lang. 
+11 Sandra chuyển đến khu vườn. 
+12 là Sandra trong vườn? 	 Có	 11 
+13 John đi đến nhà bếp. 
+14 Daniel nhặt bóng đá ở đó. 
+15 là Sandra trong vườn? 	 Có	 11 
+1 Mary trở về phòng ngủ. 
+2 Daniel mất bóng đá ở đó. 
+3 là Mary trong phòng ngủ? 	 có	 1
+4 John đi đến phòng tắm. 
+5 John mất sữa đó. 
+6 là John trong phòng tắm? 	 Có	 4 
+7 Daniel loại bỏ bóng đá. 
+8 Mary đi đến hành lang. 
+9 là John trong phòng tắm? 	 Có	 4 
+10 John đã đến khu vườn. 
+11 Daniel đã đi đến vườn. 
+12 là Mary trong vườn? 	 không	 8 
+13 Daniel đi vào nhà bếp. 
+14 Sandra đã đi đến hành lang. 
+15 là Daniel trong nhà bếp? 	 Có	 13 
+1 John trở về văn phòng. 
+2 John đã đi vào phòng ngủ. 
+3 là John trong vườn? 	 không có	 2 
+4 Mary đi đến văn phòng. 
+5 John đã đi đến hành lang. 
+6 là John trong văn phòng? 	 không	 5 
+7 John đã đi đến vườn.
+8 Daniel chuyển tới hành lang. 
+9 là Mary ở hành lang? 	 không	 4 
+10 Daniel đi đến phòng tắm. 
+11 John trở về phòng ngủ. 
+12 là Daniel trong vườn? 	 không có	 10 
+13 Daniel đi đến phòng ngủ. 
+14 Daniel hành quân tới vườn. 
+15 là Daniel trong phòng tắm? 	 không có	 14 
+1 Sandra chuyển đến văn phòng. 
+2 Sandra đã táo đó. 
+3 là Sandra trong phòng tắm? 	 không có	 1 
+4 Sandra đi vào bếp. 
+5 John trở về phòng ngủ. 
+6 là Sandra trong nhà bếp? 	 Có	 4 
+7 Sandra đi vào phòng ngủ. 
+8 Daniel đi đến phòng ngủ. 
+9 là Daniel trong phòng ngủ? 	 Có	 8 
+10 Sandra đặt xuống quả táo đó.
+11 John mất quả táo đó. 
+12 là Daniel trong phòng ngủ? 	 Có	 8 
+13 John trở về văn phòng. 
+14 John đã đi đến hành lang. 
+15 là John trong văn phòng? 	 không có	 14 
+1 John chuyển đến phòng ngủ. 
+2 Daniel nắm lấy quả táo đó. 
+3 là John trong phòng ngủ? 	 có	 1 
+4 Daniel đi đến hành lang. 
+5 Sandra đã đi đến hành lang. 
+6 là John trong phòng ngủ? 	 có	 1 
+7 Mary trở lại nhà bếp. 
+8 John trở lại nhà bếp. 
+9 là Sandra ở hành lang? 	 Có	 5 
+10 Daniel đặt xuống quả táo. 
+11 Daniel nắm lấy quả táo đó. 
+12 là Sandra ở hành lang? 	 Có	 5 
+13 Sandra chuyển đến phòng ngủ.
+14 Daniel đã đến văn phòng. 
+15 là Sandra trong văn phòng? 	 không có	 13 
+1 John chuyển đến hành lang. 
+2 Sandra đi đến phòng tắm. 
+3 là Sandra trong phòng tắm? 	 Có	 2 
+4 John đi đến nhà bếp. 
+5 Sandra nắm lấy sữa ở đó. 
+6 là John trong vườn? 	 không	 4 
+7 Daniel đã đi đến hành lang. 
+8 Sandra đi vào nhà bếp. 
+9 là John trong văn phòng? 	 không	 4 
+10 Sandra bỏ sữa đó. 
+11 Mary đi đến nhà bếp. 
+12 là Mary trong nhà bếp? 	 Có	 11 
+13 John nhặt sữa đó. 
+14 John bỏ sữa đó. 
+15 là Sandra trong nhà bếp? 	 Có	 8 
+1 Mary đi đến phòng ngủ.
+2 John đi vào nhà bếp. 
+3 là Mary trong phòng tắm? 	 không có	 1 
+4 Daniel đã đi vào phòng tắm. 
+5 Daniel chuyển tới nhà bếp. 
+6 là John trong nhà bếp? 	 Có	 2 
+7 Sandra chuyển đến nhà bếp. 
+8 Sandra trở về khu vườn. 
+9 là Sandra trong phòng tắm? 	 không	 8 
+10 Daniel chuyển tới phòng tắm. 
+11 John trở lại vào phòng tắm. 
+12 là Sandra trong vườn? 	 Có	 8 
+13 Daniel hành quân tới vườn. 
+14 Mary nhặt sữa đó. 
+15 là Daniel trong vườn? 	 Có	 13 
+1 Sandra đi đến hành lang. 
+2 Sandra đi vào nhà bếp. 
+3 là Sandra trong phòng ngủ? 	 không có	 2 
+4 Mary đi đến hành lang.
+5 Sandra mất sữa đó. 
+6 là Mary ở hành lang? 	 Có	 4 
+7 John nắm lấy quả táo đó. 
+8 John giảm táo. 
+9 là Mary trong văn phòng? 	 không	 4 
+10 Sandra đi vào phòng tắm. 
+11 Mary đi vào phòng ngủ. 
+12 là Sandra trong phòng tắm? 	 Có	 10 
+13 Sandra đi vào phòng ngủ. 
+14 John nhặt quả táo đó. 
+15 là Mary trong phòng ngủ? 	 Có	 11 
+1 John mất quả táo đó. 
+2 John bỏ đi táo. 
+3 Sandra đã đi vào phòng ngủ. 
+4 John nắm lấy quả táo đó. 
+5 là Sandra trong phòng ngủ? 	 Có	 3 
+6 John trái táo đó. 
+7 Mary trở về phòng ngủ. 
+8 là Mary trong phòng ngủ? 	 Có	
+9 Sandra đi vào nhà bếp. 
+10 John trở về văn phòng. 
+11 là Sandra trong nhà bếp? 	 Có	 9 
+12 Daniel có quả táo đó. 
+13 Daniel chuyển tới phòng ngủ. 
+14 là Daniel trong phòng tắm? 	 không có	 13 
+15 Sandra có sữa đó. 
+16 Mary nắm lấy bóng đá ở đó. 
+17 là John trong phòng ngủ? 	 không có	 10 
+1 John chuyển đến phòng ngủ. 
+2 Daniel chuyển tới phòng ngủ. 
+3 là John trong văn phòng? 	 không có	 1 
+4 Sandra đi đến nhà bếp. 
+5 Sandra đã đi vào phòng ngủ. 
+6 là Sandra trong phòng tắm? 	 không	 5 
+7 Mary trở về phòng ngủ. 
+8 Daniel nắm lấy sữa ở đó. 
+9 là Daniel trong phòng ngủ? 	 Có	 2
+10 Daniel đặt xuống sữa. 
+11 Daniel hành quân tới vườn. 
+12 là Mary trong nhà bếp? 	 không	 7 
+13 John nhặt sữa đó. 
+14 Mary đi đến phòng tắm. 
+15 là Mary trong vườn? 	 không có	 14 
+1 John chuyển đến văn phòng. 
+2 Daniel nhặt sữa đó. 
+3 là John trong văn phòng? 	 có	 1 
+4 John đi vào phòng tắm. 
+5 Sandra mất quả táo đó. 
+6 là John trong vườn? 	 không	 4 
+7 John đi đến nhà bếp. 
+8 Sandra đi đến phòng tắm. 
+9 là John trong nhà bếp? 	 Có	 7 
+10 Daniel đặt xuống sữa ở đó. 
+11 Daniel đi đến nhà bếp. 
+12 là Daniel trong nhà bếp? 	 Có	 11
+13 John đi đến phòng ngủ. 
+14 Sandra trở về văn phòng. 
+15 là Daniel trong nhà bếp? 	 Có	 11 
+1 Sandra chuyển đến văn phòng. 
+2 Sandra nhặt bóng đá ở đó. 
+3 là Sandra trong văn phòng? 	 có	 1 
+4 John đi vào nhà bếp. 
+5 Mary đi đến khu vườn. 
+6 là John trong nhà bếp? 	 Có	 4 
+7 John chuyển đến phòng tắm. 
+8 John chuyển đến văn phòng. 
+9 là John trong phòng tắm? 	 không	 8 
+10 Sandra đi vào phòng tắm. 
+11 Mary nhặt sữa đó. 
+12 là John trong nhà bếp? 	 không	 8 
+13 John trở về khu vườn. 
+14 Sandra đã đi vào phòng ngủ. 
+15 là Sandra trong văn phòng? 	 không có	 14
+1 Mary chuyển đến phòng ngủ. 
+2 John trở lại hành lang. 
+3 là Mary trong nhà bếp? 	 không có	 1 
+4 Daniel đi đến phòng tắm. 
+5 Mary đã đi đến vườn. 
+6 là Mary trong vườn? 	 Có	 5 
+7 Mary trở về hành lang. 
+8 Mary đi đến nhà bếp. 
+9 là Mary trong nhà bếp? 	 Có	 8 
+10 Sandra đi đến hành lang. 
+11 Sandra hành quân tới vườn. 
+12 là Mary ở hành lang? 	 không	 8 
+13 Mary đã đến khu vườn. 
+14 Mary đi vào nhà bếp. 
+15 là Sandra trong vườn? 	 Có	 11 
+1 Sandra trở lại nhà bếp. 
+2 Sandra đi đến văn phòng. 
+3 là Sandra trong văn phòng? 	 Có	 2
+4 Sandra chuyển đến hành lang. 
+5 John chuyển đến văn phòng. 
+6 là Sandra ở hành lang? 	 Có	 4 
+7 John đã đến khu vườn. 
+8 Sandra chuyển đến văn phòng. 
+9 là John trong vườn? 	 Có	 7 
+10 Mary đi vào phòng tắm. 
+11 John mất sữa đó. 
+12 là Sandra trong văn phòng? 	 Có	 8 
+13 Mary nắm lấy quả táo đó. 
+14 John trở lại nhà bếp. 
+15 là John trong nhà bếp? 	 Có	 14 
+1 John đã đi đến vườn. 
+2 Sandra đi đến phòng ngủ. 
+3 là John trong vườn? 	 có	 1 
+4 Mary chuyển đến phòng tắm. 
+5 Daniel đã đi đến vườn. 
+6 là John trong vườn? 	 có	 1 
+7 Mary đi đến hành lang.
+8 Sandra trở về văn phòng. 
+9 là Mary trong phòng tắm? 	 không	 7 
+10 Sandra đi đến nhà bếp. 
+11 Mary nắm lấy quả táo đó. 
+12 là Daniel trong nhà bếp? 	 không	 5 
+13 Mary bỏ đi táo. 
+14 Mary nắm lấy quả táo đó. 
+15 là Sandra trong phòng tắm? 	 không có	 10 
+1 John đi vào phòng tắm. 
+2 Daniel trở lại văn phòng. 
+3 là Daniel trong phòng ngủ? 	 không có	 2 
+4 Daniel nhặt sữa đó. 
+5 John chuyển đến văn phòng. 
+6 là John trong nhà bếp? 	 không	 5 
+7 John trở về phòng ngủ. 
+8 Daniel đi đến phòng tắm. 
+9 là John trong phòng ngủ? 	 Có	 7 
+10 John đã đến khu vườn.
+11 Sandra đi vào bếp. 
+12 là Daniel ở hành lang? 	 không	 8 
+13 Daniel nắm lấy quả táo đó. 
+14 Sandra chuyển đến phòng tắm. 
+15 là Sandra trong phòng tắm? 	 Có	 14 
+1 Daniel trở lại vào phòng tắm. 
+2 John đi đến hành lang. 
+3 là John ở hành lang? 	 Có	 2 
+4 Sandra trở vào phòng tắm. 
+5 John mất quả táo đó. 
+6 là Daniel trong phòng ngủ? 	 không có	 1 
+7 Mary nhặt sữa đó. 
+8 Sandra nhặt bóng đá ở đó. 
+9 là Sandra trong phòng tắm? 	 Có	 4 
+10 Sandra đã đến văn phòng. 
+11 Daniel đi vào nhà bếp. 
+12 là Daniel trong phòng tắm? 	 không có	 11 
+13 Mary chuyển đến nhà bếp.
+14 John bỏ đi táo. 
+15 là Daniel trong nhà bếp? 	 Có	 11 
+1 Daniel đi vào phòng ngủ. 
+2 John có sữa đó. 
+3 là Daniel trong phòng ngủ? 	 có	 1 
+4 John bỏ sữa. 
+5 Mary đã đến văn phòng. 
+6 là Mary trong văn phòng? 	 Có	 5 
+7 Daniel đi đến hành lang. 
+8 Mary quay trở lại vào phòng tắm. 
+9 là Mary trong phòng tắm? 	 Có	 8 
+10 Mary đi đến hành lang. 
+11 Daniel đã đến khu vườn. 
+12 là Mary ở hành lang? 	 Có	 10 
+13 John nắm lấy sữa ở đó. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là Mary trong phòng tắm? 	 Có	 14 
+1 John trở lại hành lang.
+2 Sandra đi vào nhà bếp. 
+3 là John trong nhà bếp? 	 không có	 1 
+4 John nắm lấy bóng đá ở đó. 
+5 John đặt xuống bóng đá ở đó. 
+6 là Sandra trong phòng ngủ? 	 không có	 2 
+7 Mary đi đến hành lang. 
+8 Daniel đã đi vào phòng ngủ. 
+9 là Sandra trong nhà bếp? 	 Có	 2 
+10 Mary chuyển đến khu vườn. 
+11 Mary đi đến phòng tắm. 
+12 là Mary trong nhà bếp? 	 không có	 11 
+13 John chuyển đến phòng ngủ. 
+14 John đi vào nhà bếp. 
+15 là John trong vườn? 	 không có	 14 
+1 John đi đến nhà bếp. 
+2 Sandra nắm lấy sữa ở đó. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Mary đi đến hành lang.
+6 là Mary trong nhà bếp? 	 không	 4 
+7 Daniel trở lại hành lang. 
+8 Mary quay trở lại vào phòng tắm. 
+9 là Daniel ở hành lang? 	 Có	 7 
+10 John chuyển đến khu vườn. 
+11 Sandra nhặt sữa đó. 
+12 là John trong vườn? 	 Có	 10 
+13 Daniel trở lại nhà bếp. 
+14 Mary chuyển đến hành lang. 
+15 là Mary ở hành lang? 	 Có	 14 
+1 Daniel có bóng đá ở đó. 
+2 Mary có sữa đó. 
+3 Mary đặt xuống sữa ở đó. 
+4 Mary chuyển đến phòng tắm. 
+5 là Mary trong vườn? 	 không	 4 
+6 Daniel đi đến văn phòng. 
+7 Mary trở về văn phòng. 
+8 là Mary trong vườn? 	 không	 7
+9 Daniel đặt xuống bóng đá ở đó. 
+10 Sandra đi đến hành lang. 
+11 là Sandra ở hành lang? 	 Có	 10 
+12 Mary đi vào phòng ngủ. 
+13 Sandra đi đến nhà bếp. 
+14 là Mary trong phòng ngủ? 	 Có	 12 
+15 John đã đến khu vườn. 
+16 Sandra mất quả táo đó. 
+17 là Sandra trong văn phòng? 	 không có	 13 
+1 Sandra nhặt bóng đá ở đó. 
+2 Sandra nắm lấy sữa ở đó. 
+3 Daniel trở lại vào phòng tắm. 
+4 Mary chuyển đến phòng tắm. 
+5 là Mary trong phòng tắm? 	 Có	 4 
+6 Sandra đi vào nhà bếp. 
+7 Sandra trở vào phòng tắm. 
+8 là Sandra trong phòng ngủ? 	 không	 7 
+9 Sandra đi vào nhà bếp.
+10 John đi vào phòng ngủ. 
+11 là Sandra trong vườn? 	 không	 9 
+12 Mary chuyển đến văn phòng. 
+13 John đi đến văn phòng. 
+14 là Mary trong văn phòng? 	 Có	 12 
+15 Mary trở về phòng ngủ. 
+16 Sandra chuyển đến phòng tắm. 
+17 là Sandra trong vườn? 	 không có	 16 
+1 Sandra đi vào bếp. 
+2 John mất quả táo đó. 
+3 là Sandra ở hành lang? 	 không có	 1 
+4 Daniel đi vào nhà bếp. 
+5 Mary đi đến hành lang. 
+6 là Daniel trong vườn? 	 không	 4 
+7 Mary đã đi đến vườn. 
+8 Sandra trở về khu vườn. 
+9 là Daniel trong vườn? 	 không	 4 
+10 Mary trở về phòng ngủ.
+11 John nắm lấy bóng đá ở đó. 
+12 là Mary trong phòng ngủ? 	 Có	 10 
+13 Sandra đi đến nhà bếp. 
+14 John giảm táo đó. 
+15 là Sandra trong nhà bếp? 	 Có	 13 
+1 Mary đã đến khu vườn. 
+2 Sandra mất sữa đó. 
+3 là Mary trong vườn? 	 có	 1 
+4 John chuyển đến hành lang. 
+5 Sandra bỏ sữa đó. 
+6 là John trong nhà bếp? 	 không	 4 
+7 Sandra chuyển đến khu vườn. 
+8 Daniel chuyển tới hành lang. 
+9 là Daniel trong nhà bếp? 	 không	 8 
+10 John chuyển đến văn phòng. 
+11 Mary quay trở lại vào phòng tắm. 
+12 là Sandra trong phòng ngủ? 	 không	 7 
+13 Sandra đi vào phòng ngủ.
+14 Mary đi vào bếp. 
+15 là Sandra trong vườn? 	 không có	 13 
+1 Sandra đi vào phòng ngủ. 
+2 Mary đã đến văn phòng. 
+3 là Sandra trong phòng ngủ? 	 có	 1 
+4 Mary chuyển đến phòng ngủ. 
+5 Daniel đã đến văn phòng. 
+6 là Mary trong phòng ngủ? 	 Có	 4 
+7 Sandra nắm lấy quả táo đó. 
+8 John đi đến phòng tắm. 
+9 là John trong phòng tắm? 	 Có	 8 
+10 John nắm lấy bóng đá ở đó. 
+11 John chuyển đến văn phòng. 
+12 là John trong văn phòng? 	 Có	 11 
+13 Sandra bỏ đi táo. 
+14 Daniel đi vào phòng tắm. 
+15 là Daniel trong phòng tắm? 	 Có	 14 
+1 John trở về phòng ngủ.
+2 Daniel nắm lấy sữa ở đó. 
+3 là John trong phòng tắm? 	 không có	 1 
+4 John đi đến phòng tắm. 
+5 Mary đã đi đến vườn. 
+6 là John trong phòng tắm? 	 Có	 4 
+7 Daniel giảm sữa. 
+8 Sandra đã đi vào phòng tắm. 
+9 là Sandra trong phòng tắm? 	 Có	 8 
+10 Daniel có sữa đó. 
+11 Daniel đã đi đến văn phòng. 
+12 là Mary trong vườn? 	 Có	 5 
+13 Mary đi vào nhà bếp. 
+14 John mất bóng đá ở đó. 
+15 là Daniel trong văn phòng? 	 Có	 11 
+1 John đi vào bếp. 
+2 Mary đi đến hành lang. 
+3 là John trong nhà bếp? 	 có	 1 
+4 Daniel đã đi vào phòng tắm. 
+5 Daniel trở lại khu vườn.
+6 là Daniel trong vườn? 	 Có	 5 
+7 Mary đã lấy sữa ở đó. 
+8 John đi đến phòng ngủ. 
+9 là Daniel trong vườn? 	 Có	 5 
+10 Sandra chuyển đến hành lang. 
+11 Mary giảm sữa. 
+12 là John trong phòng ngủ? 	 Có	 8 
+13 John đã đến văn phòng. 
+14 Sandra nắm lấy sữa ở đó. 
+15 là Sandra trong phòng tắm? 	 không có	 10 
+1 John đi vào phòng tắm. 
+2 John nắm lấy quả táo đó. 
+3 là John trong phòng tắm? 	 có	 1 
+4 John có bóng đá ở đó. 
+5 Mary đi vào phòng ngủ. 
+6 là Mary trong phòng ngủ? 	 Có	 5 
+7 Sandra đã đến văn phòng. 
+8 Sandra đi vào bếp.
+9 là Mary trong phòng ngủ? 	 Có	 5 
+10 Daniel chuyển tới phòng ngủ. 
+11 John bỏ bóng đá. 
+12 là Mary trong phòng ngủ? 	 Có	 5 
+13 Daniel nhặt sữa đó. 
+14 John bỏ đi táo. 
+15 là Sandra trong nhà bếp? 	 Có	 8 
+1 Daniel đi đến nhà bếp. 
+2 Daniel chuyển tới hành lang. 
+3 là Daniel ở hành lang? 	 Có	 2 
+4 Daniel đã đến khu vườn. 
+5 Daniel đã đi đến văn phòng. 
+6 là Daniel trong văn phòng? 	 Có	 5 
+7 Daniel đi vào bếp. 
+8 Sandra đi vào nhà bếp. 
+9 là Daniel trong vườn? 	 không	 7 
+10 Mary quay trở lại vào phòng tắm. 
+11 Mary đi vào phòng ngủ.
+12 là Daniel trong nhà bếp? 	 Có	 7 
+13 Mary nhặt sữa đó. 
+14 John trở về khu vườn. 
+15 là Sandra trong nhà bếp? 	 Có	 8 
+1 Daniel mất sữa đó. 
+2 Mary đi đến văn phòng. 
+3 là Mary trong văn phòng? 	 Có	 2 
+4 John đi đến văn phòng. 
+5 John đã đi đến vườn. 
+6 là John trong nhà bếp? 	 không	 5 
+7 Mary trở về phòng ngủ. 
+8 Mary đi đến hành lang. 
+9 là Mary ở hành lang? 	 Có	 8 
+10 Mary đi vào nhà bếp. 
+11 Sandra đi đến phòng ngủ. 
+12 là John trong vườn? 	 Có	 5 
+13 Daniel đi vào phòng tắm. 
+14 Mary đi đến hành lang. 
+15 là Mary ở hành lang? 	
+1 Mary trở về văn phòng. 
+2 Mary có sữa đó. 
+3 là Mary trong vườn? 	 không có	 1 
+4 Daniel nắm lấy quả táo đó. 
+5 Daniel đi đến nhà bếp. 
+6 là Mary trong văn phòng? 	 có	 1 
+7 Mary đã đến khu vườn. 
+8 Mary đi vào phòng ngủ. 
+9 là Mary trong nhà bếp? 	 không	 8 
+10 Mary nắm lấy bóng đá ở đó. 
+11 Mary rời sữa đó. 
+12 là Daniel trong vườn? 	 không	 5 
+13 Sandra đi đến hành lang. 
+14 John đi đến phòng ngủ. 
+15 là John trong văn phòng? 	 không có	 14 
+1 Daniel đi đến văn phòng. 
+2 Daniel nhặt bóng đá ở đó. 
+3 là Daniel trong nhà bếp? 	 không có	 1
+4 Daniel đặt xuống bóng đá. 
+5 Daniel đi vào phòng tắm. 
+6 là Daniel trong vườn? 	 không	 5 
+7 John mất sữa đó. 
+8 John đi đến văn phòng. 
+9 là John ở hành lang? 	 không	 8 
+10 Daniel đi vào nhà bếp. 
+11 John bỏ sữa. 
+12 là John trong vườn? 	 không	 8 
+13 Daniel đi đến phòng ngủ. 
+14 Mary quay trở lại vào phòng tắm. 
+15 là Daniel ở hành lang? 	 không có	 13 
+1 John đã đi đến vườn. 
+2 Sandra đi đến nhà bếp. 
+3 là Sandra trong nhà bếp? 	 Có	 2 
+4 John nắm lấy quả táo đó. 
+5 Daniel chuyển đến khu vườn. 
+6 là Sandra trong nhà bếp? 	 Có	
+8 Sandra đi đến phòng ngủ. 
+9 là Daniel trong văn phòng? 	 không	 5 
+10 Sandra đi đến hành lang. 
+11 John trái táo. 
+12 là Sandra ở hành lang? 	 Có	 10 
+13 John đi đến hành lang. 
+14 Daniel nhặt bóng đá ở đó. 
+15 là Sandra ở hành lang? 	 Có	 10 
+1 John đã đi đến hành lang. 
+2 John đi vào phòng tắm. 
+3 là John trong phòng tắm? 	 Có	 2 
+4 Mary trở về hành lang. 
+5 John mất bóng đá ở đó. 
+6 là John trong phòng tắm? 	 Có	 2 
+7 Sandra chuyển đến phòng tắm. 
+8 John bỏ bóng đá. 
+9 là John trong văn phòng? 	 không có	 2 
+10 Mary đi vào phòng tắm.
+11 John trở lại nhà bếp. 
+12 là Sandra trong văn phòng? 	 không	 7 
+13 Sandra đi vào nhà bếp. 
+14 John đi đến hành lang. 
+15 là Sandra trong nhà bếp? 	 Có	 13 
+1 Mary đi vào phòng tắm. 
+2 John mất sữa đó. 
+3 là Mary ở hành lang? 	 không có	 1 
+4 Sandra chuyển đến văn phòng. 
+5 John bỏ sữa. 
+6 là Mary trong phòng tắm? 	 có	 1 
+7 Mary đi đến văn phòng. 
+8 Daniel đi đến phòng tắm. 
+9 là Sandra trong văn phòng? 	 Có	 4 
+10 Mary đi đến hành lang. 
+11 Sandra đã đi vào phòng tắm. 
+12 là Mary trong văn phòng? 	 không có	 10 
+13 Sandra đi vào bếp.
+14 Daniel nhặt quả táo đó. 
+15 là Sandra ở hành lang? 	 không có	 13

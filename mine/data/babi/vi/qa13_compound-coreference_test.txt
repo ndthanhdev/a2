@@ -1,0 +1,2998 @@
+1 John và Mary trở về hành lang. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 John ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và John chuyển đến hành lang. 
+5 Sau đó họ chuyển đến nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Daniel và Sandra đã đi đến văn phòng. 
+8 Sau đó họ quay trở lại nhà bếp. 
+9 John ở đâu? 	 bếp	 4 5 
+10 John và Daniel đi đến văn phòng. 
+11 Sau đó họ đi đến hành lang. 
+12 Sandra ở đâu? 	 bếp	 7 8 
+13 Mary và Sandra đã đến khu vườn. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 Daniel và John trở lại nhà bếp.
+2 Sau đó họ quay trở lại hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Sandra và Mary đã đến văn phòng. 
+5 Sau đó họ đi đến hành lang. 
+6 Mary ở đâu? 	 hành lang	 4 5 
+7 Mary và Sandra đã đi vào phòng ngủ. 
+8 Sau đó, họ đi đến văn phòng. 
+9 Mary ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Sandra đã đến khu vườn. 
+11 Sau đó họ đi đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11 
+13 Mary và Sandra trở về khu vườn. 
+14 Sau đó, họ chuyển đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Mary và Daniel chuyển tới phòng ngủ. 
+2 Sau đó họ đi đến nhà bếp.
+3 Daniel ở đâu? 	 bếp	 1 2 
+4 Daniel và Sandra đã đi đến hành lang. 
+5 Sau đó họ đi đến khu vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 John và Mary đi đến hành lang. 
+8 Rồi họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và John đi đến hành lang. 
+11 Sau đó, họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Sandra và Mary chuyển đến văn phòng. 
+14 Sau đó, họ đi đến khu vườn. 
+15 Mary ở đâu? 	 vườn	 13 14 
+1 Daniel và Mary trở về hành lang. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2
+4 John và Mary đi vào bếp. 
+5 Sau đó họ chuyển đến khu vườn. 
+6 Mary ở đâu? 	 vườn	 4 5 
+7 Mary và Sandra đã đi đến văn phòng. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Mary trở lại nhà bếp. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và Mary chuyển đến nhà bếp. 
+14 Sau đó họ đi đến văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 Mary và John đã đi đến hành lang. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 Daniel và Mary trở về khu vườn.
+5 Sau đó họ đi đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 Daniel và Sandra chuyển đến nhà bếp. 
+8 Sau đó họ chuyển đến phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary trở về văn phòng. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary chuyển đến nhà bếp. 
+14 Sau đó họ đi vào phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Sandra đã đến văn phòng. 
+2 Sau đó, họ chuyển đến khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Mary và Sandra chuyển đến phòng ngủ. 
+5 Sau đó họ quay trở lại văn phòng.
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và John đi vào phòng ngủ. 
+8 Sau đó, họ đi đến phòng tắm. 
+9 Sandra ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Daniel đã đi vào bếp. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi vào phòng ngủ. 
+14 Sau đó họ quay trở lại văn phòng. 
+15 Mary ở đâu? 	 Văn phòng	 13 14 
+1 Sandra và Mary đi vào phòng ngủ. 
+2 Sau đó họ đã đi đến vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Daniel đã đi vào phòng tắm. 
+5 Sau đó họ quay trở lại khu vườn. 
+6 John ở đâu? 	 vườn	 4 5
+7 Sandra và John trở về phòng ngủ. 
+8 Sau đó họ đi vào phòng tắm. 
+9 John ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary đi đến nhà bếp. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra chuyển đến văn phòng. 
+14 Sau đó họ đã đi đến vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Sandra và John trở lại hành lang. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Sandra và John đã đi vào phòng tắm. 
+5 Sau đó họ đi vào nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Mary và John đã đến khu vườn.
+8 Sau đó họ đi vào nhà bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 John và Mary đi đến khu vườn. 
+11 Sau đó, họ đi đến phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Daniel đi đến phòng ngủ. 
+14 Sau đó, họ đi vào nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Sandra và Mary đi đến phòng ngủ. 
+2 Sau đó họ đi đến hành lang. 
+3 Sandra ở đâu? 	 hành lang	 1 2 
+4 Daniel và Mary đi đến văn phòng. 
+5 Sau đó, họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và John đã đến khu vườn. 
+8 Sau đó họ đi đến văn phòng.
+9 Mary ở đâu? 	 Phòng tắm	 4 5 
+10 Mary và John chuyển đến nhà bếp. 
+11 Sau đó, họ chuyển đến phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và John đi đến văn phòng. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 Mary ở đâu? 	 vườn	 13 14 
+1 Mary và Sandra trở về phòng ngủ. 
+2 Sau đó họ chuyển đến nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Sandra và Daniel trở lại vào phòng tắm. 
+5 Sau đó, họ đi đến văn phòng. 
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Daniel và Mary đi đến khu vườn. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8
+10 Sandra và Daniel hành quân tới vườn. 
+11 Sau đó, họ đi đến phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và Daniel đi đến nhà bếp. 
+14 Sau đó họ chuyển đến khu vườn. 
+15 Mary ở đâu? 	 vườn	 13 14 
+1 Mary và Daniel đã đi đến vườn. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và John đi vào phòng ngủ. 
+5 Sau đó họ đi đến hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 Mary và Daniel đi đến nhà bếp. 
+8 Sau đó họ đi đến văn phòng. 
+9 Daniel ở đâu? 	 Văn phòng	 7 8 
+10 Mary và Sandra trở về phòng ngủ.
+11 Sau đó họ đi đến văn phòng. 
+12 Sandra ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Daniel đã đến khu vườn. 
+14 Sau đó họ đi vào phòng tắm. 
+15 Mary ở đâu? 	 Phòng tắm	 13 14 
+1 John và Daniel đã đi đến hành lang. 
+2 Sau đó, họ quay trở lại khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và John đã đi vào phòng tắm. 
+5 Sau đó họ chuyển đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 Daniel và Sandra đã đi vào phòng tắm. 
+8 Sau đó, họ đi vào bếp. 
+9 Daniel ở đâu? 	 bếp	 7 8 
+10 Sandra và John đã đến văn phòng. 
+11 Sau đó họ quay trở lại khu vườn.
+12 John ở đâu? 	 vườn	 10 11 
+13 Daniel và Sandra đi đến hành lang. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và John đi vào nhà bếp. 
+2 Sau đó, họ quay trở lại vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Sandra đã đến văn phòng. 
+5 Sau đó họ đi vào nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Daniel và John đi đến văn phòng. 
+8 Sau đó họ đi đến phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 John và Mary đi đến văn phòng. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11
+13 John và Sandra chuyển đến hành lang. 
+14 Sau đó họ đi đến văn phòng. 
+15 Mary ở đâu? 	 Phòng tắm	 10 11 
+1 Sandra và Daniel đi đến nhà bếp. 
+2 Sau đó họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Mary và Daniel hành quân tới vườn. 
+5 Sau đó họ đi đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 John và Mary đi đến văn phòng. 
+8 Sau đó, họ đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Mary và Sandra đi đến nhà bếp. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và Sandra đã đi đến văn phòng.
+14 Sau đó họ đi đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 John và Sandra chuyển đến khu vườn. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Sandra ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John đi đến văn phòng. 
+5 Sau đó, họ đi đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và John chuyển đến văn phòng. 
+8 Sau đó họ chuyển đến nhà bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 Sandra và Daniel đi đến hành lang. 
+11 Sau đó họ chuyển đến nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 John và Mary đi đến hành lang. 
+14 Sau đó họ chuyển đến phòng ngủ.
+15 Daniel ở đâu? 	 bếp	 10 11 
+1 Daniel và Sandra chuyển đến khu vườn. 
+2 Sau đó họ chuyển đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 John và Mary trở về khu vườn. 
+5 Sau đó, họ chuyển đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và Daniel trở lại nhà bếp. 
+8 Sau đó họ đi đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Sandra và Daniel trở lại hành lang. 
+11 Sau đó họ chuyển đến phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary đi đến phòng ngủ. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14
+1 Daniel và Mary đi đến phòng ngủ. 
+2 Sau đó họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Daniel chuyển tới phòng tắm. 
+5 Sau đó họ đi đến hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Sandra và John đi đến nhà bếp. 
+8 Sau đó họ đi đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 John và Mary đi đến phòng ngủ. 
+11 Sau đó họ đã đi đến vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 John và Mary đi đến hành lang. 
+14 Sau đó, họ đi vào bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Mary và Sandra chuyển đến phòng tắm.
+2 Sau đó họ đi đến hành lang. 
+3 Sandra ở đâu? 	 hành lang	 1 2 
+4 Mary và Daniel đã đến văn phòng. 
+5 Sau đó họ chuyển đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 Sandra và Daniel trở lại nhà bếp. 
+8 Sau đó họ chuyển đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Mary và Sandra đã đến văn phòng. 
+11 Sau đó họ đi đến phòng ngủ. 
+12 Daniel ở đâu? 	 hành lang	 7 8 
+13 John và Sandra đã đến hành lang. 
+14 Sau đó, họ chuyển đến khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 John và Sandra đã đến khu vườn. 
+2 Sau đó, họ chuyển đến phòng ngủ.
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và John đi vào phòng tắm. 
+5 Sau đó họ đi đến hành lang. 
+6 Mary ở đâu? 	 hành lang	 4 5 
+7 Sandra và Daniel đã đến văn phòng. 
+8 Sau đó họ quay trở lại hành lang. 
+9 Sandra ở đâu? 	 hành lang	 7 8 
+10 Sandra và John đi vào phòng ngủ. 
+11 Sau đó họ đi đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 7 8 
+13 Mary và Sandra đã đến văn phòng. 
+14 Sau đó họ đã đi đến vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Daniel và John chuyển đến hành lang. 
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2
+4 Daniel và John đã đi vào phòng tắm. 
+5 Sau đó họ quay trở lại hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Mary và Daniel trở lại văn phòng. 
+8 Sau đó, họ chuyển đến phòng ngủ. 
+9 John ở đâu? 	 hành lang	 4 5 
+10 John và Sandra đã đi đến văn phòng. 
+11 Sau đó họ đi đến phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và John trở về văn phòng. 
+14 Sau đó họ đã đi đến vườn. 
+15 Sandra ở đâu? 	 phòng ngủ	 10 11 
+1 Mary và Daniel đã đến hành lang. 
+2 Sau đó họ đi đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 John và Sandra trở vào phòng tắm.
+5 Sau đó họ quay trở lại văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel chuyển đến khu vườn. 
+8 Sau đó họ đã đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Daniel và Mary đi đến phòng ngủ. 
+11 Sau đó họ đi vào nhà bếp. 
+12 Mary ở đâu? 	 bếp	 10 11 
+13 Sandra và Mary trở về hành lang. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và John trở về văn phòng. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Sandra đi đến hành lang. 
+5 Sau đó họ đi vào bếp.
+6 Sandra ở đâu? 	 bếp	 4 5 
+7 Mary và John đi đến hành lang. 
+8 Sau đó họ đi đến phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và John chuyển đến văn phòng. 
+11 Sau đó, họ đi đến phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary trở về khu vườn. 
+14 Sau đó họ đi đến hành lang. 
+15 John ở đâu? 	 hành lang	 13 14 
+1 John và Mary đi vào phòng tắm. 
+2 Sau đó, họ chuyển đến phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 Daniel và John chuyển đến văn phòng. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 phòng ngủ	
+8 Sau đó họ đi đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Mary và John đi đến văn phòng. 
+11 Sau đó họ chuyển đến hành lang. 
+12 Sandra ở đâu? 	 vườn	 7 8 
+13 Sandra và Mary chuyển đến phòng tắm. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 Mary ở đâu? 	 vườn	 13 14 
+1 Daniel và Mary đi đến hành lang. 
+2 Sau đó họ đã đi đến vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel đã đi đến hành lang. 
+5 Sau đó họ đi đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Sandra chuyển đến hành lang. 
+8 Sau đó họ đi đến văn phòng.
+9 Daniel ở đâu? 	 Văn phòng	 4 5 
+10 Sandra và John trở về khu vườn. 
+11 Sau đó họ đi vào nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 Daniel và Sandra đã đến hành lang. 
+14 Sau đó họ đi vào bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 Mary và Daniel đã đi vào phòng ngủ. 
+2 Sau đó, họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Daniel và Sandra trở về khu vườn. 
+5 Sau đó họ đi đến phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và John trở về phòng ngủ. 
+8 Sau đó, họ đi đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8
+10 John và Daniel chuyển tới văn phòng. 
+11 Sau đó họ quay trở lại hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Sandra và Daniel đã đi vào phòng ngủ. 
+14 Sau đó họ đi đến hành lang. 
+15 Daniel ở đâu? 	 hành lang	 13 14 
+1 John và Mary đi đến văn phòng. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và Daniel đã đi vào phòng tắm. 
+5 Sau đó họ đi đến hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 Daniel và Sandra đã đi vào phòng tắm. 
+8 Sau đó họ đi đến khu vườn. 
+9 Daniel ở đâu? 	 vườn	 7 8
+10 Sandra và Daniel đã đến hành lang. 
+11 Sau đó, họ đi vào bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 Daniel và Mary trở về văn phòng. 
+14 Sau đó, họ chuyển đến phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 John và Mary đi đến hành lang. 
+2 Sau đó họ đi vào bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 John và Mary đi đến phòng tắm. 
+5 Sau đó họ đi vào nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Daniel và John trở lại hành lang. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Mary ở đâu? 	 bếp	 4 5 
+10 Sandra và John chuyển đến văn phòng.
+11 Sau đó họ đi đến phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và Sandra đã đi đến văn phòng. 
+14 Sau đó họ đi đến khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Sandra và Daniel chuyển tới phòng ngủ. 
+2 Sau đó họ đi vào nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Mary và Daniel chuyển tới phòng ngủ. 
+5 Sau đó, họ quay trở lại nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary chuyển đến phòng tắm. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 John và Sandra chuyển đến khu vườn. 
+11 Sau đó, họ đi đến phòng tắm.
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi đến khu vườn. 
+14 Sau đó, họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Mary chuyển đến hành lang. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Sandra đi đến hành lang. 
+5 Sau đó họ đi đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và Mary chuyển đến hành lang. 
+8 Sau đó họ đi vào bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và John trở về văn phòng. 
+11 Sau đó họ quay trở lại khu vườn. 
+12 John ở đâu? 	 vườn	 10 11
+13 John và Mary trở lại nhà bếp. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary đi đến hành lang. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 John và Sandra chuyển đến phòng tắm. 
+5 Sau đó họ quay trở lại phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 John và Mary đi đến nhà bếp. 
+8 Sau đó họ quay trở lại văn phòng. 
+9 Mary ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và Daniel hành quân tới vườn. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra trở về khu vườn.
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Sandra và John trở về khu vườn. 
+2 Sau đó họ đi đến hành lang. 
+3 John ở đâu? 	 hành lang	 1 2 
+4 Daniel và Sandra đã đến khu vườn. 
+5 Sau đó họ chuyển đến phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 John và Mary đã đến văn phòng. 
+8 Sau đó họ quay trở lại hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 Sandra và Daniel đi đến hành lang. 
+11 Sau đó họ quay trở lại văn phòng. 
+12 Sandra ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Daniel đi đến phòng ngủ. 
+14 Sau đó họ đi đến văn phòng.
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Daniel chuyển tới văn phòng. 
+2 Sau đó họ quay trở lại khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Mary và Sandra đi đến phòng tắm. 
+5 Sau đó họ đi đến văn phòng. 
+6 Daniel ở đâu? 	 vườn	 1 2 
+7 John và Daniel chuyển tới phòng ngủ. 
+8 Sau đó, họ đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 John và Sandra đi đến phòng ngủ. 
+11 Sau đó họ đi đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Sandra đã đến khu vườn. 
+14 Sau đó họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14
+1 Daniel và John trở về văn phòng. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và John chuyển đến khu vườn. 
+5 Sau đó họ đi đến phòng tắm. 
+6 John ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và Sandra đi vào nhà bếp. 
+8 Rồi họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và John đã đi vào phòng ngủ. 
+11 Sau đó, họ đi đến nhà bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Mary và Sandra chuyển đến phòng ngủ. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 bếp	 10 11 
+1 Daniel và John trở về phòng ngủ.
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Sandra và Daniel chuyển tới nhà bếp. 
+5 Sau đó họ chuyển đến hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 John và Mary đi vào phòng tắm. 
+8 Sau đó họ đi đến văn phòng. 
+9 John ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và John đi đến phòng ngủ. 
+11 Sau đó, họ chuyển đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Daniel và Sandra trở về văn phòng. 
+14 Sau đó, họ quay trở lại phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và John đi vào nhà bếp. 
+2 Sau đó họ đi đến khu vườn.
+3 John ở đâu? 	 vườn	 1 2 
+4 Mary và John đi đến văn phòng. 
+5 Sau đó họ chuyển đến hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 John và Daniel đã đi vào phòng ngủ. 
+8 Sau đó họ đi vào bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 Mary và John đi vào phòng ngủ. 
+11 Sau đó, họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Daniel đã đi vào phòng tắm. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Daniel đi đến hành lang. 
+2 Sau đó họ đã đi đến vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2
+4 John và Daniel đi đến hành lang. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 John và Mary đi vào phòng ngủ. 
+8 Sau đó họ quay trở lại văn phòng. 
+9 John ở đâu? 	 Văn phòng	 7 8 
+10 Mary và Sandra chuyển đến phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 Sandra ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và John đi vào phòng ngủ. 
+14 Sau đó họ đi đến phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và John trở về văn phòng. 
+2 Sau đó họ đi vào bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 Daniel và Mary quay trở lại vào phòng tắm.
+5 Sau đó, họ đi đến khu vườn. 
+6 Mary ở đâu? 	 vườn	 4 5 
+7 Mary và John trở về phòng ngủ. 
+8 Sau đó họ quay trở lại văn phòng. 
+9 Mary ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và John đi vào phòng tắm. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Daniel trở lại vào phòng tắm. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 John và Mary đi đến văn phòng. 
+2 Sau đó họ đi đến khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Mary and John went to the hallway.
+5 Sau đó, họ đi đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5
+7 Mary và Sandra trở về văn phòng. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 John và Daniel chuyển đến khu vườn. 
+11 Sau đó họ đi vào bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11 
+13 Mary và Sandra đã đến khu vườn. 
+14 Sau đó họ chuyển đến nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Sandra và John đi vào phòng tắm. 
+2 Sau đó, họ quay trở lại nhà bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 John và Daniel đã đi đến hành lang. 
+5 Sau đó họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và John chuyển đến khu vườn.
+8 Sau đó, họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Daniel và John đã đến khu vườn. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary đi đến phòng tắm. 
+14 Sau đó họ chuyển đến khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 Daniel và Mary đi vào phòng ngủ. 
+2 Sau đó họ chuyển đến văn phòng. 
+3 Mary ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Mary đi đến hành lang. 
+5 Sau đó, họ chuyển đến phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và Sandra đã đi vào bếp. 
+8 Sau đó họ quay trở lại phòng tắm.
+9 Sandra ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra đã đi đến văn phòng. 
+11 Sau đó, họ quay trở lại vào phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra đã đi vào bếp. 
+14 Sau đó, họ quay trở lại hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Mary và Sandra đã đi vào phòng ngủ. 
+2 Sau đó họ chuyển đến phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Sandra chuyển đến hành lang. 
+5 Sau đó họ chuyển đến phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Daniel chuyển đến khu vườn. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Sandra ở đâu? 	 Phòng tắm	 7 8
+10 John và Mary đi vào phòng tắm. 
+11 Sau đó họ chuyển đến nhà bếp. 
+12 Daniel ở đâu? 	 Phòng tắm	 7 8 
+13 Daniel và Sandra đã đi vào phòng ngủ. 
+14 Sau đó họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Sandra và John trở về khu vườn. 
+2 Sau đó họ đi đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và John đã đến khu vườn. 
+5 Sau đó, họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và Sandra đi đến nhà bếp. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 John và Sandra hành quân tới vườn.
+11 Sau đó họ chuyển đến phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 John và Daniel đã đến văn phòng. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Sandra đi đến phòng ngủ. 
+2 Sau đó họ đi đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 Mary và Daniel trở lại nhà bếp. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Mary trở về văn phòng. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và John trở về văn phòng. 
+11 Sau đó họ quay trở lại khu vườn.
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Sandra và John đi đến nhà bếp. 
+14 Sau đó, họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 John và Sandra trở lại nhà bếp. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Sandra và John chuyển đến phòng ngủ. 
+5 Sau đó họ đi vào nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary chuyển đến văn phòng. 
+8 Sau đó họ đi đến phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và Sandra trở về khu vườn. 
+11 Sau đó, họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11
+13 Daniel và Mary đi đến nhà bếp. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Sandra và Daniel đi đến văn phòng. 
+2 Sau đó, họ quay trở lại khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 John và Daniel đã đi đến văn phòng. 
+5 Sau đó họ quay trở lại khu vườn. 
+6 John ở đâu? 	 vườn	 4 5 
+7 Daniel và John trở lại nhà bếp. 
+8 Sau đó họ đi đến phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 John và Mary đã đến văn phòng. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel đã đi đến văn phòng.
+14 Sau đó họ đi đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Sandra đi vào nhà bếp. 
+2 Sau đó họ đã đi đến vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel đi đến phòng ngủ. 
+5 Sau đó, họ đi đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 John và Mary đi đến nhà bếp. 
+8 Sau đó họ đi đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 John và Mary đi vào phòng tắm. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và Sandra đi đến hành lang. 
+14 Sau đó, họ đi đến văn phòng.
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 John và Mary đi đến khu vườn. 
+2 Sau đó họ quay trở lại nhà bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 John và Mary đi đến khu vườn. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và Sandra chuyển đến phòng tắm. 
+8 Sau đó, họ đi vào bếp. 
+9 Mary ở đâu? 	 bếp	 7 8 
+10 Daniel và John chuyển đến văn phòng. 
+11 Sau đó họ chuyển đến phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary đi đến văn phòng. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14
+1 Sandra và Daniel đã đến khu vườn. 
+2 Sau đó họ chuyển đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và John đi đến hành lang. 
+5 Sau đó họ đã đi đến vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 Daniel và Mary quay trở lại vào phòng tắm. 
+8 Sau đó họ đã đi đến vườn. 
+9 Mary ở đâu? 	 vườn	 7 8 
+10 Daniel và Mary đi đến hành lang. 
+11 Sau đó, họ quay trở lại phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và Sandra đã đi đến vườn. 
+14 Sau đó, họ đi vào phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Sandra và Daniel chuyển tới văn phòng.
+2 Sau đó họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 John và Daniel đã đi vào bếp. 
+5 Sau đó họ chuyển đến khu vườn. 
+6 John ở đâu? 	 vườn	 4 5 
+7 John và Daniel đã đi vào phòng ngủ. 
+8 Sau đó, họ đi đến nhà bếp. 
+9 Daniel ở đâu? 	 bếp	 7 8 
+10 Daniel và Mary đi đến vườn. 
+11 Sau đó họ đi vào bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11 
+13 John và Mary trở về phòng ngủ. 
+14 Sau đó họ quay trở lại hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Mary và John trở về văn phòng. 
+2 Sau đó họ chuyển đến hành lang.
+3 John ở đâu? 	 hành lang	 1 2 
+4 Sandra và Mary chuyển đến phòng ngủ. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Sandra ở đâu? 	 bếp	 4 5 
+7 Mary và Sandra trở vào phòng tắm. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 Sandra và Daniel đã đi vào phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 Daniel và John đã đi vào phòng ngủ. 
+14 Sau đó họ đi đến văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Sandra đi đến phòng ngủ. 
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2
+4 Daniel và Mary đi đến nhà bếp. 
+5 Sau đó, họ đi đến hành lang. 
+6 Mary ở đâu? 	 hành lang	 4 5 
+7 Daniel và John chuyển đến phòng tắm. 
+8 Sau đó họ đi đến văn phòng. 
+9 Mary ở đâu? 	 hành lang	 4 5 
+10 John và Daniel chuyển tới nhà bếp. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và Mary đi đến khu vườn. 
+14 Sau đó, họ đi đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Sandra đã đến văn phòng. 
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và John trở về phòng ngủ.
+5 Sau đó họ quay trở lại phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và Daniel trở lại khu vườn. 
+8 Sau đó họ đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Sandra và Mary đi vào bếp. 
+11 Sau đó họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Sandra và Mary trở về văn phòng. 
+14 Sau đó họ quay trở lại hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Daniel và Sandra đi đến phòng tắm. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và Sandra đã đi vào phòng tắm.
+5 Sau đó họ quay trở lại văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và John đi đến hành lang. 
+8 Sau đó họ đi đến phòng tắm. 
+9 John ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary đi đến khu vườn. 
+11 Sau đó họ chuyển đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 John và Mary đi đến hành lang. 
+14 Sau đó họ quay trở lại phòng tắm. 
+15 Mary ở đâu? 	 Phòng tắm	 13 14 
+1 John và Daniel chuyển tới hành lang. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 John và Daniel đã đến văn phòng. 
+5 Sau đó họ đi đến khu vườn.
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 John và Sandra chuyển đến nhà bếp. 
+8 Sau đó, họ chuyển đến phòng ngủ. 
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 John và Mary đi đến hành lang. 
+11 Sau đó, họ đi đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 Sandra và Daniel trở lại văn phòng. 
+14 Sau đó họ chuyển đến khu vườn. 
+15 Mary ở đâu? 	 vườn	 10 11 
+1 Daniel và Mary trở lại nhà bếp. 
+2 Sau đó họ chuyển đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Mary và Daniel trở lại nhà bếp. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5
+7 Daniel và Sandra trở lại hành lang. 
+8 Sau đó họ đi đến nhà bếp. 
+9 Daniel ở đâu? 	 bếp	 7 8 
+10 John và Daniel chuyển tới phòng ngủ. 
+11 Sau đó họ quay trở lại nhà bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11 
+13 Daniel và John trở về văn phòng. 
+14 Sau đó họ đi đến hành lang. 
+15 John ở đâu? 	 hành lang	 13 14 
+1 Mary và Daniel đi đến phòng ngủ. 
+2 Sau đó họ quay trở lại phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John trở lại hành lang. 
+5 Sau đó họ đi đến khu vườn. 
+6 John ở đâu? 	 vườn	 4 5 
+7 John và Sandra trở về văn phòng.
+8 Sau đó họ đã đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Daniel và John trở về phòng ngủ. 
+11 Sau đó, họ đi đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 Daniel và John chuyển đến nhà bếp. 
+14 Sau đó họ đi đến khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Daniel và John đã đi vào phòng ngủ. 
+2 Sau đó, họ đi đến khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Sandra và John chuyển đến hành lang. 
+5 Sau đó, họ quay trở lại phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Sandra đã đi đến hành lang. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Daniel ở đâu? 	 bếp	
+10 Sandra và John trở về văn phòng. 
+11 Sau đó họ quay trở lại hành lang. 
+12 Sandra ở đâu? 	 hành lang	 10 11 
+13 John và Sandra đi vào nhà bếp. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 Daniel và John chuyển đến văn phòng. 
+2 Sau đó họ quay trở lại phòng tắm. 
+3 John ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Mary trở về khu vườn. 
+5 Sau đó họ đi đến phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và John đi đến hành lang. 
+8 Rồi họ đi vào phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và John đi đến văn phòng.
+11 Sau đó họ quay trở lại hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11 
+13 Sandra và Daniel chuyển tới nhà bếp. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Mary đi đến hành lang. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Sandra ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Sandra trở về phòng ngủ. 
+5 Sau đó họ đã đi đến hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 Mary và Daniel đã đến văn phòng. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Mary trở về văn phòng. 
+11 Sau đó, họ đi đến hành lang.
+12 Mary ở đâu? 	 hành lang	 10 11 
+13 Daniel và Mary đi đến phòng tắm. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Sandra đã đi vào phòng ngủ. 
+2 Sau đó họ chuyển đến phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Daniel đi đến hành lang. 
+5 Sau đó họ đi đến văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel đi đến phòng ngủ. 
+8 Sau đó, họ đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Sandra và Daniel đã đi vào phòng tắm. 
+11 Sau đó, họ đi đến phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11
+13 Daniel và Sandra đi đến hành lang. 
+14 Sau đó họ đã đi đến vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Daniel và Sandra chuyển đến nhà bếp. 
+2 Sau đó họ quay trở lại khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và Mary đi vào bếp. 
+5 Sau đó họ chuyển đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 Daniel và John đã đi đến vườn. 
+8 Sau đó họ đi vào phòng tắm. 
+9 John ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và Sandra đi đến văn phòng. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 John ở đâu? 	 Phòng tắm	 7 8 
+13 Daniel và Mary chuyển đến khu vườn.
+14 Sau đó, họ đi vào nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 John và Daniel trở lại nhà bếp. 
+2 Sau đó, họ đi đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 John và Daniel đã đi vào phòng tắm. 
+5 Sau đó họ đi vào nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Mary và John trở về phòng ngủ. 
+8 Sau đó họ chuyển đến phòng tắm. 
+9 Daniel ở đâu? 	 bếp	 4 5 
+10 Mary và Daniel đã đi đến văn phòng. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 John và Sandra đi đến phòng ngủ. 
+14 Sau đó, họ đi đến khu vườn.
+15 Daniel ở đâu? 	 Phòng tắm	 10 11 
+1 John và Mary trở về khu vườn. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 John và Daniel chuyển tới phòng tắm. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Daniel và Mary trở lại nhà bếp. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary đi đến văn phòng. 
+11 Sau đó họ đã đi đến vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Mary và Sandra chuyển đến hành lang. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14
+1 John và Daniel đã đi vào phòng tắm. 
+2 Sau đó, họ đi vào nhà bếp. 
+3 Daniel ở đâu? 	 bếp	 1 2 
+4 Daniel và Sandra chuyển đến phòng tắm. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Mary trở về khu vườn. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Daniel và Mary đi đến hành lang. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và John đi đến phòng tắm. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 Sandra và Daniel trở lại nhà bếp.
+2 Sau đó họ quay trở lại khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Mary và Sandra đã đến hành lang. 
+5 Sau đó, họ quay trở lại vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 John và Daniel đã đi đến văn phòng. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và John chuyển đến phòng tắm. 
+11 Sau đó họ đi vào bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Daniel và John chuyển đến văn phòng. 
+14 Sau đó họ chuyển đến nhà bếp. 
+15 John ở đâu? 	 bếp	 13 14 
+1 Sandra và Daniel trở lại vào phòng tắm. 
+2 Sau đó họ đi vào bếp.
+3 Daniel ở đâu? 	 bếp	 1 2 
+4 John và Mary chuyển đến phòng tắm. 
+5 Sau đó họ chuyển đến phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và John đi vào nhà bếp. 
+8 Sau đó, họ chuyển đến phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và John trở về văn phòng. 
+11 Sau đó họ quay trở lại khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Sandra và Daniel đi đến phòng ngủ. 
+14 Sau đó, họ quay trở lại vào phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Daniel và John chuyển đến hành lang. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2
+4 Sandra và Mary đi đến văn phòng. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Sandra đã đến hành lang. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 4 5 
+10 Mary và John đã đi đến vườn. 
+11 Sau đó họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và John đi đến phòng tắm. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Daniel đã đi đến văn phòng. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 John và Mary trở về khu vườn.
+5 Sau đó, họ đi vào bếp. 
+6 Daniel ở đâu? 	 phòng ngủ	 1 2 
+7 John và Mary trở về khu vườn. 
+8 Sau đó họ đi đến văn phòng. 
+9 Mary ở đâu? 	 Văn phòng	 7 8 
+10 John và Mary chuyển đến phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và Mary đi đến phòng ngủ. 
+14 Sau đó họ chuyển đến khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Mary và Daniel trở lại vào phòng tắm. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 Daniel và Sandra chuyển đến hành lang. 
+5 Sau đó họ đi đến khu vườn.
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 John và Daniel đã đi vào bếp. 
+8 Sau đó họ đã đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 John và Daniel trở lại vào phòng tắm. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Mary và John đi đến hành lang. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary trở về khu vườn. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 John và Daniel chuyển đến khu vườn. 
+5 Sau đó họ quay trở lại hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5
+7 John và Daniel trở lại khu vườn. 
+8 Sau đó họ đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Daniel và John chuyển đến văn phòng. 
+11 Sau đó họ đi đến phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi đến văn phòng. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary đi đến khu vườn. 
+2 Sau đó họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Sandra và Mary đi vào phòng ngủ. 
+5 Sau đó họ chuyển đến phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và John đi đến phòng tắm.
+8 Sau đó họ chuyển đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Mary và John trở về văn phòng. 
+11 Sau đó họ đi vào bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Mary và Sandra đã đi đến hành lang. 
+14 Sau đó họ đi đến phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Sandra và John đi vào bếp. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Sandra ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và John đi đến hành lang. 
+5 Sau đó họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và Daniel đã đến văn phòng. 
+8 Sau đó họ chuyển đến phòng tắm.
+9 Sandra ở đâu? 	 Phòng tắm	 7 8 
+10 Daniel và John trở về phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 John và Mary chuyển đến phòng tắm. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và John chuyển đến khu vườn. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 John và Sandra đã đi đến hành lang. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Sandra ở đâu? 	 bếp	 4 5 
+7 Daniel và Sandra đã đi đến hành lang. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8
+10 John và Mary đi vào phòng ngủ. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 Sandra ở đâu? 	 Văn phòng	 7 8 
+13 Daniel và John đã đi đến vườn. 
+14 Sau đó, họ chuyển đến phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Sandra đi đến hành lang. 
+2 Sau đó, họ chuyển đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và John đi đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 John và Mary chuyển đến văn phòng. 
+8 Sau đó họ đã đi đến vườn. 
+9 Mary ở đâu? 	 vườn	 7 8 
+10 Sandra và John chuyển đến nhà bếp.
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi đến hành lang. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 Daniel và Sandra chuyển đến phòng ngủ. 
+2 Sau đó, họ quay trở lại văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary trở về khu vườn. 
+5 Sau đó, họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Mary chuyển đến nhà bếp. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 John và Mary đi vào phòng ngủ. 
+11 Sau đó họ đi vào phòng tắm.
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel trở lại khu vườn. 
+14 Sau đó, họ quay trở lại văn phòng. 
+15 Mary ở đâu? 	 Phòng tắm	 10 11 
+1 Mary và Daniel đã đi vào bếp. 
+2 Sau đó, họ chuyển đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 John và Sandra đã đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và Sandra trở về văn phòng. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Daniel và John trở về khu vườn. 
+11 Sau đó họ quay trở lại nhà bếp. 
+12 Sandra ở đâu? 	 Phòng tắm	 7 8
+13 John và Daniel chuyển tới văn phòng. 
+14 Sau đó, họ quay trở lại phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và John chuyển đến văn phòng. 
+2 Sau đó họ quay trở lại khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Sandra và John đã đi vào phòng tắm. 
+5 Sau đó, họ đi đến phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và John đi vào bếp. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và John trở về phòng ngủ. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra trở về văn phòng.
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 John và Daniel hành quân tới vườn. 
+2 Sau đó họ đi đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và Daniel trở lại hành lang. 
+5 Sau đó họ quay trở lại văn phòng. 
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Daniel và John đã đến khu vườn. 
+8 Sau đó, họ chuyển đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Sandra và John đi đến nhà bếp. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và Daniel trở lại khu vườn. 
+14 Sau đó, họ chuyển đến phòng tắm.
+15 Daniel ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Daniel đã đi vào phòng tắm. 
+2 Sau đó họ đã đi đến vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Mary và John đi đến phòng tắm. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Daniel ở đâu? 	 vườn	 1 2 
+7 John và Mary đi đến khu vườn. 
+8 Sau đó họ đi đến văn phòng. 
+9 John ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và Mary chuyển đến hành lang. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra chuyển đến hành lang. 
+14 Sau đó họ đi vào nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14
+1 Daniel và John đi đến hành lang. 
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và Mary đi vào nhà bếp. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel chuyển tới nhà bếp. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 John và Mary đi vào bếp. 
+11 Sau đó, họ đi vào phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 John và Sandra chuyển đến nhà bếp. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Mary đi vào phòng tắm. 
+2 Sau đó, họ chuyển đến khu vườn.
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Sandra đã đi đến vườn. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Daniel trở lại nhà bếp. 
+8 Sau đó, họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Sandra đi đến nhà bếp. 
+11 Sau đó họ đi đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Daniel và John trở về văn phòng. 
+14 Sau đó họ chuyển đến nhà bếp. 
+15 Sandra ở đâu? 	 vườn	 10 11 
+1 Mary và John đã đi đến hành lang. 
+2 Sau đó họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2
+4 Sandra và John đã đi vào phòng tắm. 
+5 Sau đó họ quay trở lại hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 John và Mary trở về phòng ngủ. 
+8 Rồi họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 John và Daniel chuyển tới văn phòng. 
+11 Sau đó, họ quay trở lại phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và John trở lại nhà bếp. 
+14 Sau đó, họ đi đến văn phòng. 
+15 Daniel ở đâu? 	 phòng ngủ	 10 11 
+1 Mary và Sandra chuyển đến phòng ngủ. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và John trở về văn phòng.
+5 Sau đó họ chuyển đến hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 Sandra và Daniel chuyển tới nhà bếp. 
+8 Sau đó họ đi đến văn phòng. 
+9 Daniel ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và John đã đi vào phòng tắm. 
+11 Sau đó họ đi đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Mary và Sandra trở về khu vườn. 
+14 Sau đó, họ đi vào phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 John và Daniel đi đến hành lang. 
+2 Sau đó họ đi vào bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 Mary và Daniel đã đi đến vườn. 
+5 Sau đó họ đi vào phòng ngủ.
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 John và Mary đi đến hành lang. 
+8 Sau đó họ quay trở lại khu vườn. 
+9 Daniel ở đâu? 	 phòng ngủ	 4 5 
+10 Sandra và John đi đến nhà bếp. 
+11 Sau đó họ đã đi đến vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 John và Daniel đã đi vào phòng tắm. 
+14 Sau đó, họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Mary đi đến văn phòng. 
+2 Sau đó họ chuyển đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 John và Mary chuyển đến văn phòng. 
+5 Sau đó, họ quay trở lại nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary trở về phòng ngủ.
+8 Sau đó họ đã đi đến hành lang. 
+9 Sandra ở đâu? 	 hành lang	 7 8 
+10 Daniel và Sandra đi vào nhà bếp. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 Daniel và John đi đến văn phòng. 
+14 Sau đó, họ đi vào bếp. 
+15 Sandra ở đâu? 	 phòng ngủ	 10 11 
+1 Mary và Daniel đã đi vào phòng ngủ. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Mary đi đến văn phòng. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Mary và Daniel chuyển tới phòng tắm. 
+8 Sau đó họ đã đi đến vườn.
+9 Daniel ở đâu? 	 vườn	 7 8 
+10 Sandra và Mary đi đến phòng ngủ. 
+11 Sau đó họ đã đi đến vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Sandra và Daniel đã đi vào phòng tắm. 
+14 Sau đó họ chuyển đến hành lang. 
+15 Daniel ở đâu? 	 hành lang	 13 14 
+1 Mary và John đi đến văn phòng. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Daniel đã đi vào phòng tắm. 
+5 Sau đó họ chuyển đến nhà bếp. 
+6 Sandra ở đâu? 	 bếp	 4 5 
+7 Mary và Sandra chuyển đến hành lang. 
+8 Sau đó họ quay trở lại phòng tắm. 
+9 Sandra ở đâu? 	 Phòng tắm	 7 8
+10 Sandra và Daniel chuyển tới hành lang. 
+11 Sau đó, họ đi đến khu vườn. 
+12 Daniel ở đâu? 	 vườn	 10 11 
+13 Daniel và John trở về văn phòng. 
+14 Sau đó họ đi đến nhà bếp. 
+15 Daniel ở đâu? 	 bếp	 13 14 
+1 Mary và Daniel chuyển đến khu vườn. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Mary đi đến phòng ngủ. 
+5 Sau đó họ đi đến văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và John đi vào phòng ngủ. 
+8 Sau đó họ đã đi đến hành lang. 
+9 Mary ở đâu? 	 hành lang	 7 8 
+10 John và Daniel chuyển đến khu vườn.
+11 Sau đó họ đi vào phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Mary đi đến nhà bếp. 
+14 Sau đó, họ quay trở lại khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Mary và Sandra chuyển đến nhà bếp. 
+2 Sau đó, họ đi đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary đi đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Sandra ở đâu? 	 Văn phòng	 1 2 
+7 Sandra và John chuyển đến hành lang. 
+8 Sau đó họ quay trở lại nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Sandra và John chuyển đến phòng tắm. 
+11 Sau đó họ chuyển đến phòng ngủ.
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary chuyển đến hành lang. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 John và Sandra trở về khu vườn. 
+2 Sau đó, họ đi vào bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 Daniel và Mary trở về khu vườn. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và Daniel chuyển tới nhà bếp. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và Daniel đi đến nhà bếp. 
+11 Sau đó họ đi đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11
+13 Daniel và John chuyển đến văn phòng. 
+14 Sau đó họ chuyển đến khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Mary và Sandra chuyển đến khu vườn. 
+2 Sau đó họ đi vào nhà bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 Mary và John chuyển đến phòng ngủ. 
+5 Sau đó họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel trở lại nhà bếp. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 John ở đâu? 	 Văn phòng	 4 5 
+10 Sandra và Mary đi đến hành lang. 
+11 Sau đó, họ đi đến khu vườn. 
+12 Daniel ở đâu? 	 phòng ngủ	 7 8 
+13 Daniel và Sandra chuyển đến nhà bếp.
+14 Sau đó họ đi đến phòng tắm. 
+15 Daniel ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Sandra đã đi vào phòng ngủ. 
+2 Sau đó họ đã đi đến vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Daniel và John đi đến hành lang. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và John đi vào bếp. 
+8 Sau đó họ đã đi đến vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 Mary và Daniel đi đến phòng tắm. 
+11 Sau đó, họ chuyển đến khu vườn. 
+12 Daniel ở đâu? 	 vườn	 10 11 
+13 John và Sandra trở lại nhà bếp. 
+14 Sau đó họ đi đến phòng ngủ.
+15 Daniel ở đâu? 	 vườn	 10 11 
+1 Sandra và John chuyển đến hành lang. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Sandra đi đến hành lang. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 John ở đâu? 	 Văn phòng	 1 2 
+7 Sandra và Mary trở về hành lang. 
+8 Sau đó, họ đi vào phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và Mary chuyển đến văn phòng. 
+11 Sau đó, họ quay trở lại phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và Daniel chuyển đến khu vườn. 
+14 Sau đó họ đi đến hành lang. 
+15 Daniel ở đâu? 	 hành lang	 13 14
+1 Daniel và Sandra trở về phòng ngủ. 
+2 Sau đó họ đi đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Mary đi vào nhà bếp. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 John và Mary trở về khu vườn. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và Daniel trở lại hành lang. 
+11 Sau đó, họ quay trở lại văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và Daniel trở lại phòng ngủ. 
+14 Sau đó họ chuyển đến nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 Mary và Daniel chuyển tới nhà bếp.
+2 Sau đó họ chuyển đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 Sandra và Mary trở về phòng ngủ. 
+5 Sau đó, họ quay trở lại khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Sandra và Daniel đã đi vào phòng ngủ. 
+8 Sau đó họ đi đến nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và Sandra đi đến văn phòng. 
+11 Sau đó, họ chuyển đến nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 Mary và Sandra đã đến khu vườn. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Daniel đã đi vào phòng tắm. 
+2 Sau đó họ đi vào nhà bếp.
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Mary và John chuyển đến phòng tắm. 
+5 Sau đó, họ đi đến văn phòng. 
+6 Daniel ở đâu? 	 bếp	 1 2 
+7 Daniel và John đi đến khu vườn. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và Sandra trở về phòng ngủ. 
+11 Sau đó họ quay trở lại khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Sandra và John đi đến nhà bếp. 
+14 Sau đó họ đi đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 John và Mary chuyển đến phòng ngủ. 
+2 Sau đó họ quay trở lại nhà bếp. 
+3 Mary ở đâu? 	 bếp	 1 2
+4 Daniel và Mary đi đến văn phòng. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và John đi đến văn phòng. 
+8 Sau đó họ đi đến hành lang. 
+9 Mary ở đâu? 	 Phòng tắm	 4 5 
+10 John và Sandra trở về phòng ngủ. 
+11 Sau đó họ chuyển đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 John và Mary đi đến nhà bếp. 
+14 Sau đó họ quay trở lại hành lang. 
+15 John ở đâu? 	 hành lang	 13 14 
+1 Daniel và Sandra đã đến hành lang. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 Sandra ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và John trở về khu vườn.
+5 Sau đó họ đi vào phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Daniel hành quân tới vườn. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và Mary quay trở lại vào phòng tắm. 
+11 Sau đó họ đi đến văn phòng. 
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 John và Mary đi đến khu vườn. 
+14 Sau đó họ đi vào phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Daniel và John trở về khu vườn. 
+2 Sau đó, họ quay trở lại hành lang. 
+3 John ở đâu? 	 hành lang	 1 2 
+4 Daniel và John đi đến khu vườn. 
+5 Sau đó, họ chuyển đến phòng tắm.
+6 John ở đâu? 	 Phòng tắm	 4 5 
+7 Daniel và John chuyển đến văn phòng. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và Sandra đã đến văn phòng. 
+11 Sau đó họ quay trở lại hành lang. 
+12 Sandra ở đâu? 	 hành lang	 10 11 
+13 Daniel và Sandra đã đến văn phòng. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Mary đi đến khu vườn. 
+2 Sau đó họ đi đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Mary và Daniel trở lại vào phòng tắm. 
+5 Sau đó, họ chuyển đến phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5
+7 Sandra và Daniel đã đến khu vườn. 
+8 Sau đó, họ đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Sandra và Mary đi đến phòng tắm. 
+11 Sau đó, họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Mary và Daniel trở lại nhà bếp. 
+14 Sau đó họ chuyển đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Mary và Sandra đi vào nhà bếp. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Sandra chuyển đến nhà bếp. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Mary chuyển đến văn phòng.
+8 Sau đó họ đã đi đến vườn. 
+9 Sandra ở đâu? 	 phòng ngủ	 4 5 
+10 Mary và John đi đến hành lang. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Daniel trở lại văn phòng. 
+14 Sau đó, họ đi đến phòng ngủ. 
+15 John ở đâu? 	 Phòng tắm	 10 11 
+1 Sandra và Mary đi đến hành lang. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Sandra ở đâu? 	 phòng ngủ	 1 2 
+4 Daniel và John trở về phòng ngủ. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và Daniel chuyển tới phòng tắm. 
+8 Sau đó họ chuyển đến văn phòng.
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 John và Sandra đã đi vào phòng tắm. 
+11 Sau đó, họ đi vào bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 Sandra và Mary đã đến văn phòng. 
+14 Sau đó họ đi đến nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Sandra và John đi vào bếp. 
+2 Sau đó, họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 John và Sandra đi đến hành lang. 
+5 Sau đó họ đã đi đến vườn. 
+6 John ở đâu? 	 vườn	 4 5 
+7 Mary và Sandra đi đến nhà bếp. 
+8 Sau đó họ chuyển đến văn phòng. 
+9 Mary ở đâu? 	 Văn phòng	 7 8
+10 John và Mary chuyển đến nhà bếp. 
+11 Sau đó họ đi đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 Daniel và Sandra đã đi đến vườn. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary đi vào phòng ngủ. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Daniel đi đến hành lang. 
+5 Sau đó họ quay trở lại văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 John và Sandra chuyển đến phòng tắm. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Sandra trở lại hành lang.
+11 Sau đó họ chuyển đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Daniel và Mary đi vào phòng ngủ. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Daniel và Mary đi đến nhà bếp. 
+2 Sau đó họ đi đến phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Mary đi đến vườn. 
+5 Sau đó, họ đi đến hành lang. 
+6 Mary ở đâu? 	 hành lang	 4 5 
+7 Sandra và John đi đến hành lang. 
+8 Sau đó họ chuyển đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 John và Mary đi vào phòng tắm. 
+11 Sau đó họ đi đến hành lang.
+12 John ở đâu? 	 hành lang	 10 11 
+13 Sandra và John đi đến phòng tắm. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 10 11 
+1 Mary và John trở lại vào phòng tắm. 
+2 Sau đó họ đã đi đến vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Daniel và Mary đi đến văn phòng. 
+5 Sau đó họ quay trở lại phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Daniel chuyển đến khu vườn. 
+8 Sau đó họ quay trở lại hành lang. 
+9 Mary ở đâu? 	 phòng ngủ	 4 5 
+10 Sandra và Daniel đã đi vào bếp. 
+11 Sau đó họ đi đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11
+13 Daniel và John đi vào bếp. 
+14 Sau đó, họ đi vào phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Daniel và John đã đến văn phòng. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Daniel trở lại phòng ngủ. 
+5 Sau đó họ chuyển đến nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Daniel và John đã đến khu vườn. 
+8 Sau đó, họ đi đến văn phòng. 
+9 Daniel ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và Mary đi đến văn phòng. 
+11 Sau đó, họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Daniel và John chuyển đến hành lang. 
+14 Sau đó, họ đi đến văn phòng.
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Sandra chuyển đến văn phòng. 
+2 Sau đó, họ chuyển đến khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Daniel và Sandra chuyển đến phòng ngủ. 
+5 Sau đó họ đi đến phòng tắm. 
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Mary đi vào phòng ngủ. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Mary và Daniel hành quân tới vườn. 
+11 Sau đó họ đi đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11 
+13 Mary và Daniel đi đến phòng ngủ. 
+14 Sau đó họ đi vào bếp. 
+15 Mary ở đâu? 	 bếp	 13 14
+1 Daniel và John chuyển đến nhà bếp. 
+2 Sau đó họ chuyển đến phòng tắm. 
+3 John ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John chuyển đến khu vườn. 
+5 Sau đó họ chuyển đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 John và Mary đi đến nhà bếp. 
+8 Sau đó họ đi đến văn phòng. 
+9 John ở đâu? 	 Văn phòng	 7 8 
+10 John và Mary đi vào phòng tắm. 
+11 Sau đó họ chuyển đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 John và Daniel đi đến hành lang. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 John và Daniel đã đi vào bếp.
+2 Sau đó, họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Mary và Sandra đi đến văn phòng. 
+5 Sau đó họ quay trở lại khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 John và Sandra đã đi vào phòng tắm. 
+8 Sau đó, họ chuyển đến nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Daniel và John đi đến văn phòng. 
+11 Sau đó họ đi đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 Sandra và Daniel đã đi đến hành lang. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 Sandra ở đâu? 	 Văn phòng	 13 14 
+1 John và Daniel đã đến văn phòng. 
+2 Sau đó họ đi đến phòng tắm.
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John đã đến văn phòng. 
+5 Sau đó họ quay trở lại phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và John đã đi đến vườn. 
+8 Sau đó họ quay trở lại hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Mary và Daniel đi đến phòng ngủ. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Sandra trở lại hành lang. 
+14 Sau đó, họ đi vào phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 John và Daniel trở lại nhà bếp. 
+2 Sau đó, họ quay trở lại phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2
+4 Sandra và Mary trở về phòng ngủ. 
+5 Sau đó, họ chuyển đến nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Mary và Sandra trở về văn phòng. 
+8 Sau đó, họ đi đến khu vườn. 
+9 Mary ở đâu? 	 vườn	 7 8 
+10 John và Sandra đã đi đến hành lang. 
+11 Sau đó họ đi đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Mary và Daniel chuyển tới phòng tắm. 
+14 Sau đó họ đi đến văn phòng. 
+15 Mary ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Sandra trở lại hành lang. 
+2 Sau đó, họ chuyển đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và John đi đến hành lang.
+5 Sau đó họ đi đến khu vườn. 
+6 John ở đâu? 	 vườn	 4 5 
+7 Daniel và Sandra đã đi vào phòng ngủ. 
+8 Sau đó họ đã đi đến hành lang. 
+9 John ở đâu? 	 vườn	 4 5 
+10 Mary và Sandra đi đến nhà bếp. 
+11 Sau đó họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 John và Sandra trở lại hành lang. 
+14 Sau đó, họ đi vào phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 John và Mary trở về văn phòng. 
+2 Sau đó họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Daniel và Sandra đã đi vào bếp. 
+5 Sau đó họ đi vào phòng tắm.
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Mary đi vào phòng ngủ. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Sandra và John chuyển đến phòng ngủ. 
+11 Sau đó họ đi vào bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 John và Mary quay trở lại vào phòng tắm. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 John ở đâu? 	 bếp	 13 14 
+1 John và Mary trở về văn phòng. 
+2 Sau đó họ đi đến hành lang. 
+3 John ở đâu? 	 hành lang	 1 2 
+4 Mary và John đi đến khu vườn. 
+5 Sau đó họ đi đến hành lang. 
+6 Mary ở đâu? 	 hành lang	 4 5
+7 Mary và Sandra trở về văn phòng. 
+8 Sau đó họ đã đi đến vườn. 
+9 John ở đâu? 	 hành lang	 4 5 
+10 Mary và John đã đi vào phòng ngủ. 
+11 Sau đó, họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và Mary đi đến phòng ngủ. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Mary và John đã đi vào phòng ngủ. 
+2 Sau đó, họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Sandra đã đi vào phòng ngủ. 
+5 Sau đó họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 John và Sandra đã đi vào phòng ngủ.
+8 Sau đó họ quay trở lại nhà bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 John và Sandra đã đi vào phòng ngủ. 
+11 Sau đó họ đi đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Mary và Sandra đã đi vào phòng tắm. 
+14 Sau đó, họ quay trở lại hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Mary và John đi đến nhà bếp. 
+2 Sau đó họ quay trở lại khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Sandra và Mary đi vào nhà bếp. 
+5 Sau đó họ quay trở lại hành lang. 
+6 John ở đâu? 	 vườn	 1 2 
+7 Mary và Sandra chuyển đến khu vườn. 
+8 Sau đó họ quay trở lại phòng ngủ.
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 John và Mary đi vào nhà bếp. 
+11 Sau đó, họ chuyển đến hành lang. 
+12 Mary ở đâu? 	 hành lang	 10 11 
+13 Sandra và John đã đi vào phòng tắm. 
+14 Sau đó họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Sandra và Mary đi đến vườn. 
+2 Sau đó, họ đi đến hành lang. 
+3 Sandra ở đâu? 	 hành lang	 1 2 
+4 Mary và Sandra đã đi đến vườn. 
+5 Sau đó họ đi đến văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Sandra chuyển đến nhà bếp. 
+8 Sau đó họ quay trở lại văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8
+10 John và Mary đi vào bếp. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary đi đến văn phòng. 
+14 Sau đó họ đi vào phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và John đã đến văn phòng. 
+2 Sau đó họ quay trở lại hành lang. 
+3 John ở đâu? 	 hành lang	 1 2 
+4 John và Daniel chuyển tới văn phòng. 
+5 Sau đó, họ chuyển đến nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary đi đến khu vườn. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 bếp	 4 5 
+10 John và Sandra trở lại hành lang.
+11 Sau đó họ quay trở lại nhà bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Daniel và Sandra đi đến văn phòng. 
+14 Sau đó họ đã đi đến vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Daniel và John đi đến phòng ngủ. 
+2 Sau đó họ đi đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Sandra trở vào phòng tắm. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel đã đi vào bếp. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và John đi đến khu vườn. 
+11 Sau đó, họ đi đến phòng tắm.
+12 Daniel ở đâu? 	 Phòng tắm	 7 8 
+13 Mary và Sandra đã đi đến vườn. 
+14 Sau đó họ quay trở lại văn phòng. 
+15 Mary ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Mary chuyển đến phòng tắm. 
+2 Sau đó họ đi đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và Daniel trở lại hành lang. 
+5 Sau đó họ chuyển đến nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary chuyển đến hành lang. 
+8 Sau đó họ quay trở lại nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 John và Daniel đã đi vào phòng tắm. 
+11 Sau đó họ quay trở lại nhà bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11
+13 Sandra và John đi đến hành lang. 
+14 Sau đó họ đi đến khu vườn. 
+15 Daniel ở đâu? 	 bếp	 10 11 
+1 Mary và John trở lại nhà bếp. 
+2 Sau đó họ chuyển đến hành lang. 
+3 John ở đâu? 	 hành lang	 1 2 
+4 Mary và Daniel đã đến khu vườn. 
+5 Sau đó họ quay trở lại phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Sandra đã đi vào phòng tắm. 
+8 Sau đó họ đi đến khu vườn. 
+9 Daniel ở đâu? 	 vườn	 7 8 
+10 Mary và Daniel đã đến hành lang. 
+11 Sau đó họ đi đến khu vườn. 
+12 Daniel ở đâu? 	 vườn	 10 11 
+13 John và Daniel đã đi vào phòng ngủ.
+14 Sau đó họ đi đến phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Daniel trở lại khu vườn. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Mary đi đến hành lang. 
+5 Sau đó họ đi đến nhà bếp. 
+6 Sandra ở đâu? 	 bếp	 4 5 
+7 Mary và John chuyển đến phòng ngủ. 
+8 Sau đó họ chuyển đến phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và Sandra đã đi vào phòng ngủ. 
+11 Sau đó họ đi đến hành lang. 
+12 Sandra ở đâu? 	 hành lang	 10 11 
+13 Mary và John đã đến khu vườn. 
+14 Sau đó họ đi đến văn phòng.
+15 Mary ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Daniel trở lại khu vườn. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John đi đến hành lang. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 John và Sandra đi đến văn phòng. 
+8 Sau đó họ chuyển đến nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và Daniel chuyển tới hành lang. 
+11 Sau đó họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Daniel và Sandra đi đến phòng ngủ. 
+14 Sau đó, họ đi đến khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14
+1 Mary và Sandra đã đi đến văn phòng. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 John và Sandra đã đi đến văn phòng. 
+5 Sau đó họ đã đi đến vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Sandra và Daniel trở lại hành lang. 
+8 Sau đó họ quay trở lại nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Daniel và Sandra đã đi vào phòng tắm. 
+11 Sau đó, họ đi vào bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11 
+13 John và Sandra chuyển đến phòng tắm. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary đi vào bếp.
+2 Sau đó họ quay trở lại văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary đi đến khu vườn. 
+5 Sau đó họ đã đi đến hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Sandra và Mary đi đến khu vườn. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Mary trở lại nhà bếp. 
+11 Sau đó họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Mary và Sandra đi đến phòng ngủ. 
+14 Sau đó họ đi đến văn phòng. 
+15 Sandra ở đâu? 	 Văn phòng	 13 14 
+1 John và Daniel chuyển tới nhà bếp. 
+2 Sau đó họ đi đến văn phòng.
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và John đi đến phòng ngủ. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Sandra và Daniel đi đến văn phòng. 
+8 Sau đó họ đi đến nhà bếp. 
+9 Daniel ở đâu? 	 bếp	 7 8 
+10 John và Daniel đã đi đến hành lang. 
+11 Sau đó họ đi đến văn phòng. 
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và Daniel đi đến phòng ngủ. 
+14 Sau đó họ chuyển đến hành lang. 
+15 Daniel ở đâu? 	 hành lang	 13 14 
+1 Daniel và Sandra đã đi vào phòng tắm. 
+2 Sau đó họ đi đến khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2
+4 John và Sandra đã đi vào phòng tắm. 
+5 Sau đó, họ quay trở lại văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 John và Daniel chuyển tới nhà bếp. 
+8 Sau đó họ chuyển đến văn phòng. 
+9 John ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Mary đi vào phòng tắm. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và Sandra đi đến nhà bếp. 
+14 Sau đó họ đi đến khu vườn. 
+15 Mary ở đâu? 	 vườn	 13 14 
+1 Daniel và Sandra chuyển đến nhà bếp. 
+2 Sau đó họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 John và Sandra đã đi vào phòng tắm.
+5 Sau đó, họ đi đến khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 John và Daniel đã đi vào phòng tắm. 
+8 Sau đó, họ chuyển đến nhà bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 Mary và Daniel chuyển tới phòng ngủ. 
+11 Sau đó họ chuyển đến hành lang. 
+12 Daniel ở đâu? 	 hành lang	 10 11 
+13 Mary và Daniel đã đi vào phòng ngủ. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Mary và John đã đi vào phòng tắm. 
+2 Sau đó họ chuyển đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Mary đi đến hành lang. 
+5 Sau đó, họ quay trở lại phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	
+7 Daniel và Mary chuyển đến hành lang. 
+8 Sau đó họ chuyển đến phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Daniel đã đến khu vườn. 
+11 Sau đó họ chuyển đến nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 John và Daniel trở lại văn phòng. 
+14 Sau đó, họ chuyển đến phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Mary chuyển đến nhà bếp. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và Mary chuyển đến nhà bếp. 
+5 Sau đó họ quay trở lại phòng ngủ. 
+6 Mary ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Mary đi đến khu vườn.
+8 Sau đó họ đi đến phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra đi đến phòng ngủ. 
+11 Sau đó họ đi vào phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel đi đến phòng ngủ. 
+14 Sau đó, họ quay trở lại văn phòng. 
+15 Sandra ở đâu? 	 Văn phòng	 13 14 
+1 John và Sandra trở về khu vườn. 
+2 Sau đó họ chuyển đến văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Sandra và Daniel đã đi đến hành lang. 
+5 Sau đó, họ đi đến khu vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 John và Mary đi đến vườn. 
+8 Sau đó họ chuyển đến văn phòng.
+9 Mary ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Mary trở lại nhà bếp. 
+11 Sau đó họ đi đến khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Mary và Daniel trở lại nhà bếp. 
+14 Sau đó, họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Sandra và John đi đến văn phòng. 
+2 Sau đó, họ đi đến khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 John và Mary trở về văn phòng. 
+5 Sau đó họ đi đến nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Mary và Sandra trở vào phòng tắm. 
+8 Sau đó, họ đi đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8
+10 John và Daniel đã đi vào phòng tắm. 
+11 Sau đó, họ chuyển đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 John và Daniel chuyển tới nhà bếp. 
+14 Sau đó, họ quay trở lại hành lang. 
+15 John ở đâu? 	 hành lang	 13 14 
+1 Daniel và John chuyển đến hành lang. 
+2 Sau đó, họ chuyển đến khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel đã đến hành lang. 
+5 Sau đó họ đi đến phòng tắm. 
+6 John ở đâu? 	 vườn	 1 2 
+7 Mary và Sandra đi đến hành lang. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Mary ở đâu? 	 bếp	 7 8 
+10 Daniel và Mary đi vào phòng ngủ.
+11 Sau đó, họ đi đến văn phòng. 
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 Daniel và Sandra hành quân tới vườn. 
+14 Sau đó họ đi đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Daniel chuyển tới phòng ngủ. 
+2 Sau đó, họ đi đến hành lang. 
+3 Sandra ở đâu? 	 hành lang	 1 2 
+4 John và Sandra trở lại nhà bếp. 
+5 Sau đó họ đi vào phòng tắm. 
+6 John ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Mary chuyển đến văn phòng. 
+8 Sau đó họ đi đến phòng tắm. 
+9 Sandra ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Daniel chuyển tới nhà bếp. 
+11 Sau đó họ chuyển đến phòng tắm.
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Sandra trở về văn phòng. 
+14 Sau đó họ đi vào phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Sandra đã đến khu vườn. 
+2 Sau đó họ đi đến phòng tắm. 
+3 Sandra ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và Sandra đi vào nhà bếp. 
+5 Sau đó họ đã đi đến vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Mary và Daniel chuyển tới văn phòng. 
+8 Sau đó, họ đi vào bếp. 
+9 Mary ở đâu? 	 bếp	 7 8 
+10 Sandra và John đi đến phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11
+13 Sandra và Daniel đã đi vào phòng tắm. 
+14 Sau đó, họ đi vào nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 John và Daniel đã đến khu vườn. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 Daniel và Mary chuyển đến nhà bếp. 
+5 Sau đó họ đã đi đến vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 Sandra và John đi đến văn phòng. 
+8 Sau đó, họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 John và Sandra đã đi vào phòng ngủ. 
+11 Sau đó, họ đi đến nhà bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Sandra và Daniel đã đến văn phòng.
+14 Sau đó họ đi đến phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Daniel và Sandra đã đi vào phòng ngủ. 
+2 Sau đó, họ chuyển đến khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Sandra và John chuyển đến nhà bếp. 
+5 Sau đó họ đi đến khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Mary và Daniel chuyển tới nhà bếp. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Daniel ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và John đi đến văn phòng. 
+11 Sau đó họ chuyển đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Sandra và John đi đến nhà bếp. 
+14 Sau đó họ chuyển đến văn phòng.
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và John đi vào phòng ngủ. 
+2 Sau đó họ chuyển đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 John và Mary trở lại nhà bếp. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 John và Daniel đi đến nhà bếp. 
+8 Sau đó, họ chuyển đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 John và Mary trở lại nhà bếp. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Mary và John đi vào bếp. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14
+1 Mary và Sandra đã đi vào phòng tắm. 
+2 Sau đó, họ đi vào nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Sandra và Daniel đã đi vào phòng tắm. 
+5 Sau đó họ chuyển đến phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Sandra đi vào nhà bếp. 
+8 Sau đó họ đi đến hành lang. 
+9 Daniel ở đâu? 	 hành lang	 7 8 
+10 Mary và John đi đến phòng tắm. 
+11 Sau đó, họ quay trở lại văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Sandra trở vào phòng tắm. 
+14 Sau đó họ đi đến khu vườn. 
+15 John ở đâu? 	 Văn phòng	 10 11 
+1 Mary và Daniel đã đi vào bếp.
+2 Sau đó họ quay trở lại hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 Daniel và Sandra trở vào phòng tắm. 
+5 Sau đó, họ chuyển đến nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 John và Sandra trở về văn phòng. 
+8 Sau đó họ chuyển đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Mary và John đi vào bếp. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Mary đi đến phòng ngủ. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Phòng tắm	 10 11 
+1 Daniel và Mary đi đến hành lang. 
+2 Sau đó họ chuyển đến văn phòng.
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 Mary và Sandra trở lại hành lang. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 John và Sandra chuyển đến hành lang. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Mary và John chuyển đến hành lang. 
+11 Sau đó, họ quay trở lại vào phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Sandra trở vào phòng tắm. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và John đi đến phòng tắm. 
+2 Sau đó họ chuyển đến nhà bếp. 
+3 John ở đâu? 	 bếp	 1 2
+4 Daniel và John chuyển đến phòng tắm. 
+5 Sau đó, họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 John và Mary đi đến hành lang. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Mary đi đến vườn. 
+11 Sau đó, họ đi đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi đến nhà bếp. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Daniel trở lại nhà bếp. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Daniel trở lại nhà bếp.
+5 Sau đó họ đã đi đến vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 Daniel và Mary chuyển đến phòng ngủ. 
+8 Sau đó họ đi đến khu vườn. 
+9 Daniel ở đâu? 	 vườn	 7 8 
+10 Daniel và John chuyển đến phòng ngủ. 
+11 Sau đó họ đi đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Mary và Sandra đã đến văn phòng. 
+14 Sau đó họ đi đến phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Sandra và Daniel đi đến phòng ngủ. 
+2 Sau đó họ đi vào bếp. 
+3 Daniel ở đâu? 	 bếp	 1 2 
+4 John và Mary đi vào phòng tắm. 
+5 Sau đó, họ đi đến hành lang.
+6 John ở đâu? 	 hành lang	 4 5 
+7 Daniel và Sandra đã đến văn phòng. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Sandra ở đâu? 	 Phòng tắm	 7 8 
+10 Daniel và Sandra chuyển đến nhà bếp. 
+11 Sau đó, họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và John đi vào nhà bếp. 
+14 Sau đó, họ đi đến phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và Sandra đã đi đến văn phòng. 
+2 Sau đó họ đi vào phòng tắm. 
+3 Sandra ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và John chuyển đến hành lang. 
+5 Sau đó họ đi vào nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5
+7 Sandra và Mary trở về hành lang. 
+8 Sau đó, họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và Sandra đã đi đến vườn. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel trở lại khu vườn. 
+14 Sau đó họ đi vào bếp. 
+15 Daniel ở đâu? 	 bếp	 13 14 
+1 Mary và John đi đến khu vườn. 
+2 Sau đó, họ đi đến phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John trở về khu vườn. 
+5 Sau đó họ đi vào bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Daniel và John trở lại hành lang.
+8 Sau đó họ chuyển đến phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary đi đến hành lang. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và John đã đi đến hành lang. 
+14 Sau đó họ quay trở lại văn phòng. 
+15 Mary ở đâu? 	 Phòng tắm	 10 11 
+1 John và Mary trở về phòng ngủ. 
+2 Sau đó họ đi đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 John và Sandra đã đi vào phòng tắm. 
+5 Sau đó họ đã đi đến hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Daniel và Sandra trở về phòng ngủ. 
+8 Sau đó họ chuyển đến phòng tắm.
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra đã đi vào phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 Sandra ở đâu? 	 Văn phòng	 10 11 
+13 John và Daniel trở lại nhà bếp. 
+14 Sau đó họ đi đến phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Daniel chuyển tới phòng ngủ. 
+2 Sau đó, họ đi đến hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 John và Daniel đã đi vào phòng ngủ. 
+5 Sau đó, họ đi đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 John và Sandra chuyển đến hành lang. 
+8 Sau đó họ chuyển đến văn phòng. 
+9 Daniel ở đâu? 	 Văn phòng	 4 5
+10 Mary và Daniel đã đi vào phòng ngủ. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel đã đến hành lang. 
+14 Sau đó họ đi đến khu vườn. 
+15 Daniel ở đâu? 	 vườn	 13 14 
+1 Sandra và Daniel đã đi vào phòng ngủ. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Daniel ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và John đi đến khu vườn. 
+5 Sau đó họ chuyển đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và Sandra chuyển đến hành lang. 
+8 Sau đó họ quay trở lại khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 John và Sandra đi đến phòng tắm.
+11 Sau đó họ đi đến phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và Daniel đi đến văn phòng. 
+14 Sau đó họ quay trở lại phòng ngủ. 
+15 Daniel ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Sandra đã đi vào phòng ngủ. 
+2 Sau đó họ quay trở lại văn phòng. 
+3 Mary ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary quay trở lại vào phòng tắm. 
+5 Sau đó, họ đi đến khu vườn. 
+6 Sandra ở đâu? 	 Văn phòng	 1 2 
+7 Sandra và John đi vào phòng ngủ. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 John và Daniel trở lại vào phòng tắm. 
+11 Sau đó họ đi đến hành lang.
+12 John ở đâu? 	 hành lang	 10 11 
+13 Sandra và Mary đi đến phòng tắm. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 John và Daniel đã đến khu vườn. 
+2 Sau đó họ quay trở lại phòng tắm. 
+3 John ở đâu? 	 Phòng tắm	 1 2 
+4 Daniel và John đi vào bếp. 
+5 Sau đó, họ đi đến hành lang. 
+6 Daniel ở đâu? 	 hành lang	 4 5 
+7 Daniel và John chuyển đến khu vườn. 
+8 Sau đó họ quay trở lại phòng tắm. 
+9 John ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và John đi đến văn phòng. 
+11 Sau đó họ quay trở lại hành lang. 
+12 Mary ở đâu? 	 hành lang	 10 11
+13 Daniel và Mary đi đến khu vườn. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và John đã đi vào phòng tắm. 
+2 Sau đó họ đi đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 John và Sandra đã đến khu vườn. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 John và Sandra chuyển đến hành lang. 
+8 Sau đó họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Sandra và John trở về khu vườn. 
+11 Sau đó họ đi đến văn phòng. 
+12 Sandra ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và Daniel đã đi đến hành lang.
+14 Sau đó họ đi đến văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Daniel trở lại nhà bếp. 
+2 Sau đó họ đã đi đến vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Sandra và Daniel đã đi đến văn phòng. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Sandra và Daniel đã đi vào phòng ngủ. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và Daniel đã đi vào phòng ngủ. 
+11 Sau đó họ đã đi đến vườn. 
+12 Daniel ở đâu? 	 vườn	 10 11 
+13 Sandra và Mary đi đến nhà bếp. 
+14 Sau đó họ đi vào phòng ngủ.
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Mary và Daniel đã đến khu vườn. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và John trở về văn phòng. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và Mary đi vào phòng tắm. 
+8 Sau đó họ chuyển đến phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và John đã đi đến vườn. 
+11 Sau đó, họ đi đến phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và Mary đi đến phòng tắm. 
+14 Sau đó họ chuyển đến nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14
+1 John và Mary đi đến hành lang. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Sandra đã đi đến hành lang. 
+5 Sau đó họ đi đến nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Sandra và Daniel trở lại hành lang. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 Daniel và John chuyển đến khu vườn. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Daniel và John đi đến nhà bếp. 
+14 Sau đó họ quay trở lại văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 Daniel và Mary đi vào bếp.
+2 Sau đó họ đi đến phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Mary và John trở về khu vườn. 
+5 Sau đó, họ chuyển đến phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Daniel đã đi vào phòng ngủ. 
+8 Sau đó, họ đi đến nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và Daniel trở lại phòng ngủ. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Mary chuyển đến văn phòng. 
+14 Sau đó họ chuyển đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Daniel và Sandra chuyển đến phòng ngủ. 
+2 Sau đó họ chuyển đến khu vườn.
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel chuyển tới phòng tắm. 
+5 Sau đó họ đi đến khu vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 Mary và Sandra đã đi vào phòng ngủ. 
+8 Sau đó họ quay trở lại nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và John đã đi vào phòng tắm. 
+11 Sau đó họ chuyển đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Sandra và John trở về khu vườn. 
+14 Sau đó họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Daniel và John trở lại nhà bếp. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2
+4 John và Mary đi đến khu vườn. 
+5 Sau đó họ đi đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 John và Sandra trở về khu vườn. 
+8 Sau đó họ quay trở lại hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Sandra và Mary đi vào phòng ngủ. 
+11 Sau đó họ chuyển đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Mary và Daniel chuyển tới phòng tắm. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Daniel và Sandra đi đến hành lang. 
+2 Sau đó họ đã đi đến vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Daniel và Mary đi vào phòng ngủ.
+5 Sau đó họ đi đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel đã đi đến hành lang. 
+8 Rồi họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra chuyển đến hành lang. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 7 8 
+13 Sandra và John đi đến hành lang. 
+14 Sau đó họ chuyển đến phòng tắm. 
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Sandra và Mary đi vào phòng tắm. 
+2 Sau đó họ đi đến phòng ngủ. 
+3 Mary ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và John trở về văn phòng. 
+5 Sau đó họ đi vào phòng ngủ.
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 John và Daniel trở lại khu vườn. 
+8 Sau đó họ đi đến nhà bếp. 
+9 John ở đâu? 	 bếp	 7 8 
+10 Sandra và Mary đã đến văn phòng. 
+11 Sau đó họ quay trở lại khu vườn. 
+12 Mary ở đâu? 	 vườn	 10 11 
+13 Daniel và Sandra đã đến hành lang. 
+14 Sau đó họ đi đến phòng tắm. 
+15 Sandra ở đâu? 	 Phòng tắm	 13 14 
+1 Sandra và Daniel đã đi vào bếp. 
+2 Sau đó, họ đi đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Mary và Sandra trở về văn phòng. 
+5 Sau đó họ chuyển đến khu vườn. 
+6 Mary ở đâu? 	 vườn	 4 5
+7 Daniel và John trở về khu vườn. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Daniel chuyển tới hành lang. 
+11 Sau đó họ đi vào nhà bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11 
+13 John và Mary đi vào bếp. 
+14 Sau đó, họ chuyển đến phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 John và Sandra trở về phòng ngủ. 
+2 Sau đó họ quay trở lại nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Mary và John đi vào phòng ngủ. 
+5 Sau đó họ đi vào bếp. 
+6 John ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary trở về hành lang.
+8 Sau đó, họ quay trở lại vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Mary chuyển đến khu vườn. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Daniel chuyển tới hành lang. 
+14 Sau đó họ đi đến nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 John và Daniel chuyển tới nhà bếp. 
+2 Sau đó họ đã đi đến vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel chuyển tới phòng ngủ. 
+5 Sau đó họ chuyển đến khu vườn. 
+6 Daniel ở đâu? 	 vườn	 4 5 
+7 John và Mary trở về văn phòng. 
+8 Sau đó họ chuyển đến khu vườn.
+9 Mary ở đâu? 	 vườn	 7 8 
+10 Mary và Daniel đã đi vào phòng tắm. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và Sandra trở về khu vườn. 
+14 Sau đó họ đi đến nhà bếp. 
+15 Daniel ở đâu? 	 phòng ngủ	 10 11 
+1 John và Daniel đã đi đến văn phòng. 
+2 Sau đó họ chuyển đến khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Mary và Daniel chuyển tới phòng tắm. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Sandra và John chuyển đến nhà bếp. 
+8 Sau đó họ đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8
+10 Daniel và John đi đến văn phòng. 
+11 Sau đó, họ chuyển đến phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Mary và Sandra hành quân tới vườn. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Phòng tắm	 10 11 
+1 Daniel và Mary đi vào bếp. 
+2 Sau đó họ đi đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 John và Daniel đi đến nhà bếp. 
+5 Sau đó họ đi đến hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 John và Mary đi đến phòng tắm. 
+8 Sau đó họ quay trở lại khu vườn. 
+9 Mary ở đâu? 	 vườn	 7 8 
+10 Mary và Daniel chuyển tới phòng ngủ.
+11 Sau đó họ quay trở lại phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Sandra trở về khu vườn. 
+14 Sau đó họ đi đến hành lang. 
+15 Daniel ở đâu? 	 hành lang	 13 14 
+1 John và Mary đi đến nhà bếp. 
+2 Sau đó họ chuyển đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary đi đến nhà bếp. 
+5 Sau đó họ quay trở lại văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Mary và John đi vào bếp. 
+8 Sau đó, họ chuyển đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 Daniel và Sandra đi đến hành lang. 
+11 Sau đó họ đi đến phòng ngủ.
+12 Daniel ở đâu? 	 phòng ngủ	 10 11 
+13 John và Sandra đã đi đến văn phòng. 
+14 Sau đó họ đi đến khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 Mary và Sandra trở về văn phòng. 
+2 Sau đó, họ quay trở lại nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 Sandra và John chuyển đến văn phòng. 
+5 Sau đó họ quay trở lại phòng tắm. 
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và Sandra đã đến khu vườn. 
+8 Sau đó, họ đi đến văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 Mary và Daniel hành quân tới vườn. 
+11 Sau đó, họ đi vào nhà bếp. 
+12 Daniel ở đâu? 	 bếp	 10 11
+13 Daniel và Sandra đã đi vào phòng ngủ. 
+14 Sau đó họ đi vào nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 John và Daniel trở lại hành lang. 
+2 Sau đó họ đi đến khu vườn. 
+3 Daniel ở đâu? 	 vườn	 1 2 
+4 John và Daniel trở lại hành lang. 
+5 Sau đó, họ đi đến phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và John đi đến văn phòng. 
+8 Sau đó họ đi đến khu vườn. 
+9 Daniel ở đâu? 	 vườn	 7 8 
+10 Mary và John đi đến văn phòng. 
+11 Sau đó họ chuyển đến hành lang. 
+12 John ở đâu? 	 hành lang	 10 11 
+13 Mary và John trở lại vào phòng tắm.
+14 Sau đó, họ chuyển đến hành lang. 
+15 John ở đâu? 	 hành lang	 13 14 
+1 Daniel và John trở lại hành lang. 
+2 Sau đó họ đi đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Mary đi vào bếp. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Mary ở đâu? 	 Văn phòng	 4 5 
+7 John và Daniel đã đi vào phòng tắm. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và Sandra đã đi vào bếp. 
+11 Sau đó, họ đi đến phòng tắm. 
+12 Daniel ở đâu? 	 phòng ngủ	 7 8 
+13 John và Mary trở về khu vườn. 
+14 Sau đó họ đi vào phòng tắm.
+15 John ở đâu? 	 Phòng tắm	 13 14 
+1 Mary và Daniel trở lại văn phòng. 
+2 Sau đó, họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Mary và John trở về phòng ngủ. 
+5 Sau đó họ quay trở lại hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Daniel và John đi đến văn phòng. 
+8 Sau đó họ đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Daniel và John đã đi đến vườn. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 John và Daniel đi đến nhà bếp. 
+14 Sau đó, họ quay trở lại khu vườn. 
+15 John ở đâu? 	 vườn	 13 14
+1 Mary và John đi đến văn phòng. 
+2 Sau đó họ đi đến khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 John và Sandra đã đến văn phòng. 
+5 Sau đó, họ đi đến phòng tắm. 
+6 John ở đâu? 	 Phòng tắm	 4 5 
+7 John và Daniel đã đi đến hành lang. 
+8 Sau đó họ đi đến nhà bếp. 
+9 Daniel ở đâu? 	 bếp	 7 8 
+10 Mary và John đã đi vào phòng tắm. 
+11 Sau đó, họ chuyển đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 John và Sandra trở về phòng ngủ. 
+14 Sau đó họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Daniel và John đi đến khu vườn.
+2 Sau đó họ chuyển đến nhà bếp. 
+3 Daniel ở đâu? 	 bếp	 1 2 
+4 Sandra và Daniel chuyển tới hành lang. 
+5 Sau đó, họ quay trở lại nhà bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Sandra và Mary trở về khu vườn. 
+8 Sau đó họ quay trở lại phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra đi đến hành lang. 
+11 Sau đó họ đi vào nhà bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 John và Sandra đã đi vào phòng tắm. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14 
+1 Sandra và John đã đi vào phòng tắm. 
+2 Sau đó họ đi đến nhà bếp.
+3 Sandra ở đâu? 	 bếp	 1 2 
+4 John và Daniel đi đến phòng ngủ. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và Mary chuyển đến phòng ngủ. 
+8 Sau đó họ chuyển đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 John và Sandra đã đi vào phòng ngủ. 
+11 Sau đó họ đi đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 John và Sandra trở về khu vườn. 
+14 Sau đó họ quay trở lại phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 John và Daniel trở lại khu vườn. 
+2 Sau đó họ đi đến phòng tắm. 
+3 John ở đâu? 	 Phòng tắm	 1 2
+4 Sandra và Mary trở về phòng ngủ. 
+5 Sau đó, họ chuyển đến phòng tắm. 
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 John và Sandra đi vào nhà bếp. 
+8 Sau đó, họ đi đến phòng ngủ. 
+9 John ở đâu? 	 phòng ngủ	 7 8 
+10 John và Sandra chuyển đến văn phòng. 
+11 Sau đó họ quay trở lại khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 John và Mary chuyển đến hành lang. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 John ở đâu? 	 bếp	 13 14 
+1 Daniel và Mary đi vào phòng tắm. 
+2 Sau đó họ đi đến văn phòng. 
+3 Mary ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Sandra chuyển đến khu vườn.
+5 Sau đó họ đi vào phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và Sandra chuyển đến hành lang. 
+8 Sau đó họ quay trở lại văn phòng. 
+9 Sandra ở đâu? 	 Văn phòng	 7 8 
+10 John và Sandra chuyển đến phòng ngủ. 
+11 Sau đó họ đi đến khu vườn. 
+12 Sandra ở đâu? 	 vườn	 10 11 
+13 Mary và Sandra đã đi vào phòng tắm. 
+14 Sau đó, họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 John và Mary quay trở lại vào phòng tắm. 
+2 Sau đó, họ đi vào nhà bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 Sandra và Mary đi đến phòng tắm. 
+5 Sau đó, họ đi đến khu vườn.
+6 Mary ở đâu? 	 vườn	 4 5 
+7 John và Sandra đã đi vào phòng ngủ. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Mary ở đâu? 	 vườn	 4 5 
+10 John và Daniel chuyển đến khu vườn. 
+11 Sau đó họ đi vào bếp. 
+12 John ở đâu? 	 bếp	 10 11 
+13 Daniel và John chuyển đến hành lang. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 John và Mary đi đến khu vườn. 
+2 Sau đó họ quay trở lại phòng ngủ. 
+3 John ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và John đã đi đến vườn. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5
+7 John và Sandra đã đến văn phòng. 
+8 Sau đó, họ đi đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 John và Sandra đã đến hành lang. 
+11 Sau đó họ đi vào phòng ngủ. 
+12 Sandra ở đâu? 	 phòng ngủ	 10 11 
+13 John và Daniel trở lại khu vườn. 
+14 Sau đó họ đi đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Sandra và Mary đã đến văn phòng. 
+2 Sau đó họ đã đi đến hành lang. 
+3 Sandra ở đâu? 	 hành lang	 1 2 
+4 John và Sandra hành quân tới vườn. 
+5 Sau đó họ đi vào bếp. 
+6 Mary ở đâu? 	 hành lang	 1 2 
+7 Daniel và John trở về khu vườn.
+8 Sau đó họ đi vào phòng ngủ. 
+9 Sandra ở đâu? 	 bếp	 4 5 
+10 Daniel và John trở lại vào phòng tắm. 
+11 Sau đó họ đi đến văn phòng. 
+12 John ở đâu? 	 Văn phòng	 10 11 
+13 Daniel và Sandra hành quân tới vườn. 
+14 Sau đó họ đi đến nhà bếp. 
+15 John ở đâu? 	 Văn phòng	 10 11 
+1 Daniel và John đi đến nhà bếp. 
+2 Sau đó họ chuyển đến khu vườn. 
+3 John ở đâu? 	 vườn	 1 2 
+4 Mary và John chuyển đến văn phòng. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 John và Daniel chuyển tới phòng tắm. 
+8 Sau đó họ đi đến nhà bếp.
+9 John ở đâu? 	 bếp	 7 8 
+10 Daniel và Sandra đã đi đến văn phòng. 
+11 Sau đó họ chuyển đến nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 John và Sandra đã đi đến hành lang. 
+14 Sau đó, họ đi đến phòng ngủ. 
+15 John ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Daniel trở lại khu vườn. 
+2 Sau đó họ chuyển đến phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 Sandra và Mary đi đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Daniel ở đâu? 	 phòng ngủ	 1 2 
+7 Mary và Sandra chuyển đến hành lang. 
+8 Sau đó họ đi vào phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8
+10 Daniel và Sandra hành quân tới vườn. 
+11 Sau đó họ đi đến văn phòng. 
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Daniel chuyển tới phòng tắm. 
+14 Sau đó họ đi đến hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Mary và Daniel trở lại vào phòng tắm. 
+2 Sau đó họ đi vào phòng ngủ. 
+3 Daniel ở đâu? 	 phòng ngủ	 1 2 
+4 John và Sandra đi đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Daniel ở đâu? 	 phòng ngủ	 1 2 
+7 Mary và John đã đến văn phòng. 
+8 Sau đó họ đã đi đến vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 John và Mary chuyển đến văn phòng.
+11 Sau đó, họ đi đến phòng ngủ. 
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 John và Mary đi đến hành lang. 
+14 Sau đó họ quay trở lại nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Mary và Sandra đã đến khu vườn. 
+2 Sau đó, họ đi vào nhà bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 Sandra và Daniel trở lại khu vườn. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 Sandra ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Daniel trở lại phòng ngủ. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Mary và John đi vào nhà bếp. 
+11 Sau đó họ đi đến phòng ngủ.
+12 Mary ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và John đã đến văn phòng. 
+14 Sau đó, họ đi đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và Daniel trở lại khu vườn. 
+2 Sau đó họ đi đến văn phòng. 
+3 Daniel ở đâu? 	 Văn phòng	 1 2 
+4 John và Mary trở về khu vườn. 
+5 Sau đó, họ đi đến nhà bếp. 
+6 Daniel ở đâu? 	 Văn phòng	 1 2 
+7 Mary và John đi đến hành lang. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Mary ở đâu? 	 bếp	 7 8 
+10 Sandra và Mary trở về khu vườn. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11
+13 Mary và Sandra chuyển đến phòng ngủ. 
+14 Sau đó, họ đi vào bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 John và Mary đi vào bếp. 
+2 Sau đó, họ đi vào phòng tắm. 
+3 Mary ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và Daniel đã đến hành lang. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Daniel ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Mary trở về hành lang. 
+8 Sau đó họ chuyển đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Mary và Sandra đi đến phòng ngủ. 
+11 Sau đó họ đi đến văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Mary và Sandra chuyển đến nhà bếp.
+14 Sau đó họ đi đến văn phòng. 
+15 Sandra ở đâu? 	 Văn phòng	 13 14 
+1 Mary và Sandra chuyển đến hành lang. 
+2 Sau đó họ quay trở lại khu vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Mary và Sandra trở về phòng ngủ. 
+5 Sau đó họ đi vào phòng tắm. 
+6 Mary ở đâu? 	 Phòng tắm	 4 5 
+7 Mary và Sandra đã đi vào phòng ngủ. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Mary và John chuyển đến phòng ngủ. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Mary ở đâu? 	 Phòng tắm	 10 11 
+13 John và Daniel chuyển tới nhà bếp. 
+14 Sau đó họ đi đến hành lang.
+15 Daniel ở đâu? 	 hành lang	 13 14 
+1 John và Mary trở lại nhà bếp. 
+2 Sau đó họ đi đến hành lang. 
+3 Mary ở đâu? 	 hành lang	 1 2 
+4 Sandra và Daniel trở lại hành lang. 
+5 Sau đó họ quay trở lại phòng tắm. 
+6 Sandra ở đâu? 	 Phòng tắm	 4 5 
+7 Sandra và Daniel chuyển tới hành lang. 
+8 Sau đó, họ chuyển đến văn phòng. 
+9 Daniel ở đâu? 	 Văn phòng	 7 8 
+10 Daniel và John chuyển đến phòng ngủ. 
+11 Sau đó họ quay trở lại phòng tắm. 
+12 John ở đâu? 	 Phòng tắm	 10 11 
+13 Daniel và Sandra trở về khu vườn. 
+14 Sau đó họ đi đến phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14
+1 John và Daniel chuyển tới văn phòng. 
+2 Sau đó họ chuyển đến nhà bếp. 
+3 John ở đâu? 	 bếp	 1 2 
+4 Mary và John đã đi đến vườn. 
+5 Sau đó họ đi đến phòng ngủ. 
+6 John ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và John đi đến khu vườn. 
+8 Sau đó họ đi đến phòng ngủ. 
+9 Mary ở đâu? 	 phòng ngủ	 7 8 
+10 Mary và Sandra trở lại nhà bếp. 
+11 Sau đó họ quay trở lại văn phòng. 
+12 Mary ở đâu? 	 Văn phòng	 10 11 
+13 Mary và John đi vào bếp. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 John ở đâu? 	 Văn phòng	 13 14 
+1 Sandra và Mary chuyển đến phòng tắm.
+2 Sau đó họ đã đi đến vườn. 
+3 Sandra ở đâu? 	 vườn	 1 2 
+4 Daniel và Mary đi đến hành lang. 
+5 Sau đó họ đi vào phòng ngủ. 
+6 Daniel ở đâu? 	 phòng ngủ	 4 5 
+7 Mary và John chuyển đến hành lang. 
+8 Sau đó họ đi vào phòng tắm. 
+9 Mary ở đâu? 	 Phòng tắm	 7 8 
+10 Sandra và Daniel đã đi đến văn phòng. 
+11 Sau đó họ chuyển đến phòng tắm. 
+12 Sandra ở đâu? 	 Phòng tắm	 10 11 
+13 Sandra và Daniel chuyển tới nhà bếp. 
+14 Sau đó họ chuyển đến văn phòng. 
+15 Daniel ở đâu? 	 Văn phòng	 13 14 
+1 John và Mary đi đến văn phòng. 
+2 Sau đó, họ đi vào phòng tắm.
+3 John ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và John đi đến hành lang. 
+5 Sau đó họ chuyển đến văn phòng. 
+6 John ở đâu? 	 Văn phòng	 4 5 
+7 Sandra và John chuyển đến hành lang. 
+8 Sau đó họ chuyển đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Sandra và Daniel đã đi vào phòng tắm. 
+11 Sau đó họ quay trở lại hành lang. 
+12 John ở đâu? 	 vườn	 7 8 
+13 Daniel và Sandra đã đi đến văn phòng. 
+14 Sau đó, họ quay trở lại nhà bếp. 
+15 Daniel ở đâu? 	 bếp	 13 14 
+1 Daniel và Sandra trở về văn phòng. 
+2 Sau đó, họ chuyển đến nhà bếp. 
+3 Sandra ở đâu? 	 bếp	 1 2
+4 Mary và John trở về phòng ngủ. 
+5 Sau đó, họ đi đến khu vườn. 
+6 Mary ở đâu? 	 vườn	 4 5 
+7 John và Mary đi đến văn phòng. 
+8 Sau đó họ đã đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Daniel và Mary đã đến văn phòng. 
+11 Sau đó họ đi vào phòng tắm. 
+12 Daniel ở đâu? 	 Phòng tắm	 10 11 
+13 John và Mary đi vào nhà bếp. 
+14 Sau đó họ chuyển đến phòng ngủ. 
+15 Mary ở đâu? 	 phòng ngủ	 13 14 
+1 Daniel và John đi đến khu vườn. 
+2 Sau đó họ chuyển đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 John và Sandra trở vào phòng tắm.
+5 Sau đó, họ đi đến khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Sandra và Mary trở về hành lang. 
+8 Sau đó, họ đi đến khu vườn. 
+9 Sandra ở đâu? 	 vườn	 7 8 
+10 Mary và John trở về phòng ngủ. 
+11 Sau đó họ đi đến hành lang. 
+12 Mary ở đâu? 	 hành lang	 10 11 
+13 Mary và John chuyển đến phòng ngủ. 
+14 Sau đó họ đi vào nhà bếp. 
+15 Mary ở đâu? 	 bếp	 13 14 
+1 Sandra và Daniel đã đi vào phòng tắm. 
+2 Sau đó họ quay trở lại văn phòng. 
+3 Sandra ở đâu? 	 Văn phòng	 1 2 
+4 Daniel và Mary đi đến hành lang. 
+5 Sau đó họ quay trở lại văn phòng.
+6 Daniel ở đâu? 	 Văn phòng	 4 5 
+7 Mary và Sandra chuyển đến hành lang. 
+8 Sau đó, họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 John và Daniel đã đến hành lang. 
+11 Sau đó họ quay trở lại phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Mary và John chuyển đến hành lang. 
+14 Sau đó, họ đi đến khu vườn. 
+15 John ở đâu? 	 vườn	 13 14 
+1 John và Sandra trở vào phòng tắm. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Sandra và Mary chuyển đến hành lang. 
+5 Sau đó họ chuyển đến nhà bếp. 
+6 Mary ở đâu? 	 bếp	
+8 Sau đó họ đi đến khu vườn. 
+9 John ở đâu? 	 vườn	 7 8 
+10 Sandra và Daniel trở lại văn phòng. 
+11 Sau đó họ đi đến nhà bếp. 
+12 Sandra ở đâu? 	 bếp	 10 11 
+13 Sandra và Mary đi đến văn phòng. 
+14 Sau đó họ quay trở lại khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Sandra và Mary đi vào phòng ngủ. 
+2 Sau đó họ quay trở lại phòng tắm. 
+3 Sandra ở đâu? 	 Phòng tắm	 1 2 
+4 Sandra và John đi đến văn phòng. 
+5 Sau đó họ quay trở lại hành lang. 
+6 John ở đâu? 	 hành lang	 4 5 
+7 Daniel và John đi đến văn phòng. 
+8 Sau đó, họ đi đến hành lang.
+9 John ở đâu? 	 hành lang	 7 8 
+10 John và Mary chuyển đến văn phòng. 
+11 Sau đó họ đi đến phòng ngủ. 
+12 John ở đâu? 	 phòng ngủ	 10 11 
+13 Sandra và John đi đến phòng tắm. 
+14 Sau đó, họ đi đến hành lang. 
+15 Sandra ở đâu? 	 hành lang	 13 14 
+1 Daniel và Mary quay trở lại vào phòng tắm. 
+2 Sau đó họ đi vào bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 Sandra và John chuyển đến văn phòng. 
+5 Sau đó họ quay trở lại hành lang. 
+6 Sandra ở đâu? 	 hành lang	 4 5 
+7 Mary và John đi vào phòng tắm. 
+8 Sau đó họ đã đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8
+10 Sandra và Mary đi vào bếp. 
+11 Sau đó họ quay trở lại hành lang. 
+12 Sandra ở đâu? 	 hành lang	 10 11 
+13 John và Sandra đã đi vào phòng tắm. 
+14 Sau đó, họ đi đến khu vườn. 
+15 Sandra ở đâu? 	 vườn	 13 14 
+1 Mary và Sandra trở vào phòng tắm. 
+2 Sau đó, họ quay trở lại khu vườn. 
+3 Mary ở đâu? 	 vườn	 1 2 
+4 Daniel và Sandra đã đi vào phòng ngủ. 
+5 Sau đó họ chuyển đến khu vườn. 
+6 Sandra ở đâu? 	 vườn	 4 5 
+7 Sandra và Daniel trở lại phòng ngủ. 
+8 Sau đó họ đi vào nhà bếp. 
+9 Sandra ở đâu? 	 bếp	 7 8 
+10 Sandra và Mary đi vào phòng tắm.
+11 Sau đó họ quay trở lại nhà bếp. 
+12 Mary ở đâu? 	 bếp	 10 11 
+13 Sandra và Mary trở về khu vườn. 
+14 Sau đó họ quay trở lại hành lang. 
+15 Mary ở đâu? 	 hành lang	 13 14 
+1 Mary và Daniel đi đến phòng tắm. 
+2 Sau đó họ đi vào nhà bếp. 
+3 Mary ở đâu? 	 bếp	 1 2 
+4 Sandra và Mary chuyển đến hành lang. 
+5 Sau đó họ quay trở lại nhà bếp. 
+6 Mary ở đâu? 	 bếp	 4 5 
+7 Sandra và John chuyển đến phòng tắm. 
+8 Sau đó họ quay trở lại phòng ngủ. 
+9 Sandra ở đâu? 	 phòng ngủ	 7 8 
+10 Sandra và Daniel hành quân tới vườn. 
+11 Sau đó họ đi đến văn phòng.
+12 Daniel ở đâu? 	 Văn phòng	 10 11 
+13 Sandra và John đi đến nhà bếp. 
+14 Sau đó họ đi vào phòng ngủ. 
+15 Sandra ở đâu? 	 phòng ngủ	 13 14 
+1 Sandra và John trở về phòng ngủ. 
+2 Sau đó họ đi đến văn phòng. 
+3 John ở đâu? 	 Văn phòng	 1 2 
+4 Sandra và Daniel đã đến khu vườn. 
+5 Sau đó họ đi vào bếp. 
+6 Daniel ở đâu? 	 bếp	 4 5 
+7 Sandra và John đi đến khu vườn. 
+8 Sau đó họ đi đến hành lang. 
+9 John ở đâu? 	 hành lang	 7 8 
+10 Daniel và Sandra đi đến phòng tắm. 
+11 Sau đó họ quay trở lại hành lang. 
+12 Sandra ở đâu? 	 hành lang	 10 11
+13 Daniel và Sandra đã đi vào phòng ngủ. 
+14 Sau đó, họ quay trở lại nhà bếp. 
+15 Daniel ở đâu? 	 bếp	 13 14 
+1 Mary và Daniel trở lại văn phòng. 
+2 Sau đó họ quay trở lại hành lang. 
+3 Daniel ở đâu? 	 hành lang	 1 2 
+4 Mary và Sandra đã đi đến văn phòng. 
+5 Sau đó họ quay trở lại phòng ngủ. 
+6 Sandra ở đâu? 	 phòng ngủ	 4 5 
+7 Daniel và John đã đi vào phòng ngủ. 
+8 Sau đó, họ đi vào phòng tắm. 
+9 Daniel ở đâu? 	 Phòng tắm	 7 8 
+10 John và Sandra đã đến văn phòng. 
+11 Sau đó họ chuyển đến khu vườn. 
+12 John ở đâu? 	 vườn	 10 11 
+13 Sandra và John trở về phòng ngủ.
+14 Sau đó họ quay trở lại nhà bếp. 
+15 Sandra ở đâu? 	 bếp	 13 14

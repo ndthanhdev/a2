@@ -1,0 +1,2000 @@
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Jason đi vào nhà bếp.
+6 Tại sao jason đi vào bếp?	 Khát	 1
+7 Antoine hành quân tới vườn.
+8 Tại sao antoine đi đến vườn?	 Chán	 3
+9 Sumit là đói.
+10 sẽ Sumit đi đâu?	 Bếp	 9
+11 Antoine nắm lấy bóng đá ở đó.
+12 Tại sao antoine nhận được bóng đá?	 Chán	 3
+13 Sumit đi vào nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Đói	 9
+15 Jason mất sữa đó.
+16 Tại sao jason có được sữa?	 Khát	 1
+17 Sumit mất quả táo đó.
+18 Tại sao Djuzz có được quả táo?	 Đói	 9
+19 Yann là khát.
+20 sẽ Yann đi đâu?	 Bếp	 19
+21 Yann đi vào bếp.
+22 Tại sao yann đi vào bếp?	 Khát	 19
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann đi đến nhà bếp.
+4 Tại sao yann đi vào bếp?	 Khát	 1
+5 Yann mất sữa đó.
+6 Tại sao yann có được sữa?	 Khát	 1
+7 Jason là đói.
+8 đâu jason sẽ đi đâu?	 Bếp	 7
+9 Antoine là chán.
+10 Trong trường hợp sẽ Antoine đi?	 Vườn	 9
+11 Antoine trở về khu vườn.
+12 Tại sao antoine đi đến vườn?	 Chán	 9
+13 Sumit là đói.
+14 sẽ Sumit đi đâu?	 Bếp	 13
+15 Jason đi vào bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 7
+17 Sumit đi vào nhà bếp.
+18 Tại sao Djuzz đi vào bếp?	 Đói	 13
+19 Jason nắm lấy quả táo đó.
+20 Tại sao jason lấy quả táo?	 Đói	 7
+21 Antoine nắm lấy bóng đá ở đó.
+22 Tại sao antoine nhận được bóng đá?	 Chán	 9
+1 Antoine là khát.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Sumit là đói.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là chán.
+6 đâu jason sẽ đi đâu?	 Vườn	 5
+7 Yann là mệt mỏi.
+8 đâu sẽ Yann đi?	 Phòng ngủ	 7
+9 Yann đi vào phòng ngủ.
+10 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 7
+11 Jason đã đi đến vườn.
+12 Tại sao Jason đi đến vườn?	 Chán	 5
+13 Antoine đi vào bếp.
+14 Tại sao antoine đi vào bếp?	 Khát	 1
+15 Antoine lấy sữa ở đó.
+16 Tại sao antoine có được sữa?	 Khát	 1
+17 Sumit chuyển đến nhà bếp.
+18 Tại sao Djuzz đi vào bếp?	 Đói	 3
+19 Sumit nắm lấy quả táo đó.
+20 Tại sao Djuzz có được quả táo?	 Đói	 3
+21 Yann có các bộ đồ ngủ ở đó.
+22 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 7
+23 Jason nắm lấy bóng đá ở đó.
+24 Tại sao Jason nhận được bóng đá?	 Chán	 5
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann đi vào bếp.
+4 Tại sao yann đi vào bếp?	 Khát	 1
+5 Yann mất sữa đó.
+6 Tại sao yann có được sữa?	 Khát	 1
+7 Sumit là chán.
+8 đâu sẽ Sumit đi?	 Vườn	 7
+9 Jason là đói.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Jason đi đến nhà bếp.
+12 Tại sao jason đi vào bếp?	 Đói	 9
+13 Sumit hành quân tới vườn.
+14 Tại sao Djuzz đi đến vườn?	 Chán	 7
+15 Sumit mất bóng đá ở đó.
+16 Tại sao Djuzz có được bóng đá?	 Chán	 7
+17 Jason mất quả táo đó.
+18 Tại sao jason lấy quả táo?	 Đói	 9
+19 Antoine là mệt mỏi.
+20 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 19
+21 Antoine trở về phòng ngủ.
+22 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 19
+23 Antoine nhặt đồ ngủ ở đó.
+24 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 19
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Yann là chán.
+6 trường hợp sẽ Yann đi?	 Vườn	 5
+7 Sumit hành quân tới vườn.
+8 Tại sao Djuzz đi đến vườn?	 Chán	 1
+9 Jason là đói.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Sumit nhặt bóng đá ở đó.
+12 Tại sao Djuzz có được bóng đá?	 Chán	 1
+13 Antoine đi vào bếp.
+14 Tại sao antoine đi vào bếp?	 Đói	 3
+15 Yann đi đến vườn.
+16 Tại sao yann đi đến vườn?	 Chán	 5
+17 Jason đi vào nhà bếp.
+18 Tại sao jason đi vào bếp?	 Đói	 9
+19 Antoine mất quả táo đó.
+20 Tại sao antoine lấy quả táo?	 Đói	 3
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Yann là khát.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann đi vào bếp.
+8 Tại sao yann đi vào bếp?	 Khát	 3
+9 Jason đã đi vào phòng ngủ.
+10 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+11 Sumit đi vào nhà bếp.
+12 Tại sao Djuzz đi vào bếp?	 Đói	 5
+13 Antoine là đói.
+14 sẽ Antoine đi đâu?	 Bếp	 13
+15 Antoine đi vào nhà bếp.
+16 Tại sao antoine đi vào bếp?	 Đói	 13
+17 Jason có các bộ đồ ngủ ở đó.
+18 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+19 Antoine có quả táo đó.
+20 Tại sao antoine lấy quả táo?	 Đói	 13
+21 Yann có sữa đó.
+22 Tại sao yann có được sữa?	 Khát	 3
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Jason chuyển đến phòng ngủ.
+4 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Antoine là đói.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Yann là đói.
+8 sẽ Yann đi đâu?	 Bếp	 7
+9 Yann chuyển đến nhà bếp.
+10 Tại sao yann đi vào bếp?	 Đói	 7
+11 Sumit là khát.
+12 sẽ Sumit đi đâu?	 Bếp	 11
+13 Antoine đi vào nhà bếp.
+14 Tại sao antoine đi vào bếp?	 Đói	 5
+15 Jason lấy bộ đồ ngủ ở đó.
+16 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+17 Sumit đi vào bếp.
+18 Tại sao Djuzz đi vào bếp?	 Khát	 11
+19 Yann mất quả táo đó.
+20 Tại sao yann lấy quả táo?	 Đói	 7
+21 Sumit nắm lấy sữa ở đó.
+22 Tại sao Djuzz có được sữa?	 Khát	 11
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Antoine là chán.
+6 trường hợp sẽ Antoine đi?	 Vườn	 5
+7 Antoine chuyển đến khu vườn.
+8 Tại sao antoine đi đến vườn?	 Chán	 5
+9 Antoine có bóng đá ở đó.
+10 Tại sao antoine nhận được bóng đá?	 Chán	 5
+11 Sumit là đói.
+12 sẽ Sumit đi đâu?	 Bếp	 11
+13 Sumit đi vào bếp.
+14 Tại sao Djuzz đi vào bếp?	 Đói	 11
+15 Yann đi vào phòng ngủ.
+16 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+17 Sumit nắm lấy quả táo đó.
+18 Tại sao Djuzz có được quả táo?	 Đói	 11
+19 Yann lấy bộ đồ ngủ ở đó.
+20 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 1
+21 Jason chuyển đến khu vườn.
+22 Tại sao Jason đi đến vườn?	 Chán	 3
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Jason đi vào phòng ngủ.
+4 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Antoine là đói.
+8 sẽ Antoine đi đâu?	 Bếp	 7
+9 Yann là chán.
+10 Trong trường hợp sẽ Yann đi?	 Vườn	 9
+11 Yann đi đến khu vườn.
+12 Tại sao yann đi đến vườn?	 Chán	 9
+13 Sumit đi đến nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Đói	 5
+15 Sumit có quả táo đó.
+16 Tại sao Djuzz có được quả táo?	 Đói	 5
+17 Antoine đi vào bếp.
+18 Tại sao antoine đi vào bếp?	 Đói	 7
+19 Jason có các bộ đồ ngủ ở đó.
+20 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+21 Yann nhặt bóng đá ở đó.
+22 Tại sao yann nhận được bóng đá?	 Chán	 9
+1 Antoine là chán.
+2 đâu sẽ Antoine đi?	 Vườn	 1
+3 Jason là khát.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Antoine hành quân tới vườn.
+6 Tại sao antoine đi đến vườn?	 Chán	 1
+7 Jason trở về nhà bếp.
+8 Tại sao jason đi vào bếp?	 Khát	 3
+9 Sumit là đói.
+10 sẽ Sumit đi đâu?	 Bếp	 9
+11 Jason nắm lấy sữa ở đó.
+12 Tại sao jason có được sữa?	 Khát	 3
+13 Antoine có bóng đá ở đó.
+14 Tại sao antoine nhận được bóng đá?	 Chán	 1
+15 Yann là chán.
+16 Trong trường hợp sẽ Yann đi?	 Vườn	 15
+17 Yann hành quân tới vườn.
+18 Tại sao yann đi đến vườn?	 Chán	 15
+19 Sumit chuyển đến nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Đói	 9
+21 Sumit có quả táo đó.
+22 Tại sao Djuzz có được quả táo?	 Đói	 9
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Yann là khát.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Sumit là mệt mỏi.
+6 trường hợp sẽ Sumit đi?	 Phòng ngủ	 5
+7 Antoine đi vào phòng ngủ.
+8 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+9 Sumit chuyển đến phòng ngủ.
+10 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 5
+11 Yann đi vào bếp.
+12 Tại sao yann đi vào bếp?	 Khát	 3
+13 Antoine nắm lấy bộ đồ ngủ ở đó.
+14 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+15 Jason là chán.
+16 đâu jason sẽ đi đâu?	 Vườn	 15
+17 Jason trở về khu vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 15
+19 Jason nắm lấy bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 15
+21 Yann mất sữa đó.
+22 Tại sao yann có được sữa?	 Khát	 3
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là đói.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Jason chuyển đến nhà bếp.
+8 Tại sao jason đi vào bếp?	 Đói	 5
+9 Jason nắm lấy quả táo đó.
+10 Tại sao jason lấy quả táo?	 Đói	 5
+11 Antoine trở về phòng ngủ.
+12 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+13 Antoine nhặt đồ ngủ ở đó.
+14 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+15 Sumit chuyển đến nhà bếp.
+16 Tại sao Djuzz đi vào bếp?	 Khát	 3
+17 Sumit mất sữa đó.
+18 Tại sao Djuzz có được sữa?	 Khát	 3
+19 Yann là đói.
+20 sẽ Yann đi đâu?	 Bếp	 19
+21 Yann trở lại nhà bếp.
+22 Tại sao yann đi vào bếp?	 Đói	 19
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Sumit là chán.
+4 đâu sẽ Sumit đi?	 Vườn	 3
+5 Jason đi đến nhà bếp.
+6 Tại sao jason đi vào bếp?	 Khát	 1
+7 Jason mất sữa đó.
+8 Tại sao jason có được sữa?	 Khát	 1
+9 Sumit chuyển đến khu vườn.
+10 Tại sao Djuzz đi đến vườn?	 Chán	 3
+11 Antoine là khát.
+12 sẽ Antoine đi đâu?	 Bếp	 11
+13 Antoine đi vào bếp.
+14 Tại sao antoine đi vào bếp?	 Khát	 11
+15 Sumit có bóng đá ở đó.
+16 Tại sao Djuzz có được bóng đá?	 Chán	 3
+17 Yann là khát.
+18 sẽ Yann đi đâu?	 Bếp	 17
+19 Yann đi vào nhà bếp.
+20 Tại sao yann đi vào bếp?	 Khát	 17
+1 Antoine là chán.
+2 đâu sẽ Antoine đi?	 Vườn	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Jason đi đến khu vườn.
+6 Tại sao Jason đi đến vườn?	 Chán	 3
+7 Yann là đói.
+8 sẽ Yann đi đâu?	 Bếp	 7
+9 Yann đi đến nhà bếp.
+10 Tại sao yann đi vào bếp?	 Đói	 7
+11 Sumit là đói.
+12 sẽ Sumit đi đâu?	 Bếp	 11
+13 Sumit đi đến nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Đói	 11
+15 Yann nắm lấy quả táo đó.
+16 Tại sao yann lấy quả táo?	 Đói	 7
+17 Antoine hành quân tới vườn.
+18 Tại sao antoine đi đến vườn?	 Chán	 1
+19 Jason nhặt bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 3
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Yann là chán.
+6 trường hợp sẽ Yann đi?	 Vườn	 5
+7 Antoine đi đến nhà bếp.
+8 Tại sao antoine đi vào bếp?	 Khát	 3
+9 Yann chuyển đến khu vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 5
+11 Sumit đi vào bếp.
+12 Tại sao Djuzz đi vào bếp?	 Khát	 1
+13 Jason là đói.
+14 đâu jason sẽ đi đâu?	 Bếp	 13
+15 Jason đi vào bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 13
+17 Sumit nhặt sữa đó.
+18 Tại sao Djuzz có được sữa?	 Khát	 1
+19 Yann nhặt bóng đá ở đó.
+20 Tại sao yann nhận được bóng đá?	 Chán	 5
+21 Jason mất quả táo đó.
+22 Tại sao jason lấy quả táo?	 Đói	 13
+1 Sumit là mệt mỏi.
+2 đâu sẽ Sumit đi?	 Phòng ngủ	 1
+3 Jason là khát.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Sumit trở lại phòng ngủ.
+6 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 1
+7 Jason chuyển đến nhà bếp.
+8 Tại sao jason đi vào bếp?	 Khát	 3
+9 Sumit có các bộ đồ ngủ ở đó.
+10 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 1
+11 Antoine là mệt mỏi.
+12 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 11
+13 Antoine đi vào phòng ngủ.
+14 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 11
+15 Yann là chán.
+16 Trong trường hợp sẽ Yann đi?	 Vườn	 15
+17 Yann hành quân tới vườn.
+18 Tại sao yann đi đến vườn?	 Chán	 15
+19 Jason mất sữa đó.
+20 Tại sao jason có được sữa?	 Khát	 3
+21 Yann có bóng đá ở đó.
+22 Tại sao yann nhận được bóng đá?	 Chán	 15
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Jason là khát.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Antoine là đói.
+8 sẽ Antoine đi đâu?	 Bếp	 7
+9 Yann hành quân tới vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 1
+11 Yann có bóng đá ở đó.
+12 Tại sao yann nhận được bóng đá?	 Chán	 1
+13 Antoine trở lại nhà bếp.
+14 Tại sao antoine đi vào bếp?	 Đói	 7
+15 Jason đi vào bếp.
+16 Tại sao jason đi vào bếp?	 Khát	 3
+17 Antoine nhặt quả táo đó.
+18 Tại sao antoine lấy quả táo?	 Đói	 7
+19 Sumit đi đến nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Đói	 5
+21 Jason có sữa đó.
+22 Tại sao jason có được sữa?	 Khát	 3
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là khát.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Jason chuyển đến nhà bếp.
+8 Tại sao jason đi vào bếp?	 Khát	 5
+9 Yann là đói.
+10 sẽ Yann đi đâu?	 Bếp	 9
+11 Yann chuyển đến nhà bếp.
+12 Tại sao yann đi vào bếp?	 Đói	 9
+13 Sumit đi vào nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Khát	 3
+15 Jason nhặt sữa đó.
+16 Tại sao jason có được sữa?	 Khát	 5
+17 Yann nhặt quả táo đó.
+18 Tại sao yann lấy quả táo?	 Đói	 9
+19 Antoine đi vào phòng ngủ.
+20 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+21 Antoine lấy bộ đồ ngủ ở đó.
+22 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Jason là đói.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Jason đi đến nhà bếp.
+6 Tại sao jason đi vào bếp?	 Đói	 3
+7 Sumit là chán.
+8 đâu sẽ Sumit đi?	 Vườn	 7
+9 Sumit đi đến khu vườn.
+10 Tại sao Djuzz đi đến vườn?	 Chán	 7
+11 Jason có quả táo đó.
+12 Tại sao jason lấy quả táo?	 Đói	 3
+13 Antoine trở về phòng ngủ.
+14 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+15 Yann là chán.
+16 Trong trường hợp sẽ Yann đi?	 Vườn	 15
+17 Yann đi đến vườn.
+18 Tại sao yann đi đến vườn?	 Chán	 15
+19 Yann mất bóng đá ở đó.
+20 Tại sao yann nhận được bóng đá?	 Chán	 15
+21 Antoine có các bộ đồ ngủ ở đó.
+22 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Antoine là mệt mỏi.
+6 trường hợp sẽ Antoine đi?	 Phòng ngủ	 5
+7 Yann là mệt mỏi.
+8 đâu sẽ Yann đi?	 Phòng ngủ	 7
+9 Jason chuyển đến khu vườn.
+10 Tại sao Jason đi đến vườn?	 Chán	 3
+11 Sumit đi vào bếp.
+12 Tại sao Djuzz đi vào bếp?	 Khát	 1
+13 Yann đi vào phòng ngủ.
+14 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 7
+15 Yann nắm lấy bộ đồ ngủ ở đó.
+16 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 7
+17 Sumit nắm lấy sữa ở đó.
+18 Tại sao Djuzz có được sữa?	 Khát	 1
+19 Jason nắm lấy bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 3
+21 Antoine đi đến phòng ngủ.
+22 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 5
+1 Sumit là đói.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Yann là khát.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Antoine là khát.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Sumit đi vào nhà bếp.
+8 Tại sao Djuzz đi vào bếp?	 Đói	 1
+9 Jason là khát.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Sumit có quả táo đó.
+12 Tại sao Djuzz có được quả táo?	 Đói	 1
+13 Jason đi đến nhà bếp.
+14 Tại sao jason đi vào bếp?	 Khát	 9
+15 Yann chuyển đến nhà bếp.
+16 Tại sao yann đi vào bếp?	 Khát	 3
+17 Jason có sữa đó.
+18 Tại sao jason có được sữa?	 Khát	 9
+19 Antoine đi vào nhà bếp.
+20 Tại sao antoine đi vào bếp?	 Khát	 5
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Yann là chán.
+4 đâu sẽ Yann đi?	 Vườn	 3
+5 Jason chuyển đến nhà bếp.
+6 Tại sao jason đi vào bếp?	 Khát	 1
+7 Jason nắm lấy sữa ở đó.
+8 Tại sao jason có được sữa?	 Khát	 1
+9 Antoine là mệt mỏi.
+10 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 9
+11 Sumit là chán.
+12 Trong trường hợp sẽ Sumit đi?	 Vườn	 11
+13 Yann đi đến vườn.
+14 Tại sao yann đi đến vườn?	 Chán	 3
+15 Yann nắm lấy bóng đá ở đó.
+16 Tại sao yann nhận được bóng đá?	 Chán	 3
+17 Antoine đi đến phòng ngủ.
+18 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 9
+19 Sumit trở lại khu vườn.
+20 Tại sao Djuzz đi đến vườn?	 Chán	 11
+21 Antoine nhặt đồ ngủ ở đó.
+22 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 9
+1 Antoine là đói.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Antoine đi vào nhà bếp.
+4 Tại sao antoine đi vào bếp?	 Đói	 1
+5 Antoine nhặt quả táo đó.
+6 Tại sao antoine lấy quả táo?	 Đói	 1
+7 Jason là mệt mỏi.
+8 đâu jason sẽ đi đâu?	 Phòng ngủ	 7
+9 Yann là khát.
+10 sẽ Yann đi đâu?	 Bếp	 9
+11 Yann đi vào nhà bếp.
+12 Tại sao yann đi vào bếp?	 Khát	 9
+13 Sumit là chán.
+14 Trong trường hợp sẽ Sumit đi?	 Vườn	 13
+15 Sumit đã đi đến vườn.
+16 Tại sao Djuzz đi đến vườn?	 Chán	 13
+17 Yann nắm lấy sữa ở đó.
+18 Tại sao yann có được sữa?	 Khát	 9
+19 Sumit mất bóng đá ở đó.
+20 Tại sao Djuzz có được bóng đá?	 Chán	 13
+21 Jason đi vào phòng ngủ.
+22 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 7
+23 Jason lấy bộ đồ ngủ ở đó.
+24 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 7
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Jason là chán.
+6 đâu jason sẽ đi đâu?	 Vườn	 5
+7 Sumit là đói.
+8 sẽ Sumit đi đâu?	 Bếp	 7
+9 Yann đi vào bếp.
+10 Tại sao yann đi vào bếp?	 Khát	 1
+11 Jason chuyển đến khu vườn.
+12 Tại sao Jason đi đến vườn?	 Chán	 5
+13 Yann nắm lấy sữa ở đó.
+14 Tại sao yann có được sữa?	 Khát	 1
+15 Antoine hành quân tới vườn.
+16 Tại sao antoine đi đến vườn?	 Chán	 3
+17 Antoine nắm lấy bóng đá ở đó.
+18 Tại sao antoine nhận được bóng đá?	 Chán	 3
+19 Sumit chuyển đến nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Đói	 7
+21 Sumit nhặt quả táo đó.
+22 Tại sao Djuzz có được quả táo?	 Đói	 7
+1 Jason là đói.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Antoine đi đến phòng ngủ.
+6 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Antoine lấy bộ đồ ngủ ở đó.
+8 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+9 Yann là mệt mỏi.
+10 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 9
+11 Jason đi vào nhà bếp.
+12 Tại sao jason đi vào bếp?	 Đói	 1
+13 Jason có quả táo đó.
+14 Tại sao jason lấy quả táo?	 Đói	 1
+15 Yann đi đến phòng ngủ.
+16 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 9
+17 Sumit là chán.
+18 Trong trường hợp sẽ Sumit đi?	 Vườn	 17
+19 Sumit hành quân tới vườn.
+20 Tại sao Djuzz đi đến vườn?	 Chán	 17
+21 Sumit mất bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 17
+1 Yann là đói.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Antoine đi vào phòng ngủ.
+6 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Jason là đói.
+8 đâu jason sẽ đi đâu?	 Bếp	 7
+9 Antoine lấy bộ đồ ngủ ở đó.
+10 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+11 Jason trở về nhà bếp.
+12 Tại sao jason đi vào bếp?	 Đói	 7
+13 Yann trở lại nhà bếp.
+14 Tại sao yann đi vào bếp?	 Đói	 1
+15 Sumit là chán.
+16 Trong trường hợp sẽ Sumit đi?	 Vườn	 15
+17 Sumit đi đến khu vườn.
+18 Tại sao Djuzz đi đến vườn?	 Chán	 15
+19 Yann nhặt quả táo đó.
+20 Tại sao yann lấy quả táo?	 Đói	 1
+21 Sumit nắm lấy bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 15
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Yann là mệt mỏi.
+4 đâu sẽ Yann đi?	 Phòng ngủ	 3
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Sumit đi vào nhà bếp.
+8 Tại sao Djuzz đi vào bếp?	 Đói	 5
+9 Yann đi đến phòng ngủ.
+10 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 3
+11 Antoine là khát.
+12 sẽ Antoine đi đâu?	 Bếp	 11
+13 Sumit nhặt quả táo đó.
+14 Tại sao Djuzz có được quả táo?	 Đói	 5
+15 Yann lấy bộ đồ ngủ ở đó.
+16 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 3
+17 Jason trở về phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+19 Antoine đi đến nhà bếp.
+20 Tại sao antoine đi vào bếp?	 Khát	 11
+21 Antoine có sữa đó.
+22 Tại sao antoine có được sữa?	 Khát	 11
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là mệt mỏi.
+6 đâu jason sẽ đi đâu?	 Phòng ngủ	 5
+7 Yann đi vào phòng ngủ.
+8 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+9 Sumit đi vào nhà bếp.
+10 Tại sao Djuzz đi vào bếp?	 Khát	 3
+11 Yann lấy bộ đồ ngủ ở đó.
+12 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 1
+13 Antoine là khát.
+14 sẽ Antoine đi đâu?	 Bếp	 13
+15 Antoine đi vào nhà bếp.
+16 Tại sao antoine đi vào bếp?	 Khát	 13
+17 Antoine có sữa đó.
+18 Tại sao antoine có được sữa?	 Khát	 13
+19 Jason đi vào phòng ngủ.
+20 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 5
+1 Yann là đói.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann đi đến nhà bếp.
+4 Tại sao yann đi vào bếp?	 Đói	 1
+5 Jason là chán.
+6 đâu jason sẽ đi đâu?	 Vườn	 5
+7 Jason trở về khu vườn.
+8 Tại sao Jason đi đến vườn?	 Chán	 5
+9 Sumit là chán.
+10 Trong trường hợp sẽ Sumit đi?	 Vườn	 9
+11 Antoine là mệt mỏi.
+12 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 11
+13 Jason nhặt bóng đá ở đó.
+14 Tại sao Jason nhận được bóng đá?	 Chán	 5
+15 Antoine trở về phòng ngủ.
+16 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 11
+17 Antoine có các bộ đồ ngủ ở đó.
+18 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 11
+19 Sumit hành quân tới vườn.
+20 Tại sao Djuzz đi đến vườn?	 Chán	 9
+21 Yann nắm lấy quả táo đó.
+22 Tại sao yann lấy quả táo?	 Đói	 1
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Jason là khát.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Yann là đói.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Sumit đi vào nhà bếp.
+8 Tại sao Djuzz đi vào bếp?	 Khát	 1
+9 Yann đi vào bếp.
+10 Tại sao yann đi vào bếp?	 Đói	 5
+11 Antoine là khát.
+12 sẽ Antoine đi đâu?	 Bếp	 11
+13 Jason đi vào bếp.
+14 Tại sao jason đi vào bếp?	 Khát	 3
+15 Sumit nhặt sữa đó.
+16 Tại sao Djuzz có được sữa?	 Khát	 1
+17 Antoine đi vào bếp.
+18 Tại sao antoine đi vào bếp?	 Khát	 11
+19 Yann có quả táo đó.
+20 Tại sao yann lấy quả táo?	 Đói	 5
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Antoine hành quân tới vườn.
+6 Tại sao antoine đi đến vườn?	 Chán	 3
+7 Antoine nhặt bóng đá ở đó.
+8 Tại sao antoine nhận được bóng đá?	 Chán	 3
+9 Jason là khát.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Sumit là chán.
+12 Trong trường hợp sẽ Sumit đi?	 Vườn	 11
+13 Sumit đã đi đến vườn.
+14 Tại sao Djuzz đi đến vườn?	 Chán	 11
+15 Jason đi vào bếp.
+16 Tại sao jason đi vào bếp?	 Khát	 9
+17 Yann đi đến nhà bếp.
+18 Tại sao yann đi vào bếp?	 Khát	 1
+19 Jason có sữa đó.
+20 Tại sao jason có được sữa?	 Khát	 9
+1 Yann là đói.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann đi đến nhà bếp.
+4 Tại sao yann đi vào bếp?	 Đói	 1
+5 Sumit là mệt mỏi.
+6 trường hợp sẽ Sumit đi?	 Phòng ngủ	 5
+7 Sumit đi vào phòng ngủ.
+8 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 5
+9 Sumit có các bộ đồ ngủ ở đó.
+10 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 5
+11 Yann có quả táo đó.
+12 Tại sao yann lấy quả táo?	 Đói	 1
+13 Jason là mệt mỏi.
+14 đâu jason sẽ đi đâu?	 Phòng ngủ	 13
+15 Antoine là chán.
+16 Trong trường hợp sẽ Antoine đi?	 Vườn	 15
+17 Jason đã đi vào phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 13
+19 Antoine chuyển đến khu vườn.
+20 Tại sao antoine đi đến vườn?	 Chán	 15
+21 Antoine nhặt bóng đá ở đó.
+22 Tại sao antoine nhận được bóng đá?	 Chán	 15
+1 Jason là chán.
+2 đâu jason sẽ đi đâu?	 Vườn	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Yann là mệt mỏi.
+6 trường hợp sẽ Yann đi?	 Phòng ngủ	 5
+7 Antoine đi đến khu vườn.
+8 Tại sao antoine đi đến vườn?	 Chán	 3
+9 Yann đi vào phòng ngủ.
+10 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 5
+11 Yann lấy bộ đồ ngủ ở đó.
+12 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 5
+13 Jason đã đi đến vườn.
+14 Tại sao Jason đi đến vườn?	 Chán	 1
+15 Jason mất bóng đá ở đó.
+16 Tại sao Jason nhận được bóng đá?	 Chán	 1
+17 Sumit là khát.
+18 sẽ Sumit đi đâu?	 Bếp	 17
+19 Sumit đi vào nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Khát	 17
+21 Sumit có sữa đó.
+22 Tại sao Djuzz có được sữa?	 Khát	 17
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Antoine đi vào nhà bếp.
+6 Tại sao antoine đi vào bếp?	 Khát	 3
+7 Yann là đói.
+8 sẽ Yann đi đâu?	 Bếp	 7
+9 Antoine nhặt sữa đó.
+10 Tại sao antoine có được sữa?	 Khát	 3
+11 Jason là chán.
+12 đâu jason sẽ đi đâu?	 Vườn	 11
+13 Yann đi đến nhà bếp.
+14 Tại sao yann đi vào bếp?	 Đói	 7
+15 Yann có quả táo đó.
+16 Tại sao yann lấy quả táo?	 Đói	 7
+17 Jason đi đến khu vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 11
+19 Jason mất bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 11
+21 Sumit trở lại khu vườn.
+22 Tại sao Djuzz đi đến vườn?	 Chán	 1
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Yann là đói.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Sumit đi vào nhà bếp.
+8 Tại sao Djuzz đi vào bếp?	 Đói	 5
+9 Antoine trở về phòng ngủ.
+10 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+11 Sumit nắm lấy quả táo đó.
+12 Tại sao Djuzz có được quả táo?	 Đói	 5
+13 Jason là khát.
+14 đâu jason sẽ đi đâu?	 Bếp	 13
+15 Antoine lấy bộ đồ ngủ ở đó.
+16 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+17 Jason chuyển đến nhà bếp.
+18 Tại sao jason đi vào bếp?	 Khát	 13
+19 Yann đi đến nhà bếp.
+20 Tại sao yann đi vào bếp?	 Đói	 3
+21 Jason mất sữa đó.
+22 Tại sao jason có được sữa?	 Khát	 13
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Sumit chuyển đến nhà bếp.
+4 Tại sao Djuzz đi vào bếp?	 Khát	 1
+5 Yann là mệt mỏi.
+6 trường hợp sẽ Yann đi?	 Phòng ngủ	 5
+7 Sumit nhặt sữa đó.
+8 Tại sao Djuzz có được sữa?	 Khát	 1
+9 Antoine là đói.
+10 sẽ Antoine đi đâu?	 Bếp	 9
+11 Jason là đói.
+12 đâu jason sẽ đi đâu?	 Bếp	 11
+13 Antoine đi đến nhà bếp.
+14 Tại sao antoine đi vào bếp?	 Đói	 9
+15 Yann đi vào phòng ngủ.
+16 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 5
+17 Antoine nắm lấy quả táo đó.
+18 Tại sao antoine lấy quả táo?	 Đói	 9
+19 Jason đi vào nhà bếp.
+20 Tại sao jason đi vào bếp?	 Đói	 11
+21 Yann nhặt đồ ngủ ở đó.
+22 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 5
+1 Antoine là chán.
+2 đâu sẽ Antoine đi?	 Vườn	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Yann là đói.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Antoine chuyển đến khu vườn.
+8 Tại sao antoine đi đến vườn?	 Chán	 1
+9 Jason đi đến khu vườn.
+10 Tại sao Jason đi đến vườn?	 Chán	 3
+11 Antoine nhặt bóng đá ở đó.
+12 Tại sao antoine nhận được bóng đá?	 Chán	 1
+13 Yann đi vào nhà bếp.
+14 Tại sao yann đi vào bếp?	 Đói	 5
+15 Yann có quả táo đó.
+16 Tại sao yann lấy quả táo?	 Đói	 5
+17 Sumit là đói.
+18 sẽ Sumit đi đâu?	 Bếp	 17
+19 Sumit đi vào bếp.
+20 Tại sao Djuzz đi vào bếp?	 Đói	 17
+1 Antoine là đói.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Sumit là mệt mỏi.
+4 đâu sẽ Sumit đi?	 Phòng ngủ	 3
+5 Sumit chuyển đến phòng ngủ.
+6 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Sumit lấy bộ đồ ngủ ở đó.
+8 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 3
+9 Jason là chán.
+10 đâu jason sẽ đi đâu?	 Vườn	 9
+11 Antoine trở lại nhà bếp.
+12 Tại sao antoine đi vào bếp?	 Đói	 1
+13 Yann là đói.
+14 sẽ Yann đi đâu?	 Bếp	 13
+15 Jason đã đi đến vườn.
+16 Tại sao Jason đi đến vườn?	 Chán	 9
+17 Jason mất bóng đá ở đó.
+18 Tại sao Jason nhận được bóng đá?	 Chán	 9
+19 Yann đi vào nhà bếp.
+20 Tại sao yann đi vào bếp?	 Đói	 13
+21 Yann nắm lấy quả táo đó.
+22 Tại sao yann lấy quả táo?	 Đói	 13
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Yann trở lại nhà bếp.
+6 Tại sao yann đi vào bếp?	 Khát	 1
+7 Yann nắm lấy sữa ở đó.
+8 Tại sao yann có được sữa?	 Khát	 1
+9 Jason là đói.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Jason đi đến nhà bếp.
+12 Tại sao jason đi vào bếp?	 Đói	 9
+13 Antoine trở về khu vườn.
+14 Tại sao antoine đi đến vườn?	 Chán	 3
+15 Jason nắm lấy quả táo đó.
+16 Tại sao jason lấy quả táo?	 Đói	 9
+17 Sumit là chán.
+18 Trong trường hợp sẽ Sumit đi?	 Vườn	 17
+19 Sumit đi đến khu vườn.
+20 Tại sao Djuzz đi đến vườn?	 Chán	 17
+21 Sumit nắm lấy bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 17
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Sumit là mệt mỏi.
+4 đâu sẽ Sumit đi?	 Phòng ngủ	 3
+5 Antoine là khát.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Jason là mệt mỏi.
+8 đâu jason sẽ đi đâu?	 Phòng ngủ	 7
+9 Sumit đi đến phòng ngủ.
+10 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 3
+11 Antoine đi vào bếp.
+12 Tại sao antoine đi vào bếp?	 Khát	 5
+13 Yann đi đến khu vườn.
+14 Tại sao yann đi đến vườn?	 Chán	 1
+15 Sumit nắm lấy bộ đồ ngủ ở đó.
+16 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 3
+17 Yann nắm lấy bóng đá ở đó.
+18 Tại sao yann nhận được bóng đá?	 Chán	 1
+19 Jason đi đến phòng ngủ.
+20 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 7
+21 Antoine lấy sữa ở đó.
+22 Tại sao antoine có được sữa?	 Khát	 5
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Yann là đói.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Jason đi đến phòng ngủ.
+8 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+9 Yann đi vào bếp.
+10 Tại sao yann đi vào bếp?	 Đói	 5
+11 Yann nắm lấy quả táo đó.
+12 Tại sao yann lấy quả táo?	 Đói	 5
+13 Jason lấy bộ đồ ngủ ở đó.
+14 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+15 Sumit là chán.
+16 Trong trường hợp sẽ Sumit đi?	 Vườn	 15
+17 Sumit trở lại khu vườn.
+18 Tại sao Djuzz đi đến vườn?	 Chán	 15
+19 Antoine chuyển đến nhà bếp.
+20 Tại sao antoine đi vào bếp?	 Đói	 3
+21 Sumit mất bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 15
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann đi đến nhà bếp.
+4 Tại sao yann đi vào bếp?	 Khát	 1
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann nhặt sữa đó.
+8 Tại sao yann có được sữa?	 Khát	 1
+9 Antoine là mệt mỏi.
+10 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 9
+11 Jason là mệt mỏi.
+12 đâu jason sẽ đi đâu?	 Phòng ngủ	 11
+13 Sumit trở lại nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Khát	 5
+15 Antoine trở về phòng ngủ.
+16 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 9
+17 Antoine lấy bộ đồ ngủ ở đó.
+18 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 9
+19 Jason đi vào phòng ngủ.
+20 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 11
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Yann là chán.
+6 trường hợp sẽ Yann đi?	 Vườn	 5
+7 Yann đi đến khu vườn.
+8 Tại sao yann đi đến vườn?	 Chán	 5
+9 Antoine là khát.
+10 sẽ Antoine đi đâu?	 Bếp	 9
+11 Yann có bóng đá ở đó.
+12 Tại sao yann nhận được bóng đá?	 Chán	 5
+13 Sumit đi vào nhà bếp.
+14 Tại sao Djuzz đi vào bếp?	 Khát	 3
+15 Antoine trở lại nhà bếp.
+16 Tại sao antoine đi vào bếp?	 Khát	 9
+17 Jason chuyển đến nhà bếp.
+18 Tại sao jason đi vào bếp?	 Khát	 1
+19 Jason có sữa đó.
+20 Tại sao jason có được sữa?	 Khát	 1
+1 Antoine là khát.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Yann là mệt mỏi.
+4 đâu sẽ Yann đi?	 Phòng ngủ	 3
+5 Jason là mệt mỏi.
+6 đâu jason sẽ đi đâu?	 Phòng ngủ	 5
+7 Jason đã đi vào phòng ngủ.
+8 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 5
+9 Antoine đi vào bếp.
+10 Tại sao antoine đi vào bếp?	 Khát	 1
+11 Yann đi đến phòng ngủ.
+12 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 3
+13 Jason nhặt đồ ngủ ở đó.
+14 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 5
+15 Sumit là mệt mỏi.
+16 Trong trường hợp sẽ Sumit đi?	 Phòng ngủ	 15
+17 Sumit đi vào phòng ngủ.
+18 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 15
+19 Antoine lấy sữa ở đó.
+20 Tại sao antoine có được sữa?	 Khát	 1
+1 Antoine là khát.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Antoine trở lại nhà bếp.
+4 Tại sao antoine đi vào bếp?	 Khát	 1
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Sumit đi vào bếp.
+8 Tại sao Djuzz đi vào bếp?	 Khát	 5
+9 Sumit có sữa đó.
+10 Tại sao Djuzz có được sữa?	 Khát	 5
+11 Yann là đói.
+12 sẽ Yann đi đâu?	 Bếp	 11
+13 Jason là đói.
+14 đâu jason sẽ đi đâu?	 Bếp	 13
+15 Jason đi vào bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 13
+17 Yann đi vào bếp.
+18 Tại sao yann đi vào bếp?	 Đói	 11
+19 Jason nắm lấy quả táo đó.
+20 Tại sao jason lấy quả táo?	 Đói	 13
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là khát.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Sumit đi đến nhà bếp.
+8 Tại sao Djuzz đi vào bếp?	 Khát	 3
+9 Jason đi vào bếp.
+10 Tại sao jason đi vào bếp?	 Khát	 5
+11 Yann chuyển đến nhà bếp.
+12 Tại sao yann đi vào bếp?	 Khát	 1
+13 Sumit mất sữa đó.
+14 Tại sao Djuzz có được sữa?	 Khát	 3
+15 Antoine là đói.
+16 sẽ Antoine đi đâu?	 Bếp	 15
+17 Antoine đi vào bếp.
+18 Tại sao antoine đi vào bếp?	 Đói	 15
+19 Antoine nắm lấy quả táo đó.
+20 Tại sao antoine lấy quả táo?	 Đói	 15
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Yann chuyển đến nhà bếp.
+4 Tại sao yann đi vào bếp?	 Khát	 1
+5 Antoine là chán.
+6 trường hợp sẽ Antoine đi?	 Vườn	 5
+7 Sumit là đói.
+8 sẽ Sumit đi đâu?	 Bếp	 7
+9 Sumit trở lại nhà bếp.
+10 Tại sao Djuzz đi vào bếp?	 Đói	 7
+11 Antoine trở về khu vườn.
+12 Tại sao antoine đi đến vườn?	 Chán	 5
+13 Yann mất sữa đó.
+14 Tại sao yann có được sữa?	 Khát	 1
+15 Antoine nhặt bóng đá ở đó.
+16 Tại sao antoine nhận được bóng đá?	 Chán	 5
+17 Sumit có quả táo đó.
+18 Tại sao Djuzz có được quả táo?	 Đói	 7
+19 Jason là mệt mỏi.
+20 đâu jason sẽ đi đâu?	 Phòng ngủ	 19
+21 Jason đã đi vào phòng ngủ.
+22 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 19
+23 Jason nhặt đồ ngủ ở đó.
+24 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 19
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Sumit là chán.
+6 trường hợp sẽ Sumit đi?	 Vườn	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Yann hành quân tới vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 7
+11 Jason đã đi đến vườn.
+12 Tại sao Jason đi đến vườn?	 Chán	 3
+13 Jason nhặt bóng đá ở đó.
+14 Tại sao Jason nhận được bóng đá?	 Chán	 3
+15 Sumit trở lại khu vườn.
+16 Tại sao Djuzz đi đến vườn?	 Chán	 5
+17 Antoine đi đến phòng ngủ.
+18 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+19 Antoine lấy bộ đồ ngủ ở đó.
+20 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+1 Sumit là đói.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Sumit đi đến nhà bếp.
+4 Tại sao Djuzz đi vào bếp?	 Đói	 1
+5 Antoine là khát.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Yann là mệt mỏi.
+8 đâu sẽ Yann đi?	 Phòng ngủ	 7
+9 Jason là đói.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Antoine đi vào nhà bếp.
+12 Tại sao antoine đi vào bếp?	 Khát	 5
+13 Yann chuyển đến phòng ngủ.
+14 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 7
+15 Yann lấy bộ đồ ngủ ở đó.
+16 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 7
+17 Sumit có quả táo đó.
+18 Tại sao Djuzz có được quả táo?	 Đói	 1
+19 Antoine nắm lấy sữa ở đó.
+20 Tại sao antoine có được sữa?	 Khát	 5
+21 Jason trở về nhà bếp.
+22 Tại sao jason đi vào bếp?	 Đói	 9
+1 Jason là đói.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Yann là chán.
+4 đâu sẽ Yann đi?	 Vườn	 3
+5 Sumit là chán.
+6 trường hợp sẽ Sumit đi?	 Vườn	 5
+7 Antoine là đói.
+8 sẽ Antoine đi đâu?	 Bếp	 7
+9 Antoine trở lại nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 7
+11 Antoine nắm lấy quả táo đó.
+12 Tại sao antoine lấy quả táo?	 Đói	 7
+13 Yann đi đến vườn.
+14 Tại sao yann đi đến vườn?	 Chán	 3
+15 Jason đi đến nhà bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 1
+17 Sumit đi đến khu vườn.
+18 Tại sao Djuzz đi đến vườn?	 Chán	 5
+19 Sumit nắm lấy bóng đá ở đó.
+20 Tại sao Djuzz có được bóng đá?	 Chán	 5
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Jason là khát.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Sumit đi đến khu vườn.
+8 Tại sao Djuzz đi đến vườn?	 Chán	 1
+9 Antoine trở lại nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Khát	 3
+11 Jason chuyển đến nhà bếp.
+12 Tại sao jason đi vào bếp?	 Khát	 5
+13 Jason nắm lấy sữa ở đó.
+14 Tại sao jason có được sữa?	 Khát	 5
+15 Sumit nhặt bóng đá ở đó.
+16 Tại sao Djuzz có được bóng đá?	 Chán	 1
+17 Yann là chán.
+18 Trong trường hợp sẽ Yann đi?	 Vườn	 17
+19 Yann chuyển đến khu vườn.
+20 Tại sao yann đi đến vườn?	 Chán	 17
+1 Antoine là đói.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Antoine đi vào nhà bếp.
+4 Tại sao antoine đi vào bếp?	 Đói	 1
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Yann chuyển đến khu vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 7
+11 Antoine nắm lấy quả táo đó.
+12 Tại sao antoine lấy quả táo?	 Đói	 1
+13 Jason là chán.
+14 đâu jason sẽ đi đâu?	 Vườn	 13
+15 Yann nhặt bóng đá ở đó.
+16 Tại sao yann nhận được bóng đá?	 Chán	 7
+17 Jason đã đi đến vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 13
+19 Sumit chuyển đến nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Khát	 5
+21 Sumit nhặt sữa đó.
+22 Tại sao Djuzz có được sữa?	 Khát	 5
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Yann trở lại khu vườn.
+4 Tại sao yann đi đến vườn?	 Chán	 1
+5 Antoine là đói.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Sumit là chán.
+8 đâu sẽ Sumit đi?	 Vườn	 7
+9 Sumit đã đi đến vườn.
+10 Tại sao Djuzz đi đến vườn?	 Chán	 7
+11 Sumit mất bóng đá ở đó.
+12 Tại sao Djuzz có được bóng đá?	 Chán	 7
+13 Jason là mệt mỏi.
+14 đâu jason sẽ đi đâu?	 Phòng ngủ	 13
+15 Jason đi đến phòng ngủ.
+16 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 13
+17 Antoine đi vào nhà bếp.
+18 Tại sao antoine đi vào bếp?	 Đói	 5
+19 Jason nhặt đồ ngủ ở đó.
+20 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 13
+21 Antoine mất quả táo đó.
+22 Tại sao antoine lấy quả táo?	 Đói	 5
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Yann là khát.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Antoine là đói.
+6 sẽ Antoine đi đâu?	 Bếp	 5
+7 Sumit đi vào bếp.
+8 Tại sao Djuzz đi vào bếp?	 Khát	 1
+9 Antoine đi đến nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 5
+11 Yann đi đến nhà bếp.
+12 Tại sao yann đi vào bếp?	 Khát	 3
+13 Sumit có sữa đó.
+14 Tại sao Djuzz có được sữa?	 Khát	 1
+15 Jason là mệt mỏi.
+16 đâu jason sẽ đi đâu?	 Phòng ngủ	 15
+17 Jason đi đến phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 15
+19 Jason lấy bộ đồ ngủ ở đó.
+20 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 15
+21 Antoine nhặt quả táo đó.
+22 Tại sao antoine lấy quả táo?	 Đói	 5
+1 Antoine là chán.
+2 đâu sẽ Antoine đi?	 Vườn	 1
+3 Sumit là khát.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Sumit đi vào nhà bếp.
+6 Tại sao Djuzz đi vào bếp?	 Khát	 3
+7 Sumit nắm lấy sữa ở đó.
+8 Tại sao Djuzz có được sữa?	 Khát	 3
+9 Jason là khát.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Antoine trở về khu vườn.
+12 Tại sao antoine đi đến vườn?	 Chán	 1
+13 Antoine mất bóng đá ở đó.
+14 Tại sao antoine nhận được bóng đá?	 Chán	 1
+15 Yann là mệt mỏi.
+16 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 15
+17 Yann đi vào phòng ngủ.
+18 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 15
+19 Yann lấy bộ đồ ngủ ở đó.
+20 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 15
+21 Jason đi vào bếp.
+22 Tại sao jason đi vào bếp?	 Khát	 9
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Sumit là chán.
+4 đâu sẽ Sumit đi?	 Vườn	 3
+5 Yann đi vào phòng ngủ.
+6 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+7 Jason là khát.
+8 đâu jason sẽ đi đâu?	 Bếp	 7
+9 Jason đi vào nhà bếp.
+10 Tại sao jason đi vào bếp?	 Khát	 7
+11 Yann nhặt đồ ngủ ở đó.
+12 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 1
+13 Jason nhặt sữa đó.
+14 Tại sao jason có được sữa?	 Khát	 7
+15 Sumit chuyển đến khu vườn.
+16 Tại sao Djuzz đi đến vườn?	 Chán	 3
+17 Antoine là khát.
+18 sẽ Antoine đi đâu?	 Bếp	 17
+19 Antoine trở lại nhà bếp.
+20 Tại sao antoine đi vào bếp?	 Khát	 17
+21 Sumit nhặt bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 3
+1 Sumit là đói.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Sumit trở lại nhà bếp.
+6 Tại sao Djuzz đi vào bếp?	 Đói	 1
+7 Antoine chuyển đến nhà bếp.
+8 Tại sao antoine đi vào bếp?	 Khát	 3
+9 Antoine nhặt sữa đó.
+10 Tại sao antoine có được sữa?	 Khát	 3
+11 Sumit nhặt quả táo đó.
+12 Tại sao Djuzz có được quả táo?	 Đói	 1
+13 Yann là chán.
+14 Trong trường hợp sẽ Yann đi?	 Vườn	 13
+15 Yann chuyển đến khu vườn.
+16 Tại sao yann đi đến vườn?	 Chán	 13
+17 Yann có bóng đá ở đó.
+18 Tại sao yann nhận được bóng đá?	 Chán	 13
+19 Jason là mệt mỏi.
+20 đâu jason sẽ đi đâu?	 Phòng ngủ	 19
+21 Jason đi đến phòng ngủ.
+22 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 19
+23 Jason nắm lấy bộ đồ ngủ ở đó.
+24 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 19
+1 Antoine là đói.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Yann là đói.
+4 sẽ Yann đi đâu?	 Bếp	 3
+5 Antoine trở lại nhà bếp.
+6 Tại sao antoine đi vào bếp?	 Đói	 1
+7 Antoine mất quả táo đó.
+8 Tại sao antoine lấy quả táo?	 Đói	 1
+9 Sumit là đói.
+10 sẽ Sumit đi đâu?	 Bếp	 9
+11 Sumit đi vào nhà bếp.
+12 Tại sao Djuzz đi vào bếp?	 Đói	 9
+13 Jason là mệt mỏi.
+14 đâu jason sẽ đi đâu?	 Phòng ngủ	 13
+15 Yann đi đến nhà bếp.
+16 Tại sao yann đi vào bếp?	 Đói	 3
+17 Jason đi vào phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 13
+19 Jason lấy bộ đồ ngủ ở đó.
+20 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 13
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Sumit đã đi đến vườn.
+4 Tại sao Djuzz đi đến vườn?	 Chán	 1
+5 Antoine là mệt mỏi.
+6 trường hợp sẽ Antoine đi?	 Phòng ngủ	 5
+7 Sumit nhặt bóng đá ở đó.
+8 Tại sao Djuzz có được bóng đá?	 Chán	 1
+9 Yann là mệt mỏi.
+10 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 9
+11 Antoine chuyển đến phòng ngủ.
+12 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 5
+13 Yann trở lại phòng ngủ.
+14 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 9
+15 Yann lấy bộ đồ ngủ ở đó.
+16 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 9
+17 Jason là chán.
+18 đâu jason sẽ đi đâu?	 Vườn	 17
+19 Jason đi đến khu vườn.
+20 Tại sao Jason đi đến vườn?	 Chán	 17
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Jason là đói.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Yann là chán.
+6 trường hợp sẽ Yann đi?	 Vườn	 5
+7 Antoine là chán.
+8 đâu sẽ Antoine đi?	 Vườn	 7
+9 Yann hành quân tới vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 5
+11 Yann nắm lấy bóng đá ở đó.
+12 Tại sao yann nhận được bóng đá?	 Chán	 5
+13 Sumit hành quân tới vườn.
+14 Tại sao Djuzz đi đến vườn?	 Chán	 1
+15 Jason đi đến nhà bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 3
+17 Jason nắm lấy quả táo đó.
+18 Tại sao jason lấy quả táo?	 Đói	 3
+19 Antoine chuyển đến khu vườn.
+20 Tại sao antoine đi đến vườn?	 Chán	 7
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Yann đi vào phòng ngủ.
+4 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Sumit là mệt mỏi.
+6 trường hợp sẽ Sumit đi?	 Phòng ngủ	 5
+7 Sumit trở lại phòng ngủ.
+8 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 5
+9 Antoine là chán.
+10 Trong trường hợp sẽ Antoine đi?	 Vườn	 9
+11 Sumit nhặt đồ ngủ ở đó.
+12 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 5
+13 Jason là mệt mỏi.
+14 đâu jason sẽ đi đâu?	 Phòng ngủ	 13
+15 Jason đi vào phòng ngủ.
+16 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 13
+17 Antoine đi đến khu vườn.
+18 Tại sao antoine đi đến vườn?	 Chán	 9
+19 Antoine có bóng đá ở đó.
+20 Tại sao antoine nhận được bóng đá?	 Chán	 9
+1 Jason là chán.
+2 đâu jason sẽ đi đâu?	 Vườn	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Yann là khát.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Yann đi vào nhà bếp.
+8 Tại sao yann đi vào bếp?	 Khát	 5
+9 Yann nắm lấy sữa ở đó.
+10 Tại sao yann có được sữa?	 Khát	 5
+11 Antoine chuyển đến phòng ngủ.
+12 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+13 Antoine lấy bộ đồ ngủ ở đó.
+14 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+15 Sumit là đói.
+16 sẽ Sumit đi đâu?	 Bếp	 15
+17 Jason chuyển đến khu vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 1
+19 Jason nhặt bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 1
+21 Sumit đi vào nhà bếp.
+22 Tại sao Djuzz đi vào bếp?	 Đói	 15
+23 Sumit mất quả táo đó.
+24 Tại sao Djuzz có được quả táo?	 Đói	 15
+1 Jason là đói.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Yann là chán.
+6 trường hợp sẽ Yann đi?	 Vườn	 5
+7 Sumit là mệt mỏi.
+8 đâu sẽ Sumit đi?	 Phòng ngủ	 7
+9 Yann đi đến khu vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 5
+11 Antoine trở lại nhà bếp.
+12 Tại sao antoine đi vào bếp?	 Đói	 3
+13 Jason trở về nhà bếp.
+14 Tại sao jason đi vào bếp?	 Đói	 1
+15 Antoine mất quả táo đó.
+16 Tại sao antoine lấy quả táo?	 Đói	 3
+17 Yann nhặt bóng đá ở đó.
+18 Tại sao yann nhận được bóng đá?	 Chán	 5
+19 Sumit trở lại phòng ngủ.
+20 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 7
+21 Sumit nắm lấy bộ đồ ngủ ở đó.
+22 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 7
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Jason chuyển đến phòng ngủ.
+4 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Antoine là đói.
+8 sẽ Antoine đi đâu?	 Bếp	 7
+9 Antoine đi đến nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 7
+11 Sumit đi đến nhà bếp.
+12 Tại sao Djuzz đi vào bếp?	 Khát	 5
+13 Jason nắm lấy bộ đồ ngủ ở đó.
+14 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+15 Antoine có quả táo đó.
+16 Tại sao antoine lấy quả táo?	 Đói	 7
+17 Yann là khát.
+18 sẽ Yann đi đâu?	 Bếp	 17
+19 Sumit nhặt sữa đó.
+20 Tại sao Djuzz có được sữa?	 Khát	 5
+21 Yann đi đến nhà bếp.
+22 Tại sao yann đi vào bếp?	 Khát	 17
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Antoine trở về phòng ngủ.
+4 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Sumit là đói.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Sumit đi đến nhà bếp.
+10 Tại sao Djuzz đi vào bếp?	 Đói	 5
+11 Sumit nhặt quả táo đó.
+12 Tại sao Djuzz có được quả táo?	 Đói	 5
+13 Antoine nhặt đồ ngủ ở đó.
+14 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+15 Jason là đói.
+16 đâu jason sẽ đi đâu?	 Bếp	 15
+17 Jason đi đến nhà bếp.
+18 Tại sao jason đi vào bếp?	 Đói	 15
+19 Yann chuyển đến khu vườn.
+20 Tại sao yann đi đến vườn?	 Chán	 7
+21 Yann nhặt bóng đá ở đó.
+22 Tại sao yann nhận được bóng đá?	 Chán	 7
+1 Jason là chán.
+2 đâu jason sẽ đi đâu?	 Vườn	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Antoine chuyển đến nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 3
+11 Antoine có quả táo đó.
+12 Tại sao antoine lấy quả táo?	 Đói	 3
+13 Yann trở lại khu vườn.
+14 Tại sao yann đi đến vườn?	 Chán	 7
+15 Yann nắm lấy bóng đá ở đó.
+16 Tại sao yann nhận được bóng đá?	 Chán	 7
+17 Jason chuyển đến khu vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 1
+19 Sumit trở lại nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Khát	 5
+21 Sumit có sữa đó.
+22 Tại sao Djuzz có được sữa?	 Khát	 5
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Antoine trở về phòng ngủ.
+6 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Jason là đói.
+8 đâu jason sẽ đi đâu?	 Bếp	 7
+9 Jason trở về nhà bếp.
+10 Tại sao jason đi vào bếp?	 Đói	 7
+11 Antoine nắm lấy bộ đồ ngủ ở đó.
+12 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+13 Sumit là mệt mỏi.
+14 Trong trường hợp sẽ Sumit đi?	 Phòng ngủ	 13
+15 Yann đi đến khu vườn.
+16 Tại sao yann đi đến vườn?	 Chán	 1
+17 Jason nắm lấy quả táo đó.
+18 Tại sao jason lấy quả táo?	 Đói	 7
+19 Sumit đi vào phòng ngủ.
+20 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 13
+21 Yann có bóng đá ở đó.
+22 Tại sao yann nhận được bóng đá?	 Chán	 1
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Jason là khát.
+4 đâu jason sẽ đi đâu?	 Bếp	 3
+5 Antoine là chán.
+6 trường hợp sẽ Antoine đi?	 Vườn	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Sumit đã đi đến vườn.
+10 Tại sao Djuzz đi đến vườn?	 Chán	 1
+11 Yann chuyển đến khu vườn.
+12 Tại sao yann đi đến vườn?	 Chán	 7
+13 Antoine đã đi đến vườn.
+14 Tại sao antoine đi đến vườn?	 Chán	 5
+15 Antoine mất bóng đá ở đó.
+16 Tại sao antoine nhận được bóng đá?	 Chán	 5
+17 Jason trở về nhà bếp.
+18 Tại sao jason đi vào bếp?	 Khát	 3
+19 Jason nhặt sữa đó.
+20 Tại sao jason có được sữa?	 Khát	 3
+1 Jason là chán.
+2 đâu jason sẽ đi đâu?	 Vườn	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann là mệt mỏi.
+8 đâu sẽ Yann đi?	 Phòng ngủ	 7
+9 Antoine đi vào phòng ngủ.
+10 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+11 Jason trở về khu vườn.
+12 Tại sao Jason đi đến vườn?	 Chán	 1
+13 Yann đi đến phòng ngủ.
+14 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 7
+15 Antoine nắm lấy bộ đồ ngủ ở đó.
+16 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+17 Sumit trở lại nhà bếp.
+18 Tại sao Djuzz đi vào bếp?	 Khát	 5
+19 Sumit nhặt sữa đó.
+20 Tại sao Djuzz có được sữa?	 Khát	 5
+21 Jason mất bóng đá ở đó.
+22 Tại sao Jason nhận được bóng đá?	 Chán	 1
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Sumit là đói.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là đói.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Jason đi vào nhà bếp.
+8 Tại sao jason đi vào bếp?	 Đói	 5
+9 Sumit chuyển đến nhà bếp.
+10 Tại sao Djuzz đi vào bếp?	 Đói	 3
+11 Antoine là đói.
+12 sẽ Antoine đi đâu?	 Bếp	 11
+13 Antoine đi đến nhà bếp.
+14 Tại sao antoine đi vào bếp?	 Đói	 11
+15 Jason nắm lấy quả táo đó.
+16 Tại sao jason lấy quả táo?	 Đói	 5
+17 Yann đi đến khu vườn.
+18 Tại sao yann đi đến vườn?	 Chán	 1
+19 Yann nhặt bóng đá ở đó.
+20 Tại sao yann nhận được bóng đá?	 Chán	 1
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Yann là mệt mỏi.
+4 đâu sẽ Yann đi?	 Phòng ngủ	 3
+5 Jason đi vào bếp.
+6 Tại sao jason đi vào bếp?	 Khát	 1
+7 Yann đi đến phòng ngủ.
+8 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 3
+9 Jason nhặt sữa đó.
+10 Tại sao jason có được sữa?	 Khát	 1
+11 Antoine là mệt mỏi.
+12 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 11
+13 Yann nắm lấy bộ đồ ngủ ở đó.
+14 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 3
+15 Sumit là khát.
+16 sẽ Sumit đi đâu?	 Bếp	 15
+17 Antoine đi vào phòng ngủ.
+18 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 11
+19 Sumit đi vào nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Khát	 15
+1 Sumit là chán.
+2 đâu sẽ Sumit đi?	 Vườn	 1
+3 Sumit chuyển đến khu vườn.
+4 Tại sao Djuzz đi đến vườn?	 Chán	 1
+5 Sumit có bóng đá ở đó.
+6 Tại sao Djuzz có được bóng đá?	 Chán	 1
+7 Yann là khát.
+8 sẽ Yann đi đâu?	 Bếp	 7
+9 Jason là đói.
+10 đâu jason sẽ đi đâu?	 Bếp	 9
+11 Antoine là mệt mỏi.
+12 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 11
+13 Jason đi vào bếp.
+14 Tại sao jason đi vào bếp?	 Đói	 9
+15 Jason nhặt quả táo đó.
+16 Tại sao jason lấy quả táo?	 Đói	 9
+17 Yann chuyển đến nhà bếp.
+18 Tại sao yann đi vào bếp?	 Khát	 7
+19 Antoine đi vào phòng ngủ.
+20 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 11
+21 Antoine nhặt đồ ngủ ở đó.
+22 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 11
+23 Yann nắm lấy sữa ở đó.
+24 Tại sao yann có được sữa?	 Khát	 7
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Antoine đi vào phòng ngủ.
+6 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+7 Sumit là chán.
+8 đâu sẽ Sumit đi?	 Vườn	 7
+9 Yann là mệt mỏi.
+10 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 9
+11 Sumit chuyển đến khu vườn.
+12 Tại sao Djuzz đi đến vườn?	 Chán	 7
+13 Sumit mất bóng đá ở đó.
+14 Tại sao Djuzz có được bóng đá?	 Chán	 7
+15 Yann trở lại phòng ngủ.
+16 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 9
+17 Yann lấy bộ đồ ngủ ở đó.
+18 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 9
+19 Jason đi đến khu vườn.
+20 Tại sao Jason đi đến vườn?	 Chán	 3
+1 Jason là chán.
+2 đâu jason sẽ đi đâu?	 Vườn	 1
+3 Jason chuyển đến khu vườn.
+4 Tại sao Jason đi đến vườn?	 Chán	 1
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Yann là chán.
+8 đâu sẽ Yann đi?	 Vườn	 7
+9 Yann đi đến vườn.
+10 Tại sao yann đi đến vườn?	 Chán	 7
+11 Jason có bóng đá ở đó.
+12 Tại sao Jason nhận được bóng đá?	 Chán	 1
+13 Antoine là mệt mỏi.
+14 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 13
+15 Sumit đi đến nhà bếp.
+16 Tại sao Djuzz đi vào bếp?	 Khát	 5
+17 Sumit có sữa đó.
+18 Tại sao Djuzz có được sữa?	 Khát	 5
+19 Antoine chuyển đến phòng ngủ.
+20 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 13
+21 Antoine nắm lấy bộ đồ ngủ ở đó.
+22 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 13
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Sumit là chán.
+6 trường hợp sẽ Sumit đi?	 Vườn	 5
+7 Sumit trở lại khu vườn.
+8 Tại sao Djuzz đi đến vườn?	 Chán	 5
+9 Jason chuyển đến nhà bếp.
+10 Tại sao jason đi vào bếp?	 Khát	 1
+11 Sumit có bóng đá ở đó.
+12 Tại sao Djuzz có được bóng đá?	 Chán	 5
+13 Antoine trở lại nhà bếp.
+14 Tại sao antoine đi vào bếp?	 Khát	 3
+15 Antoine có sữa đó.
+16 Tại sao antoine có được sữa?	 Khát	 3
+17 Yann là đói.
+18 sẽ Yann đi đâu?	 Bếp	 17
+19 Yann đi đến nhà bếp.
+20 Tại sao yann đi vào bếp?	 Đói	 17
+21 Yann có quả táo đó.
+22 Tại sao yann lấy quả táo?	 Đói	 17
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Antoine đi đến nhà bếp.
+6 Tại sao antoine đi vào bếp?	 Khát	 3
+7 Jason là mệt mỏi.
+8 đâu jason sẽ đi đâu?	 Phòng ngủ	 7
+9 Jason đi vào phòng ngủ.
+10 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 7
+11 Antoine nắm lấy sữa ở đó.
+12 Tại sao antoine có được sữa?	 Khát	 3
+13 Yann trở lại phòng ngủ.
+14 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+15 Jason nắm lấy bộ đồ ngủ ở đó.
+16 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 7
+17 Sumit là mệt mỏi.
+18 Trong trường hợp sẽ Sumit đi?	 Phòng ngủ	 17
+19 Sumit đi vào phòng ngủ.
+20 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 17
+1 Yann là khát.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Jason là mệt mỏi.
+6 đâu jason sẽ đi đâu?	 Phòng ngủ	 5
+7 Jason trở về phòng ngủ.
+8 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 5
+9 Antoine đi vào nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 3
+11 Sumit là mệt mỏi.
+12 Trong trường hợp sẽ Sumit đi?	 Phòng ngủ	 11
+13 Yann đi vào nhà bếp.
+14 Tại sao yann đi vào bếp?	 Khát	 1
+15 Jason lấy bộ đồ ngủ ở đó.
+16 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 5
+17 Antoine mất quả táo đó.
+18 Tại sao antoine lấy quả táo?	 Đói	 3
+19 Sumit đi vào phòng ngủ.
+20 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 11
+21 Yann nhặt sữa đó.
+22 Tại sao yann có được sữa?	 Khát	 1
+1 Sumit là đói.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Antoine đi vào phòng ngủ.
+6 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Yann là mệt mỏi.
+8 đâu sẽ Yann đi?	 Phòng ngủ	 7
+9 Yann đi đến phòng ngủ.
+10 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 7
+11 Antoine nắm lấy bộ đồ ngủ ở đó.
+12 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+13 Jason là đói.
+14 đâu jason sẽ đi đâu?	 Bếp	 13
+15 Jason chuyển đến nhà bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 13
+17 Sumit trở lại nhà bếp.
+18 Tại sao Djuzz đi vào bếp?	 Đói	 1
+19 Sumit nắm lấy quả táo đó.
+20 Tại sao Djuzz có được quả táo?	 Đói	 1
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Yann là mệt mỏi.
+6 trường hợp sẽ Yann đi?	 Phòng ngủ	 5
+7 Jason đi đến khu vườn.
+8 Tại sao Jason đi đến vườn?	 Chán	 3
+9 Sumit là đói.
+10 sẽ Sumit đi đâu?	 Bếp	 9
+11 Yann đi vào phòng ngủ.
+12 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 5
+13 Antoine đi vào phòng ngủ.
+14 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+15 Antoine có các bộ đồ ngủ ở đó.
+16 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+17 Jason có bóng đá ở đó.
+18 Tại sao Jason nhận được bóng đá?	 Chán	 3
+19 Sumit đi đến nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Đói	 9
+21 Sumit mất quả táo đó.
+22 Tại sao Djuzz có được quả táo?	 Đói	 9
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Antoine trở về phòng ngủ.
+4 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+5 Jason là đói.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Sumit là mệt mỏi.
+8 đâu sẽ Sumit đi?	 Phòng ngủ	 7
+9 Yann là chán.
+10 Trong trường hợp sẽ Yann đi?	 Vườn	 9
+11 Sumit trở lại phòng ngủ.
+12 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 7
+13 Yann đi đến vườn.
+14 Tại sao yann đi đến vườn?	 Chán	 9
+15 Antoine nhặt đồ ngủ ở đó.
+16 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 1
+17 Yann có bóng đá ở đó.
+18 Tại sao yann nhận được bóng đá?	 Chán	 9
+19 Jason chuyển đến nhà bếp.
+20 Tại sao jason đi vào bếp?	 Đói	 5
+21 Jason nắm lấy quả táo đó.
+22 Tại sao jason lấy quả táo?	 Đói	 5
+1 Antoine là khát.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Sumit là đói.
+4 sẽ Sumit đi đâu?	 Bếp	 3
+5 Jason là đói.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Sumit đi vào bếp.
+8 Tại sao Djuzz đi vào bếp?	 Đói	 3
+9 Antoine đi vào bếp.
+10 Tại sao antoine đi vào bếp?	 Khát	 1
+11 Yann là mệt mỏi.
+12 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 11
+13 Jason trở về nhà bếp.
+14 Tại sao jason đi vào bếp?	 Đói	 5
+15 Sumit nhặt quả táo đó.
+16 Tại sao Djuzz có được quả táo?	 Đói	 3
+17 Yann chuyển đến phòng ngủ.
+18 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 11
+19 Antoine có sữa đó.
+20 Tại sao antoine có được sữa?	 Khát	 1
+21 Yann có các bộ đồ ngủ ở đó.
+22 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 11
+1 Antoine là đói.
+2 sẽ Antoine đi đâu?	 Bếp	 1
+3 Yann là mệt mỏi.
+4 đâu sẽ Yann đi?	 Phòng ngủ	 3
+5 Sumit là mệt mỏi.
+6 trường hợp sẽ Sumit đi?	 Phòng ngủ	 5
+7 Sumit trở lại phòng ngủ.
+8 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 5
+9 Antoine đi đến nhà bếp.
+10 Tại sao antoine đi vào bếp?	 Đói	 1
+11 Antoine có quả táo đó.
+12 Tại sao antoine lấy quả táo?	 Đói	 1
+13 Jason là khát.
+14 đâu jason sẽ đi đâu?	 Bếp	 13
+15 Yann đi đến phòng ngủ.
+16 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 3
+17 Yann có các bộ đồ ngủ ở đó.
+18 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 3
+19 Jason đi đến nhà bếp.
+20 Tại sao jason đi vào bếp?	 Khát	 13
+21 Jason có sữa đó.
+22 Tại sao jason có được sữa?	 Khát	 13
+1 Yann là chán.
+2 đâu sẽ Yann đi?	 Vườn	 1
+3 Antoine là mệt mỏi.
+4 đâu sẽ Antoine đi?	 Phòng ngủ	 3
+5 Yann chuyển đến khu vườn.
+6 Tại sao yann đi đến vườn?	 Chán	 1
+7 Antoine chuyển đến phòng ngủ.
+8 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 3
+9 Yann nhặt bóng đá ở đó.
+10 Tại sao yann nhận được bóng đá?	 Chán	 1
+11 Sumit là khát.
+12 sẽ Sumit đi đâu?	 Bếp	 11
+13 Antoine nắm lấy bộ đồ ngủ ở đó.
+14 Tại sao antoine có được bộ đồ ngủ?	 Mệt mỏi	 3
+15 Jason là mệt mỏi.
+16 đâu jason sẽ đi đâu?	 Phòng ngủ	 15
+17 Jason trở về phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 15
+19 Sumit trở lại nhà bếp.
+20 Tại sao Djuzz đi vào bếp?	 Khát	 11
+21 Sumit nhặt sữa đó.
+22 Tại sao Djuzz có được sữa?	 Khát	 11
+1 Sumit là mệt mỏi.
+2 đâu sẽ Sumit đi?	 Phòng ngủ	 1
+3 Antoine là chán.
+4 đâu sẽ Antoine đi?	 Vườn	 3
+5 Jason là đói.
+6 đâu jason sẽ đi đâu?	 Bếp	 5
+7 Antoine hành quân tới vườn.
+8 Tại sao antoine đi đến vườn?	 Chán	 3
+9 Yann là mệt mỏi.
+10 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 9
+11 Sumit đi vào phòng ngủ.
+12 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 1
+13 Sumit lấy bộ đồ ngủ ở đó.
+14 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 1
+15 Jason chuyển đến nhà bếp.
+16 Tại sao jason đi vào bếp?	 Đói	 5
+17 Jason có quả táo đó.
+18 Tại sao jason lấy quả táo?	 Đói	 5
+19 Antoine mất bóng đá ở đó.
+20 Tại sao antoine nhận được bóng đá?	 Chán	 3
+21 Yann đi đến phòng ngủ.
+22 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 9
+1 Sumit là đói.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Sumit trở lại nhà bếp.
+4 Tại sao Djuzz đi vào bếp?	 Đói	 1
+5 Yann là khát.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Yann chuyển đến nhà bếp.
+8 Tại sao yann đi vào bếp?	 Khát	 5
+9 Yann nắm lấy sữa ở đó.
+10 Tại sao yann có được sữa?	 Khát	 5
+11 Sumit nắm lấy quả táo đó.
+12 Tại sao Djuzz có được quả táo?	 Đói	 1
+13 Jason là chán.
+14 đâu jason sẽ đi đâu?	 Vườn	 13
+15 Antoine là chán.
+16 Trong trường hợp sẽ Antoine đi?	 Vườn	 15
+17 Jason đi đến khu vườn.
+18 Tại sao Jason đi đến vườn?	 Chán	 13
+19 Jason nhặt bóng đá ở đó.
+20 Tại sao Jason nhận được bóng đá?	 Chán	 13
+21 Antoine chuyển đến khu vườn.
+22 Tại sao antoine đi đến vườn?	 Chán	 15
+1 Sumit là mệt mỏi.
+2 đâu sẽ Sumit đi?	 Phòng ngủ	 1
+3 Jason là chán.
+4 đâu jason sẽ đi đâu?	 Vườn	 3
+5 Sumit chuyển đến phòng ngủ.
+6 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 1
+7 Sumit lấy bộ đồ ngủ ở đó.
+8 Tại sao Djuzz có được bộ đồ ngủ?	 Mệt mỏi	 1
+9 Antoine là mệt mỏi.
+10 Trong trường hợp sẽ Antoine đi?	 Phòng ngủ	 9
+11 Antoine đi đến phòng ngủ.
+12 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 9
+13 Yann là đói.
+14 sẽ Yann đi đâu?	 Bếp	 13
+15 Jason đi đến khu vườn.
+16 Tại sao Jason đi đến vườn?	 Chán	 3
+17 Jason có bóng đá ở đó.
+18 Tại sao Jason nhận được bóng đá?	 Chán	 3
+19 Yann đi đến nhà bếp.
+20 Tại sao yann đi vào bếp?	 Đói	 13
+21 Yann mất quả táo đó.
+22 Tại sao yann lấy quả táo?	 Đói	 13
+1 Jason là mệt mỏi.
+2 đâu jason sẽ đi đâu?	 Phòng ngủ	 1
+3 Yann là chán.
+4 đâu sẽ Yann đi?	 Vườn	 3
+5 Sumit là khát.
+6 sẽ Sumit đi đâu?	 Bếp	 5
+7 Antoine là đói.
+8 sẽ Antoine đi đâu?	 Bếp	 7
+9 Sumit đi vào bếp.
+10 Tại sao Djuzz đi vào bếp?	 Khát	 5
+11 Yann chuyển đến khu vườn.
+12 Tại sao yann đi đến vườn?	 Chán	 3
+13 Yann nắm lấy bóng đá ở đó.
+14 Tại sao yann nhận được bóng đá?	 Chán	 3
+15 Sumit mất sữa đó.
+16 Tại sao Djuzz có được sữa?	 Khát	 5
+17 Jason trở về phòng ngủ.
+18 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 1
+19 Antoine đi vào bếp.
+20 Tại sao antoine đi vào bếp?	 Đói	 7
+21 Jason nhặt đồ ngủ ở đó.
+22 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 1
+23 Antoine nhặt quả táo đó.
+24 Tại sao antoine lấy quả táo?	 Đói	 7
+1 Yann là mệt mỏi.
+2 đâu sẽ Yann đi?	 Phòng ngủ	 1
+3 Antoine là khát.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Sumit là chán.
+6 trường hợp sẽ Sumit đi?	 Vườn	 5
+7 Yann đi vào phòng ngủ.
+8 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 1
+9 Sumit chuyển đến khu vườn.
+10 Tại sao Djuzz đi đến vườn?	 Chán	 5
+11 Antoine trở lại nhà bếp.
+12 Tại sao antoine đi vào bếp?	 Khát	 3
+13 Antoine lấy sữa ở đó.
+14 Tại sao antoine có được sữa?	 Khát	 3
+15 Jason là mệt mỏi.
+16 đâu jason sẽ đi đâu?	 Phòng ngủ	 15
+17 Yann lấy bộ đồ ngủ ở đó.
+18 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 1
+19 Jason đi vào phòng ngủ.
+20 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 15
+21 Sumit có bóng đá ở đó.
+22 Tại sao Djuzz có được bóng đá?	 Chán	 5
+1 Jason là khát.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Sumit là chán.
+4 đâu sẽ Sumit đi?	 Vườn	 3
+5 Yann là đói.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Sumit hành quân tới vườn.
+8 Tại sao Djuzz đi đến vườn?	 Chán	 3
+9 Sumit nhặt bóng đá ở đó.
+10 Tại sao Djuzz có được bóng đá?	 Chán	 3
+11 Jason trở về nhà bếp.
+12 Tại sao jason đi vào bếp?	 Khát	 1
+13 Yann đi đến nhà bếp.
+14 Tại sao yann đi vào bếp?	 Đói	 5
+15 Yann nắm lấy quả táo đó.
+16 Tại sao yann lấy quả táo?	 Đói	 5
+17 Antoine là khát.
+18 sẽ Antoine đi đâu?	 Bếp	 17
+19 Jason nhặt sữa đó.
+20 Tại sao jason có được sữa?	 Khát	 1
+21 Antoine đi vào bếp.
+22 Tại sao antoine đi vào bếp?	 Khát	 17
+1 Jason là đói.
+2 đâu jason sẽ đi đâu?	 Bếp	 1
+3 Yann là mệt mỏi.
+4 đâu sẽ Yann đi?	 Phòng ngủ	 3
+5 Jason đi đến nhà bếp.
+6 Tại sao jason đi vào bếp?	 Đói	 1
+7 Sumit là mệt mỏi.
+8 đâu sẽ Sumit đi?	 Phòng ngủ	 7
+9 Antoine là khát.
+10 sẽ Antoine đi đâu?	 Bếp	 9
+11 Antoine đi đến nhà bếp.
+12 Tại sao antoine đi vào bếp?	 Khát	 9
+13 Antoine có sữa đó.
+14 Tại sao antoine có được sữa?	 Khát	 9
+15 Jason mất quả táo đó.
+16 Tại sao jason lấy quả táo?	 Đói	 1
+17 Sumit đi đến phòng ngủ.
+18 Tại sao Djuzz đi vào phòng ngủ?	 Mệt mỏi	 7
+19 Yann đi vào phòng ngủ.
+20 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 3
+21 Yann nắm lấy bộ đồ ngủ ở đó.
+22 Tại sao yann có được bộ đồ ngủ?	 Mệt mỏi	 3
+1 Antoine là mệt mỏi.
+2 đâu sẽ Antoine đi?	 Phòng ngủ	 1
+3 Jason là mệt mỏi.
+4 đâu jason sẽ đi đâu?	 Phòng ngủ	 3
+5 Jason trở về phòng ngủ.
+6 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Antoine đi đến phòng ngủ.
+8 Tại sao antoine đi vào phòng ngủ?	 Mệt mỏi	 1
+9 Jason có các bộ đồ ngủ ở đó.
+10 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 3
+11 Sumit là khát.
+12 sẽ Sumit đi đâu?	 Bếp	 11
+13 Yann là mệt mỏi.
+14 Trong trường hợp sẽ Yann đi?	 Phòng ngủ	 13
+15 Sumit đi vào bếp.
+16 Tại sao Djuzz đi vào bếp?	 Khát	 11
+17 Yann đi vào phòng ngủ.
+18 Tại sao yann đi vào phòng ngủ?	 Mệt mỏi	 13
+19 Sumit mất sữa đó.
+20 Tại sao Djuzz có được sữa?	 Khát	 11
+1 Sumit là khát.
+2 sẽ Sumit đi đâu?	 Bếp	 1
+3 Antoine là đói.
+4 sẽ Antoine đi đâu?	 Bếp	 3
+5 Yann là khát.
+6 sẽ Yann đi đâu?	 Bếp	 5
+7 Sumit đi vào bếp.
+8 Tại sao Djuzz đi vào bếp?	 Khát	 1
+9 Yann đi đến nhà bếp.
+10 Tại sao yann đi vào bếp?	 Khát	 5
+11 Jason là mệt mỏi.
+12 đâu jason sẽ đi đâu?	 Phòng ngủ	 11
+13 Yann mất sữa đó.
+14 Tại sao yann có được sữa?	 Khát	 5
+15 Jason trở về phòng ngủ.
+16 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 11
+17 Antoine trở lại nhà bếp.
+18 Tại sao antoine đi vào bếp?	 Đói	 3
+19 Jason có các bộ đồ ngủ ở đó.
+20 Tại sao Jason lấy bộ đồ ngủ?	 Mệt mỏi	 11
+21 Antoine nhặt quả táo đó.
+22 Tại sao antoine lấy quả táo?	 Đói	 3
+1 Yann là đói.
+2 sẽ Yann đi đâu?	 Bếp	 1
+3 Jason là mệt mỏi.
+4 đâu jason sẽ đi đâu?	 Phòng ngủ	 3
+5 Jason đi vào phòng ngủ.
+6 Tại sao jason đi vào phòng ngủ?	 Mệt mỏi	 3
+7 Yann đi vào bếp.
+8 Tại sao yann đi vào bếp?	 Đói	 1
+9 Sumit là chán.
+10 Trong trường hợp sẽ Sumit đi?	 Vườn	 9
+11 Yann mất quả táo đó.
+12 Tại sao yann lấy quả táo?	 Đói	 1
+13 Sumit đi đến khu vườn.
+14 Tại sao Djuzz đi đến vườn?	 Chán	 9

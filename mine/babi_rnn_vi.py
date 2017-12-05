@@ -82,6 +82,8 @@ def tokenize(sent):
     '''
     TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
     return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
+
+
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
 
@@ -181,7 +183,7 @@ print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
 # challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
 # QA2 with 1000 samples
 # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
-challenge = 'data/babi/tasks_1/{}.txt'
+challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
 # QA2 with 10,000 samples
 # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
 # train = get_stories(tar.extractfile(challenge.format('train')))

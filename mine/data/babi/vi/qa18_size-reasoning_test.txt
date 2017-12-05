@@ -1,0 +1,2210 @@
+1 chiếc vali phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong hộp.
+3 container lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn chiếc vali.
+5 Hộp lớn hơn hộp sôcôla.
+6 thùng chứa lớn hơn sô cô la.
+7 sôcôla phù hợp với bên trong container.
+8 sôcôla phù hợp với bên trong va li.
+9 Các sôcôla phù hợp với bên trong ngực.
+10 chiếc vali phù hợp với bên trong container.
+11 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 1
+12 là sô cô la lớn hơn hộp?	 Không	 8 1
+13 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 1
+14 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 1
+15 là sô cô la lớn hơn hộp?	 Không	 8 1
+1 Hộp phù hợp với bên trong ngực.
+2 sôcôla phù hợp với bên trong hộp.
+3 container lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 chiếc vali lớn hơn thùng sơn.
+6 là sô cô la lớn hơn ngực?	 Không	 2 1
+7 là sô cô la lớn hơn ngực?	 Không	 2 1
+8 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 1
+9 là ngực lớn hơn sô cô la?	 Có	 1 2
+10 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 3 5
+1 Hộp lớn hơn chiếc vali.
+2 chiếc vali phù hợp với bên trong container.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 thùng chứa phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong va li.
+6 là ngực lớn hơn chiếc vali?	 Có	 4 2
+7 Có phải phù hợp với chiếc vali vào ngực?	 Có	 4 2
+8 là ngực lớn hơn chiếc vali?	 Có	 4 2
+9 Có phải phù hợp với chiếc vali vào ngực?	 Có	 4 2
+10 là sô cô la lớn hơn hộp?	 Không	 5 1
+1 chiếc vali lớn hơn hộp sôcôla.
+2 container phù hợp với bên trong va li.
+3 chiếc vali lớn hơn sô cô la.
+4 va li lớn hơn hộp.
+5 Hộp lớn hơn hộp sôcôla.
+6 là va li lớn hơn hộp sôcôla?	 Có	 4 5
+7 Có hộp sôcôla phù hợp trong va li?	 Có	 4 5
+8 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 4
+9 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 4
+10 là chiếc vali lớn hơn hộp sôcôla?	 Có	 4 5
+1 container là lớn hơn so với chiếc vali.
+2 Các ngực phù hợp với bên trong hộp.
+3 ngực lớn hơn hộp sôcôla.
+4 Hộp lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn chiếc vali.
+6 là hộp lớn hơn hộp sôcôla?	 Có	 2 3
+7 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 2 3
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 2 3
+9 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 3 2
+10 là hộp lớn hơn hộp sôcôla?	 Có	 2 3
+1 sôcôla phù hợp với bên trong hộp sôcôla.
+2 Các ngực lớn hơn hộp.
+3 Hộp lớn hơn thùng sơn.
+4 Hộp lớn hơn hộp sôcôla.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 là container lớn hơn ngực?	 Không	 3 2
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 4 1
+8 Có phải phù hợp với ngực trong container?	 Không	 3 2
+9 Có phải phù hợp chứa trong ngực?	 Có	 2 3
+10 là chiếc vali lớn hơn sô cô la?	 Có	 5 1
+1 Các ngực lớn hơn sô cô la.
+2 chiếc vali lớn hơn sô cô la.
+3 sôcôla phù hợp với bên trong va li.
+4 va li lớn hơn thùng sơn.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 Hộp lớn hơn thùng sơn.
+7 Hộp lớn hơn ngực.
+8 Các thùng chứa phù hợp với bên trong hộp.
+9 Những chiếc vali lớn hơn hộp sôcôla.
+10 ngực phù hợp với bên trong va li.
+11 là chiếc vali lớn hơn sô cô la?	 Có	 10 1
+12 là sô cô la lớn hơn hộp?	 Không có	 1 7
+13 Có phải phù hợp với hộp trong sô cô la?	 Không có	 1 7
+14 Có phải phù hợp sôcôla trong hộp?	 Có	 7 1
+15 là chiếc vali lớn hơn sô cô la?	 Có	 10 1
+1 hộp sôcôla phù hợp với bên trong va li.
+2 Các ngực lớn hơn hộp.
+3 sôcôla phù hợp với bên trong va li.
+4 Các ngực lớn hơn chiếc vali.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 là ngực lớn hơn hộp sôcôla?	 Có	 4 1
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 4 1
+8 Có hộp sôcôla phù hợp trong ngực?	 Có	 4 1
+9 Có hộp sôcôla phù hợp trong ngực?	 Có	 4 1
+10 là ngực lớn hơn hộp sôcôla?	 Có	 4 1
+1 Các ngực lớn hơn thùng sơn.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 sôcôla phù hợp với bên trong ngực.
+4 sôcôla phù hợp với bên trong hộp.
+5 Các thùng chứa lớn hơn sô cô la.
+6 Liệu phù hợp sô cô la vào ngực?	 Có	 1 5
+7 là sô cô la lớn hơn ngực?	 Không	 5 1
+8 là sô cô la lớn hơn ngực?	 Không	 5 1
+9 là ngực lớn hơn sô cô la?	 Có	 1 5
+10 là ngực lớn hơn sô cô la?	 Có	 1 5
+1 container là lớn hơn so với sô cô la.
+2 Hộp lớn hơn thùng sơn.
+3 container phù hợp với bên trong hộp.
+4 Các ngực lớn hơn chiếc vali.
+5 Các thùng chứa phù hợp với bên trong hộp.
+6 Liệu phù hợp sôcôla trong hộp?	 Có	 5 1
+7 là hộp lớn hơn sô cô la?	 Có	 5 1
+8 Có phải phù hợp với hộp trong sô cô la?	 Không có	 1 2
+9 là hộp lớn hơn sô cô la?	 Có	 5 1
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 5 1
+1 Hộp phù hợp với bên trong va li.
+2 Các ngực phù hợp với bên trong hộp.
+3. ngực phù hợp với bên trong hộp.
+4 thùng chứa phù hợp với bên trong hộp.
+5 ngực phù hợp với bên trong container.
+6 Liệu phù hợp ngực trong chiếc vali?	 Có	 1 2
+7 Có phải phù hợp với chiếc vali trong container?	 Không	 4 1
+8 là container lớn hơn chiếc vali?	 Không	 4 1
+9 Có phải phù hợp với ngực trong chiếc vali?	 Có	 1 2
+10 Có phải phù hợp với chiếc vali vào ngực?	 Không	 3 1
+1 Các ngực lớn hơn hộp sôcôla.
+2 container lớn hơn ngực.
+3 container lớn hơn hộp sôcôla.
+4 ngực phù hợp với bên trong hộp.
+5 Hộp lớn hơn sô cô la.
+6 Liệu phù hợp đựng trong hộp sôcôla?	 Không có	 1 2
+7 là hộp lớn hơn hộp sôcôla?	 Có	 4 1
+8 Có hộp sôcôla phù hợp trong container?	 Có	 2 1
+9 Có hộp sôcôla phù hợp trong container?	 Có	 2 1
+10 Có hộp sôcôla phù hợp trong container?	 Có	 2 1
+1 Các ngực lớn hơn hộp sôcôla.
+2 Các ngực lớn hơn hộp.
+3 Hộp lớn hơn sô cô la.
+4 chiếc vali phù hợp với bên trong ngực.
+5 Ngực lớn hơn chiếc vali.
+6 Liệu phù hợp sô cô la vào ngực?	 Có	 2 3
+7 là sô cô la lớn hơn ngực?	 Không	 3 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 2 3
+9 là sô cô la lớn hơn ngực?	 Không	 3 2
+10 là ngực lớn hơn sô cô la?	 Có	 2 3
+1 sôcôla phù hợp với bên trong va li.
+2 container phù hợp với bên trong ngực.
+3 sôcôla phù hợp với bên trong hộp.
+4 Các ngực lớn hơn sô cô la.
+5 chiếc vali phù hợp với bên trong hộp.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không có	 1 5
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 5 1
+8 Có phải phù hợp với hộp trong sô cô la?	 Không có	 1 5
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 5 1
+10 Có phải phù hợp với hộp trong sô cô la?	 Không có	 1 5
+1 Hộp lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong va li.
+3 Hộp lớn hơn hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong va li.
+5 Hộp lớn hơn hộp sôcôla.
+6 sôcôla phù hợp với bên trong ngực.
+7 sôcôla phù hợp với bên trong hộp.
+8 Hộp sôcôla phù hợp với bên trong hộp.
+9 Những chiếc vali lớn hơn ngực.
+10 chiếc vali lớn hơn sô cô la.
+11 là sô cô la lớn hơn chiếc vali?	 Không	 6 9
+12 là chiếc vali lớn hơn sô cô la?	 Có	 9 6
+13 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 6 9
+14 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 6 9
+15 là chiếc vali lớn hơn sô cô la?	 Có	 9 6
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 Hộp lớn hơn sô cô la.
+3 ngực lớn hơn hộp sôcôla.
+4 va li lớn hơn hộp.
+5 chiếc vali lớn hơn hộp.
+6 Liệu phù hợp sô cô la trong va li?	 Có	 5 2
+7 là chiếc vali lớn hơn sô cô la?	 Có	 5 2
+8 là va li lớn hơn sô cô la?	 Có	 5 2
+9 Có phải phù hợp sô cô la trong va li?	 Có	 5 2
+10 là chiếc vali lớn hơn sô cô la?	 Có	 5 2
+1 hộp sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong va li.
+3 container phù hợp với bên trong ngực.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 Hộp phù hợp với bên trong ngực.
+6 Liệu phù hợp sô cô la trong container?	 Có	 1 4
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 3 1
+8 là sô cô la lớn hơn container?	 Không	 4 1
+9 Có phải phù hợp sô cô la trong container?	 Có	 1 4
+10 Có hộp sôcôla phù hợp trong ngực?	 Có	 3 1
+1 Hộp lớn hơn sô cô la.
+2 Các ngực lớn hơn hộp sôcôla.
+3 container lớn hơn hộp.
+4 Các ngực lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong va li.
+6 Liệu phù hợp sô cô la trong container?	 Có	 3 1
+7 Có phải phù hợp chứa trong sô cô la?	 Không có	 1 3
+8 Có phải phù hợp chứa trong sô cô la?	 Không có	 1 3
+9 là container lớn hơn sô cô la?	 Có	 3 1
+10 Có phải phù hợp chứa trong sô cô la?	 Không có	 1 3
+1 Hộp lớn hơn thùng sơn.
+2 sôcôla phù hợp với bên trong hộp.
+3 container phù hợp với bên trong va li.
+4 sôcôla phù hợp với bên trong container.
+5 Hộp lớn hơn thùng sơn.
+6 là sô cô la lớn hơn hộp?	 Không	 4 1
+7 là sô cô la lớn hơn hộp?	 Không	 4 1
+8 là sô cô la lớn hơn hộp?	 Không	 4 1
+9 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 1
+10 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 1
+1 hộp sôcôla lớn hơn sô cô la.
+2 chiếc vali lớn hơn ngực.
+3 container lớn hơn hộp.
+4 Hộp lớn hơn sô cô la.
+5 Hộp phù hợp với bên trong va li.
+6 Liệu phù hợp chứa trong sô cô la?	 Không	 4 3
+7 là container lớn hơn sô cô la?	 Có	 3 4
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 4 3
+9 Có phải phù hợp chứa trong sô cô la?	 Không	 4 3
+10 Có phải phù hợp sô cô la trong container?	 Có	 3 4
+1 Hộp lớn hơn sô cô la.
+2 Các ngực lớn hơn hộp sôcôla.
+3 Hộp phù hợp với bên trong ngực.
+4 Các ngực lớn hơn sô cô la.
+5 Hộp lớn hơn hộp sôcôla.
+6 Liệu phù hợp sô cô la vào ngực?	 Có	 3 1
+7 là ngực lớn hơn sô cô la?	 Có	 3 1
+8 Có phải phù hợp với ngực trong sô cô la?	 Không có	 1 3
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 3 1
+10 là sô cô la lớn hơn ngực?	 Không có	 1 3
+1 Các ngực lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong container.
+3 container lớn hơn sô cô la.
+4 sôcôla phù hợp với bên trong hộp.
+5 Các thùng chứa phù hợp với bên trong ngực.
+6 là ngực lớn hơn sô cô la?	 Có	 5 2
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 5 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 5 2
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 5 2
+10 là ngực lớn hơn sô cô la?	 Có	 5 2
+1 Các ngực lớn hơn hộp.
+2 Các ngực lớn hơn sô cô la.
+3 ngực lớn hơn sô cô la.
+4 Các ngực lớn hơn thùng sơn.
+5 Các thùng chứa lớn hơn hộp.
+6 là hộp lớn hơn ngực?	 Không	 5 4
+7 Có phải phù hợp với ngực trong hộp?	 Không	 5 4
+8 là hộp lớn hơn ngực?	 Không	 5 4
+9 là ngực lớn hơn hộp?	 Có	 4 5
+10 là ngực lớn hơn hộp?	 Có	 4 5
+1 Hộp lớn hơn hộp sôcôla.
+2 Hộp sôcôla phù hợp với bên trong va li.
+3 Hộp lớn hơn hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong va li.
+5 sô cô la phù hợp với bên trong ngực.
+6 hộp sôcôla lớn hơn sô cô la.
+7 Ngực lớn hơn thùng sơn.
+8 sôcôla phù hợp với bên trong hộp.
+9 Các thùng chứa lớn hơn sô cô la.
+10 sô cô la phù hợp với bên trong container.
+11 là sô cô la lớn hơn ngực?	 Không	 10 7
+12 là sô cô la lớn hơn ngực?	 Không	 10 7
+13 là sô cô la lớn hơn ngực?	 Không	 10 7
+14 là sô cô la lớn hơn ngực?	 Không	 10 7
+15 là sô cô la lớn hơn ngực?	 Không	 10 7
+1 Hộp lớn hơn hộp sôcôla.
+2 sôcôla phù hợp với bên trong ngực.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 thùng chứa lớn hơn sô cô la.
+5 Hộp lớn hơn sô cô la.
+6 chiếc vali phù hợp với bên trong ngực.
+7 Các ngực lớn hơn chiếc vali.
+8 Các ngực lớn hơn sô cô la.
+9 Các sôcôla phù hợp với bên trong hộp sôcôla.
+10 container là lớn hơn hộp sôcôla.
+11 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 1
+12 là sô cô la lớn hơn hộp?	 Không	 9 1
+13 là sô cô la lớn hơn hộp?	 Không	 9 1
+14 là sô cô la lớn hơn hộp?	 Không	 9 1
+15 Các sôcôla phù hợp với bên trong hộp sôcôla.
+16 Hộp sôcôla phù hợp với bên trong ngực.
+17 Các chiếc vali phù hợp với bên trong hộp.
+18 Các va li lớn hơn hộp sôcôla.
+19 Hộp lớn hơn hộp sôcôla.
+20 Có phải phù hợp với ngực trong hộp sôcôla?	 Không	 18 6
+21 là hộp sôcôla lớn hơn ngực?	 Không	 18 6
+22 là sô cô la lớn hơn hộp?	 Không có	 15 1
+23 là sô cô la lớn hơn hộp?	 Không	 9 1
+24 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 Hộp lớn hơn sô cô la.
+3 container lớn hơn sô cô la.
+4 Các ngực lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 Ngực lớn hơn hộp sôcôla.
+7 Ngực lớn hơn thùng sơn.
+8 sôcôla phù hợp với bên trong hộp sôcôla.
+9 Các sôcôla phù hợp với bên trong hộp sôcôla.
+10 ngực lớn hơn thùng sơn.
+11 là sô cô la lớn hơn hộp?	 Không	 8 1
+12 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 1
+13 là sô cô la lớn hơn hộp?	 Không	 8 1
+14 là sô cô la lớn hơn hộp?	 Không	 9 1
+15 là ngực lớn hơn sô cô la?	 Có	 10 3
+1 chiếc vali phù hợp với bên trong container.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 container lớn hơn sô cô la.
+4 Các ngực lớn hơn sô cô la.
+5 Ngực lớn hơn hộp sôcôla.
+6 Liệu phù hợp sô cô la vào ngực?	 Có	 5 2
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 5 2
+8 là sô cô la lớn hơn ngực?	 Không	 2 5
+9 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 5
+10 là ngực lớn hơn sô cô la?	 Có	 5 2
+1 chiếc vali phù hợp với bên trong container.
+2 Hộp sôcôla phù hợp với bên trong container.
+3 ngực lớn hơn hộp sôcôla.
+4 chiếc vali phù hợp với bên trong hộp.
+5 Hộp phù hợp với bên trong container.
+6 Liệu phù hợp với chiếc vali trong container?	 Có	 5 4
+7 Có phải phù hợp với chiếc vali trong container?	 Có	 5 4
+8 là va li lớn hơn container?	 Không	 4 5
+9 Có phải phù hợp đựng trong va li?	 Không	 4 5
+10 Có phải phù hợp với chiếc vali trong container?	 Có	 5 4
+1 Hộp lớn hơn chiếc vali.
+2 sôcôla phù hợp với bên trong container.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 ngực phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong hộp.
+6 chiếc vali phù hợp với bên trong container.
+7 Các thùng chứa lớn hơn ngực.
+8 Hộp sôcôla phù hợp với bên trong hộp.
+9 Các sôcôla phù hợp với bên trong hộp.
+10 chiếc vali lớn hơn sô cô la.
+11 là hộp lớn hơn sô cô la?	 Có	 8 3
+12 là sô cô la lớn hơn hộp?	 Không có	 10 1
+13 Có phải phù hợp sôcôla trong hộp?	 Có	 8 3
+14 Có phải phù hợp với hộp trong sô cô la?	 Không	 10 1
+15 là sô cô la lớn hơn hộp?	 Không có	 10 1
+1 chiếc vali lớn hơn sô cô la.
+2 container lớn hơn hộp sôcôla.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 sôcôla phù hợp với bên trong container.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 là sô cô la lớn hơn container?	 Không	 3 2
+7 là container lớn hơn sô cô la?	 Có	 2 3
+8 là sô cô la lớn hơn container?	 Không	 3 2
+9 là sô cô la lớn hơn container?	 Không	 3 2
+10 là sô cô la lớn hơn container?	 Không	 3 2
+1 Các ngực lớn hơn chiếc vali.
+2 Hộp lớn hơn thùng sơn.
+3 Hộp sôcôla phù hợp với bên trong ngực.
+4 sôcôla phù hợp với bên trong container.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 là hộp lớn hơn sô cô la?	 Có	 2 4
+7 Có phải phù hợp với ngực trong sô cô la?	 Không	 5 3
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 3 5
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 2 4
+10 là sô cô la lớn hơn hộp?	 Không	 4 2
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 Các ngực phù hợp với bên trong hộp.
+3 ngực lớn hơn sô cô la.
+4 thùng chứa phù hợp với bên trong hộp.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 Liệu phù hợp với hộp trong hộp sôcôla?	 Không có	 1 2
+7 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 4 5
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 4 5
+9 là hộp sôcôla lớn hơn hộp?	 Không	 5 4
+10 Có phải phù hợp với hộp trong hộp sôcôla?	 Không có	 1 2
+1 Các ngực lớn hơn hộp.
+2 Hộp phù hợp với bên trong ngực.
+3 ngực lớn hơn hộp.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 Các thùng chứa lớn hơn sô cô la.
+6 hộp sôcôla phù hợp với bên trong va li.
+7 Hộp phù hợp với bên trong ngực.
+8 Các ngực lớn hơn sô cô la.
+9 Hộp lớn hơn hộp sôcôla.
+10 chiếc vali lớn hơn thùng sơn.
+11 Có phải phù hợp sô cô la trong va li?	 Có	 10 5
+12 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 5 10
+13 Có phải phù hợp với ngực trong hộp sôcôla?	 Không	 9 1
+14 Có phải phù hợp sô cô la trong va li?	 Có	 10 5
+15 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 5 10
+1 chiếc vali lớn hơn thùng sơn.
+2 Hộp phù hợp với bên trong va li.
+3 chiếc vali phù hợp với bên trong ngực.
+4 thùng chứa lớn hơn hộp.
+5 sô cô la phù hợp với bên trong hộp.
+6 là hộp lớn hơn chiếc vali?	 Không	 4 1
+7 là ngực lớn hơn container?	 Có	 3 1
+8 Có phải phù hợp với chiếc vali trong hộp?	 Không	 4 1
+9 Có phải phù hợp chứa trong ngực?	 Có	 3 1
+10 là ngực lớn hơn container?	 Có	 3 1
+1 Hộp lớn hơn ngực.
+2 Hộp lớn hơn ngực.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 va li lớn hơn ngực.
+5 Các thùng chứa phù hợp với bên trong hộp.
+6 thùng chứa lớn hơn hộp sôcôla.
+7 Hộp lớn hơn thùng sơn.
+8 Các thùng chứa lớn hơn sô cô la.
+9 Hộp lớn hơn thùng sơn.
+10 chiếc vali lớn hơn ngực.
+11 Có phải phù hợp sô cô la trong container?	 Có	 6 3
+12 Có phải phù hợp sô cô la trong container?	 Có	 6 3
+13 là hộp sôcôla lớn hơn hộp?	 Không	 6 5
+14 là sô cô la lớn hơn hộp?	 Không	 8 5
+15 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 5
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong container.
+3 container phù hợp với bên trong hộp.
+4 Hộp lớn hơn sô cô la.
+5 Hộp lớn hơn sô cô la.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 2 3
+7 là sô cô la lớn hơn hộp?	 Không có	 2 3
+8 là hộp lớn hơn sô cô la?	 Có	 3 2
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+1 Hộp lớn hơn chiếc vali.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 Hộp sôcôla lớn hơn sô cô la.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 là hộp lớn hơn hộp sôcôla?	 Có	 1 2
+7 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 1
+8 là hộp sôcôla lớn hơn hộp?	 Không	 5 1
+9 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 1
+10 là hộp sôcôla lớn hơn hộp?	 Không	 5 1
+1 chiếc vali lớn hơn hộp sôcôla.
+2 chiếc vali phù hợp với bên trong container.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 Các ngực lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn hộp.
+6 Có hộp sôcôla phù hợp trong container?	 Có	 2 1
+7 Có phải phù hợp đựng trong hộp sôcôla?	 Không có	 1 2
+8 là hộp sôcôla lớn hơn container?	 Không có	 1 2
+9 là container lớn hơn hộp sôcôla?	 Có	 2 1
+10 Có phải phù hợp đựng trong hộp sôcôla?	 Không có	 1 2
+1 container là lớn hơn so với sô cô la.
+2 Các ngực phù hợp với bên trong hộp.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 Hộp sôcôla lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 Liệu phù hợp sô cô la trong container?	 Có	 5 3
+7 Có phải phù hợp sô cô la trong container?	 Có	 5 3
+8 Có phải phù hợp sô cô la trong container?	 Có	 5 3
+9 là container lớn hơn sô cô la?	 Có	 5 3
+10 Có phải phù hợp sô cô la trong container?	 Có	 5 3
+1 container là lớn hơn so với sô cô la.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 Hộp lớn hơn hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong hộp.
+6 là sô cô la lớn hơn hộp?	 Không có	 2 3
+7 là sô cô la lớn hơn hộp?	 Không có	 2 3
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 4 2
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 4 2
+10 là sô cô la lớn hơn hộp?	 Không có	 2 3
+1 Các ngực lớn hơn hộp.
+2 container phù hợp với bên trong hộp.
+3 chiếc vali lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong va li.
+5 Ngực lớn hơn hộp.
+6 Liệu phù hợp ngực trong container?	 Không	 2 1
+7 Có phải phù hợp với ngực trong container?	 Không	 2 1
+8 là ngực lớn hơn container?	 Có	 1 2
+9 Có phải phù hợp chứa trong ngực?	 Có	 1 2
+10 Có phải phù hợp với ngực trong container?	 Không	 2 1
+1 chiếc vali phù hợp với bên trong hộp.
+2 chiếc vali phù hợp với bên trong hộp.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 ngực phù hợp với bên trong hộp.
+5 chiếc vali lớn hơn sô cô la.
+6 là sô cô la lớn hơn hộp?	 Không	 5 1
+7 là sô cô la lớn hơn hộp?	 Không	 5 1
+8 Có phải phù hợp với hộp trong sô cô la?	 Không	 5 1
+9 là sô cô la lớn hơn hộp?	 Không	 5 1
+10 Có phải phù hợp với hộp trong sô cô la?	 Không	 5 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 container phù hợp với bên trong ngực.
+3 sôcôla phù hợp với bên trong va li.
+4 Các ngực lớn hơn sô cô la.
+5 chiếc vali phù hợp với bên trong hộp.
+6 là sô cô la lớn hơn hộp?	 Không	 3 5
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 5 3
+8 Có phải phù hợp sôcôla trong hộp?	 Có	 5 3
+9 là sô cô la lớn hơn hộp?	 Không	 3 5
+10 là sô cô la lớn hơn hộp?	 Không	 3 5
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 Hộp sôcôla phù hợp với bên trong container.
+3 container lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 Ngực lớn hơn chiếc vali.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 4 1
+7 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 1
+8 là sô cô la lớn hơn hộp?	 Không	 4 1
+9 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 1
+10 là sô cô la lớn hơn hộp?	 Không	 4 1
+1 Các ngực lớn hơn sô cô la.
+2 Các ngực lớn hơn chiếc vali.
+3 sôcôla phù hợp với bên trong va li.
+4 chiếc vali phù hợp với bên trong hộp.
+5 Hộp lớn hơn chiếc vali.
+6 Liệu phù hợp ngực trong sô cô la?	 Không	 3 2
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 2 3
+8 là ngực lớn hơn sô cô la?	 Có	 2 3
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 2 3
+10 Có phải phù hợp với ngực trong sô cô la?	 Không	 3 2
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 container lớn hơn ngực.
+3 ngực lớn hơn hộp sôcôla.
+4 Các ngực lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn ngực.
+6 là hộp sôcôla lớn hơn container?	 Không	 3 2
+7 là hộp sôcôla lớn hơn container?	 Không	 3 2
+8 là sô cô la lớn hơn container?	 Không	 4 2
+9 Có phải phù hợp chứa trong sô cô la?	 Không	 4 2
+10 Có phải phù hợp chứa trong sô cô la?	 Không	 4 2
+1 chiếc vali lớn hơn sô cô la.
+2 Hộp phù hợp với bên trong va li.
+3 Hộp phù hợp với bên trong ngực.
+4 Hộp phù hợp với bên trong va li.
+5 sô cô la phù hợp với bên trong container.
+6 Ngực lớn hơn thùng sơn.
+7 Các ngực lớn hơn sô cô la.
+8 chiếc vali lớn hơn hộp.
+9 Hộp phù hợp với bên trong va li.
+10 ngực lớn hơn chiếc vali.
+11 là ngực lớn hơn sô cô la?	 Có	 6 5
+12 là sô cô la lớn hơn ngực?	 Không	 5 6
+13 Có phải phù hợp với ngực trong sô cô la?	 Không	 5 6
+14 là ngực lớn hơn sô cô la?	 Có	 10 1
+15 là ngực lớn hơn sô cô la?	 Có	 6 5
+1 Các ngực lớn hơn chiếc vali.
+2 container lớn hơn chiếc vali.
+3 ngực lớn hơn chiếc vali.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 Các thùng chứa lớn hơn ngực.
+6 Liệu phù hợp với chiếc vali trong container?	 Có	 5 1
+7 là container lớn hơn chiếc vali?	 Có	 5 1
+8 Có phải phù hợp với chiếc vali trong container?	 Có	 5 1
+9 Có phải phù hợp với chiếc vali trong container?	 Có	 5 1
+10 Có phải phù hợp với chiếc vali trong container?	 Có	 5 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 chiếc vali phù hợp với bên trong ngực.
+3 container lớn hơn hộp.
+4 thùng chứa lớn hơn chiếc vali.
+5 Hộp sôcôla phù hợp với bên trong hộp.
+6 Có hộp sôcôla phù hợp trong container?	 Có	 3 1
+7 là container lớn hơn hộp sôcôla?	 Có	 3 1
+8 là container lớn hơn hộp sôcôla?	 Có	 3 1
+9 là container lớn hơn hộp sôcôla?	 Có	 3 1
+10 Có hộp sôcôla phù hợp trong container?	 Có	 3 1
+1 sôcôla phù hợp với bên trong container.
+2 Hộp lớn hơn ngực.
+3. ngực phù hợp với bên trong container.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Ngực lớn hơn chiếc vali.
+6 là va li lớn hơn hộp?	 Không	 5 2
+7 Có phải phù hợp với hộp trong va li?	 Không	 5 2
+8 Có phải phù hợp với hộp trong va li?	 Không	 5 2
+9 là va li lớn hơn hộp?	 Không	 5 2
+10 là chiếc vali lớn hơn hộp?	 Không	 5 2
+1 hộp sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 chiếc vali lớn hơn ngực.
+4 Hộp lớn hơn hộp sôcôla.
+5 chiếc vali lớn hơn sô cô la.
+6 Liệu phù hợp sô cô la trong container?	 Có	 1 2
+7 Có phải phù hợp sô cô la trong container?	 Có	 1 2
+8 là container lớn hơn sô cô la?	 Có	 1 2
+9 Có phải phù hợp chứa trong sô cô la?	 Không	 2 1
+10 là các thùng chứa lớn hơn sô cô la?	 Có	 1 2
+1 chiếc vali lớn hơn sô cô la.
+2 Các ngực lớn hơn hộp.
+3. ngực phù hợp với bên trong container.
+4 Hộp phù hợp với bên trong va li.
+5 sô cô la phù hợp với bên trong hộp.
+6 là hộp lớn hơn container?	 Không	 2 3
+7 là sô cô la lớn hơn ngực?	 Không	 5 2
+8 Có phải phù hợp với ngực trong sô cô la?	 Không	 5 2
+9 Có phải phù hợp chứa trong hộp?	 Không	 2 3
+10 là hộp lớn hơn container?	 Không	 2 3
+1 container phù hợp với bên trong va li.
+2 sôcôla phù hợp với bên trong hộp.
+3. ngực phù hợp với bên trong hộp.
+4 sôcôla phù hợp với bên trong ngực.
+5 Hộp lớn hơn ngực.
+6 Liệu phù hợp sôcôla trong hộp?	 Có	 3 4
+7 là sô cô la lớn hơn hộp?	 Không	 4 3
+8 là hộp lớn hơn sô cô la?	 Có	 3 4
+9 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 3
+10 là sô cô la lớn hơn hộp?	 Không	 4 3
+1 Hộp phù hợp với bên trong va li.
+2 sôcôla phù hợp với bên trong ngực.
+3 Hộp lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong va li.
+6 Có hộp sôcôla phù hợp trong va li?	 Có	 1 3
+7 Có hộp sôcôla phù hợp trong va li?	 Có	 1 3
+8 là va li lớn hơn hộp sôcôla?	 Có	 1 3
+9 là va li lớn hơn hộp sôcôla?	 Có	 1 3
+10 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 3 1
+1 Hộp lớn hơn thùng sơn.
+2 sôcôla phù hợp với bên trong hộp.
+3 container phù hợp với bên trong hộp.
+4 Hộp lớn hơn ngực.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 ngực phù hợp với bên trong hộp.
+7 Các ngực lớn hơn chiếc vali.
+8 chiếc vali phù hợp với bên trong hộp.
+9 Hộp lớn hơn chiếc vali.
+10 sô cô la phù hợp với bên trong va li.
+11 là chiếc vali lớn hơn hộp?	 Không	 7 4
+12 Có phải phù hợp với hộp trong va li?	 Không	 7 4
+13 là sô cô la lớn hơn ngực?	 Không	 10 7
+14 Có phải phù hợp với hộp trong va li?	 Không	 7 4
+15 là sô cô la lớn hơn ngực?	 Không	 10 7
+1 hộp sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong ngực.
+3 Hộp sôcôla phù hợp với bên trong va li.
+4 Hộp phù hợp với bên trong ngực.
+5 Các thùng chứa phù hợp với bên trong va li.
+6 là va li lớn hơn hộp sôcôla?	 Có	 5 1
+7 Có hộp sôcôla phù hợp trong va li?	 Có	 5 1
+8 là hộp sôcôla lớn hơn chiếc vali?	 Không có	 1 5
+9 là hộp sôcôla lớn hơn chiếc vali?	 Không có	 1 5
+10 là chiếc vali lớn hơn hộp sôcôla?	 Có	 5 1
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 container phù hợp với bên trong hộp.
+3. ngực phù hợp với bên trong container.
+4 thùng chứa phù hợp với bên trong hộp.
+5 Ngực lớn hơn hộp sôcôla.
+6 Liệu phù hợp với hộp trong ngực?	 Không	 3 2
+7 Có hộp sôcôla phù hợp trong container?	 Có	 3 1
+8 Có hộp sôcôla phù hợp trong container?	 Có	 3 1
+9 Có phải phù hợp với hộp trong ngực?	 Không	 3 2
+10 là ngực lớn hơn hộp?	 Không	 3 2
+1 Các ngực lớn hơn sô cô la.
+2 container lớn hơn chiếc vali.
+3 ngực lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong ngực.
+5 Các thùng chứa phù hợp với bên trong ngực.
+6 Liệu phù hợp ngực trong chiếc vali?	 Không	 2 5
+7 Có phải phù hợp với ngực trong chiếc vali?	 Không	 2 5
+8 Có phải phù hợp với ngực trong chiếc vali?	 Không	 2 5
+9 Có phải phù hợp với ngực trong chiếc vali?	 Không	 2 5
+10 là ngực lớn hơn chiếc vali?	 Có	 5 2
+1 hộp sôcôla lớn hơn sô cô la.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 ngực lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 Liệu phù hợp sô cô la trong va li?	 Có	 5 1
+7 Có phải phù hợp sô cô la trong container?	 Có	 4 1
+8 là container lớn hơn sô cô la?	 Có	 4 1
+9 Có phải phù hợp sô cô la trong va li?	 Có	 5 1
+10 Có phải phù hợp sô cô la trong container?	 Có	 4 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 container lớn hơn sô cô la.
+4 Các ngực lớn hơn chiếc vali.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 là sô cô la lớn hơn hộp?	 Không có	 2 1
+7 là sô cô la lớn hơn hộp?	 Không có	 2 1
+8 Có phải phù hợp sôcôla trong hộp?	 Có	 1 2
+9 là sô cô la lớn hơn hộp?	 Không có	 2 1
+10 là sô cô la lớn hơn hộp?	 Không có	 2 1
+1 chiếc vali lớn hơn hộp.
+2 container phù hợp với bên trong va li.
+3 chiếc vali lớn hơn ngực.
+4 va li lớn hơn hộp.
+5 sô cô la phù hợp với bên trong ngực.
+6 là va li lớn hơn sô cô la?	 Có	 3 5
+7 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+8 là va li lớn hơn sô cô la?	 Có	 3 5
+9 là va li lớn hơn sô cô la?	 Có	 3 5
+10 là chiếc vali lớn hơn sô cô la?	 Có	 3 5
+1 Các ngực phù hợp với bên trong va li.
+2 Hộp lớn hơn ngực.
+3 Hộp lớn hơn sô cô la.
+4 Hộp lớn hơn sô cô la.
+5 ngực phù hợp với bên trong va li.
+6 Ngực lớn hơn hộp sôcôla.
+7 Các ngực lớn hơn sô cô la.
+8 Hộp phù hợp với bên trong va li.
+9 Hộp lớn hơn sô cô la.
+10 chiếc vali lớn hơn hộp.
+11 là hộp sôcôla lớn hơn chiếc vali?	 Không	 6 1
+12 là sô cô la lớn hơn chiếc vali?	 Không	 7 1
+13 là sô cô la lớn hơn chiếc vali?	 Không	 7 1
+14 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 6 1
+15 là chiếc vali lớn hơn ngực?	 Có	 10 2
+1 container là lớn hơn hộp sôcôla.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 ngực lớn hơn sô cô la.
+4 Các ngực lớn hơn sô cô la.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 chiếc vali lớn hơn thùng sơn.
+7 sôcôla phù hợp với bên trong hộp.
+8 Hộp lớn hơn ngực.
+9 Các thùng chứa lớn hơn ngực.
+10 container là lớn hơn hộp sôcôla.
+11 Có hộp sôcôla phù hợp trong hộp?	 Có	 8 2
+12 là chiếc vali lớn hơn hộp sôcôla?	 Có	 6 1
+13 Có hộp sôcôla phù hợp trong container?	 Có	 9 2
+14 Có hộp sôcôla phù hợp trong container?	 Có	 9 2
+15 Có hộp sôcôla phù hợp trong container?	 Có	 9 2
+1 container là lớn hơn hộp sôcôla.
+2 sôcôla phù hợp với bên trong hộp.
+3 Hộp phù hợp với bên trong ngực.
+4 thùng chứa lớn hơn chiếc vali.
+5 Hộp lớn hơn hộp sôcôla.
+6 là sô cô la lớn hơn ngực?	 Không	 2 3
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 3 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 3 2
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 3 2
+10 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 3
+1 Các ngực lớn hơn thùng sơn.
+2 Hộp sôcôla lớn hơn sô cô la.
+3. ngực phù hợp với bên trong va li.
+4 thùng chứa phù hợp với bên trong hộp.
+5 chiếc vali lớn hơn sô cô la.
+6 Liệu phù hợp với chiếc vali trong container?	 Không có	 1 3
+7 Có phải phù hợp đựng trong va li?	 Có	 3 1
+8 Có phải phù hợp với chiếc vali trong container?	 Không có	 1 3
+9 Có phải phù hợp với chiếc vali trong container?	 Không có	 1 3
+10 Có phải phù hợp với chiếc vali trong container?	 Không có	 1 3
+1 chiếc vali phù hợp với bên trong ngực.
+2 Các ngực lớn hơn chiếc vali.
+3 container lớn hơn hộp sôcôla.
+4 Hộp lớn hơn hộp sôcôla.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 là sô cô la lớn hơn container?	 Không	 5 3
+7 là sô cô la lớn hơn container?	 Không	 5 3
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 5 3
+9 là sô cô la lớn hơn container?	 Không	 5 3
+10 là sô cô la lớn hơn container?	 Không	 5 3
+1 Các ngực lớn hơn sô cô la.
+2 Các ngực lớn hơn sô cô la.
+3 container lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn sô cô la.
+5 Hộp phù hợp với bên trong va li.
+6 hộp sôcôla phù hợp với bên trong container.
+7 Hộp sôcôla phù hợp với bên trong hộp.
+8 Các thùng chứa lớn hơn chiếc vali.
+9 Hộp sôcôla phù hợp với bên trong container.
+10 container là lớn hơn so với chiếc vali.
+11 Có phải phù hợp với hộp trong container?	 Có	 10 5
+12 là chiếc vali lớn hơn hộp sôcôla?	 Có	 5 7
+13 là các thùng chứa lớn hơn hộp?	 Có	 10 5
+14 là các thùng chứa lớn hơn hộp?	 Có	 10 5
+15 Có phải phù hợp với hộp trong container?	 Có	 10 5
+1 hộp sôcôla lớn hơn sô cô la.
+2 container lớn hơn hộp.
+3 sôcôla phù hợp với bên trong hộp.
+4 Hộp lớn hơn chiếc vali.
+5 Hộp lớn hơn ngực.
+6 là container lớn hơn sô cô la?	 Có	 2 3
+7 là ngực lớn hơn container?	 Không	 5 2
+8 là container lớn hơn sô cô la?	 Có	 2 3
+9 là ngực lớn hơn container?	 Không	 5 2
+10 là chiếc vali lớn hơn container?	 Không	 4 2
+1 container là lớn hơn hộp sôcôla.
+2 Các ngực lớn hơn sô cô la.
+3 container lớn hơn hộp sôcôla.
+4 Hộp lớn hơn thùng sơn.
+5 Hộp lớn hơn thùng sơn.
+6 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+7 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+8 là hộp lớn hơn hộp sôcôla?	 Có	 5 1
+9 là hộp lớn hơn hộp sôcôla?	 Có	 5 1
+10 Có hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+1 container phù hợp với bên trong va li.
+2 Hộp lớn hơn thùng sơn.
+3 container lớn hơn sô cô la.
+4 thùng chứa lớn hơn ngực.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+7 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 3 1
+8 Có phải phù hợp với chiếc vali vào ngực?	 Không	 4 1
+9 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+10 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+1 Các ngực lớn hơn chiếc vali.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 chiếc vali phù hợp với bên trong ngực.
+4 Hộp lớn hơn sô cô la.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 Các ngực lớn hơn chiếc vali.
+7 Hộp sôcôla phù hợp với bên trong ngực.
+8 Các thùng chứa lớn hơn sô cô la.
+9 Các thùng chứa phù hợp với bên trong ngực.
+10 sô cô la phù hợp với bên trong hộp sôcôla.
+11 là ngực lớn hơn sô cô la?	 Có	 9 8
+12 là ngực lớn hơn sô cô la?	 Có	 7 2
+13 là ngực lớn hơn sô cô la?	 Có	 7 2
+14 là ngực lớn hơn sô cô la?	 Có	 7 2
+15 là ngực lớn hơn sô cô la?	 Có	 9 8
+1 chiếc vali lớn hơn sô cô la.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 Hộp lớn hơn hộp sôcôla.
+4 va li lớn hơn ngực.
+5 chiếc vali lớn hơn sô cô la.
+6 Có hộp sôcôla phù hợp trong va li?	 Có	 4 2
+7 là chiếc vali lớn hơn hộp sôcôla?	 Có	 4 2
+8 Có hộp sôcôla phù hợp trong va li?	 Có	 4 2
+9 là hộp sôcôla lớn hơn chiếc vali?	 Không	 2 4
+10 Có hộp sôcôla phù hợp trong va li?	 Có	 4 2
+1 container là lớn hơn hộp sôcôla.
+2 Hộp phù hợp với bên trong container.
+3 chiếc vali lớn hơn thùng sơn.
+4 thùng chứa phù hợp với bên trong va li.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 Có hộp sôcôla phù hợp trong va li?	 Có	 4 1
+7 Có hộp sôcôla phù hợp trong va li?	 Có	 4 1
+8 là va li lớn hơn hộp sôcôla?	 Có	 4 1
+9 là va li lớn hơn hộp sôcôla?	 Có	 4 1
+10 là chiếc vali lớn hơn hộp sôcôla?	 Có	 4 1
+1 sôcôla phù hợp với bên trong container.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 container phù hợp với bên trong hộp.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 Liệu phù hợp sôcôla trong hộp?	 Có	 3 1
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 4 2
+8 là hộp lớn hơn sô cô la?	 Có	 3 1
+9 là sô cô la lớn hơn hộp?	 Không có	 1 3
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 3 1
+1 Các ngực lớn hơn thùng sơn.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 container lớn hơn hộp sôcôla.
+4 Các ngực lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong va li.
+6 Có hộp sôcôla phù hợp trong ngực?	 Có	 1 3
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 1 3
+8 là hộp sôcôla lớn hơn ngực?	 Không	 3 1
+9 là ngực lớn hơn hộp sôcôla?	 Có	 1 3
+10 là ngực lớn hơn hộp sôcôla?	 Có	 1 3
+1 container là lớn hơn so với chiếc vali.
+2 container lớn hơn hộp.
+3 sôcôla phù hợp với bên trong va li.
+4 va li lớn hơn sô cô la.
+5 Ngực lớn hơn hộp sôcôla.
+6 là sô cô la lớn hơn container?	 Không	 4 1
+7 Có phải phù hợp sô cô la trong container?	 Có	 1 3
+8 là sô cô la lớn hơn container?	 Không	 3 1
+9 Có phải phù hợp sô cô la trong container?	 Có	 1 3
+10 Có phải phù hợp sô cô la trong container?	 Có	 1 3
+1 container phù hợp với bên trong va li.
+2 Các ngực phù hợp với bên trong container.
+3 Hộp lớn hơn sô cô la.
+4 thùng chứa lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 là hộp sôcôla lớn hơn chiếc vali?	 Không	 5 1
+7 là hộp sôcôla lớn hơn chiếc vali?	 Không	 5 1
+8 Có phải phù hợp với chiếc vali vào ngực?	 Không	 2 1
+9 Có phải phù hợp với ngực trong chiếc vali?	 Có	 1 2
+10 là chiếc vali lớn hơn ngực?	 Có	 1 2
+1 container là lớn hơn so với sô cô la.
+2 Hộp lớn hơn chiếc vali.
+3 container lớn hơn ngực.
+4 va li lớn hơn hộp sôcôla.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 Liệu phù hợp với hộp trong hộp sôcôla?	 Không	 4 2
+7 là hộp sôcôla lớn hơn hộp?	 Không	 4 2
+8 là hộp lớn hơn hộp sôcôla?	 Có	 2 4
+9 là hộp sôcôla lớn hơn hộp?	 Không	 4 2
+10 là hộp lớn hơn hộp sôcôla?	 Có	 2 4
+1 Các ngực lớn hơn hộp.
+2 sôcôla phù hợp với bên trong ngực.
+3 chiếc vali phù hợp với bên trong container.
+4 Hộp phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 thùng chứa lớn hơn hộp.
+7 Các thùng chứa lớn hơn hộp sôcôla.
+8 sôcôla phù hợp với bên trong va li.
+9 Hộp lớn hơn hộp sôcôla.
+10 chiếc vali phù hợp với bên trong container.
+11 là hộp sôcôla lớn hơn ngực?	 Không	 9 1
+12 Có phải phù hợp chứa trong sô cô la?	 Không	 8 3
+13 Có phải phù hợp chứa trong sô cô la?	 Không	 5 7
+14 Có phải phù hợp chứa trong sô cô la?	 Không	 8 3
+15 Có phải phù hợp sôcôla trong hộp?	 Có	 9 5
+1 Hộp phù hợp với bên trong ngực.
+2 Các ngực lớn hơn sô cô la.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 Hộp phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 Liệu phù hợp chứa trong sô cô la?	 Không	 5 3
+7 Có phải phù hợp sô cô la trong container?	 Có	 3 5
+8 Có phải phù hợp sô cô la trong container?	 Có	 3 5
+9 là sô cô la lớn hơn container?	 Không	 5 3
+10 Có phải phù hợp chứa trong sô cô la?	 Không	 5 3
+1 sôcôla phù hợp với bên trong hộp.
+2 Các ngực lớn hơn hộp sôcôla.
+3 Hộp phù hợp với bên trong container.
+4 Các ngực lớn hơn hộp sôcôla.
+5 chiếc vali lớn hơn ngực.
+6 là va li lớn hơn hộp sôcôla?	 Có	 5 2
+7 là sô cô la lớn hơn container?	 Không có	 1 3
+8 Có phải phù hợp sô cô la trong container?	 Có	 3 1
+9 Có phải phù hợp sô cô la trong container?	 Có	 3 1
+10 Có phải phù hợp chứa trong sô cô la?	 Không có	 1 3
+1 hộp sôcôla phù hợp với bên trong va li.
+2 Hộp lớn hơn hộp sôcôla.
+3 chiếc vali phù hợp với bên trong hộp.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Hộp sôcôla phù hợp với bên trong hộp.
+6 là hộp lớn hơn hộp sôcôla?	 Có	 3 1
+7 là hộp sôcôla lớn hơn hộp?	 Không có	 1 3
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 3 1
+9 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 3 1
+10 là hộp lớn hơn hộp sôcôla?	 Có	 3 1
+1 Hộp lớn hơn ngực.
+2 Hộp lớn hơn sô cô la.
+3 chiếc vali phù hợp với bên trong ngực.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 sô cô la phù hợp với bên trong ngực.
+6 là sô cô la lớn hơn hộp?	 Không	 5 1
+7 Có phải phù hợp với hộp trong va li?	 Không	 3 1
+8 là sô cô la lớn hơn hộp?	 Không	 5 1
+9 Có phải phù hợp với hộp trong va li?	 Không	 3 1
+10 là sô cô la lớn hơn hộp?	 Không	 5 1
+1 sôcôla phù hợp với bên trong container.
+2 chiếc vali phù hợp với bên trong container.
+3. ngực phù hợp với bên trong container.
+4 ngực phù hợp với bên trong hộp.
+5 Các thùng chứa lớn hơn chiếc vali.
+6 hộp sôcôla phù hợp với bên trong ngực.
+7 Hộp lớn hơn sô cô la.
+8 sôcôla phù hợp với bên trong ngực.
+9 Các thùng chứa lớn hơn sô cô la.
+10 sô cô la phù hợp với bên trong hộp sôcôla.
+11 là sô cô la lớn hơn ngực?	 Không	 10 6
+12 là sô cô la lớn hơn container?	 Không	 8 3
+13 là ngực lớn hơn sô cô la?	 Có	 6 10
+14 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 6 3
+15 là ngực lớn hơn sô cô la?	 Có	 6 10
+1 Các ngực phù hợp với bên trong va li.
+2 chiếc vali lớn hơn sô cô la.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 Các ngực lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong container.
+6 là va li lớn hơn sô cô la?	 Có	 1 4
+7 là sô cô la lớn hơn chiếc vali?	 Không	 4 1
+8 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 4 1
+9 là va li lớn hơn sô cô la?	 Có	 1 4
+10 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 4 1
+1 Hộp phù hợp với bên trong ngực.
+2 Hộp phù hợp với bên trong va li.
+3 sôcôla phù hợp với bên trong hộp.
+4 Hộp phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong hộp.
+6 Liệu phù hợp ngực trong sô cô la?	 Không	 5 1
+7 là sô cô la lớn hơn ngực?	 Không	 3 1
+8 là sô cô la lớn hơn ngực?	 Không	 5 1
+9 là sô cô la lớn hơn ngực?	 Không	 3 1
+10 là sô cô la lớn hơn ngực?	 Không	 3 1
+1 Các ngực lớn hơn hộp.
+2 container lớn hơn hộp sôcôla.
+3 chiếc vali phù hợp với bên trong ngực.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 Hộp sôcôla phù hợp với bên trong ngực.
+6 là hộp sôcôla lớn hơn ngực?	 Không	 4 1
+7 là hộp sôcôla lớn hơn ngực?	 Không	 4 1
+8 là ngực lớn hơn hộp sôcôla?	 Có	 1 4
+9 là hộp sôcôla lớn hơn ngực?	 Không	 4 1
+10 là ngực lớn hơn hộp sôcôla?	 Có	 1 4
+1 Các ngực lớn hơn thùng sơn.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 ngực lớn hơn hộp.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 chiếc vali lớn hơn thùng sơn.
+6 là sô cô la lớn hơn ngực?	 Không	 4 2
+7 là sô cô la lớn hơn ngực?	 Không	 4 2
+8 là ngực lớn hơn sô cô la?	 Có	 2 4
+9 là ngực lớn hơn sô cô la?	 Có	 2 4
+10 Có phải phù hợp với ngực trong sô cô la?	 Không	 4 2
+1 sôcôla phù hợp với bên trong hộp sôcôla.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 Hộp sôcôla phù hợp với bên trong va li.
+4 ngực phù hợp với bên trong va li.
+5 ngực phù hợp với bên trong va li.
+6 Liệu phù hợp sô cô la trong va li?	 Có	 3 1
+7 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 2
+8 Có phải phù hợp sô cô la trong va li?	 Có	 3 1
+9 là va li lớn hơn sô cô la?	 Có	 3 1
+10 Có phải phù hợp sô cô la trong va li?	 Có	 3 1
+1 Hộp lớn hơn hộp sôcôla.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 container lớn hơn hộp.
+4 Các ngực lớn hơn hộp sôcôla.
+5 Hộp phù hợp với bên trong ngực.
+6 Liệu phù hợp đựng trong hộp sôcôla?	 Không có	 1 3
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 5 1
+8 Có phải phù hợp đựng trong hộp sôcôla?	 Không có	 1 3
+9 Có phải phù hợp đựng trong hộp sôcôla?	 Không có	 1 3
+10 là hộp sôcôla lớn hơn container?	 Không có	 1 3
+1 chiếc vali phù hợp với bên trong ngực.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 chiếc vali phù hợp với bên trong ngực.
+5 Ngực lớn hơn sô cô la.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 2 3
+7 là hộp lớn hơn sô cô la?	 Có	 3 2
+8 là sô cô la lớn hơn hộp?	 Không có	 2 3
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+1 sôcôla phù hợp với bên trong va li.
+2 sôcôla phù hợp với bên trong va li.
+3 sôcôla phù hợp với bên trong container.
+4 Hộp phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 Các ngực lớn hơn sô cô la.
+7 Hộp lớn hơn hộp sôcôla.
+8 ngực phù hợp với bên trong hộp.
+9 Các sôcôla phù hợp với bên trong hộp.
+10 sô cô la phù hợp với bên trong container.
+11 Có hộp sôcôla phù hợp trong container?	 Có	 4 7
+12 Có phải phù hợp chứa trong sô cô la?	 Không	 9 4
+13 là sô cô la lớn hơn hộp?	 Không	 5 7
+14 Có phải phù hợp sôcôla trong hộp?	 Có	 7 5
+15 là ngực lớn hơn container?	 Không	 8 4
+1 sôcôla phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong va li.
+3 sôcôla phù hợp với bên trong ngực.
+4 ngực phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 là sô cô la lớn hơn container?	 Không	 3 4
+7 là container lớn hơn sô cô la?	 Có	 4 3
+8 là sô cô la lớn hơn container?	 Không	 3 4
+9 là sô cô la lớn hơn container?	 Không	 3 4
+10 là các thùng chứa lớn hơn sô cô la?	 Có	 4 3
+1 Các ngực lớn hơn sô cô la.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 chiếc vali lớn hơn sô cô la.
+4 chiếc vali phù hợp với bên trong ngực.
+5 Hộp sôcôla phù hợp với bên trong hộp.
+6 là ngực lớn hơn sô cô la?	 Có	 4 3
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 4 3
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 4 3
+9 là sô cô la lớn hơn ngực?	 Không	 3 4
+10 là sô cô la lớn hơn ngực?	 Không	 3 4
+1 Hộp phù hợp với bên trong va li.
+2 chiếc vali lớn hơn ngực.
+3 chiếc vali lớn hơn hộp.
+4 thùng chứa phù hợp với bên trong va li.
+5 Các thùng chứa lớn hơn hộp.
+6 Liệu phù hợp với chiếc vali trong hộp?	 Không	 5 4
+7 là hộp lớn hơn chiếc vali?	 Không	 5 4
+8 Có phải phù hợp với chiếc vali trong hộp?	 Không	 5 4
+9 là hộp lớn hơn chiếc vali?	 Không	 5 4
+10 là chiếc vali lớn hơn hộp?	 Có	 4 5
+1 chiếc vali phù hợp với bên trong hộp.
+2 container phù hợp với bên trong hộp.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 Các ngực lớn hơn chiếc vali.
+5 Các thùng chứa phù hợp với bên trong ngực.
+6 sôcôla phù hợp với bên trong ngực.
+7 Các thùng chứa phù hợp với bên trong va li.
+8 sôcôla phù hợp với bên trong ngực.
+9 Các sôcôla phù hợp với bên trong hộp sôcôla.
+10 ngực lớn hơn chiếc vali.
+11 là các thùng chứa lớn hơn hộp?	 Không	 7 1
+12 Có phải phù hợp với hộp trong container?	 Không	 7 1
+13 là các thùng chứa lớn hơn hộp?	 Không	 7 1
+14 Có phải phù hợp với hộp trong container?	 Không	 7 1
+15 là các thùng chứa lớn hơn hộp?	 Không	 7 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 Các ngực lớn hơn sô cô la.
+3 Hộp phù hợp với bên trong ngực.
+4 thùng chứa phù hợp với bên trong va li.
+5 chiếc vali lớn hơn thùng sơn.
+6 là ngực lớn hơn hộp sôcôla?	 Có	 3 1
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 3 1
+8 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+9 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+10 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+1 sôcôla phù hợp với bên trong hộp sôcôla.
+2 container lớn hơn hộp sôcôla.
+3 container lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Hộp phù hợp với bên trong va li.
+6 là sô cô la lớn hơn container?	 Không có	 1 2
+7 Có phải phù hợp sô cô la trong container?	 Có	 4 1
+8 là container lớn hơn sô cô la?	 Có	 4 1
+9 Có phải phù hợp sô cô la trong container?	 Có	 4 1
+10 Có phải phù hợp sô cô la trong container?	 Có	 4 1
+1 container là lớn hơn hộp sôcôla.
+2 Hộp lớn hơn hộp sôcôla.
+3 Hộp lớn hơn ngực.
+4 thùng chứa phù hợp với bên trong ngực.
+5 chiếc vali phù hợp với bên trong ngực.
+6 Liệu phù hợp với hộp trong container?	 Không	 4 3
+7 là chiếc vali lớn hơn hộp?	 Không	 5 3
+8 là container lớn hơn hộp?	 Không	 4 3
+9 Có phải phù hợp với hộp trong container?	 Không	 4 3
+10 Có phải phù hợp với hộp trong container?	 Không	 4 3
+1 chiếc vali lớn hơn ngực.
+2 container phù hợp với bên trong va li.
+3 chiếc vali lớn hơn ngực.
+4 Hộp lớn hơn hộp sôcôla.
+5 Ngực lớn hơn hộp sôcôla.
+6 Liệu phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 1
+7 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 1
+8 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 1
+9 là hộp sôcôla lớn hơn chiếc vali?	 Không	 5 1
+10 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 1
+1 container là lớn hơn so với chiếc vali.
+2 Hộp lớn hơn thùng sơn.
+3. ngực phù hợp với bên trong container.
+4 Các ngực lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong hộp.
+6 Liệu phù hợp với chiếc vali trong hộp?	 Có	 2 1
+7 là container lớn hơn sô cô la?	 Có	 3 4
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 4 3
+9 là va li lớn hơn hộp?	 Không có	 1 2
+10 Có phải phù hợp chứa trong sô cô la?	 Không	 4 3
+1 Các ngực lớn hơn hộp.
+2 container lớn hơn hộp sôcôla.
+3 ngực lớn hơn chiếc vali.
+4 sôcôla phù hợp với bên trong hộp.
+5 Ngực lớn hơn hộp sôcôla.
+6 Liệu phù hợp ngực trong sô cô la?	 Không	 4 1
+7 là ngực lớn hơn sô cô la?	 Có	 1 4
+8 Có phải phù hợp với ngực trong sô cô la?	 Không	 4 1
+9 là ngực lớn hơn sô cô la?	 Có	 1 4
+10 Có phải phù hợp với ngực trong sô cô la?	 Không	 4 1
+1 sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong va li.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 Hộp phù hợp với bên trong va li.
+5 Ngực lớn hơn hộp sôcôla.
+6 Hộp lớn hơn hộp sôcôla.
+7 sôcôla phù hợp với bên trong ngực.
+8 Hộp sôcôla phù hợp với bên trong ngực.
+9 Các ngực phù hợp với bên trong va li.
+10 hộp sôcôla lớn hơn sô cô la.
+11 Có hộp sôcôla phù hợp trong va li?	 Có	 4 6
+12 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 6 4
+13 Có phải phù hợp chứa trong sô cô la?	 Không	 10 3
+14 là chiếc vali lớn hơn hộp sôcôla?	 Có	 9 5
+15 là hộp sôcôla lớn hơn chiếc vali?	 Không	 6 4
+1 Các ngực lớn hơn thùng sơn.
+2 Các ngực lớn hơn hộp sôcôla.
+3 Hộp lớn hơn sô cô la.
+4 Các ngực lớn hơn chiếc vali.
+5 Hộp sôcôla phù hợp với bên trong ngực.
+6 sôcôla phù hợp với bên trong hộp.
+7 sôcôla phù hợp với bên trong container.
+8 Hộp lớn hơn hộp sôcôla.
+9 Các ngực lớn hơn chiếc vali.
+10 hộp phù hợp với bên trong va li.
+11 Có phải phù hợp với ngực trong hộp?	 Không	 10 4
+12 là hộp lớn hơn ngực?	 Không	 10 4
+13 là chiếc vali lớn hơn sô cô la?	 Có	 10 3
+14 Có phải phù hợp với ngực trong hộp?	 Không	 10 4
+15 Có phải phù hợp sô cô la trong va li?	 Có	 10 3
+1 sôcôla phù hợp với bên trong ngực.
+2 Hộp lớn hơn hộp sôcôla.
+3 ngực lớn hơn thùng sơn.
+4 chiếc vali phù hợp với bên trong hộp.
+5 Hộp sôcôla phù hợp với bên trong ngực.
+6 ngực phù hợp với bên trong hộp.
+7 chiếc vali phù hợp với bên trong ngực.
+8 sôcôla phù hợp với bên trong hộp sôcôla.
+9 Những chiếc vali lớn hơn sô cô la.
+10 container là lớn hơn so với sô cô la.
+11 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 4
+12 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 4
+13 là sô cô la lớn hơn hộp?	 Không	 8 2
+14 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 2
+15 là sô cô la lớn hơn ngực?	 Không	 10 3
+1 container là lớn hơn hộp.
+2 chiếc vali phù hợp với bên trong hộp.
+3 Hộp lớn hơn chiếc vali.
+4 sôcôla phù hợp với bên trong container.
+5 Hộp lớn hơn sô cô la.
+6 Liệu phù hợp đựng trong va li?	 Không	 2 1
+7 Có phải phù hợp chứa trong sô cô la?	 Không	 5 1
+8 là va li lớn hơn container?	 Không	 3 1
+9 Có phải phù hợp với chiếc vali trong container?	 Có	 1 2
+10 Có phải phù hợp đựng trong va li?	 Không	 3 1
+1 sôcôla phù hợp với bên trong hộp.
+2 container lớn hơn hộp.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 va li lớn hơn hộp sôcôla.
+5 Hộp lớn hơn hộp sôcôla.
+6 Liệu phù hợp sô cô la trong container?	 Có	 2 1
+7 Có phải phù hợp sô cô la trong container?	 Có	 2 1
+8 là sô cô la lớn hơn container?	 Không có	 1 2
+9 Có phải phù hợp sô cô la trong container?	 Có	 2 1
+10 Có phải phù hợp sô cô la trong container?	 Có	 2 1
+1 chiếc vali lớn hơn hộp.
+2 container lớn hơn chiếc vali.
+3 container lớn hơn sô cô la.
+4 Hộp phù hợp với bên trong ngực.
+5 Các thùng chứa lớn hơn sô cô la.
+6 là hộp lớn hơn container?	 Không có	 1 2
+7 là container lớn hơn hộp?	 Có	 2 1
+8 Có phải phù hợp với hộp trong container?	 Có	 2 1
+9 là container lớn hơn hộp?	 Có	 2 1
+10 Có phải phù hợp với hộp trong container?	 Có	 2 1
+1 sôcôla phù hợp với bên trong ngực.
+2 chiếc vali lớn hơn sô cô la.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 Hộp sôcôla lớn hơn sô cô la.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 4 3
+7 là hộp lớn hơn sô cô la?	 Có	 3 4
+8 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 3
+9 là sô cô la lớn hơn hộp?	 Không	 4 3
+10 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 3
+1 Các ngực phù hợp với bên trong container.
+2 Hộp lớn hơn ngực.
+3 chiếc vali lớn hơn sô cô la.
+4 thùng chứa lớn hơn ngực.
+5 Hộp phù hợp với bên trong va li.
+6 là ngực lớn hơn chiếc vali?	 Không	 2 5
+7 là ngực lớn hơn chiếc vali?	 Không	 2 5
+8 là va li lớn hơn ngực?	 Có	 5 2
+9 là ngực lớn hơn chiếc vali?	 Không	 2 5
+10 Có phải phù hợp với ngực trong chiếc vali?	 Có	 5 2
+1 Các ngực phù hợp với bên trong va li.
+2 chiếc vali lớn hơn sô cô la.
+3 Hộp lớn hơn sô cô la.
+4 Các ngực lớn hơn sô cô la.
+5 Hộp lớn hơn sô cô la.
+6 là va li lớn hơn sô cô la?	 Có	 1 4
+7 Có phải phù hợp sô cô la trong va li?	 Có	 1 4
+8 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 4 1
+9 là sô cô la lớn hơn chiếc vali?	 Không	 4 1
+10 Có phải phù hợp sô cô la trong va li?	 Có	 1 4
+1 Hộp lớn hơn sô cô la.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 chiếc vali phù hợp với bên trong hộp.
+4 sôcôla phù hợp với bên trong ngực.
+5 Hộp lớn hơn hộp sôcôla.
+6 là sô cô la lớn hơn hộp?	 Không có	 2 5
+7 là sô cô la lớn hơn hộp?	 Không có	 2 5
+8 là sô cô la lớn hơn hộp?	 Không có	 2 5
+9 Có phải phù hợp với hộp trong sô cô la?	 Không	 2 5
+10 là sô cô la lớn hơn hộp?	 Không có	 2 5
+1 sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong ngực.
+3 Hộp sôcôla phù hợp với bên trong ngực.
+4 Hộp lớn hơn hộp sôcôla.
+5 Hộp lớn hơn chiếc vali.
+6 Hộp phù hợp với bên trong container.
+7 Ngực lớn hơn hộp sôcôla.
+8 Hộp sôcôla phù hợp với bên trong container.
+9 Các ngực lớn hơn hộp sôcôla.
+10 chiếc vali phù hợp với bên trong container.
+11 là các thùng chứa lớn hơn hộp sôcôla?	 Có	 6 4
+12 Có hộp sôcôla phù hợp trong container?	 Có	 6 4
+13 là các thùng chứa lớn hơn hộp sôcôla?	 Có	 6 4
+14 Hộp lớn hơn sô cô la.
+15 Các sôcôla phù hợp với bên trong container.
+16 Hộp lớn hơn sô cô la.
+17 Các sôcôla phù hợp với bên trong hộp sôcôla.
+18 Các thùng chứa lớn hơn sô cô la.
+19 là các thùng chứa lớn hơn hộp sôcôla?	 Có	 6 4
+20 Có phải phù hợp với ngực trong sô cô la?	 Không	 17 3
+21 là sô cô la lớn hơn ngực?	 Không	 17 3
+22 Có phải phù hợp với ngực trong sô cô la?	 Không	 17 3
+23 là các thùng chứa lớn hơn hộp sôcôla?	 Có	 6 4
+1 Các ngực phù hợp với bên trong va li.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong hộp.
+5 sô cô la phù hợp với bên trong container.
+6 là va li lớn hơn sô cô la?	 Có	 3 2
+7 là sô cô la lớn hơn chiếc vali?	 Không	 2 3
+8 là va li lớn hơn sô cô la?	 Có	 3 2
+9 là sô cô la lớn hơn chiếc vali?	 Không	 2 3
+10 là sô cô la lớn hơn chiếc vali?	 Không	 2 3
+1 chiếc vali lớn hơn thùng sơn.
+2 Các ngực lớn hơn thùng sơn.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 sô cô la phù hợp với bên trong va li.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 4 3
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 3 4
+8 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 3
+9 là sô cô la lớn hơn hộp?	 Không	 4 3
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 3 4
+1 chiếc vali phù hợp với bên trong container.
+2 chiếc vali lớn hơn hộp.
+3 chiếc vali lớn hơn sô cô la.
+4 Hộp lớn hơn hộp sôcôla.
+5 ngực phù hợp với bên trong container.
+6 Liệu phù hợp chứa trong hộp?	 Không	 2 1
+7 Có phải phù hợp chứa trong sô cô la?	 Không	 3 1
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 3 1
+9 là container lớn hơn hộp?	 Có	 1 2
+10 là hộp lớn hơn container?	 Không	 2 1
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong va li.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn hộp sôcôla.
+5 Ngực lớn hơn sô cô la.
+6 Hộp lớn hơn ngực.
+7 Các thùng chứa phù hợp với bên trong hộp.
+8 ngực phù hợp với bên trong hộp.
+9 Hộp sôcôla lớn hơn sô cô la.
+10 hộp lớn hơn ngực.
+11 là sô cô la lớn hơn hộp?	 Không	 9 1
+12 là sô cô la lớn hơn hộp?	 Không	 5 6
+13 Có phải phù hợp sôcôla trong hộp?	 Có	 8 5
+14 là sô cô la lớn hơn hộp?	 Không	 5 6
+15 là hộp lớn hơn sô cô la?	 Có	 10 5
+1 chiếc vali lớn hơn sô cô la.
+2 container lớn hơn sô cô la.
+3 ngực lớn hơn chiếc vali.
+4 Hộp phù hợp với bên trong container.
+5 Ngực lớn hơn sô cô la.
+6 là sô cô la lớn hơn ngực?	 Không có	 1 3
+7 là ngực lớn hơn sô cô la?	 Có	 3 1
+8 Có phải phù hợp với ngực trong sô cô la?	 Không có	 1 3
+9 Có phải phù hợp với ngực trong sô cô la?	 Không có	 1 3
+10 là sô cô la lớn hơn ngực?	 Không có	 1 3
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 container lớn hơn hộp sôcôla.
+3 Hộp lớn hơn ngực.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 ngực phù hợp với bên trong va li.
+6 Các ngực lớn hơn sô cô la.
+7 Hộp lớn hơn hộp sôcôla.
+8 sôcôla phù hợp với bên trong container.
+9 Hộp sôcôla lớn hơn sô cô la.
+10 container là lớn hơn so với sô cô la.
+11 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 1
+12 là sô cô la lớn hơn hộp?	 Không	 9 1
+13 Có phải phù hợp với hộp trong sô cô la?	 Không	 9 1
+14 là sô cô la lớn hơn hộp?	 Không	 9 1
+15 Có phải phù hợp với hộp trong sô cô la?	 Không	 6 3
+1 Các ngực lớn hơn hộp sôcôla.
+2 Hộp lớn hơn thùng sơn.
+3 Hộp sôcôla phù hợp với bên trong ngực.
+4 Hộp phù hợp với bên trong va li.
+5 Hộp lớn hơn hộp sôcôla.
+6 là va li lớn hơn container?	 Có	 4 2
+7 là container lớn hơn chiếc vali?	 Không	 2 4
+8 Có phải phù hợp với chiếc vali trong container?	 Không	 2 4
+9 là va li lớn hơn container?	 Có	 4 2
+10 là các thùng chứa lớn hơn chiếc vali?	 Không	 2 4
+1 sôcôla phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong ngực.
+3 Hộp sôcôla phù hợp với bên trong container.
+4 Các ngực lớn hơn thùng sơn.
+5 Hộp sôcôla phù hợp với bên trong ngực.
+6 là hộp sôcôla lớn hơn ngực?	 Không	 3 4
+7 Có phải phù hợp với ngực trong hộp sôcôla?	 Không	 3 4
+8 Có hộp sôcôla phù hợp trong ngực?	 Có	 4 3
+9 là hộp sôcôla lớn hơn ngực?	 Không	 3 4
+10 là ngực lớn hơn hộp sôcôla?	 Có	 4 3
+1 container phù hợp với bên trong hộp.
+2 chiếc vali lớn hơn ngực.
+3 Hộp lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong va li.
+5 Ngực lớn hơn hộp sôcôla.
+6 là va li lớn hơn hộp sôcôla?	 Có	 2 5
+7 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 5 2
+8 là hộp sôcôla lớn hơn chiếc vali?	 Không	 5 2
+9 Có hộp sôcôla phù hợp trong va li?	 Có	 2 5
+10 Có hộp sôcôla phù hợp trong va li?	 Có	 2 5
+1 chiếc vali phù hợp với bên trong ngực.
+2 container phù hợp với bên trong hộp.
+3 Hộp lớn hơn chiếc vali.
+4 thùng chứa lớn hơn sô cô la.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 Liệu phù hợp sôcôla trong hộp?	 Có	 2 4
+7 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 2
+8 là hộp sôcôla lớn hơn ngực?	 Không	 5 1
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 2 4
+10 là hộp lớn hơn sô cô la?	 Có	 2 4
+1 sôcôla phù hợp với bên trong container.
+2 Hộp sôcôla phù hợp với bên trong hộp.
+3 sôcôla phù hợp với bên trong va li.
+4 va li lớn hơn thùng sơn.
+5 Ngực lớn hơn hộp sôcôla.
+6 là va li lớn hơn sô cô la?	 Có	 4 1
+7 là sô cô la lớn hơn chiếc vali?	 Không có	 1 4
+8 Có phải phù hợp sô cô la trong va li?	 Có	 4 1
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 4
+10 là chiếc vali lớn hơn sô cô la?	 Có	 4 1
+1 chiếc vali phù hợp với bên trong hộp.
+2 Hộp lớn hơn sô cô la.
+3 Hộp lớn hơn sô cô la.
+4 Các ngực lớn hơn thùng sơn.
+5 Hộp lớn hơn thùng sơn.
+6 thùng chứa lớn hơn hộp sôcôla.
+7 sôcôla phù hợp với bên trong ngực.
+8 Hộp sôcôla phù hợp với bên trong va li.
+9 Những chiếc vali lớn hơn hộp sôcôla.
+10 ngực phù hợp với bên trong hộp.
+11 Có phải phù hợp với ngực trong hộp sôcôla?	 Không	 6 4
+12 Có phải phù hợp chứa trong hộp?	 Có	 10 4
+13 là hộp sôcôla lớn hơn hộp?	 Không	 9 1
+14 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 9 1
+15 là hộp lớn hơn container?	 Có	 10 4
+1 sôcôla phù hợp với bên trong va li.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 chiếc vali lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 Hộp lớn hơn thùng sơn.
+6 sôcôla phù hợp với bên trong hộp sôcôla.
+7 Các thùng chứa phù hợp với bên trong hộp.
+8 Các thùng chứa lớn hơn hộp sôcôla.
+9 Những chiếc vali lớn hơn hộp.
+10 hộp sôcôla lớn hơn sô cô la.
+11 là hộp sôcôla lớn hơn hộp?	 Không	 8 5
+12 Có phải phù hợp với ngực trong sô cô la?	 Không	 10 2
+13 Có hộp sôcôla phù hợp trong va li?	 Có	 9 4
+14 là sô cô la lớn hơn ngực?	 Không	 10 2
+15 là chiếc vali lớn hơn hộp sôcôla?	 Có	 9 4
+1 container là lớn hơn hộp sôcôla.
+2 container lớn hơn chiếc vali.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong container.
+6 là hộp sôcôla lớn hơn container?	 Không	 3 2
+7 là container lớn hơn hộp sôcôla?	 Có	 2 3
+8 là hộp sôcôla lớn hơn container?	 Không	 3 2
+9 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 3 2
+10 Có hộp sôcôla phù hợp trong container?	 Có	 2 3
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 Hộp sôcôla phù hợp với bên trong hộp.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 sô cô la phù hợp với bên trong ngực.
+6 là sô cô la lớn hơn hộp?	 Không	 3 1
+7 là sô cô la lớn hơn hộp?	 Không	 3 1
+8 là sô cô la lớn hơn hộp?	 Không	 3 1
+9 là sô cô la lớn hơn hộp?	 Không	 3 1
+10 là sô cô la lớn hơn hộp?	 Không	 3 1
+1 chiếc vali lớn hơn hộp.
+2 sôcôla phù hợp với bên trong va li.
+3 chiếc vali lớn hơn sô cô la.
+4 chiếc vali phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong container.
+6 Liệu phù hợp với hộp trong ngực?	 Có	 4 1
+7 Có phải phù hợp với hộp trong ngực?	 Có	 4 1
+8 Có phải phù hợp với hộp trong ngực?	 Có	 4 1
+9 là ngực lớn hơn hộp?	 Có	 4 1
+10 Có phải phù hợp với hộp trong ngực?	 Có	 4 1
+1 sôcôla phù hợp với bên trong container.
+2 Các ngực phù hợp với bên trong hộp.
+3 container phù hợp với bên trong hộp.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 Ngực lớn hơn chiếc vali.
+6 Liệu phù hợp với hộp trong va li?	 Không	 5 2
+7 là chiếc vali lớn hơn hộp?	 Không	 5 2
+8 là hộp lớn hơn chiếc vali?	 Có	 2 5
+9 là va li lớn hơn hộp?	 Không	 5 2
+10 Có phải phù hợp với hộp trong va li?	 Không	 5 2
+1 Hộp lớn hơn hộp sôcôla.
+2 sôcôla phù hợp với bên trong container.
+3 Hộp phù hợp với bên trong ngực.
+4 Hộp phù hợp với bên trong va li.
+5 chiếc vali lớn hơn sô cô la.
+6 Liệu phù hợp ngực trong hộp sôcôla?	 Không có	 1 3
+7 là chiếc vali lớn hơn hộp sôcôla?	 Có	 4 1
+8 Có phải phù hợp với ngực trong hộp sôcôla?	 Không có	 1 3
+9 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+10 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+1 Hộp lớn hơn thùng sơn.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 Hộp lớn hơn sô cô la.
+4 ngực phù hợp với bên trong va li.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 là hộp lớn hơn hộp sôcôla?	 Có	 1 5
+7 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 1 5
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 1 5
+9 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 1 5
+10 Có phải phù hợp chứa trong sô cô la?	 Không	 2 5
+1 container phù hợp với bên trong hộp.
+2 Hộp sôcôla phù hợp với bên trong hộp.
+3 Hộp sôcôla phù hợp với bên trong ngực.
+4 Hộp lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong va li.
+6 chiếc vali lớn hơn thùng sơn.
+7 Hộp sôcôla phù hợp với bên trong ngực.
+8 sôcôla phù hợp với bên trong hộp sôcôla.
+9 Các ngực lớn hơn sô cô la.
+10 hộp sôcôla phù hợp với bên trong container.
+11 là hộp sôcôla lớn hơn hộp?	 Không có	 10 1
+12 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 2
+13 là sô cô la lớn hơn hộp?	 Không	 8 2
+14 Có phải phù hợp với hộp trong sô cô la?	 Không	 8 2
+15 là hộp sôcôla lớn hơn hộp?	 Không có	 10 1
+1 container phù hợp với bên trong hộp.
+2 chiếc vali lớn hơn ngực.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 Hộp lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong va li.
+6 chiếc vali lớn hơn ngực.
+7 Hộp lớn hơn hộp sôcôla.
+8 Hộp sôcôla phù hợp với bên trong ngực.
+9 Hộp sôcôla phù hợp với bên trong ngực.
+10 hộp lớn hơn ngực.
+11 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 9 2
+12 Có phải phù hợp sô cô la vào ngực?	 Có	 9 3
+13 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 9 2
+14 là ngực lớn hơn sô cô la?	 Có	 9 3
+15 là hộp sôcôla lớn hơn chiếc vali?	 Không	 9 2
+1 Các ngực lớn hơn hộp sôcôla.
+2 container lớn hơn chiếc vali.
+3 container lớn hơn chiếc vali.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 Hộp lớn hơn sô cô la.
+6 chiếc vali lớn hơn ngực.
+7 Các thùng chứa lớn hơn sô cô la.
+8 Các ngực lớn hơn sô cô la.
+9 Những chiếc vali lớn hơn ngực.
+10 container là lớn hơn hộp.
+11 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không có	 1 6
+12 Có phải phù hợp chứa trong ngực?	 Không	 9 2
+13 Có hộp sôcôla phù hợp trong container?	 Có	 10 4
+14 là chiếc vali lớn hơn hộp sôcôla?	 Có	 9 1
+15 Có hộp sôcôla phù hợp trong va li?	 Có	 9 1
+1 Hộp lớn hơn sô cô la.
+2 Hộp sôcôla phù hợp với bên trong container.
+3 sôcôla phù hợp với bên trong va li.
+4 thùng chứa lớn hơn chiếc vali.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 Liệu phù hợp chứa trong sô cô la?	 Không	 3 4
+7 là container lớn hơn sô cô la?	 Có	 4 3
+8 là container lớn hơn sô cô la?	 Có	 4 3
+9 Có phải phù hợp sô cô la trong container?	 Có	 4 3
+10 là các thùng chứa lớn hơn sô cô la?	 Có	 4 3
+1 hộp sôcôla lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong ngực.
+3 ngực lớn hơn sô cô la.
+4 sôcôla phù hợp với bên trong hộp sôcôla.
+5 Hộp sôcôla phù hợp với bên trong ngực.
+6 là ngực lớn hơn sô cô la?	 Có	 5 1
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 5 1
+8 là ngực lớn hơn sô cô la?	 Có	 5 1
+9 Có phải phù hợp sô cô la vào ngực?	 Có	 5 1
+10 Có phải phù hợp sô cô la vào ngực?	 Có	 5 1
+1 sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 sôcôla phù hợp với bên trong ngực.
+4 va li lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong va li.
+6 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+7 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+8 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+9 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+10 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+1 chiếc vali phù hợp với bên trong container.
+2 chiếc vali phù hợp với bên trong container.
+3 ngực lớn hơn chiếc vali.
+4 va li lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong container.
+6 là hộp sôcôla lớn hơn container?	 Không	 4 1
+7 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 4 1
+8 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 4 1
+9 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 4 1
+10 là hộp sôcôla lớn hơn container?	 Không	 4 1
+1 Hộp lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong va li.
+3 chiếc vali lớn hơn hộp.
+4 Các ngực lớn hơn hộp sôcôla.
+5 Hộp phù hợp với bên trong container.
+6 là va li lớn hơn sô cô la?	 Có	 3 1
+7 Có phải phù hợp sô cô la trong container?	 Có	 5 1
+8 Có phải phù hợp sô cô la trong va li?	 Có	 3 1
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 3
+10 là chiếc vali lớn hơn sô cô la?	 Có	 3 1
+1 chiếc vali lớn hơn sô cô la.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 ngực lớn hơn hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Hộp lớn hơn hộp sôcôla.
+6 hộp sôcôla phù hợp với bên trong hộp.
+7 Hộp sôcôla lớn hơn sô cô la.
+8 Các thùng chứa lớn hơn chiếc vali.
+9 Hộp sôcôla lớn hơn sô cô la.
+10 container là lớn hơn hộp sôcôla.
+11 là các thùng chứa lớn hơn sô cô la?	 Có	 8 1
+12 là sô cô la lớn hơn chiếc vali?	 Không	 9 2
+13 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 7 2
+14 là sô cô la lớn hơn chiếc vali?	 Không	 7 2
+15 là sô cô la lớn hơn chiếc vali?	 Không	 9 2
+1 Các ngực lớn hơn chiếc vali.
+2 container phù hợp với bên trong va li.
+3 ngực lớn hơn hộp.
+4 Hộp phù hợp với bên trong ngực.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 là container lớn hơn ngực?	 Không	 2 1
+7 Có phải phù hợp với ngực trong container?	 Không	 2 1
+8 là ngực lớn hơn container?	 Có	 1 2
+9 Có phải phù hợp với ngực trong container?	 Không	 2 1
+10 Có phải phù hợp chứa trong ngực?	 Có	 1 2
+1 chiếc vali phù hợp với bên trong hộp.
+2 Các ngực phù hợp với bên trong hộp.
+3 sôcôla phù hợp với bên trong hộp.
+4 Hộp lớn hơn thùng sơn.
+5 chiếc vali lớn hơn hộp sôcôla.
+6 Liệu phù hợp với hộp trong hộp sôcôla?	 Không	 5 1
+7 là hộp lớn hơn hộp sôcôla?	 Có	 1 5
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 1 5
+9 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 1 5
+10 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 1
+1 sôcôla phù hợp với bên trong va li.
+2 sôcôla phù hợp với bên trong ngực.
+3 sôcôla phù hợp với bên trong va li.
+4 Hộp phù hợp với bên trong ngực.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 sôcôla phù hợp với bên trong hộp sôcôla.
+7 Các thùng chứa lớn hơn ngực.
+8 sôcôla phù hợp với bên trong va li.
+9 Các thùng chứa lớn hơn hộp sôcôla.
+10 container là lớn hơn so với sô cô la.
+11 Có phải phù hợp chứa trong sô cô la?	 Không	 6 5
+12 là các thùng chứa lớn hơn sô cô la?	 Có	 7 2
+13 là các thùng chứa lớn hơn sô cô la?	 Có	 7 2
+14 Có phải phù hợp sô cô la trong container?	 Có	 7 2
+15 là các thùng chứa lớn hơn sô cô la?	 Có	 7 2
+1 Hộp phù hợp với bên trong container.
+2 chiếc vali lớn hơn hộp sôcôla.
+3 Hộp lớn hơn sô cô la.
+4 Các ngực lớn hơn hộp sôcôla.
+5 Các thùng chứa lớn hơn sô cô la.
+6 Liệu phù hợp chứa trong sô cô la?	 Không	 3 1
+7 là container lớn hơn sô cô la?	 Có	 1 3
+8 Có phải phù hợp sô cô la trong container?	 Có	 1 3
+9 là container lớn hơn sô cô la?	 Có	 1 3
+10 là các thùng chứa lớn hơn sô cô la?	 Có	 1 3
+1 sôcôla phù hợp với bên trong ngực.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 Hộp lớn hơn thùng sơn.
+4 thùng chứa lớn hơn hộp sôcôla.
+5 chiếc vali phù hợp với bên trong ngực.
+6 Liệu phù hợp sô cô la trong container?	 Có	 4 2
+7 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 4 3
+8 là container lớn hơn sô cô la?	 Có	 4 2
+9 là hộp sôcôla lớn hơn hộp?	 Không	 4 3
+10 Có hộp sôcôla phù hợp trong hộp?	 Có	 3 4
+1 sôcôla phù hợp với bên trong ngực.
+2 container lớn hơn sô cô la.
+3 sôcôla phù hợp với bên trong container.
+4 Các ngực lớn hơn thùng sơn.
+5 Hộp sôcôla phù hợp với bên trong container.
+6 là ngực lớn hơn sô cô la?	 Có	 4 2
+7 Có phải phù hợp sô cô la vào ngực?	 Có	 4 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 4 2
+9 là ngực lớn hơn sô cô la?	 Có	 4 2
+10 Có phải phù hợp sô cô la vào ngực?	 Có	 4 2
+1 chiếc vali lớn hơn ngực.
+2 Các ngực phù hợp với bên trong container.
+3 container lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 Hộp lớn hơn hộp sôcôla.
+6 là hộp sôcôla lớn hơn chiếc vali?	 Không	 4 1
+7 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 4 1
+8 là hộp sôcôla lớn hơn chiếc vali?	 Không	 4 1
+9 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 4 1
+10 là hộp sôcôla lớn hơn chiếc vali?	 Không	 4 1
+1 Hộp lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong va li.
+3 sôcôla phù hợp với bên trong hộp.
+4 thùng chứa lớn hơn ngực.
+5 sô cô la phù hợp với bên trong hộp.
+6 thùng chứa lớn hơn hộp sôcôla.
+7 sôcôla phù hợp với bên trong hộp.
+8 sôcôla phù hợp với bên trong va li.
+9 Các thùng chứa lớn hơn sô cô la.
+10 container là lớn hơn hộp.
+11 là các thùng chứa lớn hơn sô cô la?	 Có	 10 1
+12 Có phải phù hợp sô cô la trong container?	 Có	 10 1
+13 là các thùng chứa lớn hơn sô cô la?	 Có	 10 1
+14 là các thùng chứa lớn hơn sô cô la?	 Có	 10 1
+15 Có phải phù hợp sô cô la trong container?	 Có	 10 1
+1 Hộp lớn hơn ngực.
+2 Hộp sôcôla phù hợp với bên trong va li.
+3. ngực phù hợp với bên trong container.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Các thùng chứa lớn hơn chiếc vali.
+6 là container lớn hơn hộp sôcôla?	 Có	 5 2
+7 là hộp sôcôla lớn hơn container?	 Không	 2 5
+8 là hộp sôcôla lớn hơn container?	 Không	 2 5
+9 Có hộp sôcôla phù hợp trong container?	 Có	 5 2
+10 là hộp sôcôla lớn hơn container?	 Không	 2 5
+1 Các ngực lớn hơn thùng sơn.
+2 Các ngực lớn hơn hộp.
+3 Hộp lớn hơn thùng sơn.
+4 sôcôla phù hợp với bên trong container.
+5 chiếc vali lớn hơn hộp.
+6 Liệu phù hợp chứa trong ngực?	 Có	 2 3
+7 là ngực lớn hơn container?	 Có	 2 3
+8 là sô cô la lớn hơn ngực?	 Không	 4 1
+9 là ngực lớn hơn container?	 Có	 2 3
+10 Có phải phù hợp với ngực trong container?	 Không	 3 2
+1 Hộp phù hợp với bên trong container.
+2 Hộp sôcôla phù hợp với bên trong hộp.
+3. ngực phù hợp với bên trong va li.
+4 Các ngực lớn hơn hộp sôcôla.
+5 Ngực lớn hơn sô cô la.
+6 là hộp sôcôla lớn hơn chiếc vali?	 Không	 4 3
+7 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+8 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 4 3
+9 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+10 Có hộp sôcôla phù hợp trong va li?	 Có	 3 4
+1 sôcôla phù hợp với bên trong container.
+2 Hộp lớn hơn ngực.
+3 container lớn hơn hộp sôcôla.
+4 Các ngực lớn hơn thùng sơn.
+5 chiếc vali phù hợp với bên trong ngực.
+6 Liệu phù hợp chứa trong hộp?	 Có	 2 4
+7 là container lớn hơn hộp?	 Không	 4 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 4 1
+9 là hộp lớn hơn container?	 Có	 2 4
+10 Có phải phù hợp sô cô la vào ngực?	 Có	 4 1
+1 Hộp lớn hơn sô cô la.
+2 Hộp lớn hơn hộp sôcôla.
+3 container lớn hơn hộp.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 là sô cô la lớn hơn hộp?	 Không	 5 2
+7 Có phải phù hợp sô cô la trong container?	 Có	 3 1
+8 là sô cô la lớn hơn hộp?	 Không	 5 2
+9 là sô cô la lớn hơn hộp?	 Không	 5 2
+10 Có phải phù hợp với hộp trong sô cô la?	 Không	 5 2
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 container lớn hơn hộp.
+3. ngực phù hợp với bên trong va li.
+4 thùng chứa lớn hơn hộp.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 Liệu phù hợp sô cô la vào ngực?	 Có	 1 5
+7 là ngực lớn hơn sô cô la?	 Có	 1 5
+8 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không có	 1 3
+9 Có phải phù hợp với ngực trong sô cô la?	 Không	 5 1
+10 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không có	 1 3
+1 Hộp lớn hơn sô cô la.
+2 Các ngực phù hợp với bên trong hộp.
+3. ngực phù hợp với bên trong hộp.
+4 ngực phù hợp với bên trong hộp.
+5 Ngực lớn hơn hộp sôcôla.
+6 Liệu phù hợp với hộp trong hộp sôcôla?	 Không	 5 2
+7 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 2
+8 là hộp sôcôla lớn hơn hộp?	 Không	 5 2
+9 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 2
+10 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 5 2
+1 Hộp phù hợp với bên trong container.
+2 container lớn hơn chiếc vali.
+3 Hộp phù hợp với bên trong container.
+4 sôcôla phù hợp với bên trong container.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 Có hộp sôcôla phù hợp trong container?	 Có	 2 5
+7 Có hộp sôcôla phù hợp trong container?	 Có	 2 5
+8 là container lớn hơn hộp sôcôla?	 Có	 2 5
+9 Có hộp sôcôla phù hợp trong container?	 Có	 2 5
+10 Có hộp sôcôla phù hợp trong container?	 Có	 2 5
+1 sôcôla phù hợp với bên trong hộp sôcôla.
+2 sôcôla phù hợp với bên trong ngực.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 va li lớn hơn ngực.
+5 sô cô la phù hợp với bên trong container.
+6 Liệu phù hợp sô cô la trong va li?	 Có	 3 1
+7 Có phải phù hợp sô cô la trong va li?	 Có	 4 2
+8 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 3
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 3
+10 Có phải phù hợp sô cô la trong va li?	 Có	 3 1
+1 sôcôla phù hợp với bên trong va li.
+2 Các ngực lớn hơn sô cô la.
+3 chiếc vali lớn hơn hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong hộp.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 Liệu phù hợp với chiếc vali trong sô cô la?	 Không	 5 3
+7 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 5 3
+8 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+9 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+10 là sô cô la lớn hơn chiếc vali?	 Không	 5 3
+1 Các ngực phù hợp với bên trong container.
+2 chiếc vali lớn hơn ngực.
+3 sôcôla phù hợp với bên trong ngực.
+4 sôcôla phù hợp với bên trong va li.
+5 Các thùng chứa lớn hơn hộp.
+6 là sô cô la lớn hơn container?	 Không	 3 1
+7 là sô cô la lớn hơn container?	 Không	 3 1
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 3 1
+9 là sô cô la lớn hơn container?	 Không	 3 1
+10 là sô cô la lớn hơn container?	 Không	 3 1
+1 hộp sôcôla phù hợp với bên trong container.
+2 chiếc vali lớn hơn sô cô la.
+3 Hộp lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong container.
+6 Hộp lớn hơn chiếc vali.
+7 sôcôla phù hợp với bên trong container.
+8 Các thùng chứa phù hợp với bên trong hộp.
+9 Các thùng chứa lớn hơn sô cô la.
+10 hộp sôcôla phù hợp với bên trong ngực.
+11 là sô cô la lớn hơn hộp?	 Không có	 2 6
+12 Có hộp sôcôla phù hợp trong hộp?	 Có	 8 1
+13 là hộp lớn hơn hộp sôcôla?	 Có	 8 1
+14 là sô cô la lớn hơn hộp?	 Không có	 2 6
+15 là sô cô la lớn hơn hộp?	 Không có	 2 6
+1 container phù hợp với bên trong hộp.
+2 chiếc vali phù hợp với bên trong ngực.
+3 ngực lớn hơn sô cô la.
+4 thùng chứa lớn hơn chiếc vali.
+5 Các thùng chứa phù hợp với bên trong hộp.
+6 Liệu phù hợp với hộp trong va li?	 Không	 4 1
+7 Có phải phù hợp với hộp trong va li?	 Không	 4 1
+8 Có phải phù hợp với hộp trong va li?	 Không	 4 1
+9 Có phải phù hợp với hộp trong va li?	 Không	 4 1
+10 Có phải phù hợp với hộp trong va li?	 Không	 4 1
+1 Các ngực phù hợp với bên trong hộp.
+2 Hộp lớn hơn ngực.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 va li lớn hơn hộp.
+5 Hộp sôcôla lớn hơn sô cô la.
+6 Liệu phù hợp ngực trong chiếc vali?	 Có	 4 1
+7 là chiếc vali lớn hơn ngực?	 Có	 4 1
+8 Có phải phù hợp với ngực trong chiếc vali?	 Có	 4 1
+9 là va li lớn hơn ngực?	 Có	 4 1
+10 là chiếc vali lớn hơn ngực?	 Có	 4 1
+1 chiếc vali lớn hơn ngực.
+2 chiếc vali lớn hơn thùng sơn.
+3 ngực lớn hơn hộp sôcôla.
+4 sôcôla phù hợp với bên trong hộp.
+5 Hộp phù hợp với bên trong container.
+6 Liệu phù hợp với chiếc vali trong hộp?	 Không	 5 2
+7 Có phải phù hợp sô cô la trong container?	 Có	 5 4
+8 Có phải phù hợp với chiếc vali trong hộp?	 Không	 5 2
+9 Có phải phù hợp với hộp trong va li?	 Có	 2 5
+10 Có phải phù hợp với hộp trong va li?	 Có	 2 5
+1 Hộp lớn hơn hộp sôcôla.
+2 Hộp lớn hơn sô cô la.
+3 ngực lớn hơn sô cô la.
+4 Hộp lớn hơn hộp sôcôla.
+5 sô cô la phù hợp với bên trong ngực.
+6 Hộp lớn hơn chiếc vali.
+7 Các ngực lớn hơn chiếc vali.
+8 Hộp lớn hơn hộp sôcôla.
+9 Hộp lớn hơn chiếc vali.
+10 container là lớn hơn so với chiếc vali.
+11 Hộp lớn hơn ngực.
+12 Hộp sôcôla phù hợp với bên trong container.
+13 Hộp sôcôla phù hợp với bên trong hộp.
+14 Các ngực lớn hơn hộp sôcôla.
+15 Hộp sôcôla phù hợp với bên trong ngực.
+16 Có phải phù hợp sôcôla trong hộp?	 Có	 11 3
+17 Có phải phù hợp sôcôla trong hộp?	 Có	 11 3
+18 Có phải phù hợp sôcôla trong hộp?	 Có	 11 3
+19 Có phải phù hợp sôcôla trong hộp?	 Có	 11 3
+20 là hộp lớn hơn sô cô la?	 Có	 11 3
+1 Hộp lớn hơn chiếc vali.
+2 Hộp phù hợp với bên trong container.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 thùng chứa lớn hơn hộp.
+5 Các thùng chứa lớn hơn hộp.
+6 Liệu phù hợp với chiếc vali trong container?	 Có	 5 1
+7 là container lớn hơn chiếc vali?	 Có	 2 1
+8 là container lớn hơn chiếc vali?	 Có	 2 1
+9 Có phải phù hợp với chiếc vali trong container?	 Có	 2 1
+10 Có phải phù hợp đựng trong va li?	 Không có	 1 2
+1 chiếc vali lớn hơn ngực.
+2 Hộp phù hợp với bên trong container.
+3 Hộp lớn hơn sô cô la.
+4 sôcôla phù hợp với bên trong ngực.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 là container lớn hơn sô cô la?	 Có	 2 3
+7 là container lớn hơn sô cô la?	 Có	 2 3
+8 là sô cô la lớn hơn container?	 Không	 3 2
+9 là va li lớn hơn sô cô la?	 Có	 1 4
+10 là các thùng chứa lớn hơn sô cô la?	 Có	 2 3
+1 Các ngực lớn hơn chiếc vali.
+2 Các ngực lớn hơn chiếc vali.
+3 chiếc vali phù hợp với bên trong ngực.
+4 Hộp sôcôla lớn hơn sô cô la.
+5 Các thùng chứa lớn hơn hộp sôcôla.
+6 Liệu phù hợp chứa trong sô cô la?	 Không	 4 5
+7 Có phải phù hợp chứa trong sô cô la?	 Không	 4 5
+8 Có phải phù hợp chứa trong sô cô la?	 Không	 4 5
+9 là sô cô la lớn hơn container?	 Không	 4 5
+10 Có phải phù hợp chứa trong sô cô la?	 Không	 4 5
+1 chiếc vali lớn hơn hộp sôcôla.
+2 Các ngực lớn hơn sô cô la.
+3 Hộp sôcôla phù hợp với bên trong hộp.
+4 sôcôla phù hợp với bên trong va li.
+5 Ngực lớn hơn hộp sôcôla.
+6 thùng chứa lớn hơn hộp sôcôla.
+7 Hộp lớn hơn chiếc vali.
+8 Hộp lớn hơn sô cô la.
+9 Hộp sôcôla phù hợp với bên trong va li.
+10 hộp sôcôla phù hợp với bên trong ngực.
+11 là hộp lớn hơn hộp sôcôla?	 Có	 7 1
+12 Có hộp sôcôla phù hợp trong hộp?	 Có	 7 1
+13 Có hộp sôcôla phù hợp trong hộp?	 Có	 7 1
+14 là hộp lớn hơn hộp sôcôla?	 Có	 7 1
+15 là hộp lớn hơn hộp sôcôla?	 Có	 7 1
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 Hộp lớn hơn thùng sơn.
+3 ngực lớn hơn thùng sơn.
+4 Các ngực lớn hơn sô cô la.
+5 chiếc vali lớn hơn hộp.
+6 Liệu phù hợp đựng trong va li?	 Có	 5 2
+7 là chiếc vali lớn hơn container?	 Có	 5 2
+8 Có phải phù hợp đựng trong va li?	 Có	 5 2
+9 là va li lớn hơn container?	 Có	 5 2
+10 Có phải phù hợp đựng trong va li?	 Có	 5 2
+1 container phù hợp với bên trong hộp.
+2 sôcôla phù hợp với bên trong hộp sôcôla.
+3 Hộp sôcôla phù hợp với bên trong ngực.
+4 va li lớn hơn ngực.
+5 ngực phù hợp với bên trong container.
+6 là ngực lớn hơn hộp?	 Không	 5 1
+7 Có phải phù hợp với hộp trong ngực?	 Không	 5 1
+8 là va li lớn hơn hộp sôcôla?	 Có	 4 3
+9 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 3
+10 Có phải phù hợp với hộp trong ngực?	 Không	 5 1
+1 sôcôla phù hợp với bên trong container.
+2 container phù hợp với bên trong va li.
+3. ngực phù hợp với bên trong va li.
+4 thùng chứa phù hợp với bên trong hộp.
+5 sô cô la phù hợp với bên trong hộp.
+6 là hộp lớn hơn sô cô la?	 Có	 4 1
+7 là hộp lớn hơn sô cô la?	 Có	 4 1
+8 là sô cô la lớn hơn chiếc vali?	 Không có	 1 2
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 2
+10 Có phải phù hợp với chiếc vali trong sô cô la?	 Không có	 1 2
+1 Hộp lớn hơn hộp sôcôla.
+2 sôcôla phù hợp với bên trong ngực.
+3 chiếc vali lớn hơn sô cô la.
+4 ngực phù hợp với bên trong va li.
+5 sô cô la phù hợp với bên trong hộp.
+6 Liệu phù hợp sô cô la trong va li?	 Có	 4 2
+7 là chiếc vali lớn hơn sô cô la?	 Có	 4 2
+8 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 2 4
+10 là sô cô la lớn hơn chiếc vali?	 Không	 2 4
+1 chiếc vali lớn hơn sô cô la.
+2 Hộp sôcôla phù hợp với bên trong ngực.
+3 chiếc vali phù hợp với bên trong hộp.
+4 Hộp lớn hơn sô cô la.
+5 ngực phù hợp với bên trong hộp.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không có	 1 3
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 3 1
+8 là hộp lớn hơn hộp sôcôla?	 Có	 5 2
+9 là sô cô la lớn hơn hộp?	 Không có	 1 3
+10 là hộp lớn hơn hộp sôcôla?	 Có	 5 2
+1 Hộp lớn hơn sô cô la.
+2 Hộp lớn hơn thùng sơn.
+3 container lớn hơn ngực.
+4 sôcôla phù hợp với bên trong container.
+5 Hộp sôcôla phù hợp với bên trong hộp.
+6 là ngực lớn hơn hộp?	 Không	 3 2
+7 Có phải phù hợp với ngực trong hộp?	 Có	 2 3
+8 Có phải phù hợp với hộp trong sô cô la?	 Không	 4 2
+9 Có phải phù hợp với hộp trong ngực?	 Không	 3 2
+10 Có phải phù hợp với hộp trong ngực?	 Không	 3 2
+1 Các ngực lớn hơn chiếc vali.
+2 container lớn hơn hộp sôcôla.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 chiếc vali lớn hơn thùng sơn.
+6 Liệu phù hợp với chiếc vali trong hộp sôcôla?	 Không	 2 5
+7 Có hộp sôcôla phù hợp trong va li?	 Có	 5 2
+8 là container lớn hơn sô cô la?	 Có	 2 3
+9 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 2 5
+10 là hộp sôcôla lớn hơn chiếc vali?	 Không	 2 5
+1 sôcôla phù hợp với bên trong ngực.
+2 sôcôla phù hợp với bên trong hộp.
+3 ngực lớn hơn hộp.
+4 thùng chứa lớn hơn hộp.
+5 sô cô la phù hợp với bên trong va li.
+6 Liệu phù hợp ngực trong sô cô la?	 Không	 2 3
+7 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 3
+8 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 3
+9 Có phải phù hợp với ngực trong sô cô la?	 Không	 2 3
+10 Có phải phù hợp sô cô la vào ngực?	 Có	 3 2
+1 Hộp lớn hơn hộp sôcôla.
+2 chiếc vali lớn hơn sô cô la.
+3 ngực lớn hơn hộp.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 Hộp lớn hơn sô cô la.
+6 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+7 là ngực lớn hơn hộp sôcôla?	 Có	 3 1
+8 là ngực lớn hơn hộp sôcôla?	 Có	 3 1
+9 là ngực lớn hơn hộp sôcôla?	 Có	 3 1
+10 là hộp sôcôla lớn hơn ngực?	 Không có	 1 3
+1 chiếc vali phù hợp với bên trong container.
+2 Các ngực lớn hơn sô cô la.
+3 container phù hợp với bên trong ngực.
+4 chiếc vali phù hợp với bên trong hộp.
+5 Ngực lớn hơn chiếc vali.
+6 là ngực lớn hơn chiếc vali?	 Có	 3 1
+7 Có phải phù hợp với chiếc vali vào ngực?	 Có	 3 1
+8 Có phải phù hợp với ngực trong chiếc vali?	 Không có	 1 3
+9 Có phải phù hợp với chiếc vali vào ngực?	 Có	 3 1
+10 Có phải phù hợp với ngực trong chiếc vali?	 Không có	 1 3
+1 sôcôla phù hợp với bên trong container.
+2 sôcôla phù hợp với bên trong container.
+3 sôcôla phù hợp với bên trong ngực.
+4 ngực phù hợp với bên trong va li.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 là va li lớn hơn sô cô la?	 Có	 4 3
+7 là sô cô la lớn hơn chiếc vali?	 Không	 3 4
+8 là va li lớn hơn sô cô la?	 Có	 4 3
+9 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 3 4
+10 là sô cô la lớn hơn chiếc vali?	 Không	 3 4
+1 sôcôla phù hợp với bên trong hộp sôcôla.
+2 container phù hợp với bên trong va li.
+3 container lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn sô cô la.
+5 chiếc vali lớn hơn sô cô la.
+6 Có hộp sôcôla phù hợp trong va li?	 Có	 2 3
+7 Có phải phù hợp với chiếc vali trong hộp sôcôla?	 Không	 3 2
+8 Có phải phù hợp chứa trong sô cô la?	 Không có	 1 3
+9 Có phải phù hợp sô cô la trong container?	 Có	 3 1
+10 là sô cô la lớn hơn container?	 Không có	 1 3
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 container lớn hơn ngực.
+3 Hộp sôcôla lớn hơn sô cô la.
+4 ngực phù hợp với bên trong container.
+5 chiếc vali lớn hơn sô cô la.
+6 Liệu phù hợp ngực trong sô cô la?	 Không	 3 1
+7 là hộp sôcôla lớn hơn container?	 Không có	 1 2
+8 Có phải phù hợp sô cô la vào ngực?	 Có	 1 3
+9 là sô cô la lớn hơn ngực?	 Không	 3 1
+10 Có hộp sôcôla phù hợp trong container?	 Có	 2 1
+1 Hộp lớn hơn ngực.
+2 container lớn hơn hộp sôcôla.
+3 chiếc vali lớn hơn sô cô la.
+4 Hộp sôcôla phù hợp với bên trong ngực.
+5 Ngực lớn hơn thùng sơn.
+6 Có hộp sôcôla phù hợp trong ngực?	 Có	 5 2
+7 Có hộp sôcôla phù hợp trong ngực?	 Có	 5 2
+8 Có phải phù hợp với hộp trong hộp sôcôla?	 Không	 4 1
+9 Có hộp sôcôla phù hợp trong ngực?	 Có	 5 2
+10 Có hộp sôcôla phù hợp trong ngực?	 Có	 5 2
+1 chiếc vali lớn hơn thùng sơn.
+2 chiếc vali lớn hơn hộp.
+3 chiếc vali lớn hơn hộp.
+4 va li lớn hơn thùng sơn.
+5 chiếc vali lớn hơn hộp.
+6 Hộp phù hợp với bên trong va li.
+7 sôcôla phù hợp với bên trong hộp.
+8 Hộp lớn hơn hộp sôcôla.
+9 Các ngực phù hợp với bên trong va li.
+10 hộp phù hợp với bên trong container.
+11 Có phải phù hợp với chiếc vali trong hộp?	 Không	 10 1
+12 là hộp sôcôla lớn hơn chiếc vali?	 Không	 8 2
+13 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 7 2
+14 là hộp sôcôla lớn hơn chiếc vali?	 Không	 8 2
+15 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 7 2
+1 hộp sôcôla phù hợp với bên trong va li.
+2 container phù hợp với bên trong va li.
+3 sôcôla phù hợp với bên trong hộp.
+4 Các ngực lớn hơn hộp sôcôla.
+5 chiếc vali phù hợp với bên trong hộp.
+6 là hộp lớn hơn hộp sôcôla?	 Có	 5 1
+7 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+8 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+9 Liệu các hộp sôcôla phù hợp trong hộp?	 Có	 5 1
+10 là hộp lớn hơn hộp sôcôla?	 Có	 5 1
+1 container phù hợp với bên trong ngực.
+2 Hộp phù hợp với bên trong ngực.
+3 sôcôla phù hợp với bên trong container.
+4 sôcôla phù hợp với bên trong va li.
+5 sô cô la phù hợp với bên trong hộp sôcôla.
+6 là ngực lớn hơn sô cô la?	 Có	 1 3
+7 là sô cô la lớn hơn ngực?	 Không	 3 1
+8 là ngực lớn hơn sô cô la?	 Có	 1 3
+9 Có phải phù hợp với ngực trong sô cô la?	 Không	 3 1
+10 là ngực lớn hơn sô cô la?	 Có	 1 3
+1 Hộp lớn hơn chiếc vali.
+2 chiếc vali lớn hơn thùng sơn.
+3 sôcôla phù hợp với bên trong hộp sôcôla.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 chiếc vali phù hợp với bên trong ngực.
+6 Liệu phù hợp chứa trong hộp?	 Có	 1 2
+7 là sô cô la lớn hơn container?	 Không	 3 4
+8 là hộp lớn hơn container?	 Có	 1 2
+9 Có phải phù hợp chứa trong hộp?	 Có	 1 2
+10 Có phải phù hợp sô cô la trong container?	 Có	 4 3
+1 sôcôla phù hợp với bên trong ngực.
+2 sôcôla phù hợp với bên trong hộp.
+3 sôcôla phù hợp với bên trong va li.
+4 Hộp lớn hơn hộp sôcôla.
+5 Hộp lớn hơn sô cô la.
+6 Hộp lớn hơn sô cô la.
+7 chiếc vali phù hợp với bên trong container.
+8 sôcôla phù hợp với bên trong container.
+9 Các sôcôla phù hợp với bên trong ngực.
+10 ngực phù hợp với bên trong hộp.
+11 là sô cô la lớn hơn container?	 Không	 3 7
+12 là hộp lớn hơn sô cô la?	 Có	 10 1
+13 Có phải phù hợp sô cô la trong container?	 Có	 7 3
+14 là hộp lớn hơn sô cô la?	 Có	 10 1
+15 Có phải phù hợp sôcôla trong hộp?	 Có	 10 1
+1 Các ngực lớn hơn sô cô la.
+2 sôcôla phù hợp với bên trong ngực.
+3 ngực lớn hơn hộp.
+4 Hộp sôcôla phù hợp với bên trong container.
+5 sô cô la phù hợp với bên trong container.
+6 chiếc vali lớn hơn hộp sôcôla.
+7 Hộp sôcôla phù hợp với bên trong va li.
+8 Hộp lớn hơn hộp sôcôla.
+9 Những chiếc vali lớn hơn hộp sôcôla.
+10 ngực lớn hơn hộp.
+11 là hộp sôcôla lớn hơn ngực?	 Không	 8 3
+12 là hộp sôcôla lớn hơn ngực?	 Không	 8 3
+13 là ngực lớn hơn hộp sôcôla?	 Có	 3 8
+14 Có phải phù hợp với ngực trong hộp sôcôla?	 Không	 8 3
+15 là hộp sôcôla lớn hơn ngực?	 Không	 8 3
+1 container là lớn hơn so với chiếc vali.
+2 Các ngực lớn hơn hộp.
+3 ngực lớn hơn chiếc vali.
+4 va li lớn hơn hộp sôcôla.
+5 Các thùng chứa lớn hơn ngực.
+6 Liệu phù hợp với hộp trong container?	 Có	 5 2
+7 là hộp sôcôla lớn hơn container?	 Không	 4 1
+8 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 4 1
+9 là hộp sôcôla lớn hơn container?	 Không	 4 1
+10 Có phải phù hợp đựng trong hộp sôcôla?	 Không	 4 1
+1 Hộp lớn hơn chiếc vali.
+2 Hộp sôcôla lớn hơn sô cô la.
+3 Hộp lớn hơn hộp sôcôla.
+4 Hộp lớn hơn ngực.
+5 Hộp lớn hơn sô cô la.
+6 Liệu phù hợp với hộp trong sô cô la?	 Không	 2 3
+7 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+8 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+9 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+10 Có phải phù hợp sôcôla trong hộp?	 Có	 3 2
+1 chiếc vali lớn hơn ngực.
+2 Hộp lớn hơn sô cô la.
+3 ngực lớn hơn sô cô la.
+4 ngực phù hợp với bên trong container.
+5 ngực phù hợp với bên trong hộp.
+6 Liệu phù hợp với chiếc vali trong sô cô la?	 Không	 3 1
+7 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 3 1
+8 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+9 là va li lớn hơn sô cô la?	 Có	 1 3
+10 Có phải phù hợp sô cô la trong va li?	 Có	 1 3
+1 container là lớn hơn ngực.
+2 Hộp lớn hơn ngực.
+3 container lớn hơn ngực.
+4 Hộp lớn hơn ngực.
+5 ngực phù hợp với bên trong hộp.
+6 hộp sôcôla phù hợp với bên trong hộp.
+7 Hộp sôcôla lớn hơn sô cô la.
+8 chiếc vali lớn hơn hộp sôcôla.
+9 Những chiếc vali lớn hơn sô cô la.
+10 container là lớn hơn hộp sôcôla.
+11 là hộp lớn hơn sô cô la?	 Có	 6 7
+12 Có phải phù hợp với hộp trong sô cô la?	 Không	 7 6
+13 là sô cô la lớn hơn hộp?	 Không	 7 6
+14 là sô cô la lớn hơn hộp?	 Không	 7 6
+15 là hộp lớn hơn sô cô la?	 Có	 6 7
+1 container là lớn hơn hộp.
+2 sôcôla phù hợp với bên trong va li.
+3 Hộp lớn hơn hộp sôcôla.
+4 thùng chứa lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong container.
+6 là hộp sôcôla lớn hơn container?	 Không	 3 1
+7 là hộp sôcôla lớn hơn container?	 Không	 3 1
+8 Có hộp sôcôla phù hợp trong container?	 Có	 1 3
+9 là hộp sôcôla lớn hơn container?	 Không	 3 1
+10 là hộp sôcôla lớn hơn container?	 Không	 3 1
+1 hộp sôcôla phù hợp với bên trong ngực.
+2 chiếc vali lớn hơn hộp sôcôla.
+3. ngực phù hợp với bên trong container.
+4 thùng chứa lớn hơn ngực.
+5 chiếc vali phù hợp với bên trong ngực.
+6 là ngực lớn hơn hộp sôcôla?	 Có	 5 2
+7 là hộp sôcôla lớn hơn ngực?	 Không	 2 5
+8 là hộp sôcôla lớn hơn container?	 Không có	 1 3
+9 là ngực lớn hơn hộp sôcôla?	 Có	 5 2
+10 Có hộp sôcôla phù hợp trong container?	 Có	 3 1
+1 chiếc vali lớn hơn thùng sơn.
+2 sôcôla phù hợp với bên trong ngực.
+3 sôcôla phù hợp với bên trong container.
+4 chiếc vali phù hợp với bên trong hộp.
+5 sô cô la phù hợp với bên trong va li.
+6 Liệu phù hợp chứa trong hộp?	 Có	 4 1
+7 là hộp lớn hơn container?	 Có	 4 1
+8 là hộp lớn hơn container?	 Có	 4 1
+9 Có phải phù hợp với hộp trong container?	 Không có	 1 4
+10 là các thùng chứa lớn hơn hộp?	 Không có	 1 4
+1 container phù hợp với bên trong va li.
+2 Các ngực lớn hơn hộp sôcôla.
+3 sôcôla phù hợp với bên trong container.
+4 Các ngực lớn hơn sô cô la.
+5 sô cô la phù hợp với bên trong va li.
+6 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+7 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+8 là sô cô la lớn hơn chiếc vali?	 Không	 3 1
+9 Có phải phù hợp sô cô la trong va li?	 Có	 1 3
+10 Có phải phù hợp với chiếc vali trong sô cô la?	 Không	 3 1
+1 Hộp lớn hơn sô cô la.
+2 container lớn hơn hộp sôcôla.
+3 container lớn hơn hộp.
+4 va li lớn hơn thùng sơn.
+5 Hộp sôcôla phù hợp với bên trong va li.
+6 Liệu phù hợp chứa trong sô cô la?	 Không có	 1 3
+7 là chiếc vali lớn hơn hộp sôcôla?	 Có	 4 2
+8 là sô cô la lớn hơn container?	 Không có	 1 3
+9 là container lớn hơn sô cô la?	 Có	 3 1
+10 Có hộp sôcôla phù hợp trong va li?	 Có	 4 2
+1 hộp sôcôla phù hợp với bên trong hộp.
+2 Hộp sôcôla phù hợp với bên trong hộp.
+3 container phù hợp với bên trong hộp.
+4 va li lớn hơn thùng sơn.
+5 chiếc vali phù hợp với bên trong ngực.
+6 Liệu phù hợp chứa trong ngực?	 Có	 5 4
+7 là container lớn hơn ngực?	 Không	 4 5
+8 Có phải phù hợp với ngực trong container?	 Không	 4 5
