@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "mine"
+		},
+		{
+			"path": "data-generator"
 		}
 	],
 	"settings": {}

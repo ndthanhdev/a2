@@ -30,12 +30,12 @@ word_idx = np.load('outputs/word_idx.npy').item()
 idx_word = list(word_idx.keys())
 
 corpus = tokenize(
-    'Khang đi đến phòng tắm.')
+    'Dũng đi đến phòng tắm. Đạt đi đến hành lang.')
 corpus = [word_idx[w] for w in corpus]
-question = tokenize('Khang ở đâu?')
+question = tokenize('Đạt ở đâu?')
 query = [word_idx[w] for w in question]
 
-input = [pad_sequences([corpus], 55), pad_sequences([query], 4)]
+input = [pad_sequences([corpus], 56), pad_sequences([query], 4)]
 output = model.predict(input, 32)
 idx = np.argmax(output)
 print(idx_word[idx - 1])
