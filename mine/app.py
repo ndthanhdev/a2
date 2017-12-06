@@ -47,6 +47,7 @@ def main():
     while True:
         temp = str(input('You: '))
         if temp == 'exit':
+            print('Bot: Tạm biệt')
             exit()
         elif temp == 'new':
             corpus = ''
