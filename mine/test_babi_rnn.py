@@ -1,20 +1,8 @@
 from keras.models import Model, load_model
 import numpy as np
 import re
-from pyvi.pyvi import ViTokenizer, ViPosTagger
 from keras.preprocessing.sequence import pad_sequences
-# from tensorflow.co
-
-TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
-
-
-def tokenize(sent):
-    '''Return the tokens of a sentence including punctuation.
-
-    >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
-    '''
-    return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
+from babi_rnn_vi import tokenize
 
 # def tokenize(sent):
 #     '''Return the tokens of a sentence including punctuation.

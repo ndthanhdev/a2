@@ -159,89 +159,98 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
     return pad_sequences(xs, maxlen=story_maxlen), pad_sequences(xqs, maxlen=query_maxlen), np.array(ys)
 
 
-RNN = recurrent.LSTM
-EMBED_HIDDEN_SIZE = 50
-SENT_HIDDEN_SIZE = 100
-QUERY_HIDDEN_SIZE = 100
-BATCH_SIZE = 32
-EPOCHS = 40
-print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
-                                                           EMBED_HIDDEN_SIZE,
-                                                           SENT_HIDDEN_SIZE,
-                                                           QUERY_HIDDEN_SIZE))
-# try:
-#     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
-# except:
-#     print('Error downloading dataset, please download it manually:\n'
-#           '$ wget http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz\n'
-#           '$ mv tasks_1-20_v1-2.tar.gz ~/.keras/datasets/babi-tasks-v1-2.tar.gz')
-# raise
-# tar = tarfile.open(path)
-# Default QA1 with 1000 samples
-# challenge = 'tasks_1-20_v1-2/en/qa1_single-supporting-fact_{}.txt'
-# QA1 with 10,000 samples
-# challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
-# QA2 with 1000 samples
-# challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
-challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-# QA2 with 10,000 samples
-# challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
-# train = get_stories(tar.extractfile(challenge.format('train')))
-train = get_stories(open(challenge.format('train'), encoding='utf-8'))
-# test = get_stories(tar.extractfile(challenge.format('test')))
-test = get_stories(open(challenge.format('test'), encoding='utf-8'))
+def main():
 
-vocab = set()
-for story, q, answer in train + test:
-    vocab |= set(story + q + [answer])
-vocab = sorted(vocab)
+    RNN = recurrent.LSTM
+    EMBED_HIDDEN_SIZE = 50
+    SENT_HIDDEN_SIZE = 100
+    QUERY_HIDDEN_SIZE = 100
+    BATCH_SIZE = 32
+    EPOCHS = 40
+    print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
+                                                               EMBED_HIDDEN_SIZE,
+                                                               SENT_HIDDEN_SIZE,
+                                                               QUERY_HIDDEN_SIZE))
+    # try:
+    #     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
+    # except:
+    #     print('Error downloading dataset, please download it manually:\n'
+    #           '$ wget http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz\n'
+    #           '$ mv tasks_1-20_v1-2.tar.gz ~/.keras/datasets/babi-tasks-v1-2.tar.gz')
+    # raise
+    # tar = tarfile.open(path)
+    # Default QA1 with 1000 samples
+    # challenge = 'tasks_1-20_v1-2/en/qa1_single-supporting-fact_{}.txt'
+    # QA1 with 10,000 samples
+    # challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
+    # QA2 with 1000 samples
+    # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
+    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
+    # QA2 with 10,000 samples
+    # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
+    # train = get_stories(tar.extractfile(challenge.format('train')))
+    train = get_stories(open(challenge.format('train'), encoding='utf-8'))
+    # test = get_stories(tar.extractfile(challenge.format('test')))
+    test = get_stories(open(challenge.format('test'), encoding='utf-8'))
 
-# Reserve 0 for masking via pad_sequences
-vocab_size = len(vocab) + 1
-word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-story_maxlen = max(map(len, (x for x, _, _ in train + test)))
-query_maxlen = max(map(len, (x for _, x, _ in train + test)))
+    vocab = set()
+    for story, q, answer in train + test:
+        vocab |= set(story + q + [answer])
+    vocab = sorted(vocab)
 
-x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
-tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
+    # Reserve 0 for masking via pad_sequences
+    vocab_size = len(vocab) + 1
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
+    story_maxlen = max(map(len, (x for x, _, _ in train + test)))
+    query_maxlen = max(map(len, (x for _, x, _ in train + test)))
 
-print('vocab = {}'.format(vocab))
-print('x.shape = {}'.format(x.shape))
-print('xq.shape = {}'.format(xq.shape))
-print('y.shape = {}'.format(y.shape))
-print('story_maxlen, query_maxlen = {}, {}'.format(story_maxlen, query_maxlen))
+    x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
+    tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
-print('Build model...')
+    print('vocab = {}'.format(vocab))
+    print('x.shape = {}'.format(x.shape))
+    print('xq.shape = {}'.format(xq.shape))
+    print('y.shape = {}'.format(y.shape))
+    print('story_maxlen, query_maxlen = {}, {}'.format(
+        story_maxlen, query_maxlen))
 
-sentence = layers.Input(shape=(story_maxlen,), dtype='int32')
-encoded_sentence = layers.Embedding(vocab_size, EMBED_HIDDEN_SIZE)(sentence)
-encoded_sentence = layers.Dropout(0.3)(encoded_sentence)
+    print('Build model...')
 
-question = layers.Input(shape=(query_maxlen,), dtype='int32')
-encoded_question = layers.Embedding(vocab_size, EMBED_HIDDEN_SIZE)(question)
-encoded_question = layers.Dropout(0.3)(encoded_question)
-encoded_question = RNN(EMBED_HIDDEN_SIZE)(encoded_question)
-encoded_question = layers.RepeatVector(story_maxlen)(encoded_question)
+    sentence = layers.Input(shape=(story_maxlen,), dtype='int32')
+    encoded_sentence = layers.Embedding(
+        vocab_size, EMBED_HIDDEN_SIZE)(sentence)
+    encoded_sentence = layers.Dropout(0.3)(encoded_sentence)
 
-merged = layers.add([encoded_sentence, encoded_question])
-merged = RNN(EMBED_HIDDEN_SIZE)(merged)
-merged = layers.Dropout(0.3)(merged)
-preds = layers.Dense(vocab_size, activation='softmax')(merged)
+    question = layers.Input(shape=(query_maxlen,), dtype='int32')
+    encoded_question = layers.Embedding(
+        vocab_size, EMBED_HIDDEN_SIZE)(question)
+    encoded_question = layers.Dropout(0.3)(encoded_question)
+    encoded_question = RNN(EMBED_HIDDEN_SIZE)(encoded_question)
+    encoded_question = layers.RepeatVector(story_maxlen)(encoded_question)
 
-model = Model([sentence, question], preds)
-model.compile(optimizer='adam',
-              loss='categorical_crossentropy',
-              metrics=['accuracy'])
+    merged = layers.add([encoded_sentence, encoded_question])
+    merged = RNN(EMBED_HIDDEN_SIZE)(merged)
+    merged = layers.Dropout(0.3)(merged)
+    preds = layers.Dense(vocab_size, activation='softmax')(merged)
 
-print('Training')
-model.fit([x, xq], y,
-          batch_size=BATCH_SIZE,
-          epochs=EPOCHS,
-          validation_split=0.05)
-loss, acc = model.evaluate([tx, txq], ty,
-                           batch_size=BATCH_SIZE)
-print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
+    model = Model([sentence, question], preds)
+    model.compile(optimizer='adam',
+                  loss='categorical_crossentropy',
+                  metrics=['accuracy'])
 
-print('Saving model')
-model.save('outputs/babi.h5')
-np.save('outputs/word_idx.npy', word_idx)
+    print('Training')
+    model.fit([x, xq], y,
+              batch_size=BATCH_SIZE,
+              epochs=EPOCHS,
+              validation_split=0.05)
+    loss, acc = model.evaluate([tx, txq], ty,
+                               batch_size=BATCH_SIZE)
+    print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
+
+    print('Saving model')
+    model.save('outputs/babi.h5')
+    np.save('outputs/model_context.npy', [word_idx, story_maxlen, query_maxlen])
+
+
+if __name__ == '__main__':
+    main()
