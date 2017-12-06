@@ -1,5 +1,6 @@
-import word2vec
+from gensim.models.keyedvectors import KeyedVectors
+from gensim.models import Word2Vec
 
-vectors = word2vec.load()
+vectors = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
 
-print(vectors.most_similar(positive=["kim_đồng"]))
+print(vectors.wv.most_similar('anh'))
