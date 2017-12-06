@@ -53,7 +53,7 @@ def main():
             corpus = ''
             print('Bot: Quên hết rồi.')
         elif '?' in temp:
-            print('Bot: ', corpus, '=>', predict(corpus, temp))
+            print('Bot: ', predict(corpus, temp))
         else:
             corpus = corpus.strip() + ' ' + temp.strip()
             print('Bot: ờ')
