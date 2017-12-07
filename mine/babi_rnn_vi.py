@@ -12,18 +12,7 @@ from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
 
-from pyvi.pyvi import ViTokenizer, ViPosTagger
-
-
-def tokenize(sent):
-    '''Return the tokens of a sentence including punctuation.
-
-    >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
-    '''
-    TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
-    return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
-
+import vnTokenizer
 
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
@@ -32,7 +21,7 @@ def tokenize(sent):
     ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
     '''
     TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
-    return [x.strip() for x in re.split(TOKENIZE_REGEX, ViTokenizer.tokenize(sent)) if x.strip()]
+    return [x.strip() for x in re.split(TOKENIZE_REGEX, vnTokenizer.tokenize(sent)) if x.strip()]
 
 
 def parse_stories(lines, only_supporting=False):
