@@ -40,6 +40,7 @@ def main():
         input = [pad_sequences([toVec(corpus)], story_maxlen), pad_sequences(
             [toVec(query)], query_maxlen)]
         output = model.predict(input, 32)
+        print(model.predict_classes(input, 32))
         return toWord(np.argmax(output))
 
     corpus = ''

@@ -116,7 +116,7 @@ def main():
     # QA2 with 1000 samples
     # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'    
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/qa11_basic-coreference_{}.txt'
+    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
     # QA2 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
@@ -182,7 +182,6 @@ def main():
     print('Saving model')
     model.save('outputs/babi.h5')
     np.save('outputs/model_context.npy', [word_idx, story_maxlen, query_maxlen])
-
-
+    
 if __name__ == '__main__':
     main()

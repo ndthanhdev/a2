@@ -24,6 +24,6 @@ question = tokenize('John ở đâu?')
 query = [word_idx[w] for w in question]
 
 input = [pad_sequences([corpus], 60), pad_sequences([query], 4)]
-output = model.predict(input, 32)
-idx = np.argmax(output)
-print(idx_word[idx - 1])
+print(model.predict_classes(input, 32))
+# idx = np.argmax(output)
+# print(idx_word[idx - 1])
