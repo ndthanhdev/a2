@@ -5,7 +5,7 @@ from keras.preprocessing.sequence import pad_sequences
 from babi_rnn_vi import vectorize_sentence
 from gensim.models.keyedvectors import KeyedVectors
 from gensim.models import Word2Vec
-from vnTokenizer import tokenize
+from babi_rnn_vi import tokenize
 
 
 def main():
@@ -15,14 +15,14 @@ def main():
     [answer_idx] = np.load('outputs/model_context.npy')
     idx_word = list(answer_idx.keys())
 
-    word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
+    word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
 
     def toWord(idx):
         return idx_word[idx - 1]
 
     def predict(corpus, query):
-        corpus = tokenize(corpus).strip().split()
-        query = tokenize(query).strip().split()
+        corpus = tokenize(corpus)
+        query = tokenize(query)
         print('corpus', corpus)
         print('query', query)
         input = [np.array([vectorize_sentence(corpus, word2vec)]),
@@ -30,7 +30,7 @@ def main():
         output = model.predict(input, 32)
         return toWord(np.argmax(output))
 
-    corpus = ''
+    corpus = []
     print('Chào bạn!')
     while True:
         temp = str(input('You: '))
@@ -38,12 +38,12 @@ def main():
             print('Bot: Tạm biệt')
             exit()
         elif temp == 'new':
-            corpus = ''
+            corpus = []
             print('Bot: Quên hết rồi.')
         elif '?' in temp:
-            print('Bot: ', predict(corpus, temp))
+            print('Bot: ', predict('. '.join(corpus), temp))
         else:
-            corpus = corpus.strip() + '. ' + temp.strip()
+            corpus.append(temp.strip())
             print('Bot: ờ')
 
 

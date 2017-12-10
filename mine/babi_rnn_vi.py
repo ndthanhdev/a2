@@ -24,7 +24,7 @@ def tokenize(sent):
     >>> tokenize('Bob dropped the apple. Where is the apple?')
     ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
     '''
-    return [x.strip() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
+    return [x.strip().lower() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
 
 
 def parse_stories(lines, only_supporting=False):
@@ -77,33 +77,41 @@ def get_stories(f, only_supporting=False, max_length=None):
 
 
 def vectorize_sentence(text, word2vec):
-    return np.average([word2vec.wv[w] for w in text], axis=0)
+    arr = []
+    for w in text:
+        if w in word2vec.wv:            
+            arr.append(word2vec.wv[w])
+        elif all(ew in word2vec.wv for ew in w.split('_')):            
+            print(w)
+            arr.append(np.average([word2vec.wv[ew] for ew in w.split('_')], axis=0))
+    return np.average(arr, axis=0)
 
 
 def vectorize_stories(data, word2vec, answer_idx):
-    xs = []
-    xqs = []
-    ys = []
+    xs=[]
+    xqs=[]
+    ys=[]
     for story, query, answer in data:
-        x = vectorize_sentence(story, word2vec)
-        xq = vectorize_sentence(query, word2vec)
+        x=vectorize_sentence(story, word2vec)
+        xq=vectorize_sentence(query, word2vec)
         # let's not forget that index 0 is reserved
-        y = np.zeros(len(answer_idx) + 1)
-        y[answer_idx[answer]] = 1
+        y=np.zeros(len(answer_idx) + 1)
+        y[answer_idx[answer]]=1
         xs.append(x)
         xqs.append(xq)
         ys.append(y)
+    print(ys)
     return np.array(xs), np.array(xqs), np.array(ys)
 
 
 def main():
 
-    RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 50
-    SENT_HIDDEN_SIZE = 100
-    QUERY_HIDDEN_SIZE = 100
-    BATCH_SIZE = 32
-    EPOCHS = 40
+    RNN=recurrent.LSTM
+    EMBED_HIDDEN_SIZE=50
+    SENT_HIDDEN_SIZE=100
+    QUERY_HIDDEN_SIZE=100
+    BATCH_SIZE=32
+    EPOCHS=40
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
@@ -124,31 +132,31 @@ def main():
     # QA2 with 1000 samples
     # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
+    challenge='data/babi/vi/qa1_single-supporting-fact_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
     # QA2 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
     # train = get_stories(tar.extractfile(challenge.format('train')))
-    train = get_stories(open(challenge.format('train'), encoding='utf-8'))
+    train=get_stories(open(challenge.format('train'), encoding='utf-8'))
     # test = get_stories(tar.extractfile(challenge.format('test')))
-    test = get_stories(open(challenge.format('test'), encoding='utf-8'))
+    test=get_stories(open(challenge.format('test'), encoding='utf-8'))
 
-    answers = set()
+    answers=set()
     for story, q, answer in train + test:
         answers |= set([answer])
-    answers = sorted(answers)
+    answers=sorted(answers)
 
-    word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
-    vector_size = word2vec.vector_size
+    word2vec=KeyedVectors.load_word2vec_format('outputs/vi.vec')
+    vector_size=word2vec.vector_size
 
     # Reserve 0 for masking via pad_sequences
-    answer_size = len(answers) + 1
-    answer_idx = dict((c, i + 1) for i, c in enumerate(answers))
+    answer_size=len(answers) + 1
+    answer_idx=dict((c, i + 1) for i, c in enumerate(answers))
 
-    x, xq, y = vectorize_stories(train, word2vec, answer_idx)
-    tx, txq, ty = vectorize_stories(test, word2vec, answer_idx)
+    x, xq, y=vectorize_stories(train, word2vec, answer_idx)
+    tx, txq, ty=vectorize_stories(test, word2vec, answer_idx)
 
-    print('vocab = {}'.format(answers))
+    print('answer = {}'.format(answers))
     print('x.shape = {}'.format(x.shape))
     print('xq.shape = {}'.format(xq.shape))
     print('y.shape = {}'.format(y.shape))
@@ -156,24 +164,24 @@ def main():
 
     print('Build model...')
 
-    sentence = layers.Input(shape=(vector_size,), dtype='int32')
-    encoded_sentence = layers.Embedding(
+    sentence=layers.Input(shape=(vector_size,), dtype='int32')
+    encoded_sentence=layers.Embedding(
         answer_size, EMBED_HIDDEN_SIZE)(sentence)
-    encoded_sentence = layers.Dropout(0.3)(encoded_sentence)
+    encoded_sentence=layers.Dropout(0.3)(encoded_sentence)
 
-    question = layers.Input(shape=(vector_size,), dtype='int32')
-    encoded_question = layers.Embedding(
+    question=layers.Input(shape=(vector_size,), dtype='int32')
+    encoded_question=layers.Embedding(
         answer_size, EMBED_HIDDEN_SIZE)(question)
-    encoded_question = layers.Dropout(0.3)(encoded_question)
-    encoded_question = RNN(EMBED_HIDDEN_SIZE)(encoded_question)
-    encoded_question = layers.RepeatVector(vector_size)(encoded_question)
+    encoded_question=layers.Dropout(0.3)(encoded_question)
+    encoded_question=RNN(EMBED_HIDDEN_SIZE)(encoded_question)
+    encoded_question=layers.RepeatVector(vector_size)(encoded_question)
 
-    merged = layers.add([encoded_sentence, encoded_question])
-    merged = RNN(EMBED_HIDDEN_SIZE)(merged)
-    merged = layers.Dropout(0.3)(merged)
-    preds = layers.Dense(answer_size, activation='softmax')(merged)
+    merged=layers.add([encoded_sentence, encoded_question])
+    merged=RNN(EMBED_HIDDEN_SIZE)(merged)
+    merged=layers.Dropout(0.3)(merged)
+    preds=layers.Dense(answer_size, activation='softmax')(merged)
 
-    model = Model([sentence, question], preds)
+    model=Model([sentence, question], preds)
     model.compile(optimizer='adam',
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
@@ -183,7 +191,7 @@ def main():
               batch_size=BATCH_SIZE,
               epochs=EPOCHS,
               validation_split=0.05)
-    loss, acc = model.evaluate([tx, txq], ty,
+    loss, acc=model.evaluate([tx, txq], ty,
                                batch_size=BATCH_SIZE)
     print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
