@@ -1,6 +1,10 @@
 from gensim.models.keyedvectors import KeyedVectors
-from gensim.models import Word2Vec
+from gensim.models.wrappers import FastText
+import numpy as np
+# from babi_rnn_vi import vectorize_sentence
 
-vectors = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
+vectors = FastText.load_word2vec_format('outputs/vi.bin',binary=True)
 
-print(vectors.wv.most_similar('anh'))
+print(vectors.wv)
+# print(vectors.wv['bầu_trời'])
+# print(vectorize_sentence(['trời', 'hôm_nay', 'thế_nào', '?'], vectors))

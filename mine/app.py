@@ -2,45 +2,32 @@ from keras.models import Model, load_model
 import numpy as np
 import re
 from keras.preprocessing.sequence import pad_sequences
-from babi_rnn_vi import tokenize
+from babi_rnn_vi import vectorize_sentence
 from gensim.models.keyedvectors import KeyedVectors
 from gensim.models import Word2Vec
+from vnTokenizer import tokenize
 
 
 def main():
     print('Loading...')
     model = load_model('outputs/babi.h5')
 
-    word_idx, story_maxlen, query_maxlen = np.load(
-        'outputs/model_context.npy')
-    idx_word = list(word_idx.keys())
+    [answer_idx] = np.load('outputs/model_context.npy')
+    idx_word = list(answer_idx.keys())
 
     word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
-
-    def mostSimilarity(externalVoca):
-        # mostSimilarityIndex = np.argmax(
-        #     [word2vec.wv.similarity(externalVoca, k) for k in word_idx if k in word2vec.wv.vocab])
-        # print(word_idx, mostSimilarityIndex)
-        return max([k for k in word_idx if k in word2vec.wv.vocab], key=lambda k: word2vec.wv.similarity(externalVoca, k))
-        # return word_idx[mostSimilarityIndex - 1]
-
-    def toVec(string):
-        words = tokenize(string)
-        vectors = []
-        for w in words:
-            if w not in word_idx:
-                w = mostSimilarity(w)
-            vectors.append(word_idx[w])
-        return vectors
 
     def toWord(idx):
         return idx_word[idx - 1]
 
     def predict(corpus, query):
-        input = [pad_sequences([toVec(corpus)], story_maxlen), pad_sequences(
-            [toVec(query)], query_maxlen)]
+        corpus = tokenize(corpus).strip().split()
+        query = tokenize(query).strip().split()
+        print('corpus', corpus)
+        print('query', query)
+        input = [np.array([vectorize_sentence(corpus, word2vec)]),
+                 np.array([vectorize_sentence(query, word2vec)])]
         output = model.predict(input, 32)
-        print(model.predict_classes(input, 32))
         return toWord(np.argmax(output))
 
     corpus = ''
@@ -56,7 +43,7 @@ def main():
         elif '?' in temp:
             print('Bot: ', predict(corpus, temp))
         else:
-            corpus = corpus.strip() + ' ' + temp.strip()
+            corpus = corpus.strip() + '. ' + temp.strip()
             print('Bot: ờ')
 
 

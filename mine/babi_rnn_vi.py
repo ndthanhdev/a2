@@ -12,7 +12,11 @@ from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
 
+from gensim.models.keyedvectors import KeyedVectors
+from gensim.models import Word2Vec
+
 import vnTokenizer
+
 
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
@@ -20,8 +24,7 @@ def tokenize(sent):
     >>> tokenize('Bob dropped the apple. Where is the apple?')
     ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
     '''
-    TOKENIZE_REGEX = '([^\wÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]+)?'
-    return [x.strip() for x in re.split(TOKENIZE_REGEX, vnTokenizer.tokenize(sent)) if x.strip()]
+    return [x.strip() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
 
 
 def parse_stories(lines, only_supporting=False):
@@ -73,20 +76,24 @@ def get_stories(f, only_supporting=False, max_length=None):
     return data
 
 
-def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
+def vectorize_sentence(text, word2vec):
+    return np.average([word2vec.wv[w] for w in text], axis=0)
+
+
+def vectorize_stories(data, word2vec, answer_idx):
     xs = []
     xqs = []
     ys = []
     for story, query, answer in data:
-        x = [word_idx[w] for w in story]
-        xq = [word_idx[w] for w in query]
+        x = vectorize_sentence(story, word2vec)
+        xq = vectorize_sentence(query, word2vec)
         # let's not forget that index 0 is reserved
-        y = np.zeros(len(word_idx) + 1)
-        y[word_idx[answer]] = 1
+        y = np.zeros(len(answer_idx) + 1)
+        y[answer_idx[answer]] = 1
         xs.append(x)
         xqs.append(xq)
         ys.append(y)
-    return pad_sequences(xs, maxlen=story_maxlen), pad_sequences(xqs, maxlen=query_maxlen), np.array(ys)
+    return np.array(xs), np.array(xqs), np.array(ys)
 
 
 def main():
@@ -101,6 +108,7 @@ def main():
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
                                                                QUERY_HIDDEN_SIZE))
+
     # try:
     #     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
     # except:
@@ -114,7 +122,7 @@ def main():
     # QA1 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
     # QA2 with 1000 samples
-    # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'    
+    # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
     challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
@@ -125,45 +133,45 @@ def main():
     # test = get_stories(tar.extractfile(challenge.format('test')))
     test = get_stories(open(challenge.format('test'), encoding='utf-8'))
 
-    vocab = set()
+    answers = set()
     for story, q, answer in train + test:
-        vocab |= set(story + q + [answer])
-    vocab = sorted(vocab)
+        answers |= set([answer])
+    answers = sorted(answers)
+
+    word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.txt')
+    vector_size = word2vec.vector_size
 
     # Reserve 0 for masking via pad_sequences
-    vocab_size = len(vocab) + 1
-    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-    story_maxlen = max(map(len, (x for x, _, _ in train + test)))
-    query_maxlen = max(map(len, (x for _, x, _ in train + test)))
+    answer_size = len(answers) + 1
+    answer_idx = dict((c, i + 1) for i, c in enumerate(answers))
 
-    x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
-    tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
+    x, xq, y = vectorize_stories(train, word2vec, answer_idx)
+    tx, txq, ty = vectorize_stories(test, word2vec, answer_idx)
 
-    print('vocab = {}'.format(vocab))
+    print('vocab = {}'.format(answers))
     print('x.shape = {}'.format(x.shape))
     print('xq.shape = {}'.format(xq.shape))
     print('y.shape = {}'.format(y.shape))
-    print('story_maxlen, query_maxlen = {}, {}'.format(
-        story_maxlen, query_maxlen))
+    print('vector_size = {}'.format(vector_size))
 
     print('Build model...')
 
-    sentence = layers.Input(shape=(story_maxlen,), dtype='int32')
+    sentence = layers.Input(shape=(vector_size,), dtype='int32')
     encoded_sentence = layers.Embedding(
-        vocab_size, EMBED_HIDDEN_SIZE)(sentence)
+        answer_size, EMBED_HIDDEN_SIZE)(sentence)
     encoded_sentence = layers.Dropout(0.3)(encoded_sentence)
 
-    question = layers.Input(shape=(query_maxlen,), dtype='int32')
+    question = layers.Input(shape=(vector_size,), dtype='int32')
     encoded_question = layers.Embedding(
-        vocab_size, EMBED_HIDDEN_SIZE)(question)
+        answer_size, EMBED_HIDDEN_SIZE)(question)
     encoded_question = layers.Dropout(0.3)(encoded_question)
     encoded_question = RNN(EMBED_HIDDEN_SIZE)(encoded_question)
-    encoded_question = layers.RepeatVector(story_maxlen)(encoded_question)
+    encoded_question = layers.RepeatVector(vector_size)(encoded_question)
 
     merged = layers.add([encoded_sentence, encoded_question])
     merged = RNN(EMBED_HIDDEN_SIZE)(merged)
     merged = layers.Dropout(0.3)(merged)
-    preds = layers.Dense(vocab_size, activation='softmax')(merged)
+    preds = layers.Dense(answer_size, activation='softmax')(merged)
 
     model = Model([sentence, question], preds)
     model.compile(optimizer='adam',
@@ -181,7 +189,8 @@ def main():
 
     print('Saving model')
     model.save('outputs/babi.h5')
-    np.save('outputs/model_context.npy', [word_idx, story_maxlen, query_maxlen])
-    
+    np.save('outputs/model_context.npy', [answer_idx])
+
+
 if __name__ == '__main__':
     main()

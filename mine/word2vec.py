@@ -7,15 +7,18 @@ import vnTokenizer
 
 
 def create(iter=100):
-    corpuses = []
     path = 'data/word2vec'
-    files = [join(path, f)
-             for f in listdir(path) if isfile(join(path, f))]
-    corpuses = [open(fl, encoding='utf8').read() for fl in files]
+
+    docLabels = []
+    docLabels = [f for f in listdir(path) if f.endswith('.txt')]
+
+    data = [open(join(path, doc), encoding='utf8').read() for doc in docLabels]
+    data = '. '.join(data)
+
     sentences = []
-    for corpus in corpuses:
-        for sentence in vnTokenizer.tokenize(corpus, True):
-            sentences.append(sentence.split())
+    for sentence in vnTokenizer.tokenize(data, True):
+        sentences.append(sentence.split())
+
     model = Word2Vec(sentences, size=300, window=5,
                      min_count=1, workers=4, iter=iter)
     model.wv.save_word2vec_format('outputs/word2vec.txt')
