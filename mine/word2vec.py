@@ -1,12 +1,12 @@
 from gensim.models.keyedvectors import KeyedVectors
-from gensim.models import Word2Vec
+from gensim.models.wrappers import FastText
 from os import listdir
 from os.path import isfile, join
 from functools import reduce
 import vnTokenizer
 
 
-def create(iter=100):
+def create(iter=1000):
     path = 'data/word2vec'
 
     docLabels = []
@@ -17,12 +17,11 @@ def create(iter=100):
 
     sentences = []
     for sentence in vnTokenizer.tokenize(data, True):
-        sentences.append(sentence.split())
+        sentences.append(sentence.lower().split())
 
-    model = Word2Vec(sentences, size=300, window=5,
+    model = FastText(sentences, size=100, window=5,
                      min_count=1, workers=4, iter=iter)
-    model.wv.save_word2vec_format('outputs/word2vec.txt')
-
+    model.wv.save_word2vec_format('outputs/word2vec.vec')
 
 def main():
     create()

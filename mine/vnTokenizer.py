@@ -7,7 +7,7 @@ tokenizer = gateway.entry_point.getTokenizer()
 def tokenize(text, turn_on_sentence_detection=False):
     '''
         strip
-        [''],['','']
+        '',['','']
     '''
     if turn_on_sentence_detection:
         tokenizer.turnOnSentenceDetection()

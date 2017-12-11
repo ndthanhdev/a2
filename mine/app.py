@@ -15,7 +15,8 @@ def main():
     [answer_idx] = np.load('outputs/model_context.npy')
     idx_word = list(answer_idx.keys())
 
-    word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
+    # word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
+    word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
 
     def toWord(idx):
         return idx_word[idx - 1]
