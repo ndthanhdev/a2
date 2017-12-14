@@ -6,7 +6,6 @@ import numpy as np
 
 # vectors = KeyedVectors.load_word2vec_format('outputs/vi.vec')
 model = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
-model = model.
 # model ([['abc_xyz']],update=True)
 print(model.wv.vocab)
 

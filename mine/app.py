@@ -2,7 +2,6 @@ from keras.models import Model, load_model
 import numpy as np
 import re
 from keras.preprocessing.sequence import pad_sequences
-from babi_rnn_vi import vectorize_sentence
 from gensim.models.keyedvectors import KeyedVectors
 from gensim.models import Word2Vec
 from babi_rnn_vi import tokenize
@@ -12,22 +11,29 @@ def main():
     print('Loading...')
     model = load_model('outputs/babi.h5')
 
-    [answer_idx] = np.load('outputs/model_context.npy')
-    idx_word = list(answer_idx.keys())
+    [word2idx, story_maxlen, query_maxlen] = np.load(
+        'outputs/model_context.npy')
+    idx2word = dict([(v, k) for k, v in word2idx.items()])
 
     # word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
-    word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
+    # word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
 
     def toWord(idx):
-        return idx_word[idx - 1]
+        return idx2word[idx]
+
+    def toVec(words):
+        vectors = []
+        for w in words:
+            vectors.append(word2idx[w])
+        return vectors
 
     def predict(corpus, query):
         corpus = tokenize(corpus)
         query = tokenize(query)
         print('corpus', corpus)
         print('query', query)
-        input = [np.array([vectorize_sentence(corpus, word2vec)]),
-                 np.array([vectorize_sentence(query, word2vec)])]
+        input = [pad_sequences([toVec(corpus)], story_maxlen), pad_sequences(
+            [toVec(query)], query_maxlen)]
         output = model.predict(input, 32)
         return toWord(np.argmax(output))
 
