@@ -12,15 +12,11 @@ from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
 
-from gensim.models.keyedvectors import KeyedVectors
-from gensim.models.wrappers import FastText
-
 import vnTokenizer
 
 
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
-
     >>> tokenize('Bob dropped the apple. Where is the apple?')
     ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
     '''
@@ -76,18 +72,6 @@ def get_stories(f, only_supporting=False, max_length=None):
     return data
 
 
-def vectorize_sentence(text, word2vec):
-    arr = []
-    for w in text:
-        if w in word2vec.wv:
-            arr.append(word2vec.wv[w])
-        elif all(ew in word2vec.wv for ew in w.split('_')):
-            print(w)
-            arr.append(np.average([word2vec.wv[ew]
-                                   for ew in w.split('_')], axis=0))
-    return np.average(arr, axis=0)
-
-
 def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
     xs = []
     xqs = []
@@ -106,20 +90,16 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 
 if __name__ == '__main__':
 
-    word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
-    # word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
-
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = word2vec.vector_size
-    SENT_HIDDEN_SIZE = 300
-    QUERY_HIDDEN_SIZE = 300
+    EMBED_HIDDEN_SIZE = 50
+    SENT_HIDDEN_SIZE = 100
+    QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
     EPOCHS = 40
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
                                                                QUERY_HIDDEN_SIZE))
-
     # try:
     #     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
     # except:
@@ -135,7 +115,7 @@ if __name__ == '__main__':
     # QA2 with 1000 samples
     # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/_{}.txt'
+    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
     # QA2 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
@@ -144,33 +124,21 @@ if __name__ == '__main__':
     # test = get_stories(tar.extractfile(challenge.format('test')))
     test = get_stories(open(challenge.format('test'), encoding='utf-8'))
 
-    word_idx = dict([(k, v.index + 1) for k, v in word2vec.vocab.items()])
-
     vocab = set()
     for story, q, answer in train + test:
         vocab |= set(story + q + [answer])
-
-    prepared_vocab = word_idx.keys()
-    vocab = set([v for v in vocab if v not in prepared_vocab])
     vocab = sorted(vocab)
 
-    for v in vocab:
-        word_idx[v] = len(word_idx) + 1
-
-    weights = word2vec.syn0
-    for i in range(len(vocab) + 1):
-        weights = np.append(weights, [np.zeros(EMBED_HIDDEN_SIZE)], axis=0)
-
     # Reserve 0 for masking via pad_sequences
-    vocab_size = len(word_idx) + 1
-
+    vocab_size = len(vocab) + 1
+    word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
     story_maxlen = max(map(len, (x for x, _, _ in train + test)))
     query_maxlen = max(map(len, (x for _, x, _ in train + test)))
 
     x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
     tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
-    print('vocab_size, vocab = {}, {}'.format(vocab_size, vocab))
+    print('vocab = {}'.format(vocab))
     print('x.shape = {}'.format(x.shape))
     print('xq.shape = {}'.format(xq.shape))
     print('y.shape = {}'.format(y.shape))
@@ -181,12 +149,12 @@ if __name__ == '__main__':
 
     sentence = layers.Input(shape=(story_maxlen,), dtype='int32')
     encoded_sentence = layers.Embedding(
-        vocab_size, EMBED_HIDDEN_SIZE, weights=[weights])(sentence)
+        vocab_size, EMBED_HIDDEN_SIZE)(sentence)
     encoded_sentence = layers.Dropout(0.3)(encoded_sentence)
 
     question = layers.Input(shape=(query_maxlen,), dtype='int32')
     encoded_question = layers.Embedding(
-        vocab_size, EMBED_HIDDEN_SIZE, weights=[weights])(question)
+        vocab_size, EMBED_HIDDEN_SIZE)(question)
     encoded_question = layers.Dropout(0.3)(encoded_question)
     encoded_question = RNN(EMBED_HIDDEN_SIZE)(encoded_question)
     encoded_question = layers.RepeatVector(story_maxlen)(encoded_question)

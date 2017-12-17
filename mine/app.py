@@ -15,17 +15,22 @@ def main():
         'outputs/model_context.npy')
     idx2word = dict([(v, k) for k, v in word2idx.items()])
 
-    # word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
+    word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
     # word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
 
-    def toWord(idx):
-        return idx2word[idx]
+    def mostSimilarity(externalVoca):
+        return max([k for k in word2idx if k in word2vec.wv.vocab], key=lambda k: word2vec.wv.similarity(externalVoca, k))
 
     def toVec(words):
         vectors = []
         for w in words:
+            if w not in word2idx:
+                w = mostSimilarity(w)
             vectors.append(word2idx[w])
         return vectors
+
+    def toWord(idx):
+        return idx2word[idx]
 
     def predict(corpus, query):
         corpus = tokenize(corpus)
