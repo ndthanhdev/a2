@@ -39,6 +39,7 @@ def parse_stories(lines, only_supporting=False):
         if nid == 1:
             story = []
         if '\t' in line:
+            print(line)
             q, a, supporting = line.split('\t')
             q = tokenize(q)
             substory = None
@@ -91,7 +92,7 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 50
+    EMBED_HIDDEN_SIZE = 100
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
@@ -115,7 +116,7 @@ if __name__ == '__main__':
     # QA2 with 1000 samples
     # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
+    challenge = 'data/babi/vi/_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
     # QA2 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
