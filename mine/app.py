@@ -6,18 +6,24 @@ from keras.preprocessing.sequence import pad_sequences
 from gensim.models.keyedvectors import KeyedVectors
 from gensim.models import Word2Vec
 from babi_rnn_vi import tokenize
+from ranking import ranking
+
+
+def loadDocuments(path):
+    return open(path, encoding='utf-8').readlines()
+
 
 if __name__ == '__main__':
 
-    kind = "outputs/t1_{}"
+    kind = "outputs/t1/{}"
 
     print('Loading...')
     model = load_model(kind.format('model.h5'))
     [word2idx, story_maxlen, query_maxlen] = np.load(
-       kind.format('model_context.npy'))
+        kind.format('model_context.npy'))
     idx2word = dict([(v, k) for k, v in word2idx.items()])
-    # word2vec = KeyedVectors.load_word2vec_format('outputs/vi.vec')
-    # word2vec = KeyedVectors.load_word2vec_format('outputs/word2vec.vec')
+
+    documents = loadDocuments(kind.format('documents.txt'))
 
     def mostSimilarity(externalVoca):
         return max([k for k in word2idx if k in word2vec.wv.vocab], key=lambda k: word2vec.wv.similarity(externalVoca, k))
@@ -35,28 +41,27 @@ if __name__ == '__main__':
     def toWord(idx):
         return idx2word[idx]
 
-    def predict(corpus, query):
-        corpus = tokenize(corpus)
+    def predict(query):
         query = tokenize(query)
-        print('corpus:', corpus)
         print('query:', query)
+
+        ranked_documents = ranking(documents, query)
+        print('ranking:', ranked_documents)
+        corpus = max(ranked_documents.keys(), key=(
+            lambda k: ranked_documents[k]))
+        corpus = tokenize(corpus)
+        print('corpus:', corpus)
+
         input = [pad_sequences([toVec(corpus)], story_maxlen), pad_sequences(
             [toVec(query)], query_maxlen)]
         output = model.predict(input, 32)
         return toWord(np.argmax(output))
 
-    corpus = []
     print('Chào bạn!')
     while True:
         temp = str(input('You: '))
-        if temp == 'exit':
+        if temp == 'bye':
             print('Bot: Tạm biệt')
             exit()
-        elif temp == 'new':
-            corpus = []
-            print('Bot: Quên hết rồi.')
         elif '?' in temp:
-            print('Bot: ', predict('. '.join(corpus), temp))
-        else:
-            corpus.append(temp.strip())
-            print('Bot: ờ')
+            print('Bot: ', predict(temp))

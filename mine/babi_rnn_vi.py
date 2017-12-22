@@ -18,7 +18,7 @@ import vnTokenizer
 def tokenize(sent):
     '''Return the tokens of a sentence including punctuation.
     >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
+    ['bob', 'dropped', 'the', 'apple', '.', 'where', 'is', 'the', 'apple', '?']
     '''
     return [x.strip().lower() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
 
@@ -32,7 +32,6 @@ def parse_stories(lines, only_supporting=False):
     data = []
     story = []
     for line in lines:
-        # line = line.decode('utf-8').strip()
         line = line.strip()
         nid, line = line.split(' ', 1)
         nid = int(nid.replace('\ufeff', ''))
@@ -101,26 +100,9 @@ if __name__ == '__main__':
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
                                                                QUERY_HIDDEN_SIZE))
-    # try:
-    #     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
-    # except:
-    #     print('Error downloading dataset, please download it manually:\n'
-    #           '$ wget http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz\n'
-    #           '$ mv tasks_1-20_v1-2.tar.gz ~/.keras/datasets/babi-tasks-v1-2.tar.gz')
-    # raise
-    # tar = tarfile.open(path)
-    # Default QA1 with 1000 samples
-    # challenge = 'tasks_1-20_v1-2/en/qa1_single-supporting-fact_{}.txt'
-    # QA1 with 10,000 samples
-    # challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
-    # QA2 with 1000 samples
-    # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
-    # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
+
     challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
-    # QA2 with 10,000 samples
-    # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
-    # train = get_stories(tar.extractfile(challenge.format('train')))
+
     train = get_stories(open(challenge.format('train'), encoding='utf-8'))
 
     vocab = set()
@@ -135,7 +117,6 @@ if __name__ == '__main__':
     query_maxlen = max(map(len, (x for _, x, _ in train )))
 
     x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
-    # tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
     print('vocab = {}'.format(vocab))
     print('x.shape = {}'.format(x.shape))
