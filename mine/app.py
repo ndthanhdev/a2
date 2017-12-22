@@ -3,8 +3,6 @@ from keras.models import Model, load_model
 import numpy as np
 import re
 from keras.preprocessing.sequence import pad_sequences
-from gensim.models.keyedvectors import KeyedVectors
-from gensim.models import Word2Vec
 from babi_rnn_vi import tokenize
 from ranking import ranking
 
@@ -12,27 +10,22 @@ from ranking import ranking
 def loadDocuments(path):
     return open(path, encoding='utf-8').readlines()
 
-
 if __name__ == '__main__':
 
-    kind = "outputs/t1/{}"
+    source = "outputs/{}"
 
     print('Loading...')
-    model = load_model(kind.format('model.h5'))
+    model = load_model(source.format('model.h5'))
     [word2idx, story_maxlen, query_maxlen] = np.load(
-        kind.format('model_context.npy'))
+        source.format('model_context.npy'))
     idx2word = dict([(v, k) for k, v in word2idx.items()])
 
-    documents = loadDocuments(kind.format('documents.txt'))
-
-    def mostSimilarity(externalVoca):
-        return max([k for k in word2idx if k in word2vec.wv.vocab], key=lambda k: word2vec.wv.similarity(externalVoca, k))
+    documents = loadDocuments(source.format('documents.txt'))
 
     def toVec(words):
         vectors = []
         for w in words:
             if w not in word2idx:
-                # w = mostSimilarity(w)
                 print(w)
             else:
                 vectors.append(word2idx[w])

@@ -38,7 +38,6 @@ def parse_stories(lines, only_supporting=False):
         if nid == 1:
             story = []
         if '\t' in line:
-            print(line)
             q, a, supporting = line.split('\t')
             q = tokenize(q)
             substory = None
@@ -95,15 +94,15 @@ if __name__ == '__main__':
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
-    EPOCHS = 40
+    EPOCHS = 200
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
                                                                QUERY_HIDDEN_SIZE))
 
-    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
+    challenge = 'data/babi/vi/_train.txt'
 
-    train = get_stories(open(challenge.format('train'), encoding='utf-8'))
+    train = get_stories(open(challenge, encoding='utf-8'))
 
     vocab = set()
     for story, q, answer in train:

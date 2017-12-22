@@ -27,5 +27,5 @@ def ranking(documents, query):
 
     docs = set()
     for doc in documents:
-        docs.add(doc)
+        docs.add(doc.strip())
     return dict((doc, score(doc, query)) for doc in docs)
