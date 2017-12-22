@@ -92,7 +92,7 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 100
+    EMBED_HIDDEN_SIZE = 50
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
@@ -116,28 +116,26 @@ if __name__ == '__main__':
     # QA2 with 1000 samples
     # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
     # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/_{}.txt'
+    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
     # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
     # QA2 with 10,000 samples
     # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
     # train = get_stories(tar.extractfile(challenge.format('train')))
     train = get_stories(open(challenge.format('train'), encoding='utf-8'))
-    # test = get_stories(tar.extractfile(challenge.format('test')))
-    test = get_stories(open(challenge.format('test'), encoding='utf-8'))
 
     vocab = set()
-    for story, q, answer in train + test:
+    for story, q, answer in train:
         vocab |= set(story + q + [answer])
     vocab = sorted(vocab)
 
     # Reserve 0 for masking via pad_sequences
     vocab_size = len(vocab) + 1
     word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-    story_maxlen = max(map(len, (x for x, _, _ in train + test)))
-    query_maxlen = max(map(len, (x for _, x, _ in train + test)))
+    story_maxlen = max(map(len, (x for x, _, _ in train )))
+    query_maxlen = max(map(len, (x for _, x, _ in train )))
 
     x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
-    tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
+    # tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
     print('vocab = {}'.format(vocab))
     print('x.shape = {}'.format(x.shape))
@@ -166,6 +164,7 @@ if __name__ == '__main__':
     preds = layers.Dense(vocab_size, activation='softmax')(merged)
 
     model = Model([sentence, question], preds)
+
     model.compile(optimizer='adam',
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
@@ -175,11 +174,8 @@ if __name__ == '__main__':
               batch_size=BATCH_SIZE,
               epochs=EPOCHS,
               validation_split=0.05)
-    loss, acc = model.evaluate([tx, txq], ty,
-                               batch_size=BATCH_SIZE)
-    print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
     print('Saving model')
-    model.save('outputs/babi.h5')
+    model.save('outputs/model.h5')
     np.save('outputs/model_context.npy',
             [word_idx, story_maxlen, query_maxlen])
