@@ -11,6 +11,7 @@ from keras import layers
 from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
+from keras.utils import plot_model
 
 import vnTokenizer
 
@@ -38,6 +39,7 @@ def parse_stories(lines, only_supporting=False):
         if nid == 1:
             story = []
         if '\t' in line:
+            print(line)
             q, a, supporting = line.split('\t')
             q = tokenize(q)
             substory = None
@@ -90,7 +92,7 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 50
+    EMBED_HIDDEN_SIZE = 300
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
@@ -149,11 +151,14 @@ if __name__ == '__main__':
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
 
+    # plot model
+    plot_model(model)
+
     print('Training')
     model.fit([x, xq], y,
               batch_size=BATCH_SIZE,
               epochs=EPOCHS,
-              validation_split=0.05)
+              validation_split=0.0)
 
     print('Saving model')
     model.save('outputs/model.h5')

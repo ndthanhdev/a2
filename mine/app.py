@@ -8,7 +8,15 @@ from ranking import ranking
 
 
 def loadDocuments(path):
-    return open(path, encoding='utf-8').readlines()
+    lines = open(path, encoding='utf-8').readlines()
+    docs=[]
+    for line in lines:
+        line = line.strip()
+        nid, line = line.split(' ', 1)
+        line = line.strip()
+        if '\t' not in line:
+            docs.append(line)
+    return docs
 
 if __name__ == '__main__':
 
@@ -20,7 +28,7 @@ if __name__ == '__main__':
         source.format('model_context.npy'))
     idx2word = dict([(v, k) for k, v in word2idx.items()])
 
-    documents = loadDocuments(source.format('documents.txt'))
+    documents = loadDocuments(source.format('../data/babi/vi/_train.txt'))
 
     def toVec(words):
         vectors = []
