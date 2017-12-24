@@ -47,7 +47,7 @@ if __name__ == '__main__':
         print('query:', query)
 
         ranked_documents = ranking(documents, query)
-        print('ranking:', ranked_documents)
+        # print('ranking:', ranked_documents)
         corpus = max(ranked_documents.keys(), key=(
             lambda k: ranked_documents[k]))
         corpus = tokenize(corpus)

@@ -92,11 +92,11 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 300
+    EMBED_HIDDEN_SIZE = 100
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
-    EPOCHS = 200
+    EPOCHS = 1000
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
@@ -114,8 +114,8 @@ if __name__ == '__main__':
     # Reserve 0 for masking via pad_sequences
     vocab_size = len(vocab) + 1
     word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-    story_maxlen = max(map(len, (x for x, _, _ in train )))
-    query_maxlen = max(map(len, (x for _, x, _ in train )))
+    story_maxlen = max(map(len, (x for x, _, _ in train)))
+    query_maxlen = max(map(len, (x for _, x, _ in train)))
 
     x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
 
@@ -155,10 +155,21 @@ if __name__ == '__main__':
     plot_model(model)
 
     print('Training')
-    model.fit([x, xq], y,
-              batch_size=BATCH_SIZE,
-              epochs=EPOCHS,
-              validation_split=0.0)
+    # model.fit([x, xq], y,
+    #           batch_size=BATCH_SIZE,
+    #           epochs=EPOCHS,
+    #           validation_split=0.0)
+
+    ch = 'y'
+    while True:
+        if ch == 'y':
+            model.fit([x, xq], y,
+                      batch_size=BATCH_SIZE,
+                      epochs=EPOCHS,
+                      validation_split=0.0)
+        elif ch == 'n':
+            break
+        ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()
 
     print('Saving model')
     model.save('outputs/model.h5')
