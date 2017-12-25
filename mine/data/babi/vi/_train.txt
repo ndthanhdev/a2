@@ -240,4 +240,61 @@
 2 Vườn Tivoli ở đâu?	Copenhagen, Đan Mạch	1
 1 Bath là thành phố ở hạt Somerset ở tây nam nước Anh.
 2 Bath ở đâu?	hạt Somerset, Anh	1
-1 
+1 Cung điện bến tàu, Brighton Pier hay the Palace Pier là khu vui chơi giải trí ở Brighton, England.
+2 Brighton Pier ở đâu?	Brighton, England	1
+1 Disneyland Paris, tên chính thức là Euro Disney Resort là một khu vui chơi giải trí ở Paris.
+2 Disneyland Paris ở đâu?	Paris	1
+1 Giant's Causeway là vùng bờ biển thuộc hạt Altrim, Bắc Ireland, Vương quốc Anh.
+2 Giant's Causeway ở đâu?	hạt Altrim, Bắc Ireland, Vương quốc Anh	1
+1 Vườn quốc gia Everglades là một vường quốc gia của Mỹ ở Florida.
+2 Vườn quốc gia Everglades ở đâu?	Florida, Mỹ	1
+1 Alhambra đầy đủ là Qalat Al-Hamra, là một cung điện và pháo đài phức tạp nằm ở Granada, Andalusia, Tây Ban Nha.
+2 Alhambra ở đâu?	Granada, Andalusia, Tây Ban Nha	1
+1 Cung điện của Giáo hoàng là một cung điện theo kiến trúc gothic nằm ở khu lịch sử của thành phố Avignon, Pháp.
+2 Cung điện của Giáo hoàng ở đâu?	thành phố Avignon, Pháp	1
+1 Pont du Gard (Cầu Gard) là một cầu ba tầng nằm ở phía Nam nước Pháp.
+2 Cầu Gard ở đâu?	Pháp	1
+1 Lâu đài Hohensalzburg nằm trên đỉnh Festungsberg, một ngọn đồi nhỏ ở thành phố Salzburg của Áo.
+2 Lâu đài Hohensalzburg ở đâu?	thành phố Salzburg của Áo	1
+1 Lâu đài Bran nằm gần Bran, là một di tích quốc gia và là cột mốc ở Romania.
+2 Lâu đài Bran ở đâu?	Romania	1
+1 Lâu đài Praha là một lâu đài tại Praha, Cộng hòa Séc.
+2 Lâu đài Praha ở đâu?	Praha, Cộng hòa Séc	1
+1 Kapellbrücke( Chapel ) là một cầu đi bộ bằng gỗ bắc chéo qua sông Reuss tại thành phố Lucerne, miền trung Thụy Sĩ.
+2 cầu Kapellbrucke ở đâu?	thành phố Lucerne, miền trung Thụy Sĩ	1
+1 Piazza del Campo là không gian công cộng chính của trung tâm lịch sử của Siena, Tuscany, Ý.
+2 Piazza del Campo ở đâu?	Siena, Tuscany, Ý	1
+1 Portofino là một làng đánh cá Ý và khu nghỉ mát nổi tiếng nằm ở thành phố Metropolitan của Genoa, Ý.
+2 Làng Portofino ở đâu?	thành phố Metropolitan của Genoa, Ý	1
+1 Núi Bàn là một ngọn núi có đỉnh bằng phẳng tạo thành một điểm nhấn nổi bật, nhìn ra thành phố Cape Town ở Nam Phi.
+2 Núi Bàn ở đâu?	thành phố Cape Town ở Nam Phi	1
+1 Atomium là một công trình được xây dựng cho Hội chợ quốc tế tại Brussel, Bỉ.
+2 Atomium ở đâu?	Brussel, Bỉ	1
+1 Bảo tàng Guggenheim Bilbao là một bảo tàng nghệ thuật hiện đại và đương đại, nằm ở Bilbao, Xứ Basque, Tây Ban Nha.
+2 Bảo tàng Guggenheim Bilbao ở đâu?	Bilbao, Xứ Basque, Tây Ban Nha	1
+1 Đại lộ Danh vọng Hollywood là một lề đường dọc đại lộ Hollywood và phố Vine ở Hollywood, California, Hoa Kỳ.
+2 Đại lộ Danh vọng Hollywood ở đâu?	dọc đại lộ Hollywood và phố Vine ở Hollywood, California, Hoa Kỳ	1
+1 Thung lũng Chết hay Thung lũng của sự chết chóc là một thung lũng dài và hẹp nằm giữa hai bang California và Nevada của Hoa Kỳ.
+2 Thung lũng Chết ở đâu?	giữa hai bang California và Nevada của Hoa Kỳ	1
+1 Cung điện Amalienborg là nơi có gia đình hoàng gia đặt tại Copenhagen, Đan Mạch.
+2 Cung điện Amalienborg ở đâu?	Copenhagen, Đan Mạch	1
+1 Bảo tàng nhập cư là một bảo tàng chủ yếu trưng bày lịch sử nhập cư của Úc ở Melbourne, Úc.
+2 Bảo tàng nhập cư ở đâu?	Melbourne, Úc	1
+1 Viện bảo tàng Anh là một viện bảo tàng văn hóa và lịch sử loài người ở Luân Đôn.
+2 Viện bảo tàng An ở đâu?	Luân Đôn	1
+1 Viện Đại học Oxford, còn gọi là Đại học Oxford, là một viện đại học nghiên cứu liên hợp ở Oxford, Anh.
+2 Đại học Oxford ở đâu?	Oxford, Anh	1
+1 Spa địa nhiệt Blue Lagoon là một trong những điểm tham quan được truy cập nhiều nhất ở Iceland.
+2 Spa địa nhiệt Blue Lagoon ở đâu?	Iceland	1
+1 Kremlin Moskva là một "Kremlin"(dạng thành quách ở Nga) được biết đến nhiều nhất ở Nga. Nó là trung tâm địa lý và lịch sử của Moskva.
+2 Điện Kremlin ở đâu?	Moskva	1
+1 Nhà thờ Hồi giáo Sultan Ahmed là một nhà thờ Hồi giáo lịch sử tại Istanbul, thành phố lớn nhất Thổ Nhĩ Kỳ.
+2 Nhà thờ Hồi giáo Sultan Ahme ở đâu?	Istanbul, Thổ Nhĩ Kỳ	1
+1 Piccadilly Circus là một đường giao thông và không gian công cộng ở West End của London.
+2 Piccadilly Circus ở đâu?	West End của London	1
+1 Quảng trường Trafalgar là một quảng trường ở trung tâm London, Anh.
+2 Quảng trường Trafalgar ở đâu?	London, Anh	1
+1 Cầu cạn Millau là một cây cầu cạn dây văng bắc qua thung lũng sông Tarn ở Millau, tỉnh Aveyron, miền nam nước Pháp.
+2 Cầu cạn Millau ở đâu?	Aveyron, Pháp	1
+1 Di chỉ khảo cổ Newgrange là một di chỉ khảo cổ nằm ở thung lũng Boyne, Ireland.
+2 Di chỉ khảo cổ Newgrange ở đâu?	thung lũng Boyne, Ireland	1
