@@ -160,3 +160,84 @@
 2 Lầu Năm Góc ở đâu?	48 N. Rotary Road, Arlington, Virginia, Hoa Kỳ	1
 1 Núi Vesuvius là một núi lửa tầng nằm ở vịnh Naples, Ý.
 2 Núi Vesuvius ở đâu?	vịnh Naples, Ý	1
+1 El Castillo, còn được gọi là Đền Kukulcan, là một kim tự tháp Trung Mỹ chiếm lĩnh vùng trung tâm của khu di tích Chichen Itza ở bang Yucatán, México.
+2 El Castillo ở đâu?	bang Yucatán, México	1
+1 Cloud Gate là một tác phẩm điêu khắc bởi nghệ sĩ Anh gốc Ấn Độ Sir Anish Kapoor, đó là trung tâm của AT & T Plaza tại Công viên Thiên niên kỷ ở khu vực cộng đồng Loop của Chicago, Illinois.
+2 Cloud Gate ở đâu?	khu vực cộng đồng Loop của Chicago, Illinois	1
+1 Angkor Wat là một quần thể đền đài tại Campuchia và là di tích tôn giáo lớn nhất thế giới, rộng 162.6 hecta (1,626,000 mét vuông).
+2 Angkor Wat ở đâu?	Campuchia	1
+1 Thác nước Victoria hay Mosi-oa-Tunya là một thác nước tại miền nam châu Phi trên sông Zambezi, tại biên giới Zambia và Zimbabwe.
+2 Thác nước Victoria ở đâu?	sông Zambezi, tại biên giới Zambia và Zimbabwe	1
+1 Đội quân đất nung hay Tượng binh mã Tần Thủy Hoàng là một quần thể tượng người, ngựa bằng đất nung gần Lăng mộ Tần Thủy Hoàng.
+2 Đội quân đất nung ở đâu?	Lăng mộ Tần Thủy Hoàng	1
+1 Cung điện Potala nằm ở Lhasa, khu tự trị Tây Tạng.
+2 Cung điện Potala ở đâu?	Lhasa, khu tự trị Tây Tạng	1
+1 Petra là một khu vực khảo cổ học ở phía Tây Nam Jordan, nằm trên sườn núi Hor.
+2 Petra ở đâu?	sườn núi Hor, Tây Nam Jordan	1
+1 Vườn quốc gia Yellowstone là một vườn quốc gia Hoa Kỳ nằm ở các bang phía tây Wyoming, Montana và Idaho của Hoa Kỳ.
+2 Vườn quốc gia Yellowstone ở đâu?	phía tây Wyoming, Montana và Idaho của Hoa Kỳ	1
+1 Hagia Sophia ban đầu là một Vương cung thánh đường Chính thống giáo Đông phương, sau là thánh đường Hồi giáo, và nay là một viện bảo tàng ở Istanbul, Thổ Nhĩ Kỳ.
+2 Hagia Sophia ở đâu?	Istanbul, Thổ Nhĩ Kỳ	1
+1 Tháp truyền hình Minh Châu Phương Đông là một tháp truyền hình ở Thượng Hải, Trung Quốc.
+2 Tháp truyền hình Minh Châu Phương Đông ở đâu?	Thượng Hải, Trung Quốc	1
+1 Nyhavn là một khu bờ sông, kênh và vui chơi giải trí ở thế kỷ 17 ở Copenhagen, Đan Mạch.
+2 Nyhavn ở đâu?	Copenhagen, Đan Mạch	1
+1 Ponte Vecchio phát âm tiếng Ý, nghĩa là Cầu Cũ là một cầu bắc qua sông Arno ở Florence của Ý.
+2 Ponte Vecchio ở đâu?	bắc qua sông Arno ở Florence của Ý	1
+1 Bức tường Than Khóc, Bức tường phía tây, Kotel, Wailing Wall và al-Buraaq Wall trong tiếng Ả Rập, là một địa điểm tôn giáo quan trọng của người Do Thái tọa lạc ở Phố cổ Jerusalem.
+2 Bức tường Than Khóc ở đâu?	Jerusalem	1
+1 Loch Ness hay Hồ Ness là một hồ lớn và sâu tại cao nguyên Scotland, kéo dài đến 37 km Tây Nam của thành phố Inverness.
+2 Hồ Loch Ness ở đâu?	thành phố Inverness, Scotland	1
+1 Mecca hay Makkah là một thành phố tại vùng đồng bằng Tihamah thuộc Ả Rập Xê Út và là thủ phủ của vùng Makkah.
+2 Mecca ở đâu?	Ả Rập Xê Út	1
+1 Cầu cảng Sydney là cầu chính băng qua cảng Sydney.
+2 Cầu cảng Sydney ở đâu?	cảng Sydney	1
+1 Nhà nguyện Sistina là nhà nguyện nổi tiếng nhất trong Điện Tông Tòa, là nơi dùng tổ chức các Mật nghị Hồng y để bầu chọn một giáo hoàng mới.
+2 Nhà nguyện Sistina ở đâu?	trong Điện Tông Tòa	1
+1 Các bậc thang Tây Ban Nha là một bộ các bậc thang ở Rôma, Ý.
+2 Các bậc thang Tây Ban Nha ở đâu?	Rôma, Ý	1
+1 Cầu Than thở nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý.
+2 Cầu Than thở ở đâu?	nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý	1
+1 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou, Trung tâm Georges-Pompidou, Trung tâm Pompidou hay Trung tâm Beaubourg là một trung tâm văn hóa và bảo tàng lớn nằm ở khu Beaubourg thuộc quận 4, Paris, Pháp.
+2 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou ở đâu?	khu Beaubourg thuộc quận 4, Paris, Pháp	1
+1 Di Hòa Viên (The Summer Palace) ở Bắc Kinh, Trung Quốc.
+2 Di Hòa Viên ở đâu?	Bắc Kinh, Trung Quốc	1
+1 Núi Etna là một núi lửa dạng tầng đang hoạt động nằm ở mạn đông đảo Sicilia, Ý.
+2 Núi Etna ở đâu?	đảo Sicilia, Ý	1
+1 Lascaux là địa điểm tổ hợp các hang động gần ngôi làng Montignac, thuộc Dordogne ở tây nam nước Pháp.
+2 Lascaux ở đâu?	gần ngôi làng Montignac, thuộc Dordogne ở tây nam nước Pháp	1
+1 Vườn quốc gia Bryce Canyon là vườn quốc gia nằm ở phía tây nam Utah, Hoa Kỳ.
+2 Vườn quốc gia Bryce Canyon ở đâu?	tây nam Utah, Hoa Kỳ	1
+1 Taiizan Kotokuin Shojosenji là một bực tượng Phật khổng lồ đặt ở thành phố Kamakura, Quận Kanagawa, Nhất Bản.
+2 Taiizan Kotokuin Shojosenji ở đâu?
+1 One World Trade Center (Trung tâm Thương mại Thế giới Một), hay Freedom Tower (Tháp Tự Do) và là tòa nhà chính của 7 Trung tâm Thương mại Thế giới tọa lạc trên nền WTC cũ ở New York.
+2 One World Trade Center ở đâu?	New York	1
+1 Lâu đài Kronborg là một lâu đài của Đan Mạch, nằm ở thành phố Helsingør.
+2 Lâu Đài Kroborg ở đâu?	thành phố Helsingør, Đan Mạch	1
+1 Gateway Arch tên gọi khác Cổng vào miền Tây, là một vòm cong hình nón được làm bằng thép không gỉ cao 630 foot, tọa lạc tại St. Louis, Missouri, Hoa Kỳ.
+2 Gateway Arch ở đâu?	St. Louis, Missouri, Hoa Kỳ	1
+1 Trung tâm Tài chính Thượng Hải là một tòa nhà chọc trời cao nhất ở Thượng Hải, Trung Quốc.
+2 Trung tâm Tài chính Thượng Hải ở đâu?	Thượng Hải, Trung Quốc	1
+1 Moulin rouge (trong tiếng Pháp có nghĩa là "cối xay gió đỏ") là một tiệm hát (cabaret) nổi tiếng của Paris.
+2 Moulin rouge ở đâu?	Paris	1
+1 Vườn quốc gia Redwood là là một khu rừng nguyên sinh nằm ở tiểu bang California, Hoa Kỳ.
+2 Vườn quốc gia Redwood ở đâu?	California, Hoa Kỳ	1
+1 Santorini, tên cổ điển Thera, và tên chính thức Thira, là một hòn đảo ở miền nam biển Aegea, nằm cách 200 km về phía đông nam của Hy Lạp.
+2 Đảo Santorini ở đâu?	Aegea, Hy Lạp	1
+1 Những chiếc cối xay gió ở Kinderdijk là một quần thể cối xay gió gồm 19 chiếc ở đầm Alblasserwaard, tỉnh Nam Hà Lan, Hà Lan.
+2 Những chiếc cối xay gió ở Kinderdijk ở đâu?	đầm Alblasserwaard, tỉnh Nam Hà Lan, Hà Lan	1
+1 Monument Valley (nghĩa tiếng Việt là Thung lũng tượng đài) là một khu vực thuộc Cao nguyên Colorado ở Hoa Kỳ.
+2 Monument Valley ở đâu?	Cao nguyên Colorado ở Hoa Kỳ	1
+1 Cung điện Catherine là một cung điện Rococo nằm ở thị trấn Tsarskoye Selo (Pushkin), cách St. Petersburg Nga 30 km về phía Nam.
+2 Cung điện Catherine ở đâu?	thị trấn Tsarskoye Selo (Pushkin), Nga	1
+1 Bàn công nhà Juliet là nơi đầu tiên du khách muốn ghé thăm khi đến thành phố Verona, Ý.
+2 Bàn công nhà Juliet ở đâu?	thành phố Verona, Ý	1
+1 Nhà thờ chính tòa Berlin hoặc Nhà thờ lớn Berlin là một nhà thờ thuộc Giáo hội Tin Lành tại Đức và nằm ở phía đông Đảo bảo tàng, Berlin.
+2 Nhà thờ chính tòa Berlin ở đâu	phía đông Đảo bảo tàng, Berlin	1
+1 Nhà thờ chính tòa Helsinki là nhà thờ chính tòa của Giáo phận Helsinki thuộc Giáo hội Tin lành Lutheran Phần Lan, tọa lạc tại khu Kruununhaka ở trung tâm Helsinki, Phần Lan.
+2 Nhà thờ chính tòa Helsinki ở đâu?	khu Kruununhaka ở trung tâm Helsinki, Phần Lan	1
+1 Vườn Tivoli( hay đơn giản là Tivoli) là một khu vui chơi giải trí và vườn thú ở Copenhagen, Đan Mạch.
+2 Vườn Tivoli ở đâu?	Copenhagen, Đan Mạch	1
+1 Bath là thành phố ở hạt Somerset ở tây nam nước Anh.
+2 Bath ở đâu?	hạt Somerset, Anh	1
+1 
