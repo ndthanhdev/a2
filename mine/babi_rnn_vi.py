@@ -92,11 +92,11 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 100
+    EMBED_HIDDEN_SIZE = 300
     SENT_HIDDEN_SIZE = 100
     QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
-    EPOCHS = 1000
+    EPOCHS = 100
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                                EMBED_HIDDEN_SIZE,
                                                                SENT_HIDDEN_SIZE,
