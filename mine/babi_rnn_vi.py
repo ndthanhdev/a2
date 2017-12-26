@@ -102,9 +102,10 @@ if __name__ == '__main__':
                                                                SENT_HIDDEN_SIZE,
                                                                QUERY_HIDDEN_SIZE))
 
-    challenge = 'data/babi/vi/_train.txt'
+    challenge = '2'
 
-    train = get_stories(open(challenge, encoding='utf-8'))
+    train = get_stories(
+        open('data/babi/vi/{}_train.txt'.format(challenge), encoding='utf-8'))
 
     vocab = set()
     for story, q, answer in train:
@@ -152,7 +153,7 @@ if __name__ == '__main__':
                   metrics=['accuracy'])
 
     # plot model
-    plot_model(model)
+    plot_model(model, to_file='babi_rnn_model.png')
 
     print('Training')
     # model.fit([x, xq], y,
@@ -172,6 +173,6 @@ if __name__ == '__main__':
         ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()
 
     print('Saving model')
-    model.save('outputs/model.h5')
-    np.save('outputs/model_context.npy',
+    model.save('outputs/{}_model.h5'.format(challenge))
+    np.save('outputs/{}_model_context.npy'.format(challenge),
             [word_idx, story_maxlen, query_maxlen])
