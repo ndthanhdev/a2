@@ -12,6 +12,7 @@ from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import plot_model
+
 from tools import tokenize
 
 
@@ -142,10 +143,6 @@ if __name__ == '__main__':
     plot_model(model, to_file='babi_rnn_model.png')
 
     print('Training')
-    # model.fit([x, xq], y,
-    #           batch_size=BATCH_SIZE,
-    #           epochs=EPOCHS,
-    #           validation_split=0.0)
 
     ch = 'y'
     while True:

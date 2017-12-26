@@ -1,300 +1,48 @@
-1 Tượng Nữ thần Tự do là một tác phẩm điêu khắc theo phong cách tân cổ điển với kích thước cực lớn, đặt trên Đảo Ellis tại cảng New York.
-2 Tượng Nữ thần Tự do ở đâu?	 trên Đảo Ellis tại cảng New York.	1
-1 Tháp Eiffel là một công trình kiến trúc bằng thép nằm trên công viên Champ-de-Mars, cạnh sông Seine, thành phố Paris.
-2 Tháp Eiffel ở đâu?	Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Pháp	1
-1 Big Ben tên đầy đủ là Tháp đồng hồ của cung điện Westminster là một cấu trúc tháp đồng hồ ở mặt Đông-Bắc của công trình Nhà quốc hội ở Westminster, London, Anh.
-2 Tháp đồng hồ Big Ben ở đâu?	Nhà quốc hội ở Westminster, London, Anh.	1
-1 Tháp nghiêng Pisa (tiếng Ý: Torre pendente di Pisa) là một tòa tháp chuông tại thành phố Pisa (Ý) được khởi xây năm 1173.
-2 Tháp nghiên Pisa ở đâu?	thành phố Pisa (Ý)	1
-1 Đấu trường La Mã (hay Đại hý trường La Mã) được biết đến đầu tiên dưới cái tên Amphitheatrum Flavium, sau này gọi là Colosseum hay Colosseo, là một đấu trường lớn ở thành phố Roma.
-2 Đấu trường Colosseum ở đâu?	Roma	1
-1 Tòa nhà Empire State là một tòa nhà 102 tầng tại giao điểm của Đại lộ 5 và Phố 34 Wall Street Thành phố New York, Hoa Kỳ.
-2 Tòa nhà Empire State ở đâu?	giao điểm của Đại lộ 5 và Phố 34 Wall Street Thành phố New York, Hoa Kỳ.	1
-1 Bảng hiệu Hollywood (Hollywood Sign ,trước đây được gọi là Bảng hiệu Hollywoodland) là một công trình mang tính nhận dạng và biểu tượng văn hóa Mỹ tại Los Angeles, California.
-2 Bảng hiệu Hollywood ở đâu?	Los Angeles, California, Mỹ.	1
-1 Khi được hoàn thành vào năm 1937, The Golden Gate Bridge (tiếng Anh: Golden Gate Bridge) hay Kim Môn kiều là cây cầu treo dài nhất trên thế giới, và đã trở thành một biểu tượng quốc tế của San Francisco, California, Hoa Kỳ.
-2 Cầu Cổng Vàng ở đâu?	San Francisco, California, Hoa Kỳ	1
-1 Nhà thờ Đức Bà Paris là một nhà thờ Công giáo tiêu biểu cho phong cách kiến trúc gothic trên đảo Île de la Cité (nằm giữa dòng sông Seine) của Paris.
-2 Nhà thờ Đức Bà Paris ở đâu?	đảo Île de la Cité (nằm giữa dòng sông Seine) của Paris.	1
-1 Nhà thờ chính tòa Đức Bà Sài Gòn là nhà thờ chính tòa của Tổng giáo phận Thành phố Hồ Chí Minh, một trong những công trình kiến trúc độc đáo của Sài Gòn, Việt Nam.
-2 Nhà thờ Đức Bà Sài Gòn ở đâu?	Sài Gòn, Việt Nam	1
-1 Tháp Tokyo là một tháp truyền thông và quan sát tọa lạc tại khu vực Shiba-koen thuộc quận Minato, Tokyo, Nhật Bản.
-2 Tháp Tokyo ở đâu?	quận Minato, Tokyo, Nhật Bản	1
-1 Mắt Luân Đôn hay Vòng quay Thiên niên kỷ (tiếng Anh: London Eye hay Millennium Wheel) ở Lambeth, Luân Đôn, Vương Quốc Anh.
-2 Mắt Luân Đôn ở đâu?	Lambeth, Luân Đôn, Vương Quốc Anh.	1
-1 Vương cung thánh đường Thánh Phêrô (tiếng Latinh: Basilica Sancti Petri, tiếng Ý: Basilica di San Pietro in Vaticano) là một trong bốn nhà thờ lớn nhất ở Vatican. 
-2 thánh đường Thánh Phêrô ở đâu?	Vatican	1
-1 Vương cung thánh đường Nhà thờ ngoại hiệu Thánh Gia  thường được gọi Sagrada Família, là một nhà thờ Công giáo lớn đang xây tại Barcelona, Catalunya, Tây Ban Nha.
-2 Sagrada Familia ở đâu?	Barcelona, Catalunya, Tây Ban Nha.	1
-1 Tượng nàng tiên cá (Tiếng Anh: Little Mermaid ) nằm trên đá tại cảng Copenhagen, Đan Mạch.
-2 Tượng nàng tiên cá nằm ở đâu?	cảng Copenhagen, Đan Mạch	1
-1 Vạn Lý Trường Thành ( Tiếng Anh: Great Wall of China) bắt đầu từ Sơn Hải quan đến La Bố Lạc, Trung Quốc.
-2 Vạn Lý Trường Thành ở đâu?	bắt đầu từ Sơn Hải quan đến La Bố Lạc, Trung Quốc.	1
-1 Nhà hát Opera Sydney, được người Việt gọi là Nhà hát Con Sò là một công trình nhà hát tại thành phố Sydney, Úc.
-2 Nhà hát Opera Sydney ở đâu?	thành phố Sydney, Úc.	1
-1 Nhà thờ chính tòa Thánh Vasily Hiển phúc là một nhà thờ Chính thống giáo Nga tọa lạc tại Quảng trường Đỏ, Moskva.
-2 Nhà thờ chính tòa Thánh Vasily Hiển phúc ở đâu?	Quảng trường Đỏ, Moskva.	1
-1 Khải Hoàn Môn hay đúng hơn Bắc đẩu Khải hoàn môn (tiếng Anh: Arc de Triomphe ) là một công trình ở Paris, Pháp.
-2 Khải Hoàn Môn ở đâu?	Paris, Pháp	1
-1 Bức tường Berlin từng được Chính phủ Cộng hòa Dân chủ Đức gọi là "Tường thành bảo vệ chống phát xít" bị người dân Cộng hoà Liên bang Đức gọi là "Bức tường ô nhục" chia cắt phần Tây Berlin với phần phía đông của thành phố.
-2 Bức tường Berlin ở đâu?	Berlin, Đức	1
-1 Stonehenge là một công trình tượng đài cự thạch thời kỳ đồ đá mới và thời kỳ đồ đồng gần Amesbury ở Anh, thuộc hạt Wiltshire, 13 km về phía bắc Salisbury.
-2 Stonehenge ở đâu?	Amesbury, Salisbury, Vương Quốc Anh	1
-1 Kilimanjaro với 3 chóp núi lửa hình nón, Kibo, Mawensi và Shira, là một núi lửa dạng tầng không hoạt động ở đông bắc Tanzania.
-2 Núi Kilimanjaro ở đâu?	đông bắc Tanzania	1
-1 Uluru, hay Đá Ayers, tên chính thức "Uluru / Ayers Rock", là một hòn đá cát kết lớn ở miền nam ở Lãnh thổ Bắc Úc tại miền trung tâm nước Úc.
-2 Uluru ở đâu?	Úc	1
-1 Taj Mahal là một lăng mộ nằm tại Agra, Ấn Độ.
-2 Taj Mahal ở đâu?	Agra, Ấn Độ	1
-1 Khu lăng mộ Giza hay Giza Necropolis nằm tại cao nguyên Giza, ngoại ô Cairo, Ai Cập.
-2 Kim tự tháp Giza ở đâu?	ngoại ô Cairo, Ai Cập	1
-1 Tượng Nhân sư lớn ở Giza, thường được biết đến với tên gọi tượng Nhân sư, là một bức tượng làm bằng đá vôi hình một con nhân sư nằm ở cao nguyên Giza, trên tả ngạn sông Nile tại Giza, Ai Cập.
-2 Tượng Nhân sư ở đâu?	Giza, Ai Cập.	1
-1 Cầu Tháp Luân Đôn (tiếng Anh: Tower Bridge) là một công trình kết hợp cầu treo với cầu nâng bắc qua sông Thames tại Luân Đôn.
-2 Cầu Tháp Luân Đôn ở đâu?	bắc qua sông Thames tại Luân Đôn.	1
-1 Tử Cấm thành Bắc Kinh, Trung Quốc hay Cố Cung nằm ngay giữa trung tâm thành phố Bắc Kinh.
-2 Tử Cấm thành ở đâu?	Bắc Kinh, Trung Quốc	1
-1 Đỉnh Everest (tên khác: đỉnh Chomolungma) là đỉnh núi cao nhất trên Trái Đất là biên giới giữa Nepal và Tây Tạng (Trung Quốc).
-2 Núi Everest ở đâu?	biên giới giữa Nepal và Tây Tạng (Trung Quốc).	1
-1 Điện Capitol Hoa Kỳ hay Tòa Quốc hội Hoa Kỳ là trụ sở của Quốc hội, cơ quan lập pháp của chính phủ liên bang Hoa Kỳ. Nó được xây tại Washington, D.C., trên đồi Capitol ở cuối phía đông của National Mall.
-2 Capitol Hill ở đâu 	Washington, D.C	1
-1 Willis Tower, hay Tháp Willis, trước kia là Sears Tower, là một nhà chọc trời ở Chicago, Illinois. Tháp Willis (Willis Tower) là tòa nhà cao nhất ở Hoa Kỳ kể từ năm 1973.
-2 Willis Tower ở đâu?	Chicago	1
-1 Cầu Brooklyn là một trong những cây cầu treo lâu đời nhất Hoa Kỳ. Hoàn thành vào năm 1883, cây cầu kết nối hai khu của Thành phố New York là Manhattan và Brooklyn bị chia cắt bởi Sông East.
-2 Cầu Brooklyn ở đâu?	Thành phố New York	1
-1 Burj Al Arab là một khách sạn hạng sang ở Dubai, thành phố lớn thứ hai sau thủ đô Abu Ahabi của Các Tiểu vương quốc Ả Rập Thống nhất (United Arab Emirates) 
-2 khách sạn Burj Al Arab ở đâu?	Các Tiểu vương quốc Ả Rập Thống nhất	1
-1 Acropolis, còn được gọi là Cecropia, ở Athens là thành phòng thủ cổ nổi tiếng nhất trên thế giới.
-2 Acropolis ở đâu?	Athens	1
-1 Đài phun nước Trevi là một đài phun nước ở quận Trevi ở Roma, Italia.
-2 Đài phun ước Trevi ở đâu?	quận Trevi ở Roma, Italia	1
-1 Tháp chuông St Mark cạnh Nhà thờ St. Mark chính là tòa tháp cao nhất Venice.
-2 Tháp chuông St Mark ở đâu?	Nhà thờ St. Mark, Venice	1
-1 Quảng trường Thời đại (Times Square) là một giao lộ chính ở Manhattan, nối Đại lộ Broadway và Đại lộ Số bảy, kéo dài từ Đường 42 Tây đến Đường 47 Tây, New York.
-2 Quảng trường Thời đại ở đâu?	New York	1
-1 Nhà Trắng (tiếng Anh: White House, cũng được dịch là Bạch Ốc hay Bạch Cung), Nhà Trắng là một biệt thự sơn màu trắng và được xây bằng sa thạch theo kiểu tân cổ điển, số nhà 1600 Đại lộ Pennsylvania NW tại Washington, D.C.
-2 Nhà Trắng ở đâu?	1600 Đại lộ Pennsylvania NW tại Washington, D.C	1
-1 Viện bảo tàng Louvre là một viện bảo tàng nghệ thuật và lịch sử nằm tại Quận 1, thành phố Paris, nước Pháp.
-2 Viện bảo tàng Louvre ở đâu?	Quận 1, thành phố Paris, nước Pháp.	1
-1 Manneken Pis (trợ giúp·chi tiết) (nghĩa đen Cậu bé đi tiểu) là một điểm mốc nổi tiếng ở Brussels.
-2 Tượng Cậu bé đi tiểu ở đâu?	Brussels	1
-1 Điện Buckingham là một dinh thự của Vua Vương quốc Anh ở London.
-2 Điện Buckingham ở đâu?	London, Anh	1
-1 Lâu đài Versailles thường được gọi là cung điện Versailles nằm ở phía Tây của Paris tại thành phố Versailles.
-2 Lâu đài Versailles ở đâu?	thành phố Versailles, Paris	1
-1 Lâu đài Neuschwanstein là một lâu đài nằm trong địa phận của làng Schwangau gần Füssen trong miền nam nước Đức.
-2 Lâu đài Neuschwanstein ở đâu?	làng Schwangau, Đức	1
-1 Matterhorn (tiếng Đức), Monte Cervino (tiếng Ý) hoặc Mont Cervin (tiếng Pháp), là một ngọn núi ở dãy Pennine Alps trên biên giới giữa Thụy Sĩ và Ý.
-2 Núi Matterhorn ở đâu?	ở dãy Pennine Alps trên biên giới giữa Thụy Sĩ và Ý	1
-1 Pompeii là tàn tích một thành bang La Mã bị chôn vùi một phần gần Napoli Italia hiện nay trong vùng Campania, thuộc địa giới công xã Pompei.
-2 Làng Pompeii ở đâu?	Napoli, Italia	1
-1 Cattedrale di Santa Maria del Fiore( "Nhà thờ Thánh Maria Bách hoa") là nhà thờ chính của Firenze, Italia.
-2 Florence Cathedral ở đâu?	Firenze, Italia	1
-1 Lâu đài Edinburgh là một tòa lâu đài mà trong lịch sử là pháo đài hoàng gia chính của Scotland, tọa lạc trên Castle Rock, một vùng đá núi lửa rộng lớn vươn lên một cách ấn tượng giữa thành phố Edinburgh.
-2 Lâu đài Edinburgh ở đâu?	Edinburgh, Scotland	1
-1 Machu Picchu ( tức "Cổ Sơn", thỉnh thoảng được gọi là "Thành phố đã mất của người Inca") nằm trên Thung lũng Urubamba tại Peru.
-2 Machu Picchu ở đâu?	Thung lũng Urubamba, Peru	1
-1 Tượng Chúa Kitô Cứu Thế là một biểu tượng của Kitô giáo ở Brasil, trở thành một hình tượng văn hóa của cả thành phố Rio de Janeiro và quốc gia Brasil.
-2 Tượng Chúa Kitô Cứu Thế ở đâu	Rio de Janeiro, Brasil	1
-1 Tháp CN (tiếng Anh: CN Tower) là một ngọn tháp nổi tiếng thế giới của thành phố Toronto, bang Ontario, Canada.
-2 Tháp CN ở đâu?	Toronto, bang Ontario, Canada.	1
-1 Vườn quốc gia Grand Canyon là một khu bảo tồn ở tiểu bang Arizona, Hoa Kỳ.
-2 Grand Canyon ở đâu?	tiểu bang Arizona, Hoa Kỳ	1
-1 Thác Niagara ở sông Niagara tại Bắc Mỹ, nằm ở đường biên giới của Hoa Kỳ và Canada.
-2 Thác Niagara ở đâu?	biên giới của Hoa Kỳ và Canada	1
-1 Burj Khalifa,  trước kia tên là Burj Dubai, là một nhà chọc trời siêu cao ở Dubai, Các Tiểu Vương quốc Ả Rập Thống nhất.
-2 Burj Khalifa ở đâu?	Dubai, Các Tiểu Vương quốc Ả Rập Thống nhất	1
-1 Cung điện và pháo đài của Nữ hoàng, tên thường gọi là Tháp Luân Đôn, là một di tích lịch sử nằm ở trung tâm Luân Đôn, Anh, trên bờ Bắc của sông Thames.
-2 Tháp Luân Đôn ở đâu	trung tâm Luân Đôn, Anh, trên bờ Bắc của sông Thames.	1
-1 Cung điện Hoàng Gia Madrid ( Tiếng Anh: The Royal Palace of Madrid) là nơi cư trú chình thức của gia đình hoàng gia Tây Ban Nha tại thành phố Madrid, Tây Ban Nha.
-2 Cung điện Hoàng Gia Madrid ở đâu?	thành phố Madrid, Tây Ban Nha	1
-1 Mont-Saint-Michel là một xã đảo ở Normandie, Pháp.
-2 Mont-Saint-Michel ở đâu?	Normandie, Pháp	1
-1 Las Vegas; là thành phố đông dân nhất ở tiểu bang Nevada, là thủ phủ của quận Clark, và là một thành phổ nghỉ dưỡng, đánh bạc và ẩm thực nổi tiếng thế giới.
-2 Las Vegas ở đâu?	tiểu bang Nevada, quận Clark, Mỹ	1
-1 Tháp đôi Petronas, hay Petronas Twin Towers, là tên một cao ốc tại Kuala Lumpur, Malaysia.
-2 Tháp đôi Petronas ở đâu?	Kuala Lumpur, Malaysia	1
-1 Lâu đài Windsor, thuộc thị trấn Windsor tại Berkshire Anh Quốc, là lâu đài lớn nhất thế giới còn có người ở.
-2 Lâu đài Windsor ở đâu?	thị trấn Windsor tại Berkshire Anh Quốc	2
-1 Vương cung thánh đường Sacre Coeur (còn gọi là Nhà thờ Thánh Tâm) là một nhà thờ Công giáo nổi tiếng của Paris. Nằm trên đỉnh đồi Montmartre, thuộc Quận 18.
-2 Vương cung thánh đường Sacre Coeur ở đâu?	đỉnh đồi Montmartre, thuộc Quận 18, Pháp	1
-1 Nhà thờ Thánh Phao-lô là một nhà thờ chính tòa Anh giáo nổi tiếng tại nước Anh. Giáo đường khổng lồ này tọa lạc trên đồi Ludgate, nơi cao nhất tại thành phố Luân Đôn.
-2 Nhà thờ Thánh Phao-lô ở đâu?	đồi Ludgate, thành phố Luân Đôn.	1
-1 Công viên Trung tâm (Central Park) là một công viên công cộng ở trung tâm Manhattan thuộc Thành phố New York, Hoa Kỳ.
-2 Công viên Trung tâm ở đâu?	trung tâm Manhattan thuộc Thành phố New York, Hoa Kỳ	1
-1 Núi Rushmore - Khu Tưởng niệm Quốc gia là một tác phẩm điêu khắc được tạc vào khối đá granite trên núi Rushmore, gần thành phố Keystone, tiểu bang South Dakota, Hoa Kỳ.
-2 Núi Rushmore ở đâu?	núi Rushmore, gần thành phố Keystone, tiểu bang South Dakota, Hoa Kỳ	1
-1 Núi Fuji hay Núi Phú Sĩ ( Phú Sĩ Sơn) là ngọn núi cao nhất Nhật Bản trải dài trên địa phận tỉnh Shizuoka và tỉnh Yamanashi, ở phía Tây Nam Tokyo.
-2 Núi Phú Sĩ ở đâu?	Tỉnh Shizuoka và tỉnh Yamanashi, Nhật Bản	1
-1 Cầu Rialto ( Tiếng Anh: Rialto Bridge ) tại Venezia là một trong các công trình xây dựng nổi tiếng nhất của thành phố.
-2 Cầu Rialto ở đâu?	Venezia	1
-1 Arena Verona (tiếng Ý: Arena di Verona) là một hí trường La Mã tại Verona, Italia.
-2 Arena Verona ở đâu?	Verona, Italia	1
-1 Space Needle là một tòa tháp nổi tiếng tại thành phố Seattle, Washington.
-2 Space Needle ở đâu?	thành phố Seattle, Washington	1
-1 Tu viện Westminster, có tên chính thức Nhà thờ kinh sĩ đoàn Thánh Peter tại Westminster, là một nhà thờ theo kiến trúc Gothic ở Westminster, Luân Đôn.
-2 Tu viện Westminster ở đâu?	Westminster, Luân Đôn	1
-1 Núi Gibraltar hay còn gọi là Cây cột của Hécquyn là một ngọn núi ở Gibraltar nằm ở cực tây nam châu Âu tại bán đảo Iberia.
-2 Núi Gibraltar ở đâu? 	cực tây nam châu Âu tại bán đảo Iberia	1
-1 Đảo Alcatraz nằm trong vịnh San Francisco, 1,25 dặm ngoài khơi từ địa hạt San Francisco, tiểu bang California, Hoa Kỳ.
-2 Đảo Alcatraz ở đâu?	ngoài khơi từ địa hạt San Francisco, tiểu bang California, Hoa Kỳ	1
-1 Vách đá trắng ở Dover là những vách đá hình thành nên một phần của bờ biển Anh đối mặt với eo biển Dover và Pháp.
-2 Vách đá trắng ở Dover ở đâu?	biển Anh đối mặt với eo biển Dover và Pháp	1
-1 Vườn quốc gia Iguazú là một vườn quốc gia của Argentina.
-2 Vườn quốc gia Iguazú ở đâu?	Argentina	1
-1 Tượng đài Washington là một đài kỷ niệm lớn màu trắng tại phía cạnh phía Tây của khu National Mall ở thủ đô Washington, D.C. của Hoa Kỳ.
-2 Tượng đài Washington ở đâu?	phía Tây của khu National Mall ở thủ đô Washington, D.C. của Hoa Kỳ	1
-1 The Shard hay Shard London Bridge hay Shard of Glass là một tòa nhà chọc trời ở Southwark, Luân Đôn.
-2 The Shard ở đâu?	Southwark, Luân Đôn	1
-1 30 St Mary Axe hay "The Gherkin" là một tòa nhà chọc trời ở Luân Đôn, Anh.
-2 The Gherkin ở đâu?	Luân Đôn, Anh	1
-1 Moai là những bức tượng được tạc từ tro núi lửa cô đặc tại Rapa Nui, Đảo Phục sinh, Chile.
-2 Moai ở đâu?	Rapa Nui, Đảo Phục sinh, Chile	1
-1 Đền Luxor là quần thể đền thờ lớn nhất của Ai Cập Cổ Đại tọa lạc ở bờ đông sông Nile.
-2 Đền Luxor ở đâu?	bờ đông sông Nile	1
-1 Cổng Brandenburg là cổng thành phố trước đây và là một trong những biểu tượng chính của thành phố Berlin, Đức.
-2 Cổng Brandenburg ở đâu?	Berlin, Đức	1
-1 Cologne Cathedral là một nhà thờ Công giáo ở Cologne, Đức.
-2 Cologne Cathedral ở đâu?	Cologne, Đức	1
-1 Ngũ Giác Đài ( Tiếng Anh: Pentagon ) hay Lầu Năm Góc là trụ sở của Bộ Quốc phòng Hoa Kỳ. Cơ sở này tọa lạc ở địa chỉ 48 N. Rotary Road, Arlington, Virginia.
-2 Lầu Năm Góc ở đâu?	48 N. Rotary Road, Arlington, Virginia, Hoa Kỳ	1
-1 Núi Vesuvius là một núi lửa tầng nằm ở vịnh Naples, Ý.
-2 Núi Vesuvius ở đâu?	vịnh Naples, Ý	1
-1 El Castillo, còn được gọi là Đền Kukulcan, là một kim tự tháp Trung Mỹ chiếm lĩnh vùng trung tâm của khu di tích Chichen Itza ở bang Yucatán, México.
-2 El Castillo ở đâu?	bang Yucatán, México	1
-1 Cloud Gate là một tác phẩm điêu khắc bởi nghệ sĩ Anh gốc Ấn Độ Sir Anish Kapoor, đó là trung tâm của AT & T Plaza tại Công viên Thiên niên kỷ ở khu vực cộng đồng Loop của Chicago, Illinois.
-2 Cloud Gate ở đâu?	khu vực cộng đồng Loop của Chicago, Illinois	1
-1 Angkor Wat là một quần thể đền đài tại Campuchia và là di tích tôn giáo lớn nhất thế giới, rộng 162.6 hecta (1,626,000 mét vuông).
-2 Angkor Wat ở đâu?	Campuchia	1
-1 Thác nước Victoria hay Mosi-oa-Tunya là một thác nước tại miền nam châu Phi trên sông Zambezi, tại biên giới Zambia và Zimbabwe.
-2 Thác nước Victoria ở đâu?	sông Zambezi, tại biên giới Zambia và Zimbabwe	1
-1 Đội quân đất nung hay Tượng binh mã Tần Thủy Hoàng là một quần thể tượng người, ngựa bằng đất nung gần Lăng mộ Tần Thủy Hoàng.
-2 Đội quân đất nung ở đâu?	Lăng mộ Tần Thủy Hoàng	1
-1 Cung điện Potala nằm ở Lhasa, khu tự trị Tây Tạng.
-2 Cung điện Potala ở đâu?	Lhasa, khu tự trị Tây Tạng	1
-1 Petra là một khu vực khảo cổ học ở phía Tây Nam Jordan, nằm trên sườn núi Hor.
-2 Petra ở đâu?	sườn núi Hor, Tây Nam Jordan	1
-1 Vườn quốc gia Yellowstone là một vườn quốc gia Hoa Kỳ nằm ở các bang phía tây Wyoming, Montana và Idaho của Hoa Kỳ.
-2 Vườn quốc gia Yellowstone ở đâu?	phía tây Wyoming, Montana và Idaho của Hoa Kỳ	1
-1 Hagia Sophia ban đầu là một Vương cung thánh đường Chính thống giáo Đông phương, sau là thánh đường Hồi giáo, và nay là một viện bảo tàng ở Istanbul, Thổ Nhĩ Kỳ.
-2 Hagia Sophia ở đâu?	Istanbul, Thổ Nhĩ Kỳ	1
-1 Tháp truyền hình Minh Châu Phương Đông là một tháp truyền hình ở Thượng Hải, Trung Quốc.
-2 Tháp truyền hình Minh Châu Phương Đông ở đâu?	Thượng Hải, Trung Quốc	1
-1 Nyhavn là một khu bờ sông, kênh và vui chơi giải trí ở thế kỷ 17 ở Copenhagen, Đan Mạch.
-2 Nyhavn ở đâu?	Copenhagen, Đan Mạch	1
-1 Ponte Vecchio phát âm tiếng Ý, nghĩa là Cầu Cũ là một cầu bắc qua sông Arno ở Florence của Ý.
-2 Ponte Vecchio ở đâu?	bắc qua sông Arno ở Florence của Ý	1
-1 Bức tường Than Khóc, Bức tường phía tây, Kotel, Wailing Wall và al-Buraaq Wall trong tiếng Ả Rập, là một địa điểm tôn giáo quan trọng của người Do Thái tọa lạc ở Phố cổ Jerusalem.
-2 Bức tường Than Khóc ở đâu?	Jerusalem	1
-1 Loch Ness hay Hồ Ness là một hồ lớn và sâu tại cao nguyên Scotland, kéo dài đến 37 km Tây Nam của thành phố Inverness.
-2 Hồ Loch Ness ở đâu?	thành phố Inverness, Scotland	1
-1 Mecca hay Makkah là một thành phố tại vùng đồng bằng Tihamah thuộc Ả Rập Xê Út và là thủ phủ của vùng Makkah.
-2 Mecca ở đâu?	Ả Rập Xê Út	1
-1 Cầu cảng Sydney là cầu chính băng qua cảng Sydney.
-2 Cầu cảng Sydney ở đâu?	cảng Sydney	1
-1 Nhà nguyện Sistina là nhà nguyện nổi tiếng nhất trong Điện Tông Tòa, là nơi dùng tổ chức các Mật nghị Hồng y để bầu chọn một giáo hoàng mới.
-2 Nhà nguyện Sistina ở đâu?	trong Điện Tông Tòa	1
-1 Các bậc thang Tây Ban Nha là một bộ các bậc thang ở Rôma, Ý.
-2 Các bậc thang Tây Ban Nha ở đâu?	Rôma, Ý	1
-1 Cầu Than thở nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý.
-2 Cầu Than thở ở đâu?	nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý	1
-1 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou, Trung tâm Georges-Pompidou, Trung tâm Pompidou hay Trung tâm Beaubourg là một trung tâm văn hóa và bảo tàng lớn nằm ở khu Beaubourg thuộc quận 4, Paris, Pháp.
-2 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou ở đâu?	khu Beaubourg thuộc quận 4, Paris, Pháp	1
-1 Di Hòa Viên (The Summer Palace) ở Bắc Kinh, Trung Quốc.
-2 Di Hòa Viên ở đâu?	Bắc Kinh, Trung Quốc	1
-1 Núi Etna là một núi lửa dạng tầng đang hoạt động nằm ở mạn đông đảo Sicilia, Ý.
-2 Núi Etna ở đâu?	đảo Sicilia, Ý	1
-1 Lascaux là địa điểm tổ hợp các hang động gần ngôi làng Montignac, thuộc Dordogne ở tây nam nước Pháp.
-2 Lascaux ở đâu?	gần ngôi làng Montignac, thuộc Dordogne ở tây nam nước Pháp	1
-1 Vườn quốc gia Bryce Canyon là vườn quốc gia nằm ở phía tây nam Utah, Hoa Kỳ.
-2 Vườn quốc gia Bryce Canyon ở đâu?	tây nam Utah, Hoa Kỳ	1
-1 Taiizan Kotokuin Shojosenji là một bực tượng Phật khổng lồ đặt ở thành phố Kamakura, Quận Kanagawa, Nhất Bản.
-2 Taiizan Kotokuin Shojosenji ở đâu?
-1 One World Trade Center (Trung tâm Thương mại Thế giới Một), hay Freedom Tower (Tháp Tự Do) và là tòa nhà chính của 7 Trung tâm Thương mại Thế giới tọa lạc trên nền WTC cũ ở New York.
-2 One World Trade Center ở đâu?	New York	1
-1 Lâu đài Kronborg là một lâu đài của Đan Mạch, nằm ở thành phố Helsingør.
-2 Lâu Đài Kroborg ở đâu?	thành phố Helsingør, Đan Mạch	1
-1 Gateway Arch tên gọi khác Cổng vào miền Tây, là một vòm cong hình nón được làm bằng thép không gỉ cao 630 foot, tọa lạc tại St. Louis, Missouri, Hoa Kỳ.
-2 Gateway Arch ở đâu?	St. Louis, Missouri, Hoa Kỳ	1
-1 Trung tâm Tài chính Thượng Hải là một tòa nhà chọc trời cao nhất ở Thượng Hải, Trung Quốc.
-2 Trung tâm Tài chính Thượng Hải ở đâu?	Thượng Hải, Trung Quốc	1
-1 Moulin rouge (trong tiếng Pháp có nghĩa là "cối xay gió đỏ") là một tiệm hát (cabaret) nổi tiếng của Paris.
-2 Moulin rouge ở đâu?	Paris	1
-1 Vườn quốc gia Redwood là là một khu rừng nguyên sinh nằm ở tiểu bang California, Hoa Kỳ.
-2 Vườn quốc gia Redwood ở đâu?	California, Hoa Kỳ	1
-1 Santorini, tên cổ điển Thera, và tên chính thức Thira, là một hòn đảo ở miền nam biển Aegea, nằm cách 200 km về phía đông nam của Hy Lạp.
-2 Đảo Santorini ở đâu?	Aegea, Hy Lạp	1
-1 Những chiếc cối xay gió ở Kinderdijk là một quần thể cối xay gió gồm 19 chiếc ở đầm Alblasserwaard, tỉnh Nam Hà Lan, Hà Lan.
-2 Những chiếc cối xay gió ở Kinderdijk ở đâu?	đầm Alblasserwaard, tỉnh Nam Hà Lan, Hà Lan	1
-1 Monument Valley (nghĩa tiếng Việt là Thung lũng tượng đài) là một khu vực thuộc Cao nguyên Colorado ở Hoa Kỳ.
-2 Monument Valley ở đâu?	Cao nguyên Colorado ở Hoa Kỳ	1
-1 Cung điện Catherine là một cung điện Rococo nằm ở thị trấn Tsarskoye Selo (Pushkin), cách St. Petersburg Nga 30 km về phía Nam.
-2 Cung điện Catherine ở đâu?	thị trấn Tsarskoye Selo (Pushkin), Nga	1
-1 Bàn công nhà Juliet là nơi đầu tiên du khách muốn ghé thăm khi đến thành phố Verona, Ý.
-2 Bàn công nhà Juliet ở đâu?	thành phố Verona, Ý	1
-1 Nhà thờ chính tòa Berlin hoặc Nhà thờ lớn Berlin là một nhà thờ thuộc Giáo hội Tin Lành tại Đức và nằm ở phía đông Đảo bảo tàng, Berlin.
-2 Nhà thờ chính tòa Berlin ở đâu	phía đông Đảo bảo tàng, Berlin	1
-1 Nhà thờ chính tòa Helsinki là nhà thờ chính tòa của Giáo phận Helsinki thuộc Giáo hội Tin lành Lutheran Phần Lan, tọa lạc tại khu Kruununhaka ở trung tâm Helsinki, Phần Lan.
-2 Nhà thờ chính tòa Helsinki ở đâu?	khu Kruununhaka ở trung tâm Helsinki, Phần Lan	1
-1 Vườn Tivoli( hay đơn giản là Tivoli) là một khu vui chơi giải trí và vườn thú ở Copenhagen, Đan Mạch.
-2 Vườn Tivoli ở đâu?	Copenhagen, Đan Mạch	1
-1 Bath là thành phố ở hạt Somerset ở tây nam nước Anh.
-2 Bath ở đâu?	hạt Somerset, Anh	1
-1 Cung điện bến tàu, Brighton Pier hay the Palace Pier là khu vui chơi giải trí ở Brighton, England.
-2 Brighton Pier ở đâu?	Brighton, England	1
-1 Disneyland Paris, tên chính thức là Euro Disney Resort là một khu vui chơi giải trí ở Paris.
-2 Disneyland Paris ở đâu?	Paris	1
-1 Giant's Causeway là vùng bờ biển thuộc hạt Altrim, Bắc Ireland, Vương quốc Anh.
-2 Giant's Causeway ở đâu?	hạt Altrim, Bắc Ireland, Vương quốc Anh	1
-1 Vườn quốc gia Everglades là một vường quốc gia của Mỹ ở Florida.
-2 Vườn quốc gia Everglades ở đâu?	Florida, Mỹ	1
-1 Alhambra đầy đủ là Qalat Al-Hamra, là một cung điện và pháo đài phức tạp nằm ở Granada, Andalusia, Tây Ban Nha.
-2 Alhambra ở đâu?	Granada, Andalusia, Tây Ban Nha	1
-1 Cung điện của Giáo hoàng là một cung điện theo kiến trúc gothic nằm ở khu lịch sử của thành phố Avignon, Pháp.
-2 Cung điện của Giáo hoàng ở đâu?	thành phố Avignon, Pháp	1
-1 Pont du Gard (Cầu Gard) là một cầu ba tầng nằm ở phía Nam nước Pháp.
-2 Cầu Gard ở đâu?	Pháp	1
-1 Lâu đài Hohensalzburg nằm trên đỉnh Festungsberg, một ngọn đồi nhỏ ở thành phố Salzburg của Áo.
-2 Lâu đài Hohensalzburg ở đâu?	thành phố Salzburg của Áo	1
-1 Lâu đài Bran nằm gần Bran, là một di tích quốc gia và là cột mốc ở Romania.
-2 Lâu đài Bran ở đâu?	Romania	1
-1 Lâu đài Praha là một lâu đài tại Praha, Cộng hòa Séc.
-2 Lâu đài Praha ở đâu?	Praha, Cộng hòa Séc	1
-1 Kapellbrücke( Chapel ) là một cầu đi bộ bằng gỗ bắc chéo qua sông Reuss tại thành phố Lucerne, miền trung Thụy Sĩ.
-2 cầu Kapellbrucke ở đâu?	thành phố Lucerne, miền trung Thụy Sĩ	1
-1 Piazza del Campo là không gian công cộng chính của trung tâm lịch sử của Siena, Tuscany, Ý.
-2 Piazza del Campo ở đâu?	Siena, Tuscany, Ý	1
-1 Portofino là một làng đánh cá Ý và khu nghỉ mát nổi tiếng nằm ở thành phố Metropolitan của Genoa, Ý.
-2 Làng Portofino ở đâu?	thành phố Metropolitan của Genoa, Ý	1
-1 Núi Bàn là một ngọn núi có đỉnh bằng phẳng tạo thành một điểm nhấn nổi bật, nhìn ra thành phố Cape Town ở Nam Phi.
-2 Núi Bàn ở đâu?	thành phố Cape Town ở Nam Phi	1
-1 Atomium là một công trình được xây dựng cho Hội chợ quốc tế tại Brussel, Bỉ.
-2 Atomium ở đâu?	Brussel, Bỉ	1
-1 Bảo tàng Guggenheim Bilbao là một bảo tàng nghệ thuật hiện đại và đương đại, nằm ở Bilbao, Xứ Basque, Tây Ban Nha.
-2 Bảo tàng Guggenheim Bilbao ở đâu?	Bilbao, Xứ Basque, Tây Ban Nha	1
-1 Đại lộ Danh vọng Hollywood là một lề đường dọc đại lộ Hollywood và phố Vine ở Hollywood, California, Hoa Kỳ.
-2 Đại lộ Danh vọng Hollywood ở đâu?	dọc đại lộ Hollywood và phố Vine ở Hollywood, California, Hoa Kỳ	1
-1 Thung lũng Chết hay Thung lũng của sự chết chóc là một thung lũng dài và hẹp nằm giữa hai bang California và Nevada của Hoa Kỳ.
-2 Thung lũng Chết ở đâu?	giữa hai bang California và Nevada của Hoa Kỳ	1
-1 Cung điện Amalienborg là nơi có gia đình hoàng gia đặt tại Copenhagen, Đan Mạch.
-2 Cung điện Amalienborg ở đâu?	Copenhagen, Đan Mạch	1
-1 Bảo tàng nhập cư là một bảo tàng chủ yếu trưng bày lịch sử nhập cư của Úc ở Melbourne, Úc.
-2 Bảo tàng nhập cư ở đâu?	Melbourne, Úc	1
-1 Viện bảo tàng Anh là một viện bảo tàng văn hóa và lịch sử loài người ở Luân Đôn.
-2 Viện bảo tàng An ở đâu?	Luân Đôn	1
-1 Viện Đại học Oxford, còn gọi là Đại học Oxford, là một viện đại học nghiên cứu liên hợp ở Oxford, Anh.
-2 Đại học Oxford ở đâu?	Oxford, Anh	1
-1 Spa địa nhiệt Blue Lagoon là một trong những điểm tham quan được truy cập nhiều nhất ở Iceland.
-2 Spa địa nhiệt Blue Lagoon ở đâu?	Iceland	1
-1 Kremlin Moskva là một "Kremlin"(dạng thành quách ở Nga) được biết đến nhiều nhất ở Nga. Nó là trung tâm địa lý và lịch sử của Moskva.
-2 Điện Kremlin ở đâu?	Moskva	1
-1 Nhà thờ Hồi giáo Sultan Ahmed là một nhà thờ Hồi giáo lịch sử tại Istanbul, thành phố lớn nhất Thổ Nhĩ Kỳ.
-2 Nhà thờ Hồi giáo Sultan Ahme ở đâu?	Istanbul, Thổ Nhĩ Kỳ	1
-1 Piccadilly Circus là một đường giao thông và không gian công cộng ở West End của London.
-2 Piccadilly Circus ở đâu?	West End của London	1
-1 Quảng trường Trafalgar là một quảng trường ở trung tâm London, Anh.
-2 Quảng trường Trafalgar ở đâu?	London, Anh	1
-1 Cầu cạn Millau là một cây cầu cạn dây văng bắc qua thung lũng sông Tarn ở Millau, tỉnh Aveyron, miền nam nước Pháp.
-2 Cầu cạn Millau ở đâu?	Aveyron, Pháp	1
-1 Di chỉ khảo cổ Newgrange là một di chỉ khảo cổ nằm ở thung lũng Boyne, Ireland.
-2 Di chỉ khảo cổ Newgrange ở đâu?	thung lũng Boyne, Ireland	1
+1 Bây giờ là 0 giờ.
+2 Bây giờ là mấy giờ?	0 giờ	1
+1 Bây giờ là 1 giờ.
+2 Hiện tại là mấy giờ?	1 giờ	1
+1 Bây giờ là 2 giờ.
+2 Bây giờ là mấy giờ?	2 giờ	1
+1 Bây giờ là 3 giờ.
+2 Hiện tại là mấy giờ?	3 giờ	1
+1 Bây giờ là 4 giờ.
+2 Bây giờ là mấy giờ?	4 giờ	1
+1 Bây giờ là 5 giờ.
+2 Bây giờ là mấy giờ?	5 giờ	1
+1 Bây giờ là 6 giờ.
+2 Bây giờ là mấy giờ?	6 giờ	1
+1 Bây giờ là 7 giờ.
+2 Bây giờ là mấy giờ?	7 giờ	1
+1 Bây giờ là 8 giờ.
+2 Bây giờ là mấy giờ?	8 giờ	1
+1 Bây giờ là 9 giờ.
+2 Bây giờ là mấy giờ?	9 giờ	1
+1 Bây giờ là 10 giờ.
+2 Bây giờ là mấy giờ?	10 giờ	1
+1 Bây giờ là 11 giờ.
+2 Bây giờ là mấy giờ?	11 giờ	1
+1 Bây giờ là 12 giờ.
+2 Bây giờ là mấy giờ?	12 giờ	1
+1 Bây giờ là 13 giờ.
+2 Bây giờ là mấy giờ?	13 giờ	1
+1 Bây giờ là 14 giờ.
+2 Bây giờ là mấy giờ?	14 giờ	1
+1 Bây giờ là 15 giờ.
+2 Bây giờ là mấy giờ?	15 giờ	1
+1 Bây giờ là 16 giờ.
+2 Bây giờ là mấy giờ?	16 giờ	1
+1 Bây giờ là 17 giờ.
+2 Bây giờ là mấy giờ?	17 giờ	1
+1 Bây giờ là 18 giờ.
+2 Bây giờ là mấy giờ?	18 giờ	1
+1 Bây giờ là 19 giờ.
+2 Bây giờ là mấy giờ?	19 giờ	1
+1 Bây giờ là 20 giờ.
+2 Bây giờ là mấy giờ?	20 giờ	1
+1 Bây giờ là 21 giờ.
+2 Bây giờ là mấy giờ?	21 giờ	1
+1 Bây giờ là 22 giờ.
+2 Bây giờ là mấy giờ?	22 giờ	1
+1 Bây giờ là 23 giờ.
+2 Bây giờ là mấy giờ?	23 giờ	1
