@@ -4,7 +4,7 @@ import numpy as np
 import re
 from keras.preprocessing.sequence import pad_sequences
 from tools import tokenize
-from ranking import ranking
+from ranking import ranking_stories
 
 
 def load_document(path):
@@ -54,10 +54,14 @@ if __name__ == '__main__':
         model_context_path.format('class'))
 
     answer_models = []
+    # (word2idx,story_maxlen,query_maxlen,idx2word)
     answer_model_contexts = []
     for i in range(number_of_document):
         answer_models.append(load_model(model_path.format(i)))
-        answer_model_contexts.append(np.load(model_context_path.format(i)))
+        [word2idx, story_maxlen, query_maxlen] = np.load(
+            model_context_path.format(i))
+        answer_model_contexts.append((word2idx, story_maxlen, query_maxlen, dict([
+                                     (v, k) for k, v in word2idx.items()])))
 
     docs = load_documents(data_path, number_of_document)
 
@@ -77,7 +81,7 @@ if __name__ == '__main__':
                 vectors.append(word2idx[w])
         return vectors
 
-    def toWord(idx, idx2word):
+    def toWord(idx2word, idx):
         return idx2word[idx]
 
     def predict(query):
@@ -86,18 +90,16 @@ if __name__ == '__main__':
 
         doc_id = np.argmax(class_model.predict(pad_sequences(
             [toVec(class_model_context[0], query)], class_model_context[1]), 32))
-        return doc_id
-        # ranked_documents = ranking(document, query)
-        # # print('ranking:', ranked_documents)
-        # corpus = max(ranked_documents.keys(), key=(
-        #     lambda k: ranked_documents[k]))
-        # corpus = tokenize(corpus)
-        # print('corpus:', corpus)
+        print('answer_type:{}'.format(doc_id))
 
-        # input = [pad_sequences([toVec(corpus)], story_maxlen), pad_sequences(
-        #     [toVec(query)], query_maxlen)]
-        # output = model.predict(input, 32)
-        # return toWord(np.argmax(output))
+        ranked_stories = ranking_stories(query, docs[doc_id], doc_id)
+        story = tokenize(ranked_stories[0])
+        print('story:', story)
+
+        input = [pad_sequences([toVec(answer_model_contexts[doc_id][0], story)], answer_model_contexts[doc_id][1]), pad_sequences(
+            [toVec(answer_model_contexts[doc_id][0], query)], answer_model_contexts[doc_id][2])]
+        output = answer_models[doc_id].predict(input, 32)
+        return toWord(answer_model_contexts[doc_id][3], np.argmax(output))
 
     print('Chào bạn!')
     while True:
