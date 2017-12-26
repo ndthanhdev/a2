@@ -57,7 +57,7 @@
 1 Đỉnh Everest (tên khác: đỉnh Chomolungma) là đỉnh núi cao nhất trên Trái Đất là biên giới giữa Nepal và Tây Tạng (Trung Quốc).
 2 Núi Everest ở đâu?	biên giới giữa Nepal và Tây Tạng (Trung Quốc).	1
 1 Điện Capitol Hoa Kỳ hay Tòa Quốc hội Hoa Kỳ là trụ sở của Quốc hội, cơ quan lập pháp của chính phủ liên bang Hoa Kỳ. Nó được xây tại Washington, D.C., trên đồi Capitol ở cuối phía đông của National Mall.
-2 Capitol Hill ở đâu 	Washington, D.C	1
+2 Capitol Hill ở đâu?	Washington, D.C	1
 1 Willis Tower, hay Tháp Willis, trước kia là Sears Tower, là một nhà chọc trời ở Chicago, Illinois. Tháp Willis (Willis Tower) là tòa nhà cao nhất ở Hoa Kỳ kể từ năm 1973.
 2 Willis Tower ở đâu?	Chicago	1
 1 Cầu Brooklyn là một trong những cây cầu treo lâu đời nhất Hoa Kỳ. Hoàn thành vào năm 1883, cây cầu kết nối hai khu của Thành phố New York là Manhattan và Brooklyn bị chia cắt bởi Sông East.
@@ -95,7 +95,7 @@
 1 Machu Picchu ( tức "Cổ Sơn", thỉnh thoảng được gọi là "Thành phố đã mất của người Inca") nằm trên Thung lũng Urubamba tại Peru.
 2 Machu Picchu ở đâu?	Thung lũng Urubamba, Peru	1
 1 Tượng Chúa Kitô Cứu Thế là một biểu tượng của Kitô giáo ở Brasil, trở thành một hình tượng văn hóa của cả thành phố Rio de Janeiro và quốc gia Brasil.
-2 Tượng Chúa Kitô Cứu Thế ở đâu	Rio de Janeiro, Brasil	1
+2 Tượng Chúa Kitô Cứu Thế ở đâu?	Rio de Janeiro, Brasil	1
 1 Tháp CN (tiếng Anh: CN Tower) là một ngọn tháp nổi tiếng thế giới của thành phố Toronto, bang Ontario, Canada.
 2 Tháp CN ở đâu?	Toronto, bang Ontario, Canada.	1
 1 Vườn quốc gia Grand Canyon là một khu bảo tồn ở tiểu bang Arizona, Hoa Kỳ.
@@ -105,7 +105,7 @@
 1 Burj Khalifa,  trước kia tên là Burj Dubai, là một nhà chọc trời siêu cao ở Dubai, Các Tiểu Vương quốc Ả Rập Thống nhất.
 2 Burj Khalifa ở đâu?	Dubai, Các Tiểu Vương quốc Ả Rập Thống nhất	1
 1 Cung điện và pháo đài của Nữ hoàng, tên thường gọi là Tháp Luân Đôn, là một di tích lịch sử nằm ở trung tâm Luân Đôn, Anh, trên bờ Bắc của sông Thames.
-2 Tháp Luân Đôn ở đâu	trung tâm Luân Đôn, Anh, trên bờ Bắc của sông Thames.	1
+2 Tháp Luân Đôn ở đâu?	trung tâm Luân Đôn, Anh, trên bờ Bắc của sông Thames.	1
 1 Cung điện Hoàng Gia Madrid ( Tiếng Anh: The Royal Palace of Madrid) là nơi cư trú chình thức của gia đình hoàng gia Tây Ban Nha tại thành phố Madrid, Tây Ban Nha.
 2 Cung điện Hoàng Gia Madrid ở đâu?	thành phố Madrid, Tây Ban Nha	1
 1 Mont-Saint-Michel là một xã đảo ở Normandie, Pháp.
@@ -115,7 +115,7 @@
 1 Tháp đôi Petronas, hay Petronas Twin Towers, là tên một cao ốc tại Kuala Lumpur, Malaysia.
 2 Tháp đôi Petronas ở đâu?	Kuala Lumpur, Malaysia	1
 1 Lâu đài Windsor, thuộc thị trấn Windsor tại Berkshire Anh Quốc, là lâu đài lớn nhất thế giới còn có người ở.
-2 Lâu đài Windsor ở đâu?	thị trấn Windsor tại Berkshire Anh Quốc	2
+2 Lâu đài Windsor ở đâu?	thị trấn Windsor tại Berkshire Anh Quốc	1
 1 Vương cung thánh đường Sacre Coeur (còn gọi là Nhà thờ Thánh Tâm) là một nhà thờ Công giáo nổi tiếng của Paris. Nằm trên đỉnh đồi Montmartre, thuộc Quận 18.
 2 Vương cung thánh đường Sacre Coeur ở đâu?	đỉnh đồi Montmartre, thuộc Quận 18, Pháp	1
 1 Nhà thờ Thánh Phao-lô là một nhà thờ chính tòa Anh giáo nổi tiếng tại nước Anh. Giáo đường khổng lồ này tọa lạc trên đồi Ludgate, nơi cao nhất tại thành phố Luân Đôn.
@@ -209,7 +209,7 @@
 1 Vườn quốc gia Bryce Canyon là vườn quốc gia nằm ở phía tây nam Utah, Hoa Kỳ.
 2 Vườn quốc gia Bryce Canyon ở đâu?	tây nam Utah, Hoa Kỳ	1
 1 Taiizan Kotokuin Shojosenji là một bực tượng Phật khổng lồ đặt ở thành phố Kamakura, Quận Kanagawa, Nhất Bản.
-2 Taiizan Kotokuin Shojosenji ở đâu?
+2 Taiizan Kotokuin Shojosenji ở đâu?	thành phố Kamakura, Quận Kanagawa, Nhất Bản	1
 1 One World Trade Center (Trung tâm Thương mại Thế giới Một), hay Freedom Tower (Tháp Tự Do) và là tòa nhà chính của 7 Trung tâm Thương mại Thế giới tọa lạc trên nền WTC cũ ở New York.
 2 One World Trade Center ở đâu?	New York	1
 1 Lâu đài Kronborg là một lâu đài của Đan Mạch, nằm ở thành phố Helsingør.
@@ -233,7 +233,7 @@
 1 Bàn công nhà Juliet là nơi đầu tiên du khách muốn ghé thăm khi đến thành phố Verona, Ý.
 2 Bàn công nhà Juliet ở đâu?	thành phố Verona, Ý	1
 1 Nhà thờ chính tòa Berlin hoặc Nhà thờ lớn Berlin là một nhà thờ thuộc Giáo hội Tin Lành tại Đức và nằm ở phía đông Đảo bảo tàng, Berlin.
-2 Nhà thờ chính tòa Berlin ở đâu	phía đông Đảo bảo tàng, Berlin	1
+2 Nhà thờ chính tòa Berlin ở đâu?	phía đông Đảo bảo tàng, Berlin	1
 1 Nhà thờ chính tòa Helsinki là nhà thờ chính tòa của Giáo phận Helsinki thuộc Giáo hội Tin lành Lutheran Phần Lan, tọa lạc tại khu Kruununhaka ở trung tâm Helsinki, Phần Lan.
 2 Nhà thờ chính tòa Helsinki ở đâu?	khu Kruununhaka ở trung tâm Helsinki, Phần Lan	1
 1 Vườn Tivoli( hay đơn giản là Tivoli) là một khu vui chơi giải trí và vườn thú ở Copenhagen, Đan Mạch.

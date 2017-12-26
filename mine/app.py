@@ -86,15 +86,15 @@ if __name__ == '__main__':
 
     def predict(query):
         query = tokenize(query)
-        print('query:', query)
+        print('\tquery:', query)
 
         doc_id = np.argmax(class_model.predict(pad_sequences(
             [toVec(class_model_context[0], query)], class_model_context[1]), 32))
-        print('answer_type:{}'.format(doc_id))
+        print('\tanswer_type:{}'.format(doc_id))
 
         ranked_stories = ranking_stories(query, docs[doc_id], doc_id)
         story = tokenize(ranked_stories[0])
-        print('story:', story)
+        print('\tstory:', story)
 
         input = [pad_sequences([toVec(answer_model_contexts[doc_id][0], story)], answer_model_contexts[doc_id][1]), pad_sequences(
             [toVec(answer_model_contexts[doc_id][0], query)], answer_model_contexts[doc_id][2])]
