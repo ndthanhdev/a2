@@ -89,7 +89,7 @@ if __name__ == '__main__':
     EPOCHS = 100
     print('RNN / Embed = {}, {}'.format(RNN, EMBED_HIDDEN_SIZE))
 
-    challenge = '2'
+    challenge = '0'
 
     train = get_stories(
         open('data/babi/vi/{}_train.txt'.format(challenge), encoding='utf-8'))

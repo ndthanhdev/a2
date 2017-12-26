@@ -65,13 +65,6 @@ if __name__ == '__main__':
 
     docs = load_documents(data_path, number_of_document)
 
-    # model = load_model(ouput_path.format('model.h5'))
-    # [word2idx, story_maxlen, query_maxlen] = np.load(
-    #     ouput_path.format('model_context.npy'))
-    # idx2word = dict([(v, k) for k, v in word2idx.items()])
-
-    # document = load_document(ouput_path.format('../data/babi/vi/_train.txt'))
-
     def toVec(word2idx, words):
         vectors = []
         for w in words:

@@ -12,7 +12,7 @@
 2 Tòa nhà Empire State ở đâu?	giao điểm của Đại lộ 5 và Phố 34 Wall Street Thành phố New York, Hoa Kỳ.	1
 1 Bảng hiệu Hollywood (Hollywood Sign ,trước đây được gọi là Bảng hiệu Hollywoodland) là một công trình mang tính nhận dạng và biểu tượng văn hóa Mỹ tại Los Angeles, California.
 2 Bảng hiệu Hollywood ở đâu?	Los Angeles, California, Mỹ.	1
-1 Khi được hoàn thành vào năm 1937, The Golden Gate Bridge (tiếng Anh: Golden Gate Bridge) hay Kim Môn kiều là cây cầu treo dài nhất trên thế giới, và đã trở thành một biểu tượng quốc tế của San Francisco, California, Hoa Kỳ.
+1 Khi được hoàn thành vào năm 1937, The Golden Gate Bridge (tiếng Anh: Golden Gate Bridge) hay Kim Môn kiều là cây cầu treo dài nhất trên thế giới của San Francisco, California, Hoa Kỳ.
 2 Cầu Cổng Vàng ở đâu?	San Francisco, California, Hoa Kỳ	1
 1 Nhà thờ Đức Bà Paris là một nhà thờ Công giáo tiêu biểu cho phong cách kiến trúc gothic trên đảo Île de la Cité (nằm giữa dòng sông Seine) của Paris.
 2 Nhà thờ Đức Bà Paris ở đâu?	đảo Île de la Cité (nằm giữa dòng sông Seine) của Paris.	1
@@ -36,7 +36,7 @@
 2 Nhà thờ chính tòa Thánh Vasily Hiển phúc ở đâu?	Quảng trường Đỏ, Moskva.	1
 1 Khải Hoàn Môn hay đúng hơn Bắc đẩu Khải hoàn môn (tiếng Anh: Arc de Triomphe ) là một công trình ở Paris, Pháp.
 2 Khải Hoàn Môn ở đâu?	Paris, Pháp	1
-1 Bức tường Berlin từng được Chính phủ Cộng hòa Dân chủ Đức gọi là "Tường thành bảo vệ chống phát xít" bị người dân Cộng hoà Liên bang Đức gọi là "Bức tường ô nhục" chia cắt phần Tây Berlin với phần phía đông của thành phố.
+1 Bức tường Berlin từng được gọi là "Tường thành bảo vệ chống phát xít", "Bức tường ô nhục" chia cắt phần Tây Berlin với phần phía đông của thành phố.
 2 Bức tường Berlin ở đâu?	Berlin, Đức	1
 1 Stonehenge là một công trình tượng đài cự thạch thời kỳ đồ đá mới và thời kỳ đồ đồng gần Amesbury ở Anh, thuộc hạt Wiltshire, 13 km về phía bắc Salisbury.
 2 Stonehenge ở đâu?	Amesbury, Salisbury, Vương Quốc Anh	1
@@ -48,7 +48,7 @@
 2 Taj Mahal ở đâu?	Agra, Ấn Độ	1
 1 Khu lăng mộ Giza hay Giza Necropolis nằm tại cao nguyên Giza, ngoại ô Cairo, Ai Cập.
 2 Kim tự tháp Giza ở đâu?	ngoại ô Cairo, Ai Cập	1
-1 Tượng Nhân sư lớn ở Giza, thường được biết đến với tên gọi tượng Nhân sư, là một bức tượng làm bằng đá vôi hình một con nhân sư nằm ở cao nguyên Giza, trên tả ngạn sông Nile tại Giza, Ai Cập.
+1 Tượng Nhân sư lớn ở Giza, thường được gọi tượng Nhân sư, là một bức tượng hình một con nhân sư nằm ở cao nguyên Giza, trên tả ngạn sông Nile tại Giza, Ai Cập.
 2 Tượng Nhân sư ở đâu?	Giza, Ai Cập.	1
 1 Cầu Tháp Luân Đôn (tiếng Anh: Tower Bridge) là một công trình kết hợp cầu treo với cầu nâng bắc qua sông Thames tại Luân Đôn.
 2 Cầu Tháp Luân Đôn ở đâu?	bắc qua sông Thames tại Luân Đôn.	1
@@ -56,11 +56,11 @@
 2 Tử Cấm thành ở đâu?	Bắc Kinh, Trung Quốc	1
 1 Đỉnh Everest (tên khác: đỉnh Chomolungma) là đỉnh núi cao nhất trên Trái Đất là biên giới giữa Nepal và Tây Tạng (Trung Quốc).
 2 Núi Everest ở đâu?	biên giới giữa Nepal và Tây Tạng (Trung Quốc).	1
-1 Điện Capitol Hoa Kỳ hay Tòa Quốc hội Hoa Kỳ là trụ sở của Quốc hội, cơ quan lập pháp của chính phủ liên bang Hoa Kỳ. Nó được xây tại Washington, D.C., trên đồi Capitol ở cuối phía đông của National Mall.
+1 Điện Capitol Hoa Kỳ hay Tòa Quốc hội Hoa Kỳ là trụ sở của Quốc hội, cơ quan lập pháp của chính phủ liên bang Hoa Kỳ. Nó được xây tại Washington, D.C.
 2 Capitol Hill ở đâu?	Washington, D.C	1
 1 Willis Tower, hay Tháp Willis, trước kia là Sears Tower, là một nhà chọc trời ở Chicago, Illinois. Tháp Willis (Willis Tower) là tòa nhà cao nhất ở Hoa Kỳ kể từ năm 1973.
 2 Willis Tower ở đâu?	Chicago	1
-1 Cầu Brooklyn là một trong những cây cầu treo lâu đời nhất Hoa Kỳ. Hoàn thành vào năm 1883, cây cầu kết nối hai khu của Thành phố New York là Manhattan và Brooklyn bị chia cắt bởi Sông East.
+1 Cầu Brooklyn là một trong những cây cầu treo lâu đời nhất Hoa Kỳ. Cây cầu kết nối hai khu của Thành phố New York là Manhattan và Brooklyn bị chia cắt bởi Sông East.
 2 Cầu Brooklyn ở đâu?	Thành phố New York	1
 1 Burj Al Arab là một khách sạn hạng sang ở Dubai, thành phố lớn thứ hai sau thủ đô Abu Ahabi của Các Tiểu vương quốc Ả Rập Thống nhất (United Arab Emirates) 
 2 khách sạn Burj Al Arab ở đâu?	Các Tiểu vương quốc Ả Rập Thống nhất	1
@@ -72,7 +72,7 @@
 2 Tháp chuông St Mark ở đâu?	Nhà thờ St. Mark, Venice	1
 1 Quảng trường Thời đại (Times Square) là một giao lộ chính ở Manhattan, nối Đại lộ Broadway và Đại lộ Số bảy, kéo dài từ Đường 42 Tây đến Đường 47 Tây, New York.
 2 Quảng trường Thời đại ở đâu?	New York	1
-1 Nhà Trắng (tiếng Anh: White House, cũng được dịch là Bạch Ốc hay Bạch Cung), Nhà Trắng là một biệt thự sơn màu trắng và được xây bằng sa thạch theo kiểu tân cổ điển, số nhà 1600 Đại lộ Pennsylvania NW tại Washington, D.C.
+1 Nhà Trắng (tiếng Anh: White House, cũng được dịch là Bạch Ốc hay Bạch Cung), số nhà 1600 Đại lộ Pennsylvania NW tại Washington, D.C.
 2 Nhà Trắng ở đâu?	1600 Đại lộ Pennsylvania NW tại Washington, D.C	1
 1 Viện bảo tàng Louvre là một viện bảo tàng nghệ thuật và lịch sử nằm tại Quận 1, thành phố Paris, nước Pháp.
 2 Viện bảo tàng Louvre ở đâu?	Quận 1, thành phố Paris, nước Pháp.	1
@@ -90,7 +90,7 @@
 2 Làng Pompeii ở đâu?	Napoli, Italia	1
 1 Cattedrale di Santa Maria del Fiore( "Nhà thờ Thánh Maria Bách hoa") là nhà thờ chính của Firenze, Italia.
 2 Florence Cathedral ở đâu?	Firenze, Italia	1
-1 Lâu đài Edinburgh là một tòa lâu đài mà trong lịch sử là pháo đài hoàng gia chính của Scotland, tọa lạc trên Castle Rock, một vùng đá núi lửa rộng lớn vươn lên một cách ấn tượng giữa thành phố Edinburgh.
+1 Lâu đài Edinburgh trong lịch sử là pháo đài hoàng gia chính của Scotland, tọa lạc trên Castle Rock, giữa thành phố Edinburgh.
 2 Lâu đài Edinburgh ở đâu?	Edinburgh, Scotland	1
 1 Machu Picchu ( tức "Cổ Sơn", thỉnh thoảng được gọi là "Thành phố đã mất của người Inca") nằm trên Thung lũng Urubamba tại Peru.
 2 Machu Picchu ở đâu?	Thung lũng Urubamba, Peru	1
@@ -162,7 +162,7 @@
 2 Núi Vesuvius ở đâu?	vịnh Naples, Ý	1
 1 El Castillo, còn được gọi là Đền Kukulcan, là một kim tự tháp Trung Mỹ chiếm lĩnh vùng trung tâm của khu di tích Chichen Itza ở bang Yucatán, México.
 2 El Castillo ở đâu?	bang Yucatán, México	1
-1 Cloud Gate là một tác phẩm điêu khắc bởi nghệ sĩ Anh gốc Ấn Độ Sir Anish Kapoor, đó là trung tâm của AT & T Plaza tại Công viên Thiên niên kỷ ở khu vực cộng đồng Loop của Chicago, Illinois.
+1 Cloud Gate là một tác phẩm điêu khắc, đó là trung tâm của AT & T Plaza tại Công viên Thiên niên kỷ ở khu vực cộng đồng Loop của Chicago, Illinois.
 2 Cloud Gate ở đâu?	khu vực cộng đồng Loop của Chicago, Illinois	1
 1 Angkor Wat là một quần thể đền đài tại Campuchia và là di tích tôn giáo lớn nhất thế giới, rộng 162.6 hecta (1,626,000 mét vuông).
 2 Angkor Wat ở đâu?	Campuchia	1
@@ -198,7 +198,7 @@
 2 Các bậc thang Tây Ban Nha ở đâu?	Rôma, Ý	1
 1 Cầu Than thở nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý.
 2 Cầu Than thở ở đâu?	nằm giữa Dinh Tổng trấn và nhà giam cũ trong thành phố Venezia, Ý	1
-1 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou, Trung tâm Georges-Pompidou, Trung tâm Pompidou hay Trung tâm Beaubourg là một trung tâm văn hóa và bảo tàng lớn nằm ở khu Beaubourg thuộc quận 4, Paris, Pháp.
+1 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou, Trung tâm Georges-Pompidou, Trung tâm Pompidou hay Trung tâm Beaubourg ở khu Beaubourg thuộc quận 4, Paris, Pháp.
 2 Trung tâm nghệ thuật và văn hóa quốc gia Georges-Pompidou ở đâu?	khu Beaubourg thuộc quận 4, Paris, Pháp	1
 1 Di Hòa Viên (The Summer Palace) ở Bắc Kinh, Trung Quốc.
 2 Di Hòa Viên ở đâu?	Bắc Kinh, Trung Quốc	1
@@ -210,7 +210,7 @@
 2 Vườn quốc gia Bryce Canyon ở đâu?	tây nam Utah, Hoa Kỳ	1
 1 Taiizan Kotokuin Shojosenji là một bực tượng Phật khổng lồ đặt ở thành phố Kamakura, Quận Kanagawa, Nhất Bản.
 2 Taiizan Kotokuin Shojosenji ở đâu?	thành phố Kamakura, Quận Kanagawa, Nhất Bản	1
-1 One World Trade Center (Trung tâm Thương mại Thế giới Một), hay Freedom Tower (Tháp Tự Do) và là tòa nhà chính của 7 Trung tâm Thương mại Thế giới tọa lạc trên nền WTC cũ ở New York.
+1 One World Trade Center (Trung tâm Thương mại Thế giới Một), hay Freedom Tower (Tháp Tự Do) tọa lạc trên nền WTC cũ ở New York.
 2 One World Trade Center ở đâu?	New York	1
 1 Lâu đài Kronborg là một lâu đài của Đan Mạch, nằm ở thành phố Helsingør.
 2 Lâu Đài Kroborg ở đâu?	thành phố Helsingør, Đan Mạch	1
