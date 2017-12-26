@@ -3,13 +3,13 @@ from keras.models import Model, load_model
 import numpy as np
 import re
 from keras.preprocessing.sequence import pad_sequences
-from babi_rnn_vi import tokenize
+from tools import tokenize
 from ranking import ranking
 
 
-def loadDocuments(path):
+def load_document(path):
     lines = open(path, encoding='utf-8').readlines()
-    docs=[]
+    docs = []
     for line in lines:
         line = line.strip()
         nid, line = line.split(' ', 1)
@@ -18,17 +18,32 @@ def loadDocuments(path):
             docs.append(line)
     return docs
 
+
 if __name__ == '__main__':
 
+    number_of_document = 2
     source = "outputs/{}"
+    model_path = source.format('{}_model.h5')
+    model_context_path = source.format('{}_model_context.npy')
 
     print('Loading...')
+
+    class_model = load_model(model_path.format('class'))
+    class_model_context = np.load(
+        model_context_path.format('class'))
+
+    answer_models = []
+    answer_model_contexts = []
+    for i in range(number_of_document):
+        answer_models.append(load_model(model_path.format(i)))
+        answer_model_contexts.append(np.load(model_context_path.format(i)))
+
     model = load_model(source.format('model.h5'))
     [word2idx, story_maxlen, query_maxlen] = np.load(
         source.format('model_context.npy'))
     idx2word = dict([(v, k) for k, v in word2idx.items()])
 
-    documents = loadDocuments(source.format('../data/babi/vi/_train.txt'))
+    document = load_document(source.format('../data/babi/vi/_train.txt'))
 
     def toVec(words):
         vectors = []
@@ -46,7 +61,7 @@ if __name__ == '__main__':
         query = tokenize(query)
         print('query:', query)
 
-        ranked_documents = ranking(documents, query)
+        ranked_documents = ranking(document, query)
         # print('ranking:', ranked_documents)
         corpus = max(ranked_documents.keys(), key=(
             lambda k: ranked_documents[k]))
@@ -66,3 +81,5 @@ if __name__ == '__main__':
             exit()
         elif '?' in temp:
             print('Bot: ', predict(temp))
+
+    str(input('You: '))
