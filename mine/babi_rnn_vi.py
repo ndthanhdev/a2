@@ -12,16 +12,7 @@ from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import plot_model
-
-import vnTokenizer
-
-
-def tokenize(sent):
-    '''Return the tokens of a sentence including punctuation.
-    >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['bob', 'dropped', 'the', 'apple', '.', 'where', 'is', 'the', 'apple', '?']
-    '''
-    return [x.strip().lower() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
+from tools import tokenize
 
 
 def parse_stories(lines, only_supporting=False):
@@ -93,14 +84,9 @@ if __name__ == '__main__':
 
     RNN = recurrent.LSTM
     EMBED_HIDDEN_SIZE = 300
-    SENT_HIDDEN_SIZE = 100
-    QUERY_HIDDEN_SIZE = 100
     BATCH_SIZE = 32
     EPOCHS = 100
-    print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
-                                                               EMBED_HIDDEN_SIZE,
-                                                               SENT_HIDDEN_SIZE,
-                                                               QUERY_HIDDEN_SIZE))
+    print('RNN / Embed = {}, {}'.format(RNN, EMBED_HIDDEN_SIZE))
 
     challenge = '2'
 

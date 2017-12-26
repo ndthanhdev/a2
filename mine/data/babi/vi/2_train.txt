@@ -1,11 +1,11 @@
 1 Bây giờ là 0 giờ.
 2 Bây giờ là mấy giờ?	0 giờ	1
 1 Bây giờ là 1 giờ.
-2 Bây giờ là mấy giờ?	1 giờ	1
-1 Hiện tại là 2 giờ.
+2 Hiện tại là mấy giờ?	1 giờ	1
+1 Bây giờ là 2 giờ.
 2 Bây giờ là mấy giờ?	2 giờ	1
-1 Hiện tại là 3 giờ.
-2 Bây giờ là mấy giờ?	3 giờ	1
+1 Bây giờ là 3 giờ.
+2 Hiện tại là mấy giờ?	3 giờ	1
 1 Bây giờ là 4 giờ.
 2 Bây giờ là mấy giờ?	4 giờ	1
 1 Bây giờ là 5 giờ.
