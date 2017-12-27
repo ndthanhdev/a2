@@ -9,9 +9,14 @@ def score_base(query, story):
         query: list of token
         story: str story
     '''
+
+    stop_word = ['ở', 'đâu', '?']
+    focus = [w for w in query if w not in stop_word]
+
     total = 0
     tokenized_story = tokenize(story)
-    for token in query:
+
+    for token in focus:
         total += tokenized_story.count(token)
     return total
 
@@ -20,6 +25,7 @@ def score_time(query, story):
     now = datetime.datetime.now()
     tokenized_story = tokenize(story)
     return tokenized_story.count(str(now.hour))
+
 
 def score(query, story, answer_type=None):
     '''
