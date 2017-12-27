@@ -6,8 +6,11 @@ tokenizer = gateway.entry_point.getTokenizer()
 
 def tokenize(text, turn_on_sentence_detection=False):
     '''
-        strip
-        '',['','']
+        Tokenizing Vietnamese document
+        >>> tokenize('vnTokenizer được viết bởi thầy Lê Hồng Phương bằng Java. Chạy được trên Python do Thanh sử dụng Py4j.',turn_on_sentence_detection=False)
+        'vnTokenizer được viết bởi thầy Lê_Hồng_Phương bằng Java . Chạy được trên Python do Thanh sử_dụng Py4j .'
+        >>> tokenize('vnTokenizer được viết bởi thầy Lê Hồng Phương bằng Java. Chạy được trên Python do Thanh sử dụng Py4j.',turn_on_sentence_detection=True)
+        ['vnTokenizer được viết bởi thầy Lê_Hồng_Phương bằng Java .', 'Chạy được trên Python do Thanh sử_dụng Py4j .']
     '''
     if turn_on_sentence_detection:
         tokenizer.turnOnSentenceDetection()
