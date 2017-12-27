@@ -11,16 +11,9 @@ from keras import layers
 from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
+from keras.utils import plot_model
 
-import vnTokenizer
-
-
-def tokenize(sent):
-    '''Return the tokens of a sentence including punctuation.
-    >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
-    '''
-    return [x.strip().lower() for x in vnTokenizer.tokenize(sent).split() if x.strip()]
+from tools import tokenize
 
 
 def parse_stories(lines, only_supporting=False):
@@ -32,13 +25,13 @@ def parse_stories(lines, only_supporting=False):
     data = []
     story = []
     for line in lines:
-        # line = line.decode('utf-8').strip()
         line = line.strip()
         nid, line = line.split(' ', 1)
         nid = int(nid.replace('\ufeff', ''))
         if nid == 1:
             story = []
         if '\t' in line:
+            print(line)
             q, a, supporting = line.split('\t')
             q = tokenize(q)
             substory = None
@@ -91,52 +84,28 @@ def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
 if __name__ == '__main__':
 
     RNN = recurrent.LSTM
-    EMBED_HIDDEN_SIZE = 50
-    SENT_HIDDEN_SIZE = 100
-    QUERY_HIDDEN_SIZE = 100
+    EMBED_HIDDEN_SIZE = 300
     BATCH_SIZE = 32
-    EPOCHS = 40
-    print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
-                                                               EMBED_HIDDEN_SIZE,
-                                                               SENT_HIDDEN_SIZE,
-                                                               QUERY_HIDDEN_SIZE))
-    # try:
-    #     path = get_file('babi-tasks-v1-2.tar.gz', origin='https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz')
-    # except:
-    #     print('Error downloading dataset, please download it manually:\n'
-    #           '$ wget http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz\n'
-    #           '$ mv tasks_1-20_v1-2.tar.gz ~/.keras/datasets/babi-tasks-v1-2.tar.gz')
-    # raise
-    # tar = tarfile.open(path)
-    # Default QA1 with 1000 samples
-    # challenge = 'tasks_1-20_v1-2/en/qa1_single-supporting-fact_{}.txt'
-    # QA1 with 10,000 samples
-    # challenge = 'tasks_1-20_v1-2/en-10k/qa1_single-supporting-fact_{}.txt'
-    # QA2 with 1000 samples
-    # challenge = 'tasks_1-20_v1-2/en/qa2_two-supporting-facts_{}.txt'
-    # challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    challenge = 'data/babi/vi/qa1_single-supporting-fact_{}.txt'
-    # challenge = 'data/babi/vi/qa12_conjunction_{}.txt'
-    # QA2 with 10,000 samples
-    # challenge = 'tasks_1-20_v1-2/en-10k/qa2_two-supporting-facts_{}.txt'
-    # train = get_stories(tar.extractfile(challenge.format('train')))
-    train = get_stories(open(challenge.format('train'), encoding='utf-8'))
-    # test = get_stories(tar.extractfile(challenge.format('test')))
-    test = get_stories(open(challenge.format('test'), encoding='utf-8'))
+    EPOCHS = 100
+    print('RNN / Embed = {}, {}'.format(RNN, EMBED_HIDDEN_SIZE))
+
+    challenge = '0'
+
+    train = get_stories(
+        open('data/babi/vi/{}_train.txt'.format(challenge), encoding='utf-8'))
 
     vocab = set()
-    for story, q, answer in train + test:
+    for story, q, answer in train:
         vocab |= set(story + q + [answer])
     vocab = sorted(vocab)
 
     # Reserve 0 for masking via pad_sequences
     vocab_size = len(vocab) + 1
     word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
-    story_maxlen = max(map(len, (x for x, _, _ in train + test)))
-    query_maxlen = max(map(len, (x for _, x, _ in train + test)))
+    story_maxlen = max(map(len, (x for x, _, _ in train)))
+    query_maxlen = max(map(len, (x for _, x, _ in train)))
 
     x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
-    tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
     print('vocab = {}'.format(vocab))
     print('x.shape = {}'.format(x.shape))
@@ -165,20 +134,28 @@ if __name__ == '__main__':
     preds = layers.Dense(vocab_size, activation='softmax')(merged)
 
     model = Model([sentence, question], preds)
+
     model.compile(optimizer='adam',
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
 
+    # plot model
+    plot_model(model, to_file='babi_rnn_model.png')
+
     print('Training')
-    model.fit([x, xq], y,
-              batch_size=BATCH_SIZE,
-              epochs=EPOCHS,
-              validation_split=0.05)
-    loss, acc = model.evaluate([tx, txq], ty,
-                               batch_size=BATCH_SIZE)
-    print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
+
+    ch = 'y'
+    while True:
+        if ch == 'y':
+            model.fit([x, xq], y,
+                      batch_size=BATCH_SIZE,
+                      epochs=EPOCHS,
+                      validation_split=0.0)
+        elif ch == 'n':
+            break
+        ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()
 
     print('Saving model')
-    model.save('outputs/babi.h5')
-    np.save('outputs/model_context.npy',
+    model.save('outputs/{}_model.h5'.format(challenge))
+    np.save('outputs/{}_model_context.npy'.format(challenge),
             [word_idx, story_maxlen, query_maxlen])
