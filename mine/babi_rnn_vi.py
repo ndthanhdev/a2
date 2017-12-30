@@ -89,7 +89,7 @@ if __name__ == '__main__':
     EPOCHS = 100
     print('RNN / Embed = {}, {}'.format(RNN, EMBED_HIDDEN_SIZE))
 
-    challenge = '0'
+    challenge = '1'
 
     train = get_stories(
         open('data/babi/vi/{}_train.txt'.format(challenge), encoding='utf-8'))
@@ -155,7 +155,9 @@ if __name__ == '__main__':
             break
         ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()
 
+    model.summary()
+
     print('Saving model')
     model.save('outputs/{}_model.h5'.format(challenge))
     np.save('outputs/{}_model_context.npy'.format(challenge),
-            [word_idx, story_maxlen, query_maxlen])
+            [word_idx, story_maxlen, query_maxlen])    
