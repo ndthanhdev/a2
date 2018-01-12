@@ -1,0 +1,8 @@
+1 John đi đến hành lang.
+2 John ở đâu? 	 Hành lang	 1
+1 Mary đi đến phòng tắm.
+2 Mary ở đâu? 	 Phòng tắm	 1
+1 Daniel trở lại vườn.
+2 Daniel ở đâu? 	 Vườn	 1
+1 Sandra đi đến nhà bếp.
+2 Sandra ở đâu? 	 Bếp	 1

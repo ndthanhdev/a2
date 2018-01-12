@@ -1,0 +1,87 @@
+﻿1 Cơ thể chúng ta có hàng nghìn tỷ tế bào và mỗi tế bào đều phải được dẫn máu đến.
+2 Nếu nối các mạch máu của bạn lại với nhau thì chúng sẽ có độ dài là 60.000 dặm, tương đương với 96.500 km.
+3 Nếu nối các mạch máu của bạn lại với nhau thì chúng sẽ có độ dài là bao nhiêu?	là 60.000 dặm, tương đương với 96.500 km	2
+4 Trong trường hợp nói thì thầm, chúng ta không làm cho dây thanh âm rung lên.
+5 Người ta có thể nói chuyện mà không làm rung dây thanh âm được không?	Có	4
+6 Đời sống trung bình của một sợi tóc là 2-8 năm.
+7 Trong khi đó, lông mi và lông mày chỉ sống được vài tháng.
+8 Lông, tóc loại nào có đời sống dài hơn?	Tóc	6 7
+9 Lông mi sống được bao lâu?	Vài tháng	7
+10 Tóc sống được bao lâu?	2-8 năm	6
+11 Móng của ngón giữa mọc nhanh hơn cả.
+12 Thông thường người có ngón tay càng dài thì móng tay mọc càng nhanh (trung bình là 3,75 cm/năm).
+13 Có một điều lạ lùng hơn nữa là nếu bạn dùng răng cắn móng tay thì chúng sẽ mọc nhanh hơn 20% so với cách cắt móng tay thông thường.	
+14 Trên bàn tay của chúng ta, móng của ngón tay nào mọc nhanh nhất?	Móng của ngón giữa	11
+15 Người Triều Tiên dưới da họ có ít tuyến mùi hơn bất kỳ nhóm người nào khác trên thế giới.
+16 Người nước nào có ít mùi trên cơ thể nhất?	Triều Tiên	15
+17 Phần da ở lòng bàn tay và lòng bàn chân dày tới 4 mm và đây là vùng da dày nhất trên cơ thể con người.
+18 Khu vực này cũng là nơi tập trung tuyến mồ hôi nhiều nhất so với các vùng cơ thể khác.
+19 Vì thế để hạn chế ra mùi ở chân các bạn nhớ rửa chân thật sạch hàng ngày nhé!
+20 Da ở đâu dày nhất cơ thể nhỉ?	Phần da ở lòng bàn tay và lòng bàn chân	17
+21 Tác dụng của lông mày là bảo vệ mắt.
+22 Nó giống như con đê, chắn mồ hôi và nước mưa chảy từ trán xuống.
+23 Cũng có thể như cánh rừng bảo hộ, đỡ không cho bụi rơi vào mắt.
+24 Lông mi ở phía trên và dưới mắt giống như hai bức rèm cửa sổ để bảo vệ con mắt kiều diễm.
+25 Tác dụng lớn nhất của nó là giúp mắt khỏi bị ánh sáng quá mạnh chiếu vào, đồng thời ngăn bụi rơi vào mắt.
+26 Nếu mất đi lông mày thì mồ hôi, nước mưa và bụi từ phía trán sẽ rơi xuống, khiến mắt bị viêm, mạchmáu sưng lên.
+27 Việc nhổ lông mày gây kích thích da, khiến lỗ chân lông mở ra, vi khuẩn có thể thừa cơ xâm nhập, gây viêm.
+28 Tác dụng của lông mày?	bảo vệ mắt	21 22 23
+29 Tác dụng của lông mi?	giúp mắt khỏi bị ánh sáng quá mạnh chiếu vào, đồng thời ngăn bụi rơi vào mắt	24 25
+30 Trong cơ thể ta có tất cả 206 xương to nhỏ, hình dạng khác nhau, kết hợp khéo léo với nhau thành hệ thống giá đỡ kiên cố và hoàn chỉnh	
+31 Cơ thể người có bao nhiêu xương?	tất cả 206 xương to nhỏ, hình dạng khác nhau	30
+32 Hằng ngày, ta thở liên tục để hít khí ôxy và bài tiết khí CO2.
+33 Quá trình trao đổi khí giữa cơ thể và môi trường gọi là thở.
+34 Hệ thống hô hấp được cấu thành bởi đường hô hấp (gồm lỗ mũi, yết, hầu, khíquản, khí quản nhánh) và phổi.
+35 Con người hít khí gì?	khí ôxy	32
+36 Lông trong mũi cũng có tác dụng ngăn cản bụi.
+37 Như vậy, đại bộ phận bụi bặm, các hạt nhỏ và vi khuẩn từ bên ngoài đều bị giữ lại ở mũi. 
+38 Lông mũi có tác dụng gi?	ngăn cản bụi	36
+39 Thực phẩm mà ta ăn vào trước hết phải qua miệng và thực quản, sau đó đi vào dạ dày - bộ phận lớn nhất của đường tiêu hóa.
+40 Dạ dày giống như một cái túi, là một trong những cơ quan chủ yếu để tiêu hóa thức ăn.
+41 Nó co bóp để nghiền nát thức ăn.
+42 Chức năng của dạ dày là gì?	tiêu hóa thức ăn	40
+43 Dạ dày tiêu hóa thức năng bằng cách gì?	co bóp nghiền nát thức ăn	41
+44 Dịch tiêu hóa bao gồm nước bọt, dịch vị và dịch ruột.
+45 Những loại dịch này lúc nào cũng có nhưng chỉ được tiết ra nhiều khi chuẩn bị ăn.
+46 Để sản xuất dịch tiêu hóa, cơ thể cần có thời gian. 
+47 Dịch tiêu hóa gồm những gì?	nước bọt, dịch vị và dịch ruột	44
+48 Rượu rõ ràng là chất kích thích mạnh, có hại rất lớn cho các nội tạng, đặc biệt là gan và dạ dày.
+49 Nếu trẻ em uống rượu, gan phải làm việc nhiều hơn để giải trừ chất độc trong rượu (bằng cách chuyển cồn thành men amoni), khiến cho tế bào gan bị tổn thương.
+50 Việc uống rượu còn có hại cho dạ dày của trẻ. 
+51 Trẻ em bị tổn hại gì khi uống rượu?	dạ dày, gan	48 49 50
+52 Theo phân tích của các nhà khoa học, gan có thể thực hiện 500 loại công việc vì nó sản xuất được nhiều loại men.
+53 Trong cơ thể có khoảng 2.000 loại men, riêng gan đã sản xuất gần 1.000 loại.
+54 Gan có rất nhiều công năng, trong đó 3 công năng chính là giải độc, tàng trữ chất dinh dưỡng và chế tạo dịch mật.
+55 Chức năng của gan là gì?	giải độc, tàng trữ chất dinh dưỡng và chế tạo dịch mật	54
+56 Nước tiểu của người được trữ lại trong bàng quang.
+57 Khi tích tụ đến một lượng nhất định, bàng quang sẽ căng lên, điều này được các dây thần kinh truyền lên đại não, khiến ta có cảm giác buồn đi tiểu.
+58 Việc nín tiểu tiện không những gây khó chịu mà còn khiến cho các cơ của bàng quang giãn ra, ảnh hưởng đến công năng co bóp của cơ quan này, làm giảm lực bài tiết nước tiểu, dẫn đến đi tiểu không kiệt.
+59 Nước tiểu được dự trử ở đâu?	bàng quang	56
+60 Hai quả thận nằm hai bên cột sống ở sau thắt lưng, mỗi bên một quả to bằng nắm đấm, hình dạng giống với hạt đậu tằm.
+61 Kết cấu của quả thận gồm bộ phận sinh nước tiểu (nhu mô thận) và bộ phận bài tiết nước tiểu (bể thận).
+62 Nhu mô thận gồm các tiểu cầu thận và các ống.
+63 Khi đi qua tiểu cầu thận, máu được lọc một lượt các chất phế thải trong máu và phần nước thừa được đưa vào các ống nhỏ, đó chính là nước tiểu.
+64 Nước tiểu được tập trung đến bể thận rồi theo niệu quản đi xuống bàng quang.
+65 Thận nằm ở đâu trong cơ thể người?	nằm hai bên cột sống ở sau thắt lưng	60
+66 Cấu tạo nhu mô thân gồm những gì?	các tiểu cầu thận và các ống	62
+67 Nước tiểu tập trung ở đâu?	bể thận	64
+68 Lá lách nằm ở bên phải phía trên bụng, màu đỏ thẫm. 
+69 Lá lách nằm ở đâu?	bên phải phía trên bụng	68
+69 Lá lách có màu gì?	màu đỏ thẫm	68
+70 Răng mọc lần đầu tiên gọi là răng sữa, gồm 20 cái, xuất hiện khi trẻ còn bú mẹ nên gọi là răng sữa.
+71 Chúng nhỏ và không bền.
+72 Răng mọc lần thứ hai là răng cố định. Nó bắt đầu thay thế răng sữa từ khi 6 tuổi. 
+73 Răng mọc mấy lần?	hai lần	70 72
+74 Răng sửa gồm bao nhiêu cái?	20 cái	70
+75 Răng sữa và răng cố định có công năng hoàn toàn khác nhau.
+76 Răng sữa ngoài việc nhai thức ăn còn có thể kích thích cho xương quai hàm phát triển, tạo điều kiện cho răng cố định sinh trưởng; còn răng cố định chủ yếu dùng để nhai thức ăn.
+77 Nếu răng sữa bị sâu hoặc rụng quá sớm thì xương lợi sẽ phát triển không tốt, răng cố định cũng mọc không tốt.
+78 Điều đó chẳng những ảnh hưởng đến chức năng nhai mà còn dễ dẫn đến các bệnh về răng.
+79 Chức năng của răng sửa?	nhai thức ăn còn có thể kích thích cho xương quai hàm phát triển	76
+80 Mùa đông, nếu đi ngoài đường, ta thường bị mũi đỏ bầm, tai đau, tay tê dại, nhưng con mắt tuy lộ rangoài lại không cảm thấy lạnh.	
+81 Đó là vì trên mắt chỉ có các dây thần kinh cảm nhận sự đau, không có thần kinh cảm nhận sự lạnh.
+82 Vì vậy, nhiệt độ dù thấp bao nhiêu, con mắt cũng vẫn không cảm thấy lạnh.
+83 Vì sao mắt không thấy lạnh?	mắt chỉ có các dây thần kinh cảm nhận sự đau, không có thần kinh cảm nhận sự lạnh	81
+84 Mũi người có hai công năng: hô hấp và nhận biết mùi.
+85 Trong cuộc sống thường ngày, vai trò của cơ quan khứu giác là không thể thiếu được.
+86 Mũi có chức năng gì?	hô hấp và nhận biết mùi	84

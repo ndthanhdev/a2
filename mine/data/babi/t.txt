@@ -1,0 +1,48 @@
+1 Bây giờ là 0 giờ.
+2 Hiện tại là mấy giờ?	0 giờ	1
+1 Bây giờ là 1 giờ.
+2 Hiện tại là mấy giờ?	1 giờ	1
+1 Bây giờ là 2 giờ.
+2 Hiện tại là mấy giờ?	2 giờ	1
+1 Bây giờ là 3 giờ.
+2 Hiện tại là mấy giờ?	3 giờ	1
+1 Bây giờ là 4 giờ.
+2 Hiện tại là mấy giờ?	4 giờ	1
+1 Bây giờ là 5 giờ.
+2 Hiện tại là mấy giờ?	5 giờ	1
+1 Bây giờ là 6 giờ.
+2 Hiện tại là mấy giờ?	6 giờ	1
+1 Bây giờ là 7 giờ.
+2 Hiện tại là mấy giờ?	7 giờ	1
+1 Bây giờ là 8 giờ.
+2 Hiện tại là mấy giờ?	8 giờ	1
+1 Bây giờ là 9 giờ.
+2 Hiện tại là mấy giờ?	9 giờ	1
+1 Bây giờ là 10 giờ.
+2 Hiện tại là mấy giờ?	10 giờ	1
+1 Bây giờ là 11 giờ.
+2 Hiện tại là mấy giờ?	11 giờ	1
+1 Bây giờ là 12 giờ.
+2 Hiện tại là mấy giờ?	12 giờ	1
+1 Bây giờ là 13 giờ.
+2 Hiện tại là mấy giờ?	13 giờ	1
+1 Bây giờ là 14 giờ.
+2 Hiện tại là mấy giờ?	14 giờ	1
+1 Bây giờ là 15 giờ.
+2 Hiện tại là mấy giờ?	15 giờ	1
+1 Bây giờ là 16 giờ.
+2 Hiện tại là mấy giờ?	16 giờ	1
+1 Bây giờ là 17 giờ.
+2 Hiện tại là mấy giờ?	17 giờ	1
+1 Bây giờ là 18 giờ.
+2 Hiện tại là mấy giờ?	18 giờ	1
+1 Bây giờ là 19 giờ.
+2 Hiện tại là mấy giờ?	19 giờ	1
+1 Bây giờ là 20 giờ.
+2 Hiện tại là mấy giờ?	20 giờ	1
+1 Bây giờ là 21 giờ.
+2 Hiện tại là mấy giờ?	21 giờ	1
+1 Bây giờ là 22 giờ.
+2 Hiện tại là mấy giờ?  22 giờ  1
+1 Bây giờ là 23 giờ.
+2 Hiện tại là mấy giờ?	23 giờ	1

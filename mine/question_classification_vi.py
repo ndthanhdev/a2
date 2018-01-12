@@ -5,7 +5,7 @@ from keras import layers
 from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
-from keras.utils import plot_model
+from keras.utils.vis_utils import plot_model
 
 from tools import tokenize
 
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
     print('RNN / Embed = {}, {}'.format(RNN, EMBED_HIDDEN_SIZE))
 
-    number_of_document = 2
+    number_of_document = 3
 
     train = get_query(number_of_document)
 
@@ -99,7 +99,7 @@ if __name__ == '__main__':
                   metrics=['accuracy'])
 
     # plot model
-    plot_model(model, to_file='class_rnn_model.png')
+    # plot_model(model, to_file='class_rnn_model.png')
 
     print('Training')
 
@@ -109,7 +109,7 @@ if __name__ == '__main__':
             model.fit(x, y,
                       batch_size=BATCH_SIZE,
                       epochs=EPOCHS,
-                      validation_split=0.0)
+                      validation_split=0.1)
         elif ch == 'n':
             break
         ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()

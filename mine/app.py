@@ -40,7 +40,7 @@ def load_documents(path, number_of_document):
 
 if __name__ == '__main__':
 
-    number_of_document = 2
+    number_of_document = 3
     ouput_path = "outputs/{}"
     model_path = ouput_path.format('{}_model.h5')
     model_context_path = ouput_path.format('{}_model_context.npy')

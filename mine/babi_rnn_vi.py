@@ -15,7 +15,6 @@ from keras.utils import plot_model
 
 from tools import tokenize
 
-
 def parse_stories(lines, only_supporting=False):
     '''Parse stories provided in the bAbi tasks format
 
@@ -140,7 +139,7 @@ if __name__ == '__main__':
                   metrics=['accuracy'])
 
     # plot model
-    plot_model(model, to_file='babi_rnn_model.png')
+    # plot_model(model, to_file='babi_rnn_model.png')
 
     print('Training')
 
@@ -150,7 +149,7 @@ if __name__ == '__main__':
             model.fit([x, xq], y,
                       batch_size=BATCH_SIZE,
                       epochs=EPOCHS,
-                      validation_split=0.0)
+                      validation_split=0.1)
         elif ch == 'n':
             break
         ch = str(input('Do you want continue train 100 Epochs?(y/n)')).strip()
